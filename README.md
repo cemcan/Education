@@ -7,6 +7,14 @@ GRE Vocab puts a new GRE word in front of you every time you pick up your phone.
 - **Origin and history** (etymology), when it helps the word stick.
 - **Three real example sentences**, quoted word for word from literature, news and speeches, each with its author, source and year.
 
+## Design
+
+Four themes (**Midnight Ink**, **Ivory Paper**, **Library Green** and **Graphite**) style the word card, every widget size and the wallpaper. Each background is drawn in code: a deep base gradient, a soft light falling from the top corner, an oversized serif monogram of the word's first letter, fine paper grain and a gentle vignette. Type is set in Apple's New York serif, with small-caps labels and a gold or oxblood accent rule, in the manner of a well-made book jacket. Choose a theme in **Settings › Appearance**. When iOS tints widgets, they switch to plain system colors automatically.
+
+![Design preview](docs/design-preview.jpg)
+
+*An HTML mock-up of the SwiftUI layouts (fonts differ slightly from iOS), not a device screenshot.*
+
 ## Why a widget and a Shortcut, not a "wallpaper app"?
 
 iOS has no public API that lets an app change your wallpaper. GRE Vocab gets the same effect in two ways:
