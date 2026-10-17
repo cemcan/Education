@@ -48,7 +48,7 @@ books:
   - {repo: The-Awakening-and-Selected-Short-Stories_160, title: The Awakening and Selected Short Stories, author: Kate Chopin, year: 1899}
   - {repo: The-Brothers-Karamazov_28054, title: The Brothers Karamazov, author: Fyodor Dostoevsky, translator: Constance Garnett, year: 1880}
   - {repo: The-Count-of-Monte-Cristo_1184, title: The Count of Monte Cristo, author: Alexandre Dumas, translator: anonymous (1846), year: 1844}
-  - {repo: The-Federalist-Papers_1404, title: The Federalist Papers, author: Hamilton, Madison & Jay, year: 1788}
+  - {repo: The-Federalist-Papers_1404, title: The Federalist Papers, author: "Alexander Hamilton, James Madison & John Jay", year: 1788}
   - {repo: The-Hound-of-the-Baskervilles_2852, title: The Hound of the Baskervilles, author: Arthur Conan Doyle, year: 1902}
   - {repo: The-House-of-Mirth_284, title: The House of Mirth, author: Edith Wharton, year: 1905}
   - {repo: The-Innocents-Abroad_3176, title: The Innocents Abroad, author: Mark Twain, year: 1869}

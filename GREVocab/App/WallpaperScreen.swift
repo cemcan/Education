@@ -1,9 +1,10 @@
 import SwiftUI
 import UIKit
+import WidgetKit
 
 struct WallpaperScreen: View {
     @EnvironmentObject private var state: AppState
-    @AppStorage(SettingsKey.wallpaperTheme, store: AppSettings.defaults) private var theme: WallpaperTheme = .midnight
+    @AppStorage(SettingsKey.theme, store: AppSettings.defaults) private var theme: Theme = .midnight
 
     @State private var image: UIImage?
     @State private var statusMessage: String?
@@ -28,6 +29,8 @@ struct WallpaperScreen: View {
             }
             .navigationTitle("Wallpaper")
             .task(id: renderKey) { await rerender() }
+            // The widgets use the same theme.
+            .onChange(of: theme) { _, _ in WidgetCenter.shared.reloadAllTimelines() }
         }
     }
 
@@ -37,14 +40,14 @@ struct WallpaperScreen: View {
     private var themePicker: some View {
         ScrollView(.horizontal, showsIndicators: false) {
             HStack(spacing: 12) {
-                ForEach(WallpaperTheme.allCases) { option in
+                ForEach(Theme.allCases) { option in
                     Button {
                         theme = option
                     } label: {
                         VStack(spacing: 6) {
-                            RoundedRectangle(cornerRadius: 10)
-                                .fill(option.gradient)
+                            ThemedBackground(theme: option, monogram: "A", grain: false)
                                 .frame(width: 54, height: 80)
+                                .clipShape(RoundedRectangle(cornerRadius: 10))
                                 .overlay(
                                     RoundedRectangle(cornerRadius: 10)
                                         .stroke(option == theme ? Color.accentColor : .clear, lineWidth: 3)

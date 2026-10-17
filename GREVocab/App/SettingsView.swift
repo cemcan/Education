@@ -1,4 +1,5 @@
 import SwiftUI
+import WidgetKit
 
 struct SettingsView: View {
     @EnvironmentObject private var state: AppState
@@ -6,6 +7,7 @@ struct SettingsView: View {
     @AppStorage(SettingsKey.interval, store: AppSettings.defaults) private var interval: RotationInterval = .daily
     @AppStorage(SettingsKey.accent, store: AppSettings.defaults) private var accent: VoiceAccent = .american
     @AppStorage(SettingsKey.speechRate, store: AppSettings.defaults) private var speechRate: Double = 0.9
+    @AppStorage(SettingsKey.theme, store: AppSettings.defaults) private var theme: Theme = .midnight
 
     var body: some View {
         NavigationStack {
@@ -18,6 +20,16 @@ struct SettingsView: View {
                     Text("Rotation")
                 } footer: {
                     Text("The app, widgets and wallpaper all show the same word and change on this schedule.")
+                }
+
+                Section {
+                    Picker("Theme", selection: $theme) {
+                        ForEach(Theme.allCases) { Text($0.title).tag($0) }
+                    }
+                } header: {
+                    Text("Appearance")
+                } footer: {
+                    Text("Used by the word card, the widgets and the wallpaper.")
                 }
 
                 Section("Pronunciation") {
@@ -58,6 +70,7 @@ struct SettingsView: View {
             }
             .navigationTitle("Settings")
             .onChange(of: interval) { _, _ in state.rotationSettingsChanged() }
+            .onChange(of: theme) { _, _ in WidgetCenter.shared.reloadAllTimelines() }
         }
     }
 }

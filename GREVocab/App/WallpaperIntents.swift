@@ -9,7 +9,7 @@ struct GetWordWallpaperIntent: AppIntent {
     )
 
     @Parameter(title: "Theme")
-    var theme: WallpaperTheme?
+    var theme: Theme?
 
     static var parameterSummary: some ParameterSummary {
         Summary("Get vocabulary wallpaper in \(\.$theme)")

@@ -174,6 +174,7 @@ words:
   related: [audacity, audaciously]
   etymology: From Latin audax "bold," from audere "to dare."
   forms: [audacity, audaciously]
+  exclude: ["woman-like, a lover of young men"]
 
 - word: austere
   pos: adjective
@@ -185,17 +186,6 @@ words:
   related: [austerity, austerely]
   etymology: From Greek austēros "harsh, bitter," originally describing a taste that makes the tongue dry.
   forms: [austerity, austerely]
-
-- word: banal
-  pos: adjective
-  ipa: /bəˈnɑl/
-  phonetic: buh-NAHL
-  definition: So lacking in originality as to be obvious and boring.
-  synonyms: [trite, hackneyed, commonplace, insipid, platitudinous]
-  antonyms: [original, fresh, novel]
-  related: [banality]
-  etymology: From French banal, originally "compulsory, common to all" — relating to a feudal ban, the facilities a lord required tenants to use. "Shared by everyone" drifted to "commonplace."
-  forms: [banality, banalities]
 
 - word: belie
   pos: verb
@@ -229,17 +219,7 @@ words:
   related: []
   etymology: Old English bolster "long pillow, cushion." The verb sense "prop up," as with a pillow, dates from the 1500s.
   forms: [bolstered, bolsters, bolstering]
-
-- word: burgeon
-  pos: verb
-  ipa: /ˈbɜrdʒən/
-  phonetic: BUR-jun
-  definition: To begin to grow or increase rapidly; to flourish.
-  synonyms: [flourish, proliferate, mushroom, thrive, expand]
-  antonyms: [wither, decline, shrink]
-  related: []
-  etymology: From Old French burjon "a bud, shoot," so the first sense was "to put forth buds."
-  forms: [burgeoned, burgeons, burgeoning]
+  exclude: ["wanted a bolster placed under him", "sort of bolster", "bolster and", "on the bolster", "the bolster"]
 
 - word: capricious
   pos: adjective
@@ -294,6 +274,7 @@ words:
   related: [complacency, complacently]
   etymology: From Latin complacere "to please very much." In the 1600s it meant simply "pleasing"; the sense of smugness came later.
   forms: [complacency, complacently]
+  exclude: ["we would be very expensive"]
 
 - word: conciliatory
   pos: adjective
@@ -327,6 +308,7 @@ words:
   related: [credulity, incredulous]
   etymology: From Latin credulus "trusting," from credere "to believe" (also in "credit" and "creed").
   forms: [credulity]
+  exclude: ["though our credulity is limited that"]
 
 - word: culpable
   pos: adjective
@@ -445,6 +427,7 @@ words:
   related: [dissembler]
   etymology: An alteration of Old French dessembler, influenced by "resemble"; from Latin dissimulare "to disguise."
   forms: [dissembled, dissembles, dissembling]
+  exclude: ["he likewise knew that to mankind"]
 
 - word: dogmatic
   pos: adjective
@@ -456,17 +439,6 @@ words:
   related: [dogma, dogmatism]
   etymology: From Greek dogma "opinion, decree," from dokein "to seem good, think."
   forms: [dogmatism, dogmatically]
-
-- word: ebullient
-  pos: adjective
-  ipa: /ɪˈbʊljənt/
-  phonetic: ih-BULL-yunt
-  definition: Cheerful and full of energy.
-  synonyms: [exuberant, buoyant, effervescent, enthusiastic, irrepressible]
-  antonyms: [depressed, subdued, glum]
-  related: [ebullience]
-  etymology: From Latin ebullire "to boil over," from e- "out" + bullire "to boil." High spirits bubbling over.
-  forms: [ebullience]
 
 - word: efficacy
   pos: noun
@@ -488,6 +460,7 @@ words:
   antonyms: [respect, politeness, timidity]
   related: []
   etymology: From French effronterie, from Late Latin effrons "shameless," from ex- "out" + frons "forehead." Barefaced, putting one's forehead forward.
+  exclude: ["smuggled themselves in sure"]
 
 - word: eloquent
   pos: adjective
@@ -532,6 +505,7 @@ words:
   related: [enigmatic, enigmatically]
   etymology: From Greek ainigma "riddle," from ainissesthai "to speak in riddles."
   forms: [enigmas, enigmatic, enigmatical]
+  exclude: ["you see, I suspect..."]
 
 - word: ephemeral
   pos: adjective
@@ -617,6 +591,7 @@ words:
   related: []
   etymology: From Latin extollere "to raise up," from ex- "out, up" + tollere "to raise."
   forms: [extolled, extols, extolling]
+  exclude: ["this to the poor relation"]
 
 - word: fastidious
   pos: adjective
@@ -628,6 +603,7 @@ words:
   related: [fastidiousness, fastidiously]
   etymology: From Latin fastidiosus "disdainful, squeamish," from fastidium "loathing."
   forms: [fastidiousness, fastidiously]
+  exclude: ["She meant 'facinating'"]
 
 - word: fervent
   pos: adjective
@@ -737,6 +713,7 @@ words:
   related: [ineffably]
   etymology: From Latin ineffabilis, from in- "not" + effabilis "utterable," from effari "to speak out."
   forms: [ineffably]
+  exclude: ["Dunlop, Judge, the noblest Roman"]
 
 - word: inexorable
   pos: adjective
@@ -770,6 +747,7 @@ words:
   related: [insipidity]
   etymology: From Late Latin insipidus, from in- "not" + sapidus "tasty," from sapere "to taste, be wise" (also in "sapient").
   forms: [insipidity]
+  exclude: ["always mute with an air of whispering"]
 
 - word: intransigent
   pos: adjective
@@ -825,6 +803,7 @@ words:
   related: [languor, languish]
   etymology: From Latin languidus "faint, weak," from languere "to be weak."
   forms: [languidly, languor]
+  exclude: ["Quitting all languor Lionel"]
 
 - word: lethargic
   pos: adjective
@@ -858,6 +837,7 @@ words:
   related: [lucidity, lucidly]
   etymology: From Latin lucidus "bright," from lux "light."
   forms: [lucidity, lucidly]
+  exclude: ["he lucidly pursued"]
 
 - word: magnanimous
   pos: adjective
@@ -935,6 +915,7 @@ words:
   related: [obsequiousness]
   etymology: From Latin obsequiosus "compliant," from obsequi "to comply," from ob- "toward" + sequi "to follow."
   forms: [obsequiousness, obsequiously]
+  exclude: ["obsequious gray-haired negro"]
 
 - word: obstinate
   pos: adjective
@@ -999,6 +980,7 @@ words:
   antonyms: []
   related: []
   etymology: From Italian paragone "touchstone," a stone used to test the purity of gold, from Greek parakonan "to sharpen against."
+  exclude: ["Paragon said it bought the shares"]
 
 - word: paucity
   pos: noun
@@ -1020,6 +1002,7 @@ words:
   related: [pedant, pedantry]
   etymology: From Italian pedante "teacher, schoolmaster," perhaps from Greek paideuein "to teach."
   forms: [pedant, pedantry, pedantically]
+  exclude: ["the cold attitude toward them", "Not for scoundrels, but for pedantic"]
 
 - word: perfunctory
   pos: adjective
@@ -1095,6 +1078,7 @@ words:
   related: [prodigality]
   etymology: From Latin prodigus "wasteful," from prodigere "to drive away, squander." The Prodigal Son parable (Luke 15) gave the noun sense.
   forms: [prodigality]
+  exclude: ["her prodigal son.—-Bah!"]
 
 - word: profligate
   pos: adjective
@@ -1117,6 +1101,7 @@ words:
   related: []
   etymology: From Latin propensus "inclined," from propendere "to hang forward."
   forms: [propensities]
+  exclude: ["in order to satisify consumer"]
 
 - word: prosaic
   pos: adjective
@@ -1225,6 +1210,7 @@ words:
   antonyms: [pessimistic, gloomy, despondent]
   related: []
   etymology: From Latin sanguineus "of blood," from sanguis "blood." In medieval humoral theory, an excess of blood made a person cheerful and confident.
+  exclude: ["She spoke of her farther"]
 
 - word: sardonic
   pos: adjective
@@ -1247,16 +1233,6 @@ words:
   related: [scruple, scrupulously, unscrupulous]
   etymology: From Latin scrupulus "a small sharp stone" — a stone in one's shoe, figuratively a small worry that pricks the conscience.
   forms: [scrupulously]
-
-- word: soporific
-  pos: adjective
-  ipa: /ˌsɑpəˈrɪfɪk/
-  phonetic: sop-uh-RIF-ik
-  definition: Tending to induce drowsiness or sleep; tediously boring.
-  synonyms: [sleep-inducing, somnolent, hypnotic, tedious, dull]
-  antonyms: [invigorating, stimulating]
-  related: []
-  etymology: From Latin sopor "deep sleep" + -fic "making."
 
 - word: sporadic
   pos: adjective
@@ -1302,6 +1278,16 @@ words:
   etymology: From Latin taciturnus, from tacitus "silent," from tacere "to be silent."
   forms: [taciturnity]
 
+- word: temerity
+  pos: noun
+  ipa: /təˈmɛrɪti/
+  phonetic: tuh-MAIR-ih-tee
+  definition: Excessive confidence or boldness; audacity.
+  synonyms: [audacity, effrontery, nerve, gall, presumption]
+  antonyms: [caution, timidity, prudence]
+  related: []
+  etymology: From Latin temeritas "rashness," from temere "blindly, by chance."
+
 - word: tenacious
   pos: adjective
   ipa: /təˈneɪʃəs/
@@ -1324,6 +1310,16 @@ words:
   etymology: From Latin torpor "numbness," from torpere "to be numb." The electric torpedo fish was named for numbing its prey.
   forms: [torpid]
 
+- word: trite
+  pos: adjective
+  ipa: /traɪt/
+  phonetic: TRITE
+  definition: Overused and consequently of little import; lacking originality or freshness.
+  synonyms: [banal, hackneyed, clichéd, stale, platitudinous]
+  antonyms: [original, fresh, novel]
+  related: [triteness]
+  etymology: From Latin tritus "worn," past participle of terere "to rub." An expression worn smooth by use.
+
 - word: truculent
   pos: adjective
   ipa: /ˈtrʌkjələnt/
@@ -1345,6 +1341,7 @@ words:
   related: [ubiquity]
   etymology: From Latin ubique "everywhere," from ubi "where."
   forms: [ubiquity]
+  exclude: ["For the Cause of Sense, an ubiquity"]
 
 - word: vacillate
   pos: verb
@@ -1357,6 +1354,17 @@ words:
   etymology: From Latin vacillare "to sway, totter."
   forms: [vacillated, vacillates, vacillating, vacillation]
 
+- word: vapid
+  pos: adjective
+  ipa: /ˈvæpɪd/
+  phonetic: VAP-id
+  definition: Offering nothing that is stimulating or challenging; bland and lifeless.
+  synonyms: [insipid, dull, flat, bland, uninspired]
+  antonyms: [lively, stimulating, vivid]
+  related: [vapidity]
+  etymology: From Latin vapidus "flat, flavorless," used of wine that had lost its life; related to vapor.
+  forms: [vapidity]
+
 - word: venal
   pos: adjective
   ipa: /ˈvinəl/
@@ -1367,6 +1375,7 @@ words:
   related: [venality]
   etymology: From Latin venalis "for sale," from venum "sale."
   forms: [venality]
+  exclude: ["I have not yet met any women"]
 
 - word: venerate
   pos: verb
@@ -1400,16 +1409,16 @@ words:
   etymology: From Latin verbosus, from verbum "word."
   forms: [verbosity]
 
-- word: vilify
+- word: vindicate
   pos: verb
-  ipa: /ˈvɪlɪfaɪ/
-  phonetic: VIL-ih-fy
-  definition: To speak or write about someone in an abusively disparaging manner.
-  synonyms: [disparage, denigrate, malign, defame, slander]
-  antonyms: [praise, extol, laud]
-  related: [vilification]
-  etymology: From Late Latin vilificare, from vilis "cheap, base" (also in "vile").
-  forms: [vilified, vilifies, vilifying, vilification]
+  ipa: /ˈvɪndɪkeɪt/
+  phonetic: VIN-dih-kayt
+  definition: To clear someone of blame or suspicion; to show to be right or justified.
+  synonyms: [exonerate, absolve, justify, exculpate, substantiate]
+  antonyms: [incriminate, convict, discredit]
+  related: [vindication, vindictive]
+  etymology: From Latin vindicare "to lay claim to, avenge, set free," from vindex "claimant, avenger."
+  forms: [vindicated, vindicates, vindicating, vindication]
 
 - word: volatile
   pos: adjective
@@ -1421,6 +1430,17 @@ words:
   related: [volatility]
   etymology: From Latin volatilis "flying," from volare "to fly." First used of birds, then of substances that "fly off" as vapor.
   forms: [volatility]
+
+- word: voluble
+  pos: adjective
+  ipa: /ˈvɑljəbəl/
+  phonetic: VOL-yuh-bul
+  definition: Speaking or spoken incessantly and fluently.
+  synonyms: [talkative, loquacious, garrulous, fluent, effusive]
+  antonyms: [taciturn, reticent, laconic]
+  related: [volubility, volubly]
+  etymology: From Latin volubilis "rolling, turning," from volvere "to roll." Words that roll off the tongue.
+  forms: [volubly, volubility]
 
 - word: zealous
   pos: adjective

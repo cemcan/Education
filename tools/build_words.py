@@ -25,10 +25,10 @@ TOOLS = Path(__file__).resolve().parent
 CORPUS = TOOLS / ".corpus"
 OUTPUT = TOOLS.parent / "GREVocab" / "Shared" / "Resources" / "words.json"
 
-# NLTK's own Gutenberg selection: only the files not already covered by sources.yaml.
+# NLTK's own Gutenberg selection: prose only (verse lines run together once
+# line breaks are removed), skipping books already covered by sources.yaml.
 NLTK_GUTENBERG = {
     "melville-moby_dick.txt": ("Moby-Dick", "Herman Melville", 1851),
-    "milton-paradise.txt": ("Paradise Lost", "John Milton", 1667),
     "chesterton-thursday.txt": ("The Man Who Was Thursday", "G. K. Chesterton", 1908),
     "chesterton-brown.txt": ("The Innocence of Father Brown", "G. K. Chesterton", 1911),
     "chesterton-ball.txt": ("The Ball and the Cross", "G. K. Chesterton", 1909),
@@ -199,12 +199,12 @@ def score(s, meta):
     return sc
 
 
-def pick(candidates, entry):
+def pick(candidates, entry, taken=frozenset()):
     """Three examples from distinct sources: one news and one speech quote when they
     exist, the rest literature, never the same author twice if it can be avoided."""
     exclude = [x.lower() for x in entry.get("exclude", [])]
     pool = sorted(((score(s, m), s, m) for s, m in candidates
-                   if not any(x in s.lower() for x in exclude)), key=lambda t: -t[0])
+                   if s not in taken and not any(x in s.lower() for x in exclude)), key=lambda t: -t[0])
     chosen = []
 
     def take(kind=None, distinct_author=True):
@@ -260,11 +260,12 @@ def main():
         for hit in {h.lower() for h in pattern.findall(s)}:
             bucket[form_index[hit]].append((s, meta))
 
-    out, thin = [], []
+    out, thin, taken = [], [], set()  # `taken`: a sentence illustrates only one word
     for e in entries:
-        examples = pick(candidates[e["word"]], e)
+        examples = pick(candidates[e["word"]], e, taken)
         if len(examples) < 3:
-            examples = pick(candidates[e["word"]] + fallback[e["word"]], e)
+            examples = pick(candidates[e["word"]] + fallback[e["word"]], e, taken)
+        taken.update(ex["text"] for ex in examples)
         if len(examples) < 3:
             thin.append(f"{e['word']} ({len(examples)})")
         for ex in examples:

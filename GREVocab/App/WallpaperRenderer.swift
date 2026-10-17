@@ -15,7 +15,7 @@ enum WallpaperRenderer {
     }
 
     @MainActor
-    static func render(word: VocabWord, theme: WallpaperTheme) -> UIImage? {
+    static func render(word: VocabWord, theme: Theme) -> UIImage? {
         let metrics = screenMetrics
         let renderer = ImageRenderer(content: WallpaperView(word: word, theme: theme, size: metrics.size))
         renderer.proposedSize = ProposedViewSize(metrics.size)

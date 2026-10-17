@@ -46,7 +46,7 @@ enum SettingsKey {
     static let favorites = "favoriteIDs"
     static let accent = "voiceAccent"
     static let speechRate = "speechRate"
-    static let wallpaperTheme = "wallpaperTheme"
+    static let theme = "theme"
 }
 
 /// Settings shared between the app and the widget through the App Group container.

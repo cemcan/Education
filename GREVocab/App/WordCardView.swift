@@ -6,6 +6,7 @@ struct WordCardView: View {
 
     @EnvironmentObject private var state: AppState
     @ObservedObject private var speech = PronunciationService.shared
+    @AppStorage(SettingsKey.theme, store: AppSettings.defaults) private var theme: Theme = .midnight
 
     var body: some View {
         VStack(alignment: .leading, spacing: 24) {
@@ -43,54 +44,68 @@ struct WordCardView: View {
         .frame(maxWidth: .infinity, alignment: .leading)
     }
 
+    /// Hero panel in the same style as the widget and wallpaper.
     private var header: some View {
-        VStack(alignment: .leading, spacing: 8) {
-            HStack(alignment: .firstTextBaseline) {
-                Text(word.word)
-                    .font(.system(size: 40, weight: .bold, design: .serif))
-                    .minimumScaleFactor(0.6)
-                    .lineLimit(1)
+        VStack(alignment: .leading, spacing: 0) {
+            HStack(alignment: .center) {
+                if !word.partOfSpeech.isEmpty {
+                    EyebrowText(text: "\(word.partOfSpeech)  ·  GRE", color: theme.accent)
+                }
                 Spacer()
                 Button {
                     state.toggleFavorite(word)
                 } label: {
                     Image(systemName: state.isFavorite(word) ? "star.fill" : "star")
-                        .font(.title2)
-                        .foregroundStyle(.yellow)
+                        .font(.title3)
+                        .foregroundStyle(theme.accent)
                 }
                 .accessibilityLabel(state.isFavorite(word) ? "Remove from favorites" : "Add to favorites")
             }
 
-            HStack(spacing: 12) {
+            Text(word.word)
+                .font(.system(size: 46, weight: .semibold, design: .serif))
+                .foregroundStyle(theme.primary)
+                .minimumScaleFactor(0.6)
+                .lineLimit(1)
+                .padding(.top, 18)
+
+            HStack(spacing: 14) {
                 Button {
                     speech.speak(word.word)
                 } label: {
-                    Image(systemName: speech.speakingText == word.word ? "speaker.wave.3.fill" : "speaker.wave.2")
-                        .font(.title3)
+                    Image(systemName: speech.speakingText == word.word ? "speaker.wave.3.fill" : "speaker.wave.2.fill")
+                        .font(.body.weight(.semibold))
+                        .foregroundStyle(theme.isDark ? Color.black.opacity(0.85) : .white)
                         .frame(width: 44, height: 44)
-                        .background(.tint.opacity(0.15), in: Circle())
+                        .background(theme.accent, in: Circle())
                 }
                 .accessibilityLabel("Pronounce \(word.word)")
 
                 VStack(alignment: .leading, spacing: 2) {
                     if !word.ipa.isEmpty {
-                        Text(word.ipa).font(.title3.monospaced())
+                        Text(word.ipa)
+                            .font(.system(.title3, design: .serif))
+                            .foregroundStyle(theme.primary)
                     }
                     if !word.phonetic.isEmpty {
-                        Text(word.phonetic).font(.subheadline).foregroundStyle(.secondary)
+                        Text(word.phonetic)
+                            .font(.subheadline)
+                            .foregroundStyle(theme.secondary)
                     }
                 }
             }
+            .padding(.top, 10)
 
-            if !word.partOfSpeech.isEmpty {
-                Text(word.partOfSpeech)
-                    .font(.caption.weight(.semibold))
-                    .textCase(.uppercase)
-                    .padding(.horizontal, 10)
-                    .padding(.vertical, 4)
-                    .background(.secondary.opacity(0.15), in: Capsule())
-            }
+            AccentRule(color: theme.accent, width: 32)
+                .padding(.top, 18)
         }
+        .padding(22)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background {
+            ThemedBackground(theme: theme, monogram: word.word)
+        }
+        .clipShape(RoundedRectangle(cornerRadius: 26, style: .continuous))
+        .shadow(color: .black.opacity(0.18), radius: 14, y: 6)
     }
 
     @ViewBuilder
