@@ -1,0 +1,6 @@
+tools/.corpus/
+__pycache__/
+*.xcodeproj/
+DerivedData/
+.DS_Store
+xcuserdata/

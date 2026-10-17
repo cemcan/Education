@@ -1,0 +1,77 @@
+# Public-domain books mirrored by the GITenberg project on GitHub.
+# `repo` is github.com/GITenberg/<repo>; the trailing number is the Project Gutenberg ebook id.
+# `year` is first publication; `start` skips editors' introductions and translators' prefaces
+# so every quote is the author's own text. Translated works name their translator so quotes are attributed correctly.
+books:
+  - {repo: A-Room-with-a-View_2641, title: A Room with a View, author: E. M. Forster, year: 1908}
+  - {repo: A-Tale-of-Two-Cities_98, title: A Tale of Two Cities, author: Charles Dickens, year: 1859}
+  - {repo: Adam-Bede_507, title: Adam Bede, author: George Eliot, year: 1859}
+  - {repo: Adventures-of-Huckleberry-Finn_76, title: Adventures of Huckleberry Finn, author: Mark Twain, year: 1884}
+  - {repo: Anna-Karenina_1399, title: Anna Karenina, author: Leo Tolstoy, translator: Constance Garnett, year: 1878}
+  - {repo: Babbitt_1156, title: Babbitt, author: Sinclair Lewis, year: 1922}
+  - {repo: Barchester-Towers_3409, title: Barchester Towers, author: Anthony Trollope, year: 1857}
+  - {repo: Beyond-Good-and-Evil_4363, title: Beyond Good and Evil, author: Friedrich Nietzsche, translator: Helen Zimmern, year: 1886, start: "SUPPOSING that Truth is a woman"}
+  - {repo: Bleak-House_1023, title: Bleak House, author: Charles Dickens, year: 1853}
+  - {repo: Crime-and-Punishment_2554, title: Crime and Punishment, author: Fyodor Dostoevsky, translator: Constance Garnett, year: 1866, start: "On an exceptionally hot evening early in July"}
+  - {repo: Daniel-Deronda_7469, title: Daniel Deronda, author: George Eliot, year: 1876}
+  - {repo: David-Copperfield_766, title: David Copperfield, author: Charles Dickens, year: 1850}
+  - {repo: Don-Quixote_996, title: Don Quixote, author: Miguel de Cervantes, translator: John Ormsby, year: 1605, start: "In a village of La Mancha"}
+  - {repo: Dracula_345, title: Dracula, author: Bram Stoker, year: 1897}
+  - {repo: Emma_158, title: Emma, author: Jane Austen, year: 1815}
+  - {repo: Far-from-the-Madding-Crowd_107, title: Far from the Madding Crowd, author: Thomas Hardy, year: 1874}
+  - {repo: Frankenstein_84, title: Frankenstein, author: Mary Shelley, year: 1818}
+  - {repo: Great-Expectations_1400, title: Great Expectations, author: Charles Dickens, year: 1861}
+  - {repo: Heart-of-Darkness_219, title: Heart of Darkness, author: Joseph Conrad, year: 1899}
+  - {repo: Howards-End_2891, title: Howards End, author: E. M. Forster, year: 1910, start: "One may as well begin"}
+  - {repo: Jane-Eyre_1260, title: Jane Eyre, author: Charlotte Brontë, year: 1847}
+  - {repo: Jude-the-Obscure_153, title: Jude the Obscure, author: Thomas Hardy, year: 1895}
+  - {repo: Kim_2226, title: Kim, author: Rudyard Kipling, year: 1901}
+  - {repo: Leviathan_3207, title: Leviathan, author: Thomas Hobbes, year: 1651}
+  - {repo: Little-Dorrit_963, title: Little Dorrit, author: Charles Dickens, year: 1857}
+  - {repo: Little-Women_514, title: Little Women, author: Louisa May Alcott, year: 1868}
+  - {repo: Lord-Jim_5658, title: Lord Jim, author: Joseph Conrad, year: 1900}
+  - {repo: Main-Street_543, title: Main Street, author: Sinclair Lewis, year: 1920}
+  - {repo: Mansfield-Park_141, title: Mansfield Park, author: Jane Austen, year: 1814}
+  - {repo: Middlemarch_145, title: Middlemarch, author: George Eliot, year: 1871}
+  - {repo: Northanger-Abbey_121, title: Northanger Abbey, author: Jane Austen, year: 1817}
+  - {repo: Of-Human-Bondage_351, title: Of Human Bondage, author: W. Somerset Maugham, year: 1915}
+  - {repo: On-Liberty_34901, title: On Liberty, author: John Stuart Mill, year: 1859, start: "The subject of this Essay is not"}
+  - {repo: Our-Mutual-Friend_883, title: Our Mutual Friend, author: Charles Dickens, year: 1865}
+  - {repo: Persuasion_105, title: Persuasion, author: Jane Austen, year: 1817}
+  - {repo: Pride-and-Prejudice_1342, title: Pride and Prejudice, author: Jane Austen, year: 1813}
+  - {repo: Sense-and-Sensibility_161, title: Sense and Sensibility, author: Jane Austen, year: 1811}
+  - {repo: Silas-Marner_550, title: Silas Marner, author: George Eliot, year: 1861}
+  - {repo: The-Adventures-of-Sherlock-Holmes_1661, title: The Adventures of Sherlock Holmes, author: Arthur Conan Doyle, year: 1892}
+  - {repo: The-Adventures-of-Tom-Sawyer_74, title: The Adventures of Tom Sawyer, author: Mark Twain, year: 1876}
+  - {repo: The-Age-of-Innocence_541, title: The Age of Innocence, author: Edith Wharton, year: 1920}
+  - {repo: The-Ambassadors_432, title: The Ambassadors, author: Henry James, year: 1903}
+  - {repo: The-Awakening-and-Selected-Short-Stories_160, title: The Awakening and Selected Short Stories, author: Kate Chopin, year: 1899}
+  - {repo: The-Brothers-Karamazov_28054, title: The Brothers Karamazov, author: Fyodor Dostoevsky, translator: Constance Garnett, year: 1880}
+  - {repo: The-Count-of-Monte-Cristo_1184, title: The Count of Monte Cristo, author: Alexandre Dumas, translator: anonymous (1846), year: 1844}
+  - {repo: The-Federalist-Papers_1404, title: The Federalist Papers, author: Hamilton, Madison & Jay, year: 1788}
+  - {repo: The-Hound-of-the-Baskervilles_2852, title: The Hound of the Baskervilles, author: Arthur Conan Doyle, year: 1902}
+  - {repo: The-House-of-Mirth_284, title: The House of Mirth, author: Edith Wharton, year: 1905}
+  - {repo: The-Innocents-Abroad_3176, title: The Innocents Abroad, author: Mark Twain, year: 1869}
+  - {repo: The-Jungle_140, title: The Jungle, author: Upton Sinclair, year: 1906}
+  - {repo: The-Mill-on-the-Floss_6688, title: The Mill on the Floss, author: George Eliot, year: 1860}
+  - {repo: The-Moonstone_155, title: The Moonstone, author: Wilkie Collins, year: 1868}
+  - {repo: The-Picture-of-Dorian-Gray_174, title: The Picture of Dorian Gray, author: Oscar Wilde, year: 1890}
+  - {repo: The-Prince_1232, title: The Prince, author: Niccolò Machiavelli, translator: W. K. Marriott, year: 1532, start: "Those who strive to obtain the good graces"}
+  - {repo: The-Red-Badge-of-Courage_73, title: The Red Badge of Courage, author: Stephen Crane, year: 1895}
+  - {repo: The-Republic_1497, title: The Republic, author: Plato, translator: Benjamin Jowett, start: "I went down yesterday to the Piraeus"}
+  - {repo: The-Scarlet-Letter_33, title: The Scarlet Letter, author: Nathaniel Hawthorne, year: 1850, start: "It is a little remarkable"}
+  - {repo: The-Souls-of-Black-Folk_408, title: The Souls of Black Folk, author: W. E. B. Du Bois, year: 1903}
+  - {repo: The-Time-Machine_35, title: The Time Machine, author: H. G. Wells, year: 1895}
+  - {repo: The-War-of-the-Worlds_36, title: The War of the Worlds, author: H. G. Wells, year: 1898}
+  - {repo: The-Woman-in-White_583, title: The Woman in White, author: Wilkie Collins, year: 1859}
+  - {repo: Treasure-Island_120, title: Treasure Island, author: Robert Louis Stevenson, year: 1883}
+  - {repo: Ulysses_4300, title: Ulysses, author: James Joyce, year: 1922}
+  - {repo: Vanity-Fair_599, title: Vanity Fair, author: William Makepeace Thackeray, year: 1848}
+  - {repo: War-and-Peace_2600, title: War and Peace, author: Leo Tolstoy, translator: Louise and Aylmer Maude, year: 1869}
+  - {repo: Wuthering-Heights_768, title: Wuthering Heights, author: Emily Brontë, year: 1847}
+
+# NLTK data packages (github.com/nltk/nltk_data): real news and speeches.
+#   reuters     -> Reuters-21578 newswire stories, 1987
+#   inaugural   -> US presidential inaugural addresses, 1789-2009
+#   state_union -> State of the Union addresses, 1945-2006
+nltk: [reuters, inaugural, state_union, gutenberg]
