@@ -17491,7 +17491,7 @@
       "mistaken",
       "incorrect",
       "inaccurate",
-      false,
+      "false",
       "faulty"
     ],
     "antonyms": [
@@ -19055,7 +19055,7 @@
     "definition": "Based on a mistaken belief or unsound reasoning.",
     "synonyms": [
       "erroneous",
-      false,
+      "false",
       "specious",
       "spurious",
       "misleading"
@@ -44605,12 +44605,12 @@
     "synonyms": [
       "genuine",
       "real",
-      true,
+      "true",
       "authentic",
       "absolute"
     ],
     "antonyms": [
-      false,
+      "false",
       "fake",
       "spurious"
     ],

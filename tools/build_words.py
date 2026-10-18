@@ -318,6 +318,15 @@ def load_entries():
     entries = []
     for path in sorted((TOOLS / "words").glob("*.yaml")):
         entries += yaml.safe_load(path.read_text())["words"]
+    # YAML turns bare yes/no/true/false/null into non-strings; the app's decoder
+    # needs text everywhere, so catch that here rather than on the phone.
+    text_fields = ("word", "pos", "ipa", "phonetic", "definition", "etymology")
+    list_fields = ("synonyms", "antonyms", "related", "forms", "exclude")
+    for e in entries:
+        bad = [f for f in text_fields if f in e and not isinstance(e[f], str)]
+        bad += [f"{f}: {v!r}" for f in list_fields for v in e.get(f) or [] if not isinstance(v, str)]
+        if bad:
+            raise SystemExit(f"{e.get('word')}: non-text value(s) {bad}; quote them in the YAML")
     seen = set()
     for e in entries:
         if e["word"] in seen:
