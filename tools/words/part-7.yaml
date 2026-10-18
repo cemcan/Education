@@ -1,0 +1,1241 @@
+# GRE vocabulary, part 7. Examples are added by build_words.py; never write them here.
+words:
+- word: probity
+  pos: noun
+  ipa: /ˈproʊbɪti/
+  phonetic: PROH-bih-tee
+  definition: The quality of having strong moral principles; honesty and decency.
+  synonyms: [integrity, honesty, rectitude, uprightness, virtue]
+  antonyms: [dishonesty, corruption, turpitude]
+  related: []
+  etymology: From Latin probitas "uprightness," from probus "good, honest."
+
+- word: prodigious
+  pos: adjective
+  ipa: /prəˈdɪdʒəs/
+  phonetic: pruh-DIJ-us
+  definition: Remarkably or impressively great in extent, size, or degree.
+  synonyms: [enormous, colossal, immense, remarkable, tremendous]
+  antonyms: [tiny, negligible, unremarkable]
+  related: [prodigiously, prodigy]
+  etymology: From Latin prodigiosus "marvelous, unnatural," from prodigium "portent, omen."
+  forms: [prodigiously]
+
+- word: prodigy
+  pos: noun
+  ipa: /ˈprɑdədʒi/
+  phonetic: PROD-uh-jee
+  definition: A person, especially a young one, with exceptional qualities or abilities; an amazing or unusual thing.
+  synonyms: [genius, wunderkind, virtuoso, wonder, phenomenon]
+  antonyms: [mediocrity, dullard]
+  related: [prodigious]
+  etymology: From Latin prodigium "portent, prophetic sign."
+  forms: [prodigies]
+
+- word: profane
+  pos: adjective / verb
+  ipa: /proʊˈfeɪn/
+  phonetic: proh-FAYN
+  definition: Irreverent toward sacred things, or secular rather than religious; (verb) to treat something sacred with disrespect.
+  synonyms: [irreverent, blasphemous, sacrilegious, secular, desecrate]
+  antonyms: [sacred, reverent, holy]
+  related: [profanity, profanation]
+  etymology: From Latin profanus "outside the temple," from pro- "before" + fanum "temple."
+  forms: [profaned, profanes, profaning, profanely]
+
+- word: proffer
+  pos: verb
+  ipa: /ˈprɑfər/
+  phonetic: PROF-er
+  definition: To hold out or put forward something for acceptance; to offer.
+  synonyms: [offer, tender, extend, present, volunteer]
+  antonyms: [withhold, withdraw, retract]
+  related: []
+  etymology: From Anglo-French proffrir, from Old French poroffrir, from por- "forth" + offrir "to offer."
+  forms: [proffered, proffers, proffering]
+
+- word: profusion
+  pos: noun
+  ipa: /prəˈfjuʒən/
+  phonetic: pruh-FYOO-zhun
+  definition: An abundance or large quantity of something; extravagant lavishness.
+  synonyms: [abundance, plethora, wealth, glut, cornucopia]
+  antonyms: [scarcity, dearth, paucity]
+  related: [profuse, profusely]
+  etymology: From Latin profusio "a pouring out," from profundere "to pour forth."
+
+- word: progeny
+  pos: noun
+  ipa: /ˈprɑdʒəni/
+  phonetic: PROJ-uh-nee
+  definition: Descendants or offspring of a person, animal, or plant; results or outcomes of something.
+  synonyms: [offspring, descendants, issue, heirs, posterity]
+  antonyms: [ancestors, forebears, progenitors]
+  related: [progenitor]
+  etymology: From Latin progenies "descent, offspring," from progignere "to beget."
+
+- word: proliferate
+  pos: verb
+  ipa: /prəˈlɪfəreɪt/
+  phonetic: pruh-LIF-uh-rayt
+  definition: To increase rapidly in number; to multiply or spread quickly.
+  synonyms: [multiply, mushroom, burgeon, spread, escalate]
+  antonyms: [dwindle, decrease, diminish]
+  related: [proliferation, proliferative]
+  etymology: Back-formation from "proliferation," from French prolifère, from Latin proles "offspring" + ferre "to bear."
+  forms: [proliferated, proliferates, proliferating, proliferation]
+
+- word: propagate
+  pos: verb
+  ipa: /ˈprɑpəɡeɪt/
+  phonetic: PROP-uh-gayt
+  definition: To spread and promote an idea, theory, or belief widely; to breed or reproduce plants or animals.
+  synonyms: [spread, disseminate, promulgate, circulate, breed]
+  antonyms: [suppress, contain, stifle]
+  related: [propagation, propaganda]
+  etymology: From Latin propagare "to set forth, multiply plants by layers," from propago "a slip for planting."
+  forms: [propagated, propagates, propagating, propagation]
+
+- word: propitiate
+  pos: verb
+  ipa: /proʊˈpɪʃieɪt/
+  phonetic: proh-PISH-ee-ayt
+  definition: To win or regain the favor of a god or person by doing something that pleases them; to appease.
+  synonyms: [appease, placate, conciliate, pacify, mollify]
+  antonyms: [provoke, antagonize, anger]
+  related: [propitiation, propitiatory]
+  etymology: From Latin propitiare "to render favorable," from propitius "favorable, gracious."
+  forms: [propitiated, propitiates, propitiating, propitiation]
+
+- word: propitious
+  pos: adjective
+  ipa: /prəˈpɪʃəs/
+  phonetic: pruh-PISH-us
+  definition: Giving or indicating a good chance of success; favorable.
+  synonyms: [auspicious, favorable, promising, opportune, advantageous]
+  antonyms: [inauspicious, unfavorable, ominous]
+  related: [propitiously]
+  etymology: From Latin propitius "favorable, gracious."
+  forms: [propitiously]
+
+- word: propriety
+  pos: noun
+  ipa: /prəˈpraɪəti/
+  phonetic: pruh-PRY-uh-tee
+  definition: Conformity to conventionally accepted standards of behavior or morals; correctness or appropriateness.
+  synonyms: [decorum, decency, correctness, etiquette, seemliness]
+  antonyms: [impropriety, indecorum, rudeness]
+  related: [proper, impropriety]
+  etymology: From Old French propriete, from Latin proprietas "ownership, peculiar nature," from proprius "one's own."
+  forms: [proprieties]
+
+- word: proscribe
+  pos: verb
+  ipa: /proʊˈskraɪb/
+  phonetic: proh-SKRYBE
+  definition: To forbid, especially by law; to denounce or condemn.
+  synonyms: [prohibit, forbid, ban, outlaw, interdict]
+  antonyms: [permit, allow, sanction]
+  related: [proscription, proscriptive]
+  etymology: From Latin proscribere "to publish in writing," used of posting the names of people declared outlaws.
+  forms: [proscribed, proscribes, proscribing, proscription]
+
+- word: protract
+  pos: verb
+  ipa: /proʊˈtrækt/
+  phonetic: proh-TRAKT
+  definition: To prolong or extend something in duration, often needlessly.
+  synonyms: [prolong, extend, draw out, lengthen, drag out]
+  antonyms: [shorten, curtail, abbreviate]
+  related: [protracted, protraction]
+  etymology: From Latin protractus, past participle of protrahere "to draw forth, prolong."
+  forms: [protracted, protracts, protracting]
+
+- word: provident
+  pos: adjective
+  ipa: /ˈprɑvɪdənt/
+  phonetic: PROV-ih-dunt
+  definition: Making or showing timely preparation for future needs; frugal and prudent.
+  synonyms: [prudent, farsighted, frugal, thrifty, judicious]
+  antonyms: [improvident, wasteful, shortsighted]
+  related: [providence, providently, improvident]
+  etymology: From Latin providens, present participle of providere "to foresee, provide for."
+  forms: [providently]
+
+- word: provincial
+  pos: adjective / noun
+  ipa: /prəˈvɪnʃəl/
+  phonetic: pruh-VIN-shul
+  definition: Unsophisticated or narrow-minded in outlook; of or relating to a province; (noun) an unsophisticated person from outside the capital.
+  synonyms: [parochial, insular, narrow-minded, unsophisticated, small-town]
+  antonyms: [cosmopolitan, sophisticated, worldly]
+  related: [provincialism]
+  etymology: From Latin provincialis, from provincia "province, territory under Roman rule."
+
+- word: puerile
+  pos: adjective
+  ipa: /ˈpjʊrəl/
+  phonetic: PYOOR-ul
+  definition: Childishly silly and trivial.
+  synonyms: [childish, juvenile, immature, infantile, silly]
+  antonyms: [mature, adult, sophisticated]
+  related: [puerility]
+  etymology: From Latin puerilis "childish," from puer "boy, child."
+
+- word: pugnacious
+  pos: adjective
+  ipa: /pʌɡˈneɪʃəs/
+  phonetic: pug-NAY-shus
+  definition: Eager or quick to argue, quarrel, or fight.
+  synonyms: [combative, belligerent, truculent, bellicose, quarrelsome]
+  antonyms: [peaceable, conciliatory, docile]
+  related: [pugnacity, pugnaciously]
+  etymology: From Latin pugnax "combative," from pugnare "to fight."
+  forms: [pugnaciously, pugnacity]
+
+- word: punctilious
+  pos: adjective
+  ipa: /pʌŋkˈtɪliəs/
+  phonetic: punk-TIL-ee-us
+  definition: Showing great attention to detail or correct behavior; meticulous about etiquette.
+  synonyms: [meticulous, scrupulous, fastidious, conscientious, precise]
+  antonyms: [careless, lax, slipshod]
+  related: [punctiliously, punctilio]
+  etymology: From "punctilio," from Italian puntiglio "fine point," ultimately from Latin punctum "point."
+  forms: [punctiliously, punctiliousness]
+
+- word: pungent
+  pos: adjective
+  ipa: /ˈpʌndʒənt/
+  phonetic: PUN-junt
+  definition: Having a sharply strong taste or smell; (of remarks) sharply caustic or biting.
+  synonyms: [acrid, sharp, piquant, caustic, biting]
+  antonyms: [bland, mild, mellow]
+  related: [pungency, pungently]
+  etymology: From Latin pungens, present participle of pungere "to prick, sting."
+  forms: [pungently, pungency]
+
+- word: purport
+  pos: verb / noun
+  ipa: /pərˈpɔrt/
+  phonetic: per-PORT
+  definition: To appear or claim to be or do something, especially falsely; (noun, PUR-port) the meaning or substance of something.
+  synonyms: [claim, profess, allege, pretend, gist]
+  antonyms: []
+  related: [purported, purportedly]
+  etymology: From Anglo-French purporter "to contain," from pur- "forth" + porter "to carry."
+  forms: [purported, purports, purporting, purportedly]
+
+- word: pusillanimous
+  pos: adjective
+  ipa: /ˌpjusəˈlænəməs/
+  phonetic: pyoo-suh-LAN-uh-mus
+  definition: Showing a lack of courage or determination; timid.
+  synonyms: [cowardly, timid, fainthearted, craven, spineless]
+  antonyms: [brave, courageous, intrepid]
+  related: [pusillanimity]
+  etymology: From Late Latin pusillanimis, from pusillus "very small" + animus "mind, spirit."
+  forms: [pusillanimity]
+
+- word: qualm
+  pos: noun
+  ipa: /kwɑm/
+  phonetic: KWAHM
+  definition: An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving.
+  synonyms: [misgiving, scruple, compunction, doubt, reservation]
+  antonyms: [confidence, assurance, certainty]
+  related: []
+  forms: [qualms]
+
+- word: quandary
+  pos: noun
+  ipa: /ˈkwɑndəri/
+  phonetic: KWON-duh-ree
+  definition: A state of perplexity or uncertainty over what to do in a difficult situation.
+  synonyms: [dilemma, predicament, plight, bind, impasse]
+  antonyms: [certainty, solution]
+  related: []
+  forms: [quandaries]
+
+- word: quell
+  pos: verb
+  ipa: /kwɛl/
+  phonetic: KWEL
+  definition: To put an end to a rebellion or disorder, typically by force; to subdue or suppress a feeling.
+  synonyms: [suppress, quash, subdue, crush, allay]
+  antonyms: [incite, provoke, foment]
+  related: []
+  etymology: From Old English cwellan "to kill."
+  forms: [quelled, quells, quelling]
+
+- word: quixotic
+  pos: adjective
+  ipa: /kwɪkˈsɑtɪk/
+  phonetic: kwik-SOT-ik
+  definition: Exceedingly idealistic; unrealistic and impractical in pursuit of noble but unattainable goals.
+  synonyms: [idealistic, impractical, romantic, visionary, utopian]
+  antonyms: [pragmatic, realistic, practical]
+  related: [quixotically]
+  etymology: From Don Quixote, the idealistic hero of Cervantes's 1605 novel.
+  forms: [quixotically]
+
+- word: rampant
+  pos: adjective
+  ipa: /ˈræmpənt/
+  phonetic: RAM-punt
+  definition: Flourishing or spreading unchecked, typically of something unwelcome.
+  synonyms: [unchecked, widespread, rife, uncontrolled, pervasive]
+  antonyms: [controlled, restrained, contained]
+  related: [rampantly]
+  etymology: From Old French rampant "climbing," present participle of ramper "to climb, crawl"; originally a heraldic term for a beast rearing on its hind legs.
+  forms: [rampantly]
+
+- word: ramification
+  pos: noun
+  ipa: /ˌræməfəˈkeɪʃən/
+  phonetic: ram-uh-fuh-KAY-shun
+  definition: A complex or unwelcome consequence of an action or event; a branching structure.
+  synonyms: [consequence, repercussion, implication, upshot, aftermath]
+  antonyms: [cause, origin]
+  related: [ramify]
+  etymology: From French ramification, from Medieval Latin ramificare "to form branches," from Latin ramus "branch."
+  forms: [ramifications]
+
+- word: rankle
+  pos: verb
+  ipa: /ˈræŋkəl/
+  phonetic: RANG-kul
+  definition: To cause persistent annoyance or resentment.
+  synonyms: [irk, gall, vex, irritate, nettle]
+  antonyms: [please, soothe, placate]
+  related: []
+  etymology: From Old French rancler "to fester," from Medieval Latin dracunculus "little dragon," a term for an ulcer.
+  forms: [rankled, rankles, rankling]
+
+- word: rapacious
+  pos: adjective
+  ipa: /rəˈpeɪʃəs/
+  phonetic: ruh-PAY-shus
+  definition: Aggressively greedy or grasping; predatory.
+  synonyms: [greedy, grasping, avaricious, predatory, voracious]
+  antonyms: [generous, content, sated]
+  related: [rapacity, rapaciously]
+  etymology: From Latin rapax "grasping," from rapere "to seize."
+  forms: [rapaciously, rapacity, rapaciousness]
+
+- word: rapt
+  pos: adjective
+  ipa: /ræpt/
+  phonetic: RAPT
+  definition: Completely fascinated or absorbed by what one is seeing or hearing.
+  synonyms: [engrossed, absorbed, enthralled, spellbound, captivated]
+  antonyms: [bored, inattentive, distracted]
+  related: [raptly, rapture]
+  etymology: From Latin raptus "seized, carried off," past participle of rapere "to seize."
+  forms: [raptly]
+
+- word: rarefied
+  pos: adjective
+  ipa: /ˈrɛrəfaɪd/
+  phonetic: RAIR-uh-fyde
+  definition: Esoteric or exclusive, distant from ordinary people's concerns; (of air) of lower pressure than usual; thin.
+  synonyms: [esoteric, exclusive, elevated, lofty, thin]
+  antonyms: [mundane, ordinary, dense]
+  related: [rarefy, rarefaction]
+  etymology: From "rarefy," from Latin rarefacere, from rarus "thin, rare" + facere "to make."
+
+- word: rash
+  pos: adjective
+  ipa: /ræʃ/
+  phonetic: RASH
+  definition: Acting or done without careful consideration of the possible consequences; impetuous.
+  synonyms: [reckless, impetuous, hasty, impulsive, foolhardy]
+  antonyms: [cautious, prudent, considered]
+  related: [rashly, rashness]
+  forms: [rashly, rashness]
+
+- word: raucous
+  pos: adjective
+  ipa: /ˈrɔkəs/
+  phonetic: RAW-kus
+  definition: Making or constituting a disturbingly harsh and loud noise; boisterous and disorderly.
+  synonyms: [harsh, strident, boisterous, rowdy, cacophonous]
+  antonyms: [quiet, soft, mellifluous]
+  related: [raucously]
+  etymology: From Latin raucus "hoarse."
+  forms: [raucously]
+
+- word: raze
+  pos: verb
+  ipa: /reɪz/
+  phonetic: RAYZ
+  definition: To completely destroy a building, town, or other site; to tear down to the ground.
+  synonyms: [demolish, level, flatten, destroy, bulldoze]
+  antonyms: [build, erect, construct]
+  related: []
+  etymology: From Old French raser "to shave close," from Latin radere "to scrape."
+  forms: [razed, razes, razing]
+
+- word: rebuff
+  pos: verb / noun
+  ipa: /rɪˈbʌf/
+  phonetic: rih-BUF
+  definition: To reject someone or something in an abrupt or ungracious manner; (noun) such a rejection.
+  synonyms: [reject, spurn, snub, repulse, refuse]
+  antonyms: [accept, welcome, embrace]
+  related: []
+  etymology: From obsolete French rebuffer, from Italian ribuffare "to reprimand."
+  forms: [rebuffed, rebuffs, rebuffing]
+
+- word: recapitulate
+  pos: verb
+  ipa: /ˌrikəˈpɪtʃəleɪt/
+  phonetic: ree-kuh-PICH-uh-layt
+  definition: To summarize and state again the main points of something.
+  synonyms: [summarize, restate, recap, review, reiterate]
+  antonyms: [elaborate, expand]
+  related: [recapitulation, recap]
+  etymology: From Late Latin recapitulare "to go over the main points again," from re- "again" + capitulum "chapter, heading."
+  forms: [recapitulated, recapitulates, recapitulating, recapitulation]
+
+- word: recondite
+  pos: adjective
+  ipa: /ˈrɛkəndaɪt/
+  phonetic: REK-un-dyte
+  definition: Little known; abstruse and understood only by specialists.
+  synonyms: [obscure, abstruse, arcane, esoteric, abstract]
+  antonyms: [well-known, simple, accessible]
+  related: []
+  etymology: From Latin reconditus "hidden, put away," past participle of recondere "to store away."
+
+- word: recourse
+  pos: noun
+  ipa: /ˈrikɔrs/
+  phonetic: REE-korss
+  definition: A source of help in a difficult situation; the use of someone or something as such a source.
+  synonyms: [resort, option, remedy, expedient, alternative]
+  antonyms: []
+  related: []
+  etymology: From Old French recours, from Latin recursus "a running back, return."
+
+- word: rectitude
+  pos: noun
+  ipa: /ˈrɛktɪtud/
+  phonetic: REK-tih-tood
+  definition: Morally correct behavior or thinking; righteousness.
+  synonyms: [righteousness, integrity, probity, uprightness, virtue]
+  antonyms: [immorality, dishonesty, turpitude]
+  related: []
+  etymology: From Late Latin rectitudo, from Latin rectus "straight, right."
+
+- word: redolent
+  pos: adjective
+  ipa: /ˈrɛdələnt/
+  phonetic: RED-uh-lunt
+  definition: Strongly reminiscent or suggestive of something; fragrant or strongly smelling of something.
+  synonyms: [evocative, reminiscent, suggestive, fragrant, aromatic]
+  antonyms: [odorless]
+  related: [redolence]
+  etymology: From Latin redolens, present participle of redolere "to emit a scent," from re- + olere "to smell."
+  forms: [redolence]
+
+- word: redoubtable
+  pos: adjective
+  ipa: /rɪˈdaʊtəbəl/
+  phonetic: rih-DOW-tuh-bul
+  definition: Formidable, especially as an opponent; worthy of respect or fear.
+  synonyms: [formidable, fearsome, impressive, indomitable, daunting]
+  antonyms: [weak, feeble, unimpressive]
+  related: [redoubtably]
+  etymology: From Old French redoutable, from redouter "to fear," from re- + douter "to doubt, fear."
+
+- word: redress
+  pos: verb / noun
+  ipa: /rɪˈdrɛs/
+  phonetic: rih-DRESS
+  definition: To remedy or set right an undesirable situation or wrong; (noun) remedy or compensation for a wrong.
+  synonyms: [rectify, remedy, correct, amend, compensation]
+  antonyms: [worsen, aggravate]
+  related: []
+  etymology: From Old French redresser "to set upright again," from re- + dresser "to straighten."
+  forms: [redressed, redresses, redressing]
+
+- word: refractory
+  pos: adjective
+  ipa: /rɪˈfræktəri/
+  phonetic: rih-FRAK-tuh-ree
+  definition: Stubborn or unmanageable; resistant to a process, treatment, or stimulus.
+  synonyms: [obstinate, recalcitrant, unruly, intractable, defiant]
+  antonyms: [obedient, docile, tractable]
+  related: [refractoriness]
+  etymology: From Latin refractarius "obstinate," from refringere "to break up."
+
+- word: refute
+  pos: verb
+  ipa: /rɪˈfjut/
+  phonetic: rih-FYOOT
+  definition: To prove a statement or theory to be wrong or false; to deny the accuracy of.
+  synonyms: [disprove, rebut, debunk, invalidate, discredit]
+  antonyms: [prove, confirm, substantiate]
+  related: [refutation, irrefutable]
+  etymology: From Latin refutare "to repel, rebut."
+  forms: [refuted, refutes, refuting, refutation]
+
+- word: regale
+  pos: verb
+  ipa: /rɪˈɡeɪl/
+  phonetic: rih-GAYL
+  definition: To entertain or amuse someone with talk; to lavishly supply with food or drink.
+  synonyms: [entertain, amuse, delight, divert, feast]
+  antonyms: [bore, weary]
+  related: []
+  etymology: From French régaler, from Old French gale "pleasure, merriment."
+  forms: [regaled, regales, regaling]
+
+- word: relegate
+  pos: verb
+  ipa: /ˈrɛləɡeɪt/
+  phonetic: REL-uh-gayt
+  definition: To consign or dismiss to an inferior rank or position.
+  synonyms: [demote, downgrade, consign, banish, sideline]
+  antonyms: [promote, elevate, upgrade]
+  related: [relegation]
+  etymology: From Latin relegare "to send away, banish," from re- "back" + legare "to send."
+  forms: [relegated, relegates, relegating, relegation]
+
+- word: relent
+  pos: verb
+  ipa: /rɪˈlɛnt/
+  phonetic: rih-LENT
+  definition: To abandon or moderate a harsh intention or cruel treatment; to become less severe or intense.
+  synonyms: [yield, soften, capitulate, ease, abate]
+  antonyms: [persist, intensify, harden]
+  related: [relentless, unrelenting]
+  forms: [relented, relents, relenting]
+
+- word: relish
+  pos: verb / noun
+  ipa: /ˈrɛlɪʃ/
+  phonetic: REL-ish
+  definition: To enjoy greatly or look forward to; (noun) great enjoyment or keen appreciation.
+  synonyms: [enjoy, savor, delight in, revel in, gusto]
+  antonyms: [dislike, loathe, distaste]
+  related: []
+  etymology: From Old French relais "remainder, something left behind," hence an aftertaste.
+  forms: [relished, relishes, relishing]
+
+- word: remedial
+  pos: adjective
+  ipa: /rɪˈmidiəl/
+  phonetic: rih-MEE-dee-ul
+  definition: Intended to correct or improve something; providing help for students with learning difficulties.
+  synonyms: [corrective, restorative, therapeutic, curative, reparative]
+  antonyms: [harmful, damaging]
+  related: [remedy, remediation]
+  etymology: From Late Latin remedialis, from Latin remedium "cure, remedy."
+
+- word: remiss
+  pos: adjective
+  ipa: /rɪˈmɪs/
+  phonetic: rih-MISS
+  definition: Lacking care or attention to duty; negligent.
+  synonyms: [negligent, careless, lax, neglectful, derelict]
+  antonyms: [careful, diligent, conscientious]
+  related: [remissness]
+  etymology: From Latin remissus "slack," past participle of remittere "to send back, slacken."
+
+- word: remonstrate
+  pos: verb
+  ipa: /ˈrɛmənstreɪt/
+  phonetic: REM-un-strayt
+  definition: To make a forcefully reproachful protest; to argue in protest or objection.
+  synonyms: [protest, object, expostulate, complain, reproach]
+  antonyms: [agree, approve, acquiesce]
+  related: [remonstrance, remonstration]
+  etymology: From Medieval Latin remonstrare "to demonstrate," from re- + monstrare "to show."
+  forms: [remonstrated, remonstrates, remonstrating]
+
+- word: remuneration
+  pos: noun
+  ipa: /rɪˌmjunəˈreɪʃən/
+  phonetic: rih-myoo-nuh-RAY-shun
+  definition: Money paid for work or a service; payment or compensation.
+  synonyms: [payment, compensation, pay, wages, recompense]
+  antonyms: []
+  related: [remunerate, remunerative]
+  etymology: From Latin remunerari "to reward," from re- + munus "gift, service."
+
+- word: renegade
+  pos: noun / adjective
+  ipa: /ˈrɛnəɡeɪd/
+  phonetic: REN-uh-gayd
+  definition: A person who deserts and betrays an organization, country, or set of principles; (adjective) having rejected established authority.
+  synonyms: [traitor, defector, turncoat, apostate, rebel]
+  antonyms: [loyalist, adherent, follower]
+  related: []
+  etymology: From Spanish renegado, from Medieval Latin renegare "to deny, renounce."
+  forms: [renegades]
+
+- word: reparation
+  pos: noun
+  ipa: /ˌrɛpəˈreɪʃən/
+  phonetic: rep-uh-RAY-shun
+  definition: The making of amends for a wrong one has done, by paying money or otherwise helping those wronged.
+  synonyms: [amends, restitution, compensation, redress, atonement]
+  antonyms: [injury, damage]
+  related: [repair, reparative]
+  etymology: From Late Latin reparatio, from reparare "to restore, repair."
+  forms: [reparations]
+
+- word: repartee
+  pos: noun
+  ipa: /ˌrɛpərˈti/
+  phonetic: rep-er-TEE
+  definition: Conversation or speech characterized by quick, witty comments or replies.
+  synonyms: [banter, badinage, wit, wordplay, raillery]
+  antonyms: []
+  related: []
+  etymology: From French repartie "a retort," from repartir "to reply promptly, set out again."
+
+- word: repast
+  pos: noun
+  ipa: /rɪˈpæst/
+  phonetic: rih-PAST
+  definition: A meal.
+  synonyms: [meal, feast, banquet, spread, collation]
+  antonyms: []
+  related: []
+  etymology: From Old French repast, from Late Latin repascere "to feed again," from Latin pascere "to feed."
+  forms: [repasts]
+
+- word: repentant
+  pos: adjective
+  ipa: /rɪˈpɛntənt/
+  phonetic: rih-PEN-tunt
+  definition: Expressing or feeling sincere regret and remorse.
+  synonyms: [penitent, contrite, remorseful, regretful, rueful]
+  antonyms: [unrepentant, impenitent, remorseless]
+  related: [repent, repentance]
+  etymology: From Old French repentant, present participle of repentir "to repent."
+  forms: [repentantly]
+
+- word: replete
+  pos: adjective
+  ipa: /rɪˈplit/
+  phonetic: rih-PLEET
+  definition: Filled or well supplied with something; very full, especially with food.
+  synonyms: [full, abundant, brimming, teeming, sated]
+  antonyms: [empty, lacking, deficient]
+  related: [repletion]
+  etymology: From Latin repletus, past participle of replere "to fill up."
+
+- word: reprehensible
+  pos: adjective
+  ipa: /ˌrɛprɪˈhɛnsəbəl/
+  phonetic: rep-rih-HEN-suh-bul
+  definition: Deserving censure or condemnation.
+  synonyms: [deplorable, blameworthy, culpable, disgraceful, shameful]
+  antonyms: [commendable, praiseworthy, laudable]
+  related: [reprehend, reprehensibly]
+  etymology: From Late Latin reprehensibilis, from Latin reprehendere "to hold back, rebuke."
+  forms: [reprehensibly]
+
+- word: reprieve
+  pos: noun / verb
+  ipa: /rɪˈpriv/
+  phonetic: rih-PREEV
+  definition: A cancellation or postponement of a punishment; a temporary relief; (verb) to grant such a delay or relief.
+  synonyms: [respite, stay, postponement, pardon, relief]
+  antonyms: []
+  related: []
+  forms: [reprieved, reprieves, reprieving]
+
+- word: reprisal
+  pos: noun
+  ipa: /rɪˈpraɪzəl/
+  phonetic: rih-PRY-zul
+  definition: An act of retaliation, especially one done in response to an injury or attack.
+  synonyms: [retaliation, revenge, retribution, vengeance, requital]
+  antonyms: [forgiveness, pardon]
+  related: []
+  etymology: From Anglo-French reprisaille, from Italian ripresaglia, from riprendere "to take back."
+  forms: [reprisals]
+
+- word: reproach
+  pos: verb / noun
+  ipa: /rɪˈproʊtʃ/
+  phonetic: rih-PROHCH
+  definition: To express disapproval of or disappointment in someone's actions; (noun) such an expression of disapproval.
+  synonyms: [rebuke, reprimand, censure, admonish, reprove]
+  antonyms: [praise, commend, approve]
+  related: [reproachful, irreproachable]
+  etymology: From Old French reprochier, probably from Vulgar Latin repropiare "to bring back near," from Latin prope "near."
+  forms: [reproached, reproaches, reproaching, reproachfully]
+
+- word: reprobate
+  pos: noun / adjective
+  ipa: /ˈrɛprəbeɪt/
+  phonetic: REP-ruh-bayt
+  definition: An unprincipled person, especially one who is morally depraved; (adjective) unprincipled.
+  synonyms: [scoundrel, rogue, villain, miscreant, degenerate]
+  antonyms: [saint, paragon]
+  related: [reprobation]
+  etymology: From Late Latin reprobatus "disapproved, rejected," from reprobare "to disapprove."
+  forms: [reprobates]
+
+- word: reprove
+  pos: verb
+  ipa: /rɪˈpruv/
+  phonetic: rih-PROOV
+  definition: To reprimand or censure someone, often gently.
+  synonyms: [reprimand, rebuke, admonish, chide, scold]
+  antonyms: [praise, commend, approve]
+  related: [reproof, reprovingly]
+  etymology: From Old French reprover, from Late Latin reprobare "to disapprove."
+  forms: [reproved, reproves, reproving, reprovingly]
+
+- word: repugnant
+  pos: adjective
+  ipa: /rɪˈpʌɡnənt/
+  phonetic: rih-PUG-nunt
+  definition: Extremely distasteful or unacceptable; contrary or incompatible with something.
+  synonyms: [abhorrent, repulsive, revolting, odious, offensive]
+  antonyms: [attractive, pleasant, agreeable]
+  related: [repugnance]
+  etymology: From Latin repugnans, present participle of repugnare "to fight against."
+  forms: [repugnance]
+
+- word: repulse
+  pos: verb / noun
+  ipa: /rɪˈpʌls/
+  phonetic: rih-PULS
+  definition: To drive back an attack or attacker by force; to rebuff or reject; to cause intense distaste.
+  synonyms: [repel, rebuff, rebuke, disgust, fend off]
+  antonyms: [attract, welcome, invite]
+  related: [repulsion, repulsive]
+  etymology: From Latin repulsus, past participle of repellere "to drive back."
+  forms: [repulsed, repulses, repulsing]
+
+- word: requisite
+  pos: adjective / noun
+  ipa: /ˈrɛkwəzɪt/
+  phonetic: REK-wuh-zit
+  definition: Made necessary by particular circumstances; required; (noun) a thing that is necessary.
+  synonyms: [necessary, required, essential, prerequisite, mandatory]
+  antonyms: [optional, unnecessary, superfluous]
+  related: [requisition, prerequisite]
+  etymology: From Latin requisitus, past participle of requirere "to seek, need."
+  forms: [requisites]
+
+- word: resolute
+  pos: adjective
+  ipa: /ˈrɛzəlut/
+  phonetic: REZ-uh-loot
+  definition: Admirably purposeful, determined, and unwavering.
+  synonyms: [determined, steadfast, unwavering, resolved, firm]
+  antonyms: [irresolute, wavering, hesitant]
+  related: [resolutely, resolution, resolve]
+  etymology: From Latin resolutus, past participle of resolvere "to loosen, release."
+  forms: [resolutely, resoluteness]
+
+- word: resonant
+  pos: adjective
+  ipa: /ˈrɛzənənt/
+  phonetic: REZ-uh-nunt
+  definition: (Of sound) deep, clear, and continuing to reverberate; evoking images, memories, or emotions.
+  synonyms: [reverberant, sonorous, booming, evocative, rich]
+  antonyms: [faint, thin, muted]
+  related: [resonance, resonate]
+  etymology: From Latin resonans, present participle of resonare "to resound."
+  forms: [resonance]
+
+- word: respite
+  pos: noun
+  ipa: /ˈrɛspɪt/
+  phonetic: RES-pit
+  definition: A short period of rest or relief from something difficult or unpleasant.
+  synonyms: [rest, break, reprieve, lull, relief]
+  antonyms: []
+  related: []
+  etymology: From Old French respit, from Latin respectus "regard, refuge."
+
+- word: resplendent
+  pos: adjective
+  ipa: /rɪˈsplɛndənt/
+  phonetic: rih-SPLEN-dunt
+  definition: Attractive and impressive through being richly colorful or sumptuous; dazzling.
+  synonyms: [splendid, dazzling, magnificent, brilliant, radiant]
+  antonyms: [drab, dull, dingy]
+  related: [resplendence, resplendently]
+  etymology: From Latin resplendens, present participle of resplendere "to shine brightly."
+  forms: [resplendently, resplendence]
+
+- word: restitution
+  pos: noun
+  ipa: /ˌrɛstɪˈtuʃən/
+  phonetic: res-tih-TOO-shun
+  definition: The restoration of something lost or stolen to its proper owner; compensation for loss or injury.
+  synonyms: [restoration, return, reparation, compensation, amends]
+  antonyms: []
+  related: []
+  etymology: From Latin restitutio, from restituere "to restore."
+
+- word: restive
+  pos: adjective
+  ipa: /ˈrɛstɪv/
+  phonetic: RES-tiv
+  definition: Unable to keep still or silent and becoming increasingly impatient or unruly; resistant to control.
+  synonyms: [restless, fidgety, impatient, unruly, recalcitrant]
+  antonyms: [calm, patient, docile]
+  related: [restiveness]
+  etymology: From Old French restif "stationary, balky," from rester "to remain"; originally of a horse refusing to move.
+  forms: [restiveness]
+
+- word: retribution
+  pos: noun
+  ipa: /ˌrɛtrəˈbjuʃən/
+  phonetic: ret-ruh-BYOO-shun
+  definition: Punishment inflicted on someone as vengeance for a wrong or criminal act.
+  synonyms: [vengeance, revenge, reprisal, retaliation, punishment]
+  antonyms: [forgiveness, pardon, mercy]
+  related: [retributive]
+  etymology: From Late Latin retributio, from retribuere "to repay," from re- "back" + tribuere "to assign."
+
+- word: retrograde
+  pos: adjective / verb
+  ipa: /ˈrɛtrəɡreɪd/
+  phonetic: RET-ruh-grayd
+  definition: Directed or moving backward; reverting to an earlier and inferior condition.
+  synonyms: [backward, regressive, retrogressive, reactionary, deteriorating]
+  antonyms: [progressive, forward, advancing]
+  related: [retrogression]
+  etymology: From Latin retrogradus, from retro "backward" + gradi "to step."
+
+- word: reverent
+  pos: adjective
+  ipa: /ˈrɛvərənt/
+  phonetic: REV-er-unt
+  definition: Feeling or showing deep and solemn respect.
+  synonyms: [respectful, deferential, devout, reverential, worshipful]
+  antonyms: [irreverent, disrespectful, scornful]
+  related: [reverence, revere, reverently]
+  etymology: From Latin reverens, present participle of revereri "to stand in awe of."
+  forms: [reverently]
+
+- word: revile
+  pos: verb
+  ipa: /rɪˈvaɪl/
+  phonetic: rih-VYLE
+  definition: To criticize in an abusive or angrily insulting manner.
+  synonyms: [denounce, vilify, berate, condemn, excoriate]
+  antonyms: [praise, laud, extol]
+  related: []
+  etymology: From Old French reviler "to treat as vile," from vil "vile."
+  forms: [reviled, reviles, reviling]
+
+- word: ribald
+  pos: adjective
+  ipa: /ˈrɪbəld/
+  phonetic: RIB-uld
+  definition: Referring to sexual matters in an amusingly rude or irreverent way.
+  synonyms: [bawdy, risque, lewd, vulgar, racy]
+  antonyms: [prudish, decorous, chaste]
+  related: [ribaldry]
+  forms: [ribaldry]
+
+- word: rife
+  pos: adjective
+  ipa: /raɪf/
+  phonetic: RYFE
+  definition: (Especially of something undesirable) widespread or common; full of something.
+  synonyms: [widespread, rampant, prevalent, teeming, abounding]
+  antonyms: [rare, scarce, uncommon]
+  related: []
+  etymology: From Old English rife "abundant."
+
+- word: rigor
+  pos: noun
+  ipa: /ˈrɪɡər/
+  phonetic: RIG-er
+  definition: The quality of being extremely thorough and careful; severity or strictness; harsh conditions.
+  synonyms: [thoroughness, meticulousness, strictness, severity, exactitude]
+  antonyms: [laxity, leniency, carelessness]
+  related: [rigorous, rigorously]
+  etymology: From Latin rigor "stiffness," from rigere "to be stiff."
+  forms: [rigors]
+
+- word: rotund
+  pos: adjective
+  ipa: /roʊˈtʌnd/
+  phonetic: roh-TUND
+  definition: Plump or round in shape; (of speech) sonorous and full-toned.
+  synonyms: [plump, round, portly, corpulent, stout]
+  antonyms: [thin, slender, gaunt]
+  related: [rotundity, rotunda]
+  etymology: From Latin rotundus "round," from rota "wheel."
+  forms: [rotundity]
+
+- word: rudimentary
+  pos: adjective
+  ipa: /ˌrudəˈmɛntəri/
+  phonetic: roo-duh-MEN-tuh-ree
+  definition: Involving or limited to basic principles; elementary; undeveloped or immature.
+  synonyms: [basic, elementary, fundamental, primitive, crude]
+  antonyms: [advanced, sophisticated, developed]
+  related: [rudiment, rudiments]
+  etymology: From "rudiment," from Latin rudimentum "first attempt, beginning," from rudis "unformed, rough."
+
+- word: rue
+  pos: verb
+  ipa: /ru/
+  phonetic: ROO
+  definition: To bitterly regret something one has done or allowed to happen.
+  synonyms: [regret, lament, repent, deplore, bemoan]
+  antonyms: [celebrate, welcome]
+  related: [rueful, ruefully]
+  etymology: From Old English hreowan "to make sorry, distress."
+  forms: [rued, rues, ruing]
+
+- word: ruminate
+  pos: verb
+  ipa: /ˈruməneɪt/
+  phonetic: ROO-muh-nayt
+  definition: To think deeply about something; (of an animal) to chew the cud.
+  synonyms: [ponder, contemplate, muse, brood, mull over]
+  antonyms: [ignore, disregard]
+  related: [rumination, ruminative, ruminant]
+  etymology: From Latin ruminari "to chew the cud," from rumen "throat, gullet."
+  forms: [ruminated, ruminates, ruminating, rumination]
+
+- word: ruse
+  pos: noun
+  ipa: /ruz/
+  phonetic: ROOZ
+  definition: An action intended to deceive someone; a trick.
+  synonyms: [trick, ploy, stratagem, subterfuge, wile]
+  antonyms: []
+  related: []
+  etymology: From Old French ruser "to drive back," used of a hunted animal doubling back to elude pursuers.
+  forms: [ruses]
+
+- word: salutary
+  pos: adjective
+  ipa: /ˈsæljətɛri/
+  phonetic: SAL-yuh-tair-ee
+  definition: (Especially of something unwelcome) producing good effects; beneficial; promoting health.
+  synonyms: [beneficial, wholesome, advantageous, healthful, useful]
+  antonyms: [harmful, deleterious, detrimental]
+  related: []
+  etymology: From Latin salutaris "healthful," from salus "health."
+
+- word: sanctimonious
+  pos: adjective
+  ipa: /ˌsæŋktəˈmoʊniəs/
+  phonetic: sangk-tuh-MOH-nee-us
+  definition: Making a show of being morally superior to other people; self-righteous.
+  synonyms: [self-righteous, holier-than-thou, pious, preachy, smug]
+  antonyms: [humble, modest, unassuming]
+  related: [sanctimony, sanctimoniously]
+  etymology: From Latin sanctimonia "holiness," from sanctus "holy."
+  forms: [sanctimoniously, sanctimoniousness]
+
+- word: sanguinary
+  pos: adjective
+  ipa: /ˈsæŋɡwəˌnɛri/
+  phonetic: SANG-gwuh-nair-ee
+  definition: Involving or causing much bloodshed; bloodthirsty.
+  synonyms: [bloody, bloodthirsty, murderous, savage, brutal]
+  antonyms: [peaceful, bloodless, humane]
+  related: [sanguine]
+  etymology: From Latin sanguinarius, from sanguis "blood."
+
+- word: satiate
+  pos: verb
+  ipa: /ˈseɪʃieɪt/
+  phonetic: SAY-shee-ayt
+  definition: To satisfy a desire or appetite fully, or to excess.
+  synonyms: [satisfy, sate, glut, fill, gorge]
+  antonyms: [starve, deprive]
+  related: [satiety, insatiable, satiation]
+  etymology: From Latin satiare "to fill full," from satis "enough."
+  forms: [satiated, satiates, satiating, satiation]
+
+- word: saturnine
+  pos: adjective
+  ipa: /ˈsætərnaɪn/
+  phonetic: SAT-er-nyne
+  definition: Slow and gloomy in temperament or mood; dark and brooding.
+  synonyms: [gloomy, morose, sullen, dour, melancholy]
+  antonyms: [cheerful, jovial, sunny]
+  related: []
+  etymology: From the planet Saturn, which astrologers believed made people born under it gloomy and sluggish.
+
+- word: savant
+  pos: noun
+  ipa: /səˈvɑnt/
+  phonetic: suh-VAHNT
+  definition: A learned person, especially a distinguished scientist or scholar; someone with exceptional ability in a specific field.
+  synonyms: [scholar, sage, intellectual, pundit, expert]
+  antonyms: [ignoramus, dunce]
+  related: []
+  etymology: From French savant "knowing," present participle of savoir "to know."
+  forms: [savants]
+
+- word: scant
+  pos: adjective / verb
+  ipa: /skænt/
+  phonetic: SKANT
+  definition: Barely sufficient or adequate; insufficient in amount; (verb) to provide grudgingly or deal with inadequately.
+  synonyms: [meager, scanty, sparse, insufficient, limited]
+  antonyms: [abundant, ample, plentiful]
+  related: [scanty, scantily]
+  etymology: From Old Norse skamt, neuter of skammr "short."
+
+- word: scathing
+  pos: adjective
+  ipa: /ˈskeɪðɪŋ/
+  phonetic: SKAY-thing
+  definition: Witheringly scornful or severely critical.
+  synonyms: [withering, caustic, scornful, biting, trenchant]
+  antonyms: [complimentary, laudatory, gentle]
+  related: [scathingly]
+  etymology: From "scathe" "to harm," from Old Norse skatha "to injure."
+  forms: [scathingly]
+
+- word: scintillate
+  pos: verb
+  ipa: /ˈsɪntəleɪt/
+  phonetic: SIN-tuh-layt
+  definition: To be brilliantly lively, witty, or clever; to emit flashes of light; sparkle.
+  synonyms: [sparkle, glitter, dazzle, coruscate, twinkle]
+  antonyms: [bore, dull]
+  related: [scintillating, scintilla, scintillation]
+  etymology: From Latin scintillare "to sparkle," from scintilla "spark."
+  forms: [scintillating, scintillated, scintillates]
+
+- word: scoff
+  pos: verb
+  ipa: /skɑf/
+  phonetic: SKOFF
+  definition: To speak to or about someone or something in a scornfully derisive or mocking way.
+  synonyms: [mock, deride, sneer, jeer, ridicule]
+  antonyms: [praise, respect, admire]
+  related: []
+  forms: [scoffed, scoffs, scoffing]
+
+- word: scourge
+  pos: noun / verb
+  ipa: /skɜrdʒ/
+  phonetic: SKURJ
+  definition: A person or thing that causes great trouble or suffering; a whip; (verb) to cause great suffering to.
+  synonyms: [bane, affliction, curse, plague, torment]
+  antonyms: [blessing, boon, godsend]
+  related: []
+  etymology: From Old French escorge "whip," from Latin ex- + corrigia "thong."
+  forms: [scourged, scourges, scourging]
+
+- word: sedition
+  pos: noun
+  ipa: /sɪˈdɪʃən/
+  phonetic: sih-DISH-un
+  definition: Conduct or speech inciting people to rebel against the authority of a state or monarch.
+  synonyms: [incitement, insurrection, subversion, rabble-rousing, mutiny]
+  antonyms: [loyalty, allegiance, obedience]
+  related: [seditious]
+  etymology: From Latin seditio "a going apart, civil discord," from sed- "apart" + itio "a going."
+
+- word: sedulous
+  pos: adjective
+  ipa: /ˈsɛdʒələs/
+  phonetic: SEJ-uh-lus
+  definition: Showing dedication and diligence; persevering and careful.
+  synonyms: [diligent, assiduous, industrious, painstaking, persevering]
+  antonyms: [lazy, careless, negligent]
+  related: [sedulously, sedulity]
+  etymology: From Latin sedulus "zealous, careful."
+  forms: [sedulously]
+
+- word: sententious
+  pos: adjective
+  ipa: /sɛnˈtɛnʃəs/
+  phonetic: sen-TEN-shus
+  definition: Given to moralizing in a pompous or affected manner; full of terse, pithy maxims.
+  synonyms: [moralizing, pompous, preachy, sanctimonious, aphoristic]
+  antonyms: [humble, unpretentious]
+  related: [sententiously]
+  etymology: From Latin sententiosus "full of meaning," from sententia "opinion, maxim."
+  forms: [sententiously, sententiousness]
+
+- word: sentient
+  pos: adjective
+  ipa: /ˈsɛnʃənt/
+  phonetic: SEN-shunt
+  definition: Able to perceive or feel things; conscious.
+  synonyms: [conscious, aware, feeling, perceptive, sensate]
+  antonyms: [insentient, unconscious, inanimate]
+  related: [sentience]
+  etymology: From Latin sentiens, present participle of sentire "to feel."
+  forms: [sentience]
+
+- word: sequester
+  pos: verb
+  ipa: /sɪˈkwɛstər/
+  phonetic: sih-KWES-ter
+  definition: To isolate or hide away; to take legal possession of assets until a debt is paid; to remove a gas, such as carbon, from the atmosphere.
+  synonyms: [isolate, seclude, segregate, confiscate, impound]
+  antonyms: [release, free]
+  related: [sequestration]
+  etymology: From Late Latin sequestrare "to give up for safekeeping," from sequester "trustee, depositary."
+  forms: [sequestered, sequesters, sequestering, sequestration]
+
+- word: servile
+  pos: adjective
+  ipa: /ˈsɜrvəl/
+  phonetic: SUR-vul
+  definition: Having or showing an excessive willingness to serve or please others; of or like a slave.
+  synonyms: [obsequious, sycophantic, fawning, subservient, slavish]
+  antonyms: [assertive, independent, domineering]
+  related: [servility]
+  etymology: From Latin servilis, from servus "slave."
+  forms: [servility]
+
+- word: shirk
+  pos: verb
+  ipa: /ʃɜrk/
+  phonetic: SHURK
+  definition: To avoid or neglect a duty or responsibility.
+  synonyms: [evade, dodge, avoid, neglect, sidestep]
+  antonyms: [fulfill, undertake, shoulder]
+  related: [shirker]
+  forms: [shirked, shirks, shirking]
+
+- word: sloth
+  pos: noun
+  ipa: /slɔθ/
+  phonetic: SLAWTH
+  definition: Reluctance to work or make an effort; laziness; also a slow-moving tropical mammal.
+  synonyms: [laziness, idleness, indolence, inertia, lethargy]
+  antonyms: [industry, diligence, energy]
+  related: [slothful]
+  etymology: From Middle English slouthe, from slow + -th.
+  forms: [slothful]
+
+- word: sobriety
+  pos: noun
+  ipa: /səˈbraɪəti/
+  phonetic: suh-BRY-uh-tee
+  definition: The state of being sober; the quality of being staid, serious, or sensible.
+  synonyms: [abstinence, temperance, seriousness, solemnity, gravity]
+  antonyms: [drunkenness, frivolity, levity]
+  related: [sober]
+  etymology: From Latin sobrietas, from sobrius "sober."
+
+- word: solicit
+  pos: verb
+  ipa: /səˈlɪsɪt/
+  phonetic: suh-LISS-it
+  definition: To ask for or try to obtain something from someone; to request earnestly.
+  synonyms: [request, seek, petition, entreat, canvass]
+  antonyms: [give, offer]
+  related: [solicitation]
+  etymology: From Latin sollicitare "to agitate, disturb," from sollicitus "anxious."
+  forms: [solicited, solicits, soliciting, solicitation]
+
+- word: solicitous
+  pos: adjective
+  ipa: /səˈlɪsɪtəs/
+  phonetic: suh-LISS-ih-tus
+  definition: Characterized by showing interest or concern; eager or anxious to do something.
+  synonyms: [attentive, concerned, caring, considerate, mindful]
+  antonyms: [unconcerned, indifferent, neglectful]
+  related: [solicitude, solicitously]
+  etymology: From Latin sollicitus "anxious, troubled."
+  forms: [solicitously, solicitude]
+
+- word: soliloquy
+  pos: noun
+  ipa: /səˈlɪləkwi/
+  phonetic: suh-LIL-uh-kwee
+  definition: An act of speaking one's thoughts aloud when alone, especially by a character in a play.
+  synonyms: [monologue, speech, address, oration, aside]
+  antonyms: [dialogue, conversation]
+  related: [soliloquize]
+  etymology: From Late Latin soliloquium, from solus "alone" + loqui "to speak."
+  forms: [soliloquies]
+
+- word: somnolent
+  pos: adjective
+  ipa: /ˈsɑmnələnt/
+  phonetic: SOM-nuh-lunt
+  definition: Sleepy or drowsy; causing or suggestive of sleep.
+  synonyms: [drowsy, sleepy, soporific, lethargic, torpid]
+  antonyms: [alert, awake, lively]
+  related: [somnolence]
+  etymology: From Latin somnolentus, from somnus "sleep."
+  forms: [somnolence]
+
+- word: sonorous
+  pos: adjective
+  ipa: /ˈsɑnərəs/
+  phonetic: SON-er-us
+  definition: (Of a sound) imposingly deep and full; (of speech) using imposing language.
+  synonyms: [resonant, rich, deep, booming, full-toned]
+  antonyms: [thin, shrill, faint]
+  related: [sonority, sonorously]
+  etymology: From Latin sonorus "resounding," from sonor "sound."
+  forms: [sonorously, sonority]
+
+- word: sophistry
+  pos: noun
+  ipa: /ˈsɑfɪstri/
+  phonetic: SOF-is-tree
+  definition: The use of clever but false arguments, especially with the intention of deceiving.
+  synonyms: [casuistry, fallacy, speciousness, equivocation, chicanery]
+  antonyms: [logic, sound reasoning]
+  related: [sophist, sophistical]
+  etymology: From "sophist," from Greek sophistes "expert, wise man," later applied to paid teachers of rhetoric criticized for specious reasoning.
+  forms: [sophistries]
+
+- word: sordid
+  pos: adjective
+  ipa: /ˈsɔrdɪd/
+  phonetic: SOR-did
+  definition: Involving ignoble actions and motives; morally vile; dirty or squalid.
+  synonyms: [sleazy, ignoble, base, squalid, seedy]
+  antonyms: [honorable, noble, wholesome]
+  related: [sordidness]
+  etymology: From Latin sordidus "dirty, foul," from sordes "dirt."
+  forms: [sordidness]
+
+- word: specious
+  pos: adjective
+  ipa: /ˈspiʃəs/
+  phonetic: SPEE-shus
+  definition: Superficially plausible but actually wrong; misleadingly attractive.
+  synonyms: [misleading, deceptive, spurious, fallacious, plausible]
+  antonyms: [valid, sound, genuine]
+  related: [speciously, speciousness]
+  etymology: From Latin speciosus "fair, beautiful," from species "appearance."
+  forms: [speciously, speciousness]
+
+- word: spurious
+  pos: adjective
+  ipa: /ˈspjʊriəs/
+  phonetic: SPYOOR-ee-us
+  definition: Not being what it purports to be; false or fake; (of reasoning) apparently but not actually valid.
+  synonyms: [bogus, fake, counterfeit, fallacious, specious]
+  antonyms: [genuine, authentic, valid]
+  related: [spuriously]
+  etymology: From Latin spurius "illegitimate, false."
+  forms: [spuriously, spuriousness]
+
+- word: spurn
+  pos: verb
+  ipa: /spɜrn/
+  phonetic: SPURN
+  definition: To reject with disdain or contempt.
+  synonyms: [reject, rebuff, scorn, snub, repudiate]
+  antonyms: [accept, welcome, embrace]
+  related: []
+  etymology: From Old English spurnan "to kick, reject."
+  forms: [spurned, spurns, spurning]

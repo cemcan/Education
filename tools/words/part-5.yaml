@@ -1,0 +1,1173 @@
+# GRE vocabulary, part 5. Examples are added by build_words.py; never write them here.
+words:
+- word: ignoble
+  pos: adjective
+  ipa: /ɪɡˈnoʊbəl/
+  phonetic: ig-NOH-bul
+  definition: Dishonorable, base, or shameful in character or purpose; of humble or low birth.
+  synonyms: [base, dishonorable, shameful, contemptible, mean]
+  antonyms: [noble, honorable, worthy]
+  related: [ignobly, ignobility]
+  etymology: From Latin ignobilis "unknown, low-born," from in- "not" + gnobilis, an old form of nobilis "noble, well-known."
+  forms: [ignobly]
+
+- word: ignominious
+  pos: adjective
+  ipa: /ˌɪɡnəˈmɪniəs/
+  phonetic: ig-nuh-MIN-ee-us
+  definition: Deserving or causing public disgrace or shame; humiliating.
+  synonyms: [disgraceful, humiliating, shameful, inglorious, degrading]
+  antonyms: [honorable, glorious, creditable]
+  related: [ignominy, ignominiously]
+  etymology: From Latin ignominia "disgrace," from in- "not" + nomen "name, reputation."
+  forms: [ignominiously]
+
+- word: illusory
+  pos: adjective
+  ipa: /ɪˈlusəri/
+  phonetic: ih-LOO-suh-ree
+  definition: Based on illusion; not real, though seeming to be.
+  synonyms: [illusive, deceptive, chimerical, unreal, fanciful]
+  antonyms: [real, genuine, actual]
+  related: [illusion, illusive]
+  etymology: From Latin illusorius "mocking," from illudere "to mock," from in- "against" + ludere "to play."
+
+- word: imbibe
+  pos: verb
+  ipa: /ɪmˈbaɪb/
+  phonetic: im-BYBE
+  definition: To drink, especially alcohol; to absorb or assimilate ideas or knowledge.
+  synonyms: [drink, consume, absorb, assimilate, take in]
+  antonyms: [abstain, reject]
+  related: [imbiber]
+  etymology: From Latin imbibere "to drink in," from in- "in" + bibere "to drink."
+  forms: [imbibed, imbibes, imbibing]
+
+- word: imbue
+  pos: verb
+  ipa: /ɪmˈbju/
+  phonetic: im-BYOO
+  definition: To inspire or permeate with a feeling, quality, or idea; to saturate with color or moisture.
+  synonyms: [infuse, permeate, instill, suffuse, pervade]
+  antonyms: [drain, empty]
+  related: []
+  etymology: From Latin imbuere "to wet, soak, stain."
+  forms: [imbued, imbues, imbuing]
+
+- word: immaculate
+  pos: adjective
+  ipa: /ɪˈmækjələt/
+  phonetic: ih-MAK-yuh-lit
+  definition: Perfectly clean, neat, or tidy; free from flaws or mistakes.
+  synonyms: [spotless, pristine, flawless, impeccable, unblemished]
+  antonyms: [dirty, flawed, sullied]
+  related: [immaculately]
+  etymology: From Latin immaculatus "unstained," from in- "not" + maculatus "spotted," from macula "spot."
+  forms: [immaculately]
+
+- word: immutable
+  pos: adjective
+  ipa: /ɪˈmjutəbəl/
+  phonetic: ih-MYOO-tuh-bul
+  definition: Unchanging over time or unable to be changed.
+  synonyms: [unchangeable, fixed, invariable, permanent, constant]
+  antonyms: [mutable, changeable, variable]
+  related: [immutability, immutably]
+  etymology: From Latin immutabilis, from in- "not" + mutabilis "changeable," from mutare "to change."
+  forms: [immutably, immutability]
+
+- word: impassive
+  pos: adjective
+  ipa: /ɪmˈpæsɪv/
+  phonetic: im-PASS-iv
+  definition: Not feeling or showing emotion.
+  synonyms: [expressionless, stolid, unemotional, deadpan, stoical]
+  antonyms: [expressive, emotional, demonstrative]
+  related: [impassively, impassivity]
+  forms: [impassively, impassivity]
+
+- word: impeccable
+  pos: adjective
+  ipa: /ɪmˈpɛkəbəl/
+  phonetic: im-PEK-uh-bul
+  definition: In accordance with the highest standards; faultless.
+  synonyms: [flawless, faultless, perfect, immaculate, exemplary]
+  antonyms: [flawed, imperfect, faulty]
+  related: [impeccably]
+  etymology: From Latin impeccabilis "not liable to sin," from in- "not" + peccare "to sin."
+  forms: [impeccably]
+
+- word: impediment
+  pos: noun
+  ipa: /ɪmˈpɛdəmənt/
+  phonetic: im-PED-uh-ment
+  definition: A hindrance or obstruction in doing something; a defect in speech, such as a stammer.
+  synonyms: [hindrance, obstacle, barrier, obstruction, encumbrance]
+  antonyms: [aid, help, advantage]
+  related: [impede]
+  etymology: From Latin impedimentum, from impedire "to shackle the feet," from in- "in" + pes, ped- "foot."
+  forms: [impediments]
+
+- word: impending
+  pos: adjective
+  ipa: /ɪmˈpɛndɪŋ/
+  phonetic: im-PEN-ding
+  definition: About to happen; imminent, often of something unwelcome.
+  synonyms: [imminent, looming, approaching, forthcoming, upcoming]
+  antonyms: [remote, distant]
+  related: [impend]
+  etymology: From Latin impendere "to hang over," from in- "upon" + pendere "to hang."
+
+- word: imperious
+  pos: adjective
+  ipa: /ɪmˈpɪriəs/
+  phonetic: im-PEER-ee-us
+  definition: Assuming power or authority without justification; arrogant and domineering.
+  synonyms: [domineering, overbearing, haughty, peremptory, high-handed]
+  antonyms: [humble, meek, submissive]
+  related: [imperiously, imperiousness]
+  etymology: From Latin imperiosus "commanding," from imperium "command, empire."
+  forms: [imperiously, imperiousness]
+
+- word: impertinent
+  pos: adjective
+  ipa: /ɪmˈpɜrtənənt/
+  phonetic: im-PUR-tuh-nent
+  definition: Not showing proper respect; rude; not pertinent or relevant.
+  synonyms: [insolent, impudent, rude, impolite, cheeky]
+  antonyms: [respectful, polite, courteous]
+  related: [impertinence, impertinently]
+  etymology: From Latin impertinens "not belonging," from in- "not" + pertinere "to relate to."
+  forms: [impertinently, impertinence]
+
+- word: imperturbable
+  pos: adjective
+  ipa: /ˌɪmpərˈtɜrbəbəl/
+  phonetic: im-per-TUR-buh-bul
+  definition: Unable to be upset or excited; calm and composed.
+  synonyms: [composed, unflappable, serene, placid, unruffled]
+  antonyms: [excitable, agitated, nervous]
+  related: [imperturbability, imperturbably]
+  etymology: From Latin imperturbabilis, from in- "not" + perturbare "to disturb greatly."
+  forms: [imperturbably, imperturbability]
+
+- word: impervious
+  pos: adjective
+  ipa: /ɪmˈpɜrviəs/
+  phonetic: im-PUR-vee-us
+  definition: Unable to be affected by something; not allowing fluid to pass through.
+  synonyms: [impenetrable, immune, resistant, unaffected, impermeable]
+  antonyms: [susceptible, vulnerable, permeable]
+  related: [imperviousness]
+  etymology: From Latin impervius "impassable," from in- "not" + per "through" + via "way."
+  forms: [imperviousness]
+
+- word: impetus
+  pos: noun
+  ipa: /ˈɪmpətəs/
+  phonetic: IM-puh-tus
+  definition: The force or energy with which something moves; a stimulus that makes something happen.
+  synonyms: [momentum, stimulus, impulse, catalyst, incentive]
+  antonyms: [deterrent, hindrance]
+  related: [impetuous]
+  etymology: From Latin impetus "assault, force," from impetere "to attack," from in- "toward" + petere "to seek."
+
+- word: impious
+  pos: adjective
+  ipa: /ˈɪmpiəs/
+  phonetic: IM-pee-us
+  definition: Showing a lack of respect for God or religion; lacking proper respect.
+  synonyms: [irreverent, ungodly, sacrilegious, profane, blasphemous]
+  antonyms: [pious, devout, reverent]
+  related: [impiety, impiously]
+  etymology: From Latin impius, from in- "not" + pius "dutiful, pious."
+  forms: [impiously]
+
+- word: implicate
+  pos: verb
+  ipa: /ˈɪmpləˌkeɪt/
+  phonetic: IM-pluh-kayt
+  definition: To show someone to be involved in a crime or wrongdoing; to imply as a consequence.
+  synonyms: [incriminate, involve, embroil, connect, inculpate]
+  antonyms: [exonerate, absolve, clear]
+  related: [implication]
+  etymology: From Latin implicare "to entangle, involve," from in- "in" + plicare "to fold."
+  forms: [implicated, implicates, implicating]
+
+- word: implicit
+  pos: adjective
+  ipa: /ɪmˈplɪsɪt/
+  phonetic: im-PLISS-it
+  definition: Implied though not plainly expressed; absolute and unquestioning, as in implicit trust.
+  synonyms: [implied, tacit, unspoken, understood, unstated]
+  antonyms: [explicit, stated, expressed]
+  related: [implicitly]
+  etymology: From Latin implicitus "entangled," a variant past participle of implicare "to fold in."
+  forms: [implicitly]
+
+- word: implore
+  pos: verb
+  ipa: /ɪmˈplɔr/
+  phonetic: im-PLOR
+  definition: To beg someone earnestly or desperately to do something.
+  synonyms: [beseech, entreat, beg, plead, supplicate]
+  antonyms: [demand, command]
+  related: [imploring, imploringly]
+  etymology: From Latin implorare "to invoke with tears," from in- "toward" + plorare "to weep, cry out."
+  forms: [implored, implores, imploring, imploringly]
+
+- word: impregnable
+  pos: adjective
+  ipa: /ɪmˈprɛɡnəbəl/
+  phonetic: im-PREG-nuh-bul
+  definition: Unable to be captured or broken into; unable to be challenged or overcome.
+  synonyms: [invulnerable, unassailable, impenetrable, invincible, unconquerable]
+  antonyms: [vulnerable, assailable, defenseless]
+  related: [impregnability]
+  etymology: From Old French imprenable, from in- "not" + prenable "able to be taken," from prendre "to take."
+  forms: [impregnability]
+
+- word: impromptu
+  pos: adjective / adverb
+  ipa: /ɪmˈprɑmptu/
+  phonetic: im-PROMP-too
+  definition: Done without being planned or rehearsed; spontaneous.
+  synonyms: [improvised, spontaneous, unrehearsed, extemporaneous, offhand]
+  antonyms: [planned, rehearsed, prepared]
+  related: []
+  etymology: From Latin in promptu "in readiness," from promptus "readiness."
+
+- word: improvident
+  pos: adjective
+  ipa: /ɪmˈprɑvədənt/
+  phonetic: im-PROV-ih-dent
+  definition: Not having or showing foresight; spendthrift or thoughtless about future needs.
+  synonyms: [spendthrift, profligate, thriftless, wasteful, shortsighted]
+  antonyms: [provident, thrifty, prudent]
+  related: [improvidence, improvidently]
+  etymology: From Latin in- "not" + providens "foreseeing," from providere "to see ahead."
+  forms: [improvidently, improvidence]
+
+- word: impudent
+  pos: adjective
+  ipa: /ˈɪmpjədənt/
+  phonetic: IM-pyuh-dent
+  definition: Not showing due respect for another person; impertinent and shameless.
+  synonyms: [impertinent, insolent, brazen, cheeky, audacious]
+  antonyms: [respectful, polite, deferential]
+  related: [impudence, impudently]
+  etymology: From Latin impudens "shameless," from in- "not" + pudens "ashamed," from pudere "to be ashamed."
+  forms: [impudently, impudence]
+
+- word: impunity
+  pos: noun
+  ipa: /ɪmˈpjunəti/
+  phonetic: im-PYOO-nih-tee
+  definition: Exemption from punishment or freedom from the harmful consequences of an action.
+  synonyms: [immunity, exemption, license, freedom, dispensation]
+  antonyms: [liability, accountability, culpability]
+  related: []
+  etymology: From Latin impunitas, from impunis "unpunished," from in- "not" + poena "penalty."
+
+- word: inadvertent
+  pos: adjective
+  ipa: /ˌɪnədˈvɜrtənt/
+  phonetic: in-ud-VUR-tent
+  definition: Not resulting from or achieved through deliberate planning; unintentional.
+  synonyms: [unintentional, accidental, unwitting, involuntary, careless]
+  antonyms: [deliberate, intentional, purposeful]
+  related: [inadvertently, inadvertence]
+  etymology: From Latin in- "not" + advertere "to turn toward," hence "not paying attention."
+  forms: [inadvertently, inadvertence]
+
+- word: inane
+  pos: adjective
+  ipa: /ɪˈneɪn/
+  phonetic: ih-NAYN
+  definition: Silly; lacking sense or meaning.
+  synonyms: [silly, fatuous, vacuous, senseless, asinine]
+  antonyms: [sensible, meaningful, profound]
+  related: [inanity, inanely]
+  etymology: From Latin inanis "empty, vain."
+  forms: [inanely, inanity, inanities]
+
+- word: inarticulate
+  pos: adjective
+  ipa: /ˌɪnɑrˈtɪkjələt/
+  phonetic: in-ar-TIK-yuh-lit
+  definition: Unable to express one's ideas or feelings clearly or fluently; not expressed in words.
+  synonyms: [tongue-tied, incoherent, unintelligible, mumbling, faltering]
+  antonyms: [articulate, eloquent, fluent]
+  related: [inarticulately, inarticulateness]
+  forms: [inarticulately, inarticulateness]
+
+- word: incandescent
+  pos: adjective
+  ipa: /ˌɪnkənˈdɛsənt/
+  phonetic: in-kun-DESS-ent
+  definition: Emitting light as a result of being heated; full of strong emotion, passionate or brilliant.
+  synonyms: [glowing, luminous, radiant, brilliant, ardent]
+  antonyms: [dull, dim, lackluster]
+  related: [incandescence]
+  etymology: From Latin incandescere "to begin to glow," from in- "in" + candescere, from candere "to be white, shine."
+  forms: [incandescence]
+
+- word: incense
+  pos: verb
+  ipa: /ɪnˈsɛns/
+  phonetic: in-SENS
+  definition: To make very angry; enrage.
+  synonyms: [enrage, infuriate, anger, provoke, inflame]
+  antonyms: [placate, pacify, soothe]
+  related: []
+  etymology: From Latin incendere "to set on fire," the same source as the noun "incense" for fragrant smoke.
+  forms: [incensed, incenses, incensing]
+
+- word: incessant
+  pos: adjective
+  ipa: /ɪnˈsɛsənt/
+  phonetic: in-SESS-ent
+  definition: Continuing without pause or interruption, often annoyingly so.
+  synonyms: [ceaseless, unceasing, constant, relentless, perpetual]
+  antonyms: [intermittent, sporadic, occasional]
+  related: [incessantly]
+  etymology: From Latin incessans, from in- "not" + cessare "to cease."
+  forms: [incessantly]
+
+- word: incipient
+  pos: adjective
+  ipa: /ɪnˈsɪpiənt/
+  phonetic: in-SIP-ee-ent
+  definition: In an initial stage; beginning to happen or develop.
+  synonyms: [nascent, emerging, inchoate, budding, embryonic]
+  antonyms: [mature, developed, advanced]
+  related: [incipience]
+  etymology: From Latin incipere "to begin," from in- "into" + capere "to take."
+
+- word: incisive
+  pos: adjective
+  ipa: /ɪnˈsaɪsɪv/
+  phonetic: in-SY-siv
+  definition: Intelligently analytical and clear-thinking; sharp and direct.
+  synonyms: [penetrating, perceptive, acute, astute, trenchant]
+  antonyms: [vague, dull, muddled]
+  related: [incisively, incisiveness]
+  etymology: From Medieval Latin incisivus, from Latin incidere "to cut into."
+  forms: [incisively, incisiveness]
+
+- word: incite
+  pos: verb
+  ipa: /ɪnˈsaɪt/
+  phonetic: in-SYTE
+  definition: To encourage or stir up violent or unlawful behavior; to urge or provoke someone to act.
+  synonyms: [provoke, instigate, foment, stir up, goad]
+  antonyms: [deter, discourage, quell]
+  related: [incitement]
+  etymology: From Latin incitare "to set in rapid motion," from in- "on" + citare "to rouse."
+  forms: [incited, incites, inciting, incitement]
+
+- word: inclement
+  pos: adjective
+  ipa: /ɪnˈklɛmənt/
+  phonetic: in-KLEM-ent
+  definition: Of weather, unpleasantly cold or wet; harsh or unmerciful.
+  synonyms: [stormy, harsh, severe, foul, rough]
+  antonyms: [fine, mild, clement]
+  related: [inclemency]
+  etymology: From Latin inclemens, from in- "not" + clemens "mild, merciful."
+  forms: [inclemency]
+
+- word: incoherent
+  pos: adjective
+  ipa: /ˌɪnkoʊˈhɪrənt/
+  phonetic: in-koh-HEER-ent
+  definition: Expressed in a confused or unclear way; lacking logical connection or consistency.
+  synonyms: [unintelligible, confused, disjointed, rambling, muddled]
+  antonyms: [coherent, lucid, articulate]
+  related: [incoherence, incoherently]
+  forms: [incoherently, incoherence]
+
+- word: incorrigible
+  pos: adjective
+  ipa: /ɪnˈkɔrɪdʒəbəl/
+  phonetic: in-KOR-ij-uh-bul
+  definition: Not able to be corrected, improved, or reformed.
+  synonyms: [incurable, inveterate, hopeless, irredeemable, hardened]
+  antonyms: [reformable, correctable, manageable]
+  related: [incorrigibly]
+  etymology: From Latin incorrigibilis, from in- "not" + corrigere "to correct."
+  forms: [incorrigibly]
+
+- word: incredulous
+  pos: adjective
+  ipa: /ɪnˈkrɛdʒələs/
+  phonetic: in-KREJ-uh-lus
+  definition: Unwilling or unable to believe something; showing disbelief.
+  synonyms: [disbelieving, skeptical, doubtful, dubious, unconvinced]
+  antonyms: [credulous, believing, trusting]
+  related: [incredulity, incredulously]
+  etymology: From Latin incredulus, from in- "not" + credulus "believing," from credere "to believe."
+  forms: [incredulously, incredulity]
+
+- word: inculcate
+  pos: verb
+  ipa: /ɪnˈkʌlˌkeɪt/
+  phonetic: in-KUL-kayt
+  definition: To instill an idea, attitude, or habit by persistent instruction or repetition.
+  synonyms: [instill, implant, ingrain, impress, indoctrinate]
+  antonyms: []
+  related: [inculcation]
+  etymology: From Latin inculcare "to tread in, press in," from in- "into" + calcare "to tread," from calx "heel."
+  forms: [inculcated, inculcates, inculcating, inculcation]
+
+- word: indefatigable
+  pos: adjective
+  ipa: /ˌɪndɪˈfætɪɡəbəl/
+  phonetic: in-dih-FAT-ig-uh-bul
+  definition: Persisting tirelessly; incapable of being fatigued.
+  synonyms: [tireless, untiring, unflagging, relentless, persevering]
+  antonyms: [lazy, flagging, weary]
+  related: [indefatigably]
+  etymology: From Latin indefatigabilis, from in- "not" + defatigare "to wear out."
+  forms: [indefatigably]
+
+- word: indelible
+  pos: adjective
+  ipa: /ɪnˈdɛləbəl/
+  phonetic: in-DEL-uh-bul
+  definition: Not able to be forgotten or removed; making marks that cannot be erased.
+  synonyms: [permanent, ineradicable, lasting, enduring, ingrained]
+  antonyms: [erasable, temporary, fleeting]
+  related: [indelibly]
+  etymology: From Latin indelebilis, from in- "not" + delebilis "able to be destroyed," from delere "to destroy, blot out."
+  forms: [indelibly]
+
+- word: indigent
+  pos: adjective / noun
+  ipa: /ˈɪndɪdʒənt/
+  phonetic: IN-dih-jent
+  definition: Poor; needy; a needy person.
+  synonyms: [impoverished, destitute, penniless, needy, impecunious]
+  antonyms: [wealthy, affluent, rich]
+  related: [indigence]
+  etymology: From Latin indigens, present participle of indigere "to lack, need."
+  forms: [indigence]
+
+- word: indignant
+  pos: adjective
+  ipa: /ɪnˈdɪɡnənt/
+  phonetic: in-DIG-nent
+  definition: Feeling or showing anger at what is perceived as unfair treatment.
+  synonyms: [aggrieved, resentful, offended, outraged, affronted]
+  antonyms: [pleased, content, satisfied]
+  related: [indignation, indignantly]
+  etymology: From Latin indignari "to regard as unworthy," from in- "not" + dignus "worthy."
+  forms: [indignantly, indignation]
+
+- word: indiscriminate
+  pos: adjective
+  ipa: /ˌɪndɪˈskrɪmənət/
+  phonetic: in-dih-SKRIM-ih-nit
+  definition: Done at random or without careful judgment; not distinguishing between things.
+  synonyms: [random, wholesale, undiscriminating, unselective, haphazard]
+  antonyms: [selective, discriminating, careful]
+  related: [indiscriminately]
+  forms: [indiscriminately]
+
+- word: indomitable
+  pos: adjective
+  ipa: /ɪnˈdɑmɪtəbəl/
+  phonetic: in-DOM-ih-tuh-bul
+  definition: Impossible to subdue or defeat.
+  synonyms: [invincible, unconquerable, unyielding, resolute, steadfast]
+  antonyms: [yielding, submissive, weak]
+  related: [indomitably]
+  etymology: From Late Latin indomitabilis, from in- "not" + domitare "to tame."
+  forms: [indomitably]
+
+- word: indubitable
+  pos: adjective
+  ipa: /ɪnˈdubɪtəbəl/
+  phonetic: in-DOO-bih-tuh-bul
+  definition: Impossible to doubt; unquestionable.
+  synonyms: [unquestionable, undeniable, indisputable, incontrovertible, certain]
+  antonyms: [doubtful, questionable, dubious]
+  related: [indubitably]
+  etymology: From Latin indubitabilis, from in- "not" + dubitare "to doubt."
+  forms: [indubitably]
+
+- word: ineffectual
+  pos: adjective
+  ipa: /ˌɪnɪˈfɛktʃuəl/
+  phonetic: in-ih-FEK-choo-ul
+  definition: Not producing any or the desired effect; lacking the ability to fulfill a role.
+  synonyms: [ineffective, futile, unavailing, feeble, inadequate]
+  antonyms: [effective, efficacious, competent]
+  related: [ineffectually]
+  forms: [ineffectually]
+
+- word: inept
+  pos: adjective
+  ipa: /ɪˈnɛpt/
+  phonetic: ih-NEPT
+  definition: Having or showing no skill; clumsy; not suitable to the occasion.
+  synonyms: [incompetent, clumsy, bungling, maladroit, inexpert]
+  antonyms: [adept, skillful, competent]
+  related: [ineptitude, ineptly]
+  etymology: From Latin ineptus "unsuited, foolish," from in- "not" + aptus "fitted."
+  forms: [ineptly, ineptitude]
+
+- word: inert
+  pos: adjective
+  ipa: /ɪˈnɜrt/
+  phonetic: ih-NURT
+  definition: Lacking the ability or strength to move; sluggish; chemically inactive.
+  synonyms: [inactive, motionless, sluggish, torpid, lifeless]
+  antonyms: [active, lively, reactive]
+  related: [inertia, inertness]
+  etymology: From Latin iners "unskilled, idle," from in- "without" + ars "skill."
+  forms: [inertness]
+
+- word: infallible
+  pos: adjective
+  ipa: /ɪnˈfæləbəl/
+  phonetic: in-FAL-uh-bul
+  definition: Incapable of making mistakes or being wrong; never failing.
+  synonyms: [unerring, faultless, flawless, foolproof, reliable]
+  antonyms: [fallible, flawed, unreliable]
+  related: [infallibility, infallibly]
+  etymology: From Medieval Latin infallibilis, from in- "not" + fallere "to deceive."
+  forms: [infallibly, infallibility]
+
+- word: infamy
+  pos: noun
+  ipa: /ˈɪnfəmi/
+  phonetic: IN-fuh-mee
+  definition: The state of being well known for some bad quality or deed; an evil or wicked act.
+  synonyms: [notoriety, disrepute, disgrace, ignominy, dishonor]
+  antonyms: [honor, esteem, renown]
+  related: [infamous]
+  etymology: From Latin infamia, from in- "not" + fama "reputation."
+
+- word: infinitesimal
+  pos: adjective
+  ipa: /ˌɪnfɪnɪˈtɛsəməl/
+  phonetic: in-fin-ih-TESS-ih-mul
+  definition: Extremely small.
+  synonyms: [minuscule, minute, tiny, negligible, microscopic]
+  antonyms: [enormous, vast, immense]
+  related: [infinitesimally]
+  etymology: From Modern Latin infinitesimus, formed from Latin infinitus "infinite."
+  forms: [infinitesimally]
+
+- word: ingrained
+  pos: adjective
+  ipa: /ɪnˈɡreɪnd/
+  phonetic: in-GRAYND
+  definition: Of a habit or belief, firmly fixed or established and difficult to change.
+  synonyms: [entrenched, deep-rooted, inveterate, ingrown, embedded]
+  antonyms: [superficial, shallow, transient]
+  related: [ingrain]
+  forms: []
+
+- word: ingratiate
+  pos: verb
+  ipa: /ɪnˈɡreɪʃiˌeɪt/
+  phonetic: in-GRAY-shee-ayt
+  definition: To bring oneself into favor with someone by flattering or trying to please them.
+  synonyms: [curry favor, toady, fawn, flatter, insinuate]
+  antonyms: [alienate, offend, estrange]
+  related: [ingratiating, ingratiatingly]
+  etymology: From Latin in gratiam "into favor," from gratia "grace, favor."
+  forms: [ingratiated, ingratiates, ingratiating, ingratiatingly]
+
+- word: inimical
+  pos: adjective
+  ipa: /ɪˈnɪmɪkəl/
+  phonetic: ih-NIM-ih-kul
+  definition: Tending to obstruct or harm; unfriendly or hostile.
+  synonyms: [harmful, detrimental, hostile, adverse, antagonistic]
+  antonyms: [favorable, beneficial, friendly]
+  related: [inimically]
+  etymology: From Latin inimicalis, from inimicus "enemy," from in- "not" + amicus "friend."
+  forms: [inimically]
+
+- word: iniquity
+  pos: noun
+  ipa: /ɪˈnɪkwəti/
+  phonetic: ih-NIK-wih-tee
+  definition: Immoral or grossly unfair behavior; wickedness; a sinful act.
+  synonyms: [wickedness, sin, injustice, evil, villainy]
+  antonyms: [virtue, righteousness, justice]
+  related: [iniquitous]
+  etymology: From Latin iniquitas "unfairness," from iniquus, from in- "not" + aequus "equal, just."
+  forms: [iniquities]
+
+- word: innate
+  pos: adjective
+  ipa: /ɪˈneɪt/
+  phonetic: ih-NAYT
+  definition: Inborn; natural; existing in someone or something from the start rather than acquired.
+  synonyms: [inborn, inherent, intrinsic, native, congenital]
+  antonyms: [acquired, learned, extrinsic]
+  related: [innately]
+  etymology: From Latin innatus, past participle of innasci "to be born in," from in- "in" + nasci "to be born."
+  forms: [innately]
+
+- word: innocuous
+  pos: adjective
+  ipa: /ɪˈnɑkjuəs/
+  phonetic: ih-NOK-yoo-us
+  definition: Not harmful or offensive; inoffensive and unlikely to provoke strong feelings.
+  synonyms: [harmless, inoffensive, benign, innocent, bland]
+  antonyms: [harmful, noxious, offensive]
+  related: [innocuously]
+  etymology: From Latin innocuus, from in- "not" + nocuus "harmful," from nocere "to hurt."
+  forms: [innocuously]
+
+- word: innuendo
+  pos: noun
+  ipa: /ˌɪnjuˈɛndoʊ/
+  phonetic: in-yoo-EN-doh
+  definition: An indirect or subtle remark, typically suggestive or disparaging.
+  synonyms: [insinuation, implication, intimation, aspersion, hint]
+  antonyms: []
+  related: []
+  etymology: From Latin innuendo "by nodding at, by intimating," ablative gerund of innuere "to nod to."
+  forms: [innuendoes, innuendos]
+
+- word: inordinate
+  pos: adjective
+  ipa: /ɪnˈɔrdənət/
+  phonetic: in-OR-dih-nit
+  definition: Unusually or disproportionately large; excessive.
+  synonyms: [excessive, undue, disproportionate, immoderate, unreasonable]
+  antonyms: [moderate, reasonable, modest]
+  related: [inordinately]
+  etymology: From Latin inordinatus "disordered," from in- "not" + ordinare "to arrange."
+  forms: [inordinately]
+
+- word: insatiable
+  pos: adjective
+  ipa: /ɪnˈseɪʃəbəl/
+  phonetic: in-SAY-shuh-bul
+  definition: Impossible to satisfy.
+  synonyms: [unquenchable, voracious, ravenous, greedy, rapacious]
+  antonyms: [satiable, satisfied, sated]
+  related: [insatiably]
+  etymology: From Latin insatiabilis, from in- "not" + satiare "to satisfy," from satis "enough."
+  forms: [insatiably]
+
+- word: inscrutable
+  pos: adjective
+  ipa: /ɪnˈskrutəbəl/
+  phonetic: in-SKROO-tuh-bul
+  definition: Impossible to understand or interpret; mysterious.
+  synonyms: [enigmatic, impenetrable, cryptic, unfathomable, mysterious]
+  antonyms: [transparent, clear, comprehensible]
+  related: [inscrutability, inscrutably]
+  etymology: From Late Latin inscrutabilis, from in- "not" + scrutari "to search, examine."
+  forms: [inscrutably, inscrutability]
+
+- word: insidious
+  pos: adjective
+  ipa: /ɪnˈsɪdiəs/
+  phonetic: in-SID-ee-us
+  definition: Proceeding in a gradual, subtle way but with harmful effects.
+  synonyms: [stealthy, subtle, treacherous, surreptitious, pernicious]
+  antonyms: [overt, open, straightforward]
+  related: [insidiously, insidiousness]
+  etymology: From Latin insidiosus "cunning," from insidiae "ambush," from insidere "to sit in, lie in wait."
+  forms: [insidiously, insidiousness]
+
+- word: insinuate
+  pos: verb
+  ipa: /ɪnˈsɪnjuˌeɪt/
+  phonetic: in-SIN-yoo-ayt
+  definition: To suggest or hint something bad in an indirect way; to work oneself into favor or a position by subtle means.
+  synonyms: [imply, intimate, suggest, hint, allude]
+  antonyms: [state, declare]
+  related: [insinuation]
+  etymology: From Latin insinuare "to bring in by winding," from in- "in" + sinus "curve, fold."
+  forms: [insinuated, insinuates, insinuating, insinuation]
+
+- word: insolent
+  pos: adjective
+  ipa: /ˈɪnsələnt/
+  phonetic: IN-suh-lent
+  definition: Showing a rude and arrogant lack of respect.
+  synonyms: [impertinent, impudent, rude, contemptuous, insulting]
+  antonyms: [respectful, polite, deferential]
+  related: [insolence, insolently]
+  etymology: From Latin insolens "unaccustomed, arrogant," from in- "not" + solere "to be accustomed."
+  forms: [insolently, insolence]
+
+- word: insular
+  pos: adjective
+  ipa: /ˈɪnsələr/
+  phonetic: IN-suh-ler
+  definition: Ignorant of or uninterested in cultures, ideas, or people outside one's own experience; relating to an island.
+  synonyms: [parochial, narrow-minded, provincial, isolated, inward-looking]
+  antonyms: [cosmopolitan, broad-minded, worldly]
+  related: [insularity]
+  etymology: From Late Latin insularis, from insula "island."
+  forms: [insularity]
+
+- word: insurmountable
+  pos: adjective
+  ipa: /ˌɪnsərˈmaʊntəbəl/
+  phonetic: in-ser-MOWN-tuh-bul
+  definition: Too great to be overcome.
+  synonyms: [insuperable, overwhelming, unconquerable, impassable, hopeless]
+  antonyms: [surmountable, manageable, conquerable]
+  related: [insurmountably]
+  forms: [insurmountably]
+
+- word: intercede
+  pos: verb
+  ipa: /ˌɪntərˈsid/
+  phonetic: in-ter-SEED
+  definition: To intervene on behalf of another; to mediate in a dispute.
+  synonyms: [intervene, mediate, arbitrate, plead, intermediate]
+  antonyms: []
+  related: [intercession]
+  etymology: From Latin intercedere "to come between," from inter- "between" + cedere "to go."
+  forms: [interceded, intercedes, interceding, intercession]
+
+- word: interminable
+  pos: adjective
+  ipa: /ɪnˈtɜrmənəbəl/
+  phonetic: in-TUR-mih-nuh-bul
+  definition: Endless or apparently endless, often tediously so.
+  synonyms: [endless, unending, ceaseless, protracted, tedious]
+  antonyms: [brief, short, finite]
+  related: [interminably]
+  etymology: From Late Latin interminabilis, from in- "not" + terminare "to limit," from terminus "boundary."
+  forms: [interminably]
+
+- word: intermittent
+  pos: adjective
+  ipa: /ˌɪntərˈmɪtənt/
+  phonetic: in-ter-MIT-ent
+  definition: Occurring at irregular intervals; not continuous or steady.
+  synonyms: [sporadic, periodic, fitful, irregular, spasmodic]
+  antonyms: [continuous, constant, incessant]
+  related: [intermittently]
+  etymology: From Latin intermittere "to leave off, interrupt," from inter- "between" + mittere "to let go."
+  forms: [intermittently]
+
+- word: intractable
+  pos: adjective
+  ipa: /ɪnˈtræktəbəl/
+  phonetic: in-TRAK-tuh-bul
+  definition: Hard to control, deal with, or solve; stubborn.
+  synonyms: [unmanageable, stubborn, obstinate, refractory, intransigent]
+  antonyms: [tractable, manageable, docile]
+  related: [intractability]
+  etymology: From Latin intractabilis, from in- "not" + tractabilis "manageable," from tractare "to handle."
+  forms: [intractability]
+
+- word: intricate
+  pos: adjective
+  ipa: /ˈɪntrɪkət/
+  phonetic: IN-trih-kit
+  definition: Very complicated or detailed, with many interrelated parts.
+  synonyms: [complex, elaborate, involved, convoluted, labyrinthine]
+  antonyms: [simple, plain, straightforward]
+  related: [intricacy, intricately]
+  etymology: From Latin intricatus "entangled," from intricare, from in- "in" + tricae "perplexities."
+  forms: [intricately, intricacy, intricacies]
+
+- word: intrinsic
+  pos: adjective
+  ipa: /ɪnˈtrɪnzɪk/
+  phonetic: in-TRIN-zik
+  definition: Belonging naturally; essential to the nature of a thing.
+  synonyms: [inherent, innate, essential, fundamental, inborn]
+  antonyms: [extrinsic, extraneous, acquired]
+  related: [intrinsically]
+  etymology: From Latin intrinsecus "inwardly, on the inside."
+  forms: [intrinsically]
+
+- word: inure
+  pos: verb
+  ipa: /ɪˈnjʊr/
+  phonetic: ih-NYOOR
+  definition: To accustom someone to something, especially something unpleasant, so they cease to be affected.
+  synonyms: [habituate, harden, accustom, desensitize, toughen]
+  antonyms: [sensitize, soften]
+  related: []
+  forms: [inured, inures, inuring]
+
+- word: invective
+  pos: noun
+  ipa: /ɪnˈvɛktɪv/
+  phonetic: in-VEK-tiv
+  definition: Insulting, abusive, or highly critical language.
+  synonyms: [abuse, vituperation, denunciation, vilification, diatribe]
+  antonyms: [praise, acclaim, commendation]
+  related: [inveigh]
+  etymology: From Late Latin invectivus "abusive," from invehi "to attack with words," the same source as "inveigh."
+  forms: [invectives]
+
+- word: inveterate
+  pos: adjective
+  ipa: /ɪnˈvɛtərət/
+  phonetic: in-VET-er-it
+  definition: Having a particular habit or quality that is long established and unlikely to change.
+  synonyms: [confirmed, habitual, hardened, chronic, ingrained]
+  antonyms: [occasional, reformed, casual]
+  related: [inveterately]
+  etymology: From Latin inveteratus "made old," from in- "into" + vetus, veter- "old."
+  forms: [inveterately]
+
+- word: invidious
+  pos: adjective
+  ipa: /ɪnˈvɪdiəs/
+  phonetic: in-VID-ee-us
+  definition: Likely to arouse resentment or anger in others; unfairly discriminating.
+  synonyms: [unfair, discriminatory, objectionable, offensive, odious]
+  antonyms: [fair, equitable, pleasant]
+  related: [invidiously]
+  etymology: From Latin invidiosus, from invidia "envy, ill will."
+  forms: [invidiously]
+
+- word: invincible
+  pos: adjective
+  ipa: /ɪnˈvɪnsəbəl/
+  phonetic: in-VIN-suh-bul
+  definition: Too powerful to be defeated or overcome.
+  synonyms: [unbeatable, unconquerable, indomitable, invulnerable, insuperable]
+  antonyms: [vulnerable, beatable, weak]
+  related: [invincibility, invincibly]
+  etymology: From Latin invincibilis, from in- "not" + vincere "to conquer."
+  forms: [invincibly, invincibility]
+
+- word: inviolable
+  pos: adjective
+  ipa: /ɪnˈvaɪələbəl/
+  phonetic: in-VY-uh-luh-bul
+  definition: Never to be broken, infringed, or dishonored.
+  synonyms: [sacrosanct, inalienable, sacred, untouchable, unassailable]
+  antonyms: [violable, vulnerable]
+  related: [inviolability, inviolate]
+  etymology: From Latin inviolabilis, from in- "not" + violare "to violate."
+  forms: [inviolability]
+
+- word: irascible
+  pos: adjective
+  ipa: /ɪˈræsəbəl/
+  phonetic: ih-RASS-uh-bul
+  definition: Having or showing a tendency to be easily angered.
+  synonyms: [irritable, testy, choleric, cantankerous, touchy]
+  antonyms: [even-tempered, placid, genial]
+  related: [irascibility]
+  etymology: From Late Latin irascibilis, from irasci "to grow angry," from ira "anger."
+  forms: [irascibility]
+
+- word: iridescent
+  pos: adjective
+  ipa: /ˌɪrɪˈdɛsənt/
+  phonetic: eer-ih-DESS-ent
+  definition: Showing luminous colors that seem to change when seen from different angles.
+  synonyms: [opalescent, pearly, shimmering, lustrous, prismatic]
+  antonyms: [dull, drab, matte]
+  related: [iridescence]
+  etymology: From Latin iris, irid- "rainbow," from Greek iris "rainbow."
+  forms: [iridescence]
+
+- word: irk
+  pos: verb
+  ipa: /ɜrk/
+  phonetic: URK
+  definition: To irritate or annoy.
+  synonyms: [annoy, irritate, vex, nettle, rankle]
+  antonyms: [please, soothe, delight]
+  related: [irksome]
+  forms: [irked, irks, irking]
+
+- word: irreconcilable
+  pos: adjective
+  ipa: /ɪˌrɛkənˈsaɪləbəl/
+  phonetic: ih-rek-un-SY-luh-bul
+  definition: Representing findings or views so opposed that they cannot be made compatible; of people, implacably hostile.
+  synonyms: [incompatible, conflicting, irresolvable, opposed, implacable]
+  antonyms: [compatible, reconcilable, consistent]
+  related: [irreconcilably]
+  forms: [irreconcilably]
+
+- word: irrefutable
+  pos: adjective
+  ipa: /ˌɪrɪˈfjutəbəl/
+  phonetic: ir-ih-FYOO-tuh-bul
+  definition: Impossible to deny or disprove.
+  synonyms: [indisputable, incontrovertible, undeniable, unassailable, conclusive]
+  antonyms: [refutable, debatable, questionable]
+  related: [irrefutably]
+  etymology: From Late Latin irrefutabilis, from in- "not" + refutare "to repel, refute."
+  forms: [irrefutably]
+
+- word: irreverent
+  pos: adjective
+  ipa: /ɪˈrɛvərənt/
+  phonetic: ih-REV-er-ent
+  definition: Showing a lack of respect for people or things generally taken seriously.
+  synonyms: [disrespectful, flippant, impious, cheeky, mocking]
+  antonyms: [reverent, respectful, deferential]
+  related: [irreverence, irreverently]
+  forms: [irreverently, irreverence]
+
+- word: irrevocable
+  pos: adjective
+  ipa: /ɪˈrɛvəkəbəl/
+  phonetic: ih-REV-uh-kuh-bul
+  definition: Not able to be changed, reversed, or recovered; final.
+  synonyms: [irreversible, unalterable, final, permanent, binding]
+  antonyms: [reversible, revocable, changeable]
+  related: [irrevocably]
+  etymology: From Latin irrevocabilis, from in- "not" + revocare "to call back."
+  forms: [irrevocably]
+
+- word: itinerant
+  pos: adjective / noun
+  ipa: /aɪˈtɪnərənt/
+  phonetic: eye-TIN-er-ent
+  definition: Traveling from place to place, especially for work; a person who travels in this way.
+  synonyms: [wandering, roving, peripatetic, nomadic, migrant]
+  antonyms: [settled, resident, stationary]
+  related: [itinerary, itinerancy]
+  etymology: From Late Latin itinerari "to travel," from Latin iter, itiner- "journey."
+  forms: [itinerants]
+
+- word: jaded
+  pos: adjective
+  ipa: /ˈdʒeɪdɪd/
+  phonetic: JAY-did
+  definition: Tired, bored, or lacking enthusiasm, typically after having had too much of something.
+  synonyms: [weary, sated, world-weary, blasé, cynical]
+  antonyms: [enthusiastic, eager, fresh]
+  related: []
+  forms: []
+
+- word: jocular
+  pos: adjective
+  ipa: /ˈdʒɑkjələr/
+  phonetic: JOK-yuh-ler
+  definition: Fond of or characterized by joking; humorous or playful.
+  synonyms: [humorous, jocose, facetious, playful, jovial]
+  antonyms: [serious, solemn, grave]
+  related: [jocularity, jocularly]
+  etymology: From Latin jocularis, from joculus "little joke," diminutive of jocus "joke."
+  forms: [jocularly, jocularity]
+
+- word: judicious
+  pos: adjective
+  ipa: /dʒuˈdɪʃəs/
+  phonetic: joo-DISH-us
+  definition: Having, showing, or done with good judgment or sense.
+  synonyms: [prudent, wise, sagacious, sensible, discerning]
+  antonyms: [injudicious, foolish, imprudent]
+  related: [judiciously]
+  etymology: From French judicieux, from Latin judicium "judgment."
+  forms: [judiciously]
+
+- word: kudos
+  pos: noun
+  ipa: /ˈkudoʊs/
+  phonetic: KOO-dohss
+  definition: Praise and honor received for an achievement.
+  synonyms: [acclaim, praise, prestige, glory, accolades]
+  antonyms: [criticism, censure, disgrace]
+  related: []
+  etymology: From Greek kudos "glory, renown"; it is singular in origin, though often treated as plural.
+
+- word: lackadaisical
+  pos: adjective
+  ipa: /ˌlækəˈdeɪzɪkəl/
+  phonetic: lak-uh-DAY-zih-kul
+  definition: Lacking enthusiasm and determination; carelessly lazy.
+  synonyms: [lethargic, listless, apathetic, careless, indolent]
+  antonyms: [enthusiastic, diligent, energetic]
+  related: [lackadaisically]
+  etymology: From the archaic exclamation "lackaday," a shortening of "alack the day."
+  forms: [lackadaisically]
+
+- word: languish
+  pos: verb
+  ipa: /ˈlæŋɡwɪʃ/
+  phonetic: LANG-gwish
+  definition: To lose or lack vitality; to grow weak; to be forced to remain in an unpleasant place or situation.
+  synonyms: [weaken, wither, decline, flag, pine]
+  antonyms: [thrive, flourish, prosper]
+  related: [languor, languid]
+  etymology: From Old French languir, from Latin languere "to be faint, weak."
+  forms: [languished, languishes, languishing]
+
+- word: lassitude
+  pos: noun
+  ipa: /ˈlæsɪˌtud/
+  phonetic: LASS-ih-tood
+  definition: A state of physical or mental weariness; lack of energy.
+  synonyms: [lethargy, weariness, fatigue, torpor, listlessness]
+  antonyms: [vigor, energy, vitality]
+  related: []
+  etymology: From Latin lassitudo, from lassus "weary."
+
+- word: latent
+  pos: adjective
+  ipa: /ˈleɪtənt/
+  phonetic: LAY-tent
+  definition: Existing but not yet developed, manifest, or active; hidden.
+  synonyms: [dormant, hidden, potential, quiescent, undeveloped]
+  antonyms: [manifest, active, overt]
+  related: [latency]
+  etymology: From Latin latens, present participle of latere "to lie hidden."
+  forms: [latently]
+
+- word: laudable
+  pos: adjective
+  ipa: /ˈlɔdəbəl/
+  phonetic: LAW-duh-bul
+  definition: Deserving praise and commendation.
+  synonyms: [praiseworthy, commendable, admirable, meritorious, creditable]
+  antonyms: [blameworthy, reprehensible, shameful]
+  related: [laud, laudably]
+  etymology: From Latin laudabilis, from laudare "to praise," from laus, laud- "praise."
+  forms: [laudably]
+
+- word: lax
+  pos: adjective
+  ipa: /læks/
+  phonetic: LAKS
+  definition: Not sufficiently strict, severe, or careful; loose or slack.
+  synonyms: [slack, careless, negligent, lenient, remiss]
+  antonyms: [strict, rigorous, stringent]
+  related: [laxity, laxness]
+  etymology: From Latin laxus "loose."
+  forms: [laxity, laxness]
+
+- word: levity
+  pos: noun
+  ipa: /ˈlɛvəti/
+  phonetic: LEV-ih-tee
+  definition: Humor or frivolity, especially the treatment of a serious matter with inappropriate lightness.
+  synonyms: [frivolity, flippancy, lightheartedness, jocularity, facetiousness]
+  antonyms: [gravity, seriousness, solemnity]
+  related: []
+  etymology: From Latin levitas "lightness," from levis "light."
+
+- word: libertine
+  pos: noun / adjective
+  ipa: /ˈlɪbərˌtin/
+  phonetic: LIB-er-teen
+  definition: A person, especially a man, who behaves without moral principles, especially in sexual matters; freethinking or dissolute.
+  synonyms: [rake, roué, profligate, debauchee, lecher]
+  antonyms: [puritan, prude, ascetic]
+  related: [libertinism]
+  etymology: From Latin libertinus "freedman," from libertus "made free," from liber "free."
+  forms: [libertines, libertinism]
+
+- word: licentious
+  pos: adjective
+  ipa: /laɪˈsɛnʃəs/
+  phonetic: ly-SEN-shus
+  definition: Promiscuous and unprincipled in sexual matters; disregarding accepted rules or conventions.
+  synonyms: [dissolute, debauched, lascivious, wanton, lecherous]
+  antonyms: [chaste, virtuous, moral]
+  related: [licentiousness]
+  etymology: From Latin licentiosus, from licentia "freedom, license."
+  forms: [licentiousness]
+
+- word: limpid
+  pos: adjective
+  ipa: /ˈlɪmpɪd/
+  phonetic: LIM-pid
+  definition: Of a liquid, completely clear and transparent; of writing or music, clear and easily understood.
+  synonyms: [clear, transparent, pellucid, lucid, crystalline]
+  antonyms: [murky, opaque, turbid]
+  related: [limpidity]
+  etymology: From Latin limpidus "clear."
+  forms: [limpidity]
+
+- word: listless
+  pos: adjective
+  ipa: /ˈlɪstləs/
+  phonetic: LIST-lus
+  definition: Lacking energy or enthusiasm.
+  synonyms: [lethargic, languid, sluggish, enervated, apathetic]
+  antonyms: [energetic, lively, vigorous]
+  related: [listlessly, listlessness]
+  forms: [listlessly, listlessness]
+
+- word: livid
+  pos: adjective
+  ipa: /ˈlɪvɪd/
+  phonetic: LIV-id
+  definition: Furiously angry; dark bluish-gray in color, like a bruise.
+  synonyms: [furious, enraged, irate, incensed, fuming]
+  antonyms: [calm, pleased, serene]
+  related: []
+  etymology: From Latin lividus "bluish, envious," from livere "to be bluish."
+
+- word: loath
+  pos: adjective
+  ipa: /loʊθ/
+  phonetic: LOHTH
+  definition: Reluctant; unwilling.
+  synonyms: [reluctant, unwilling, disinclined, averse, hesitant]
+  antonyms: [eager, willing, keen]
+  related: [loathe]
+  etymology: From Old English lath "hostile, hateful."
+
+- word: lofty
+  pos: adjective
+  ipa: /ˈlɔfti/
+  phonetic: LAWF-tee
+  definition: Of imposing height; noble or elevated in character; haughty and aloof.
+  synonyms: [elevated, exalted, noble, haughty, towering]
+  antonyms: [lowly, base, humble]
+  related: [loftily, loftiness]
+  forms: [loftier, loftiest, loftily, loftiness]
+
+- word: ludicrous
+  pos: adjective
+  ipa: /ˈludɪkrəs/
+  phonetic: LOO-dih-krus
+  definition: So foolish, unreasonable, or out of place as to be amusing; absurd.
+  synonyms: [absurd, ridiculous, preposterous, farcical, laughable]
+  antonyms: [sensible, reasonable, sober]
+  related: [ludicrously]
+  etymology: From Latin ludicrus "sportive," from ludus "play, game."
+  forms: [ludicrously]
+
+- word: lugubrious
+  pos: adjective
+  ipa: /ləˈɡubriəs/
+  phonetic: luh-GOO-bree-us
+  definition: Looking or sounding sad and dismal, often exaggeratedly so.
+  synonyms: [mournful, doleful, gloomy, melancholy, funereal]
+  antonyms: [cheerful, jovial, merry]
+  related: [lugubriously]
+  etymology: From Latin lugubris "mournful," from lugere "to mourn."
+  forms: [lugubriously]
+
+- word: lull
+  pos: verb / noun
+  ipa: /lʌl/
+  phonetic: LUL
+  definition: To calm or send to sleep; to give a false sense of security; a temporary interval of quiet or lack of activity.
+  synonyms: [soothe, calm, pacify, respite, pause]
+  antonyms: [agitate, rouse, disturb]
+  related: []
+  forms: [lulled, lulls, lulling]
+
+- word: lurid
+  pos: adjective
+  ipa: /ˈlʊrɪd/
+  phonetic: LOOR-id
+  definition: Very vivid in color, especially unpleasantly so; presented in a sensational, shocking way with gruesome details.
+  synonyms: [sensational, graphic, garish, gaudy, shocking]
+  antonyms: [restrained, tasteful, muted]
+  related: [luridly]
+  etymology: From Latin luridus "pale yellow, wan."
+  forms: [luridly]

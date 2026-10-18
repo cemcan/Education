@@ -1,0 +1,1330 @@
+# GRE vocabulary, part 1. Examples are added by build_words.py; never write them here.
+words:
+- word: abase
+  pos: verb
+  ipa: /əˈbeɪs/
+  phonetic: uh-BAYS
+  definition: To lower in rank, dignity, or esteem; to humiliate or degrade.
+  synonyms: [humiliate, degrade, debase, demean, belittle]
+  antonyms: [elevate, exalt, honor]
+  related: [abasement]
+  etymology: From Old French abaissier "to lower," from Late Latin bassus "low."
+  forms: [abased, abases, abasing, abasement]
+
+- word: abash
+  pos: verb
+  ipa: /əˈbæʃ/
+  phonetic: uh-BASH
+  definition: To make someone feel embarrassed, ashamed, or disconcerted.
+  synonyms: [embarrass, shame, disconcert, discomfit, mortify]
+  antonyms: [embolden, encourage]
+  related: [abashed, unabashed]
+  etymology: From Old French esbaïss-, stem of esbaïr "to astonish, dismay."
+  forms: [abashed, abashes, abashing]
+
+- word: abdicate
+  pos: verb
+  ipa: /ˈæbdɪˌkeɪt/
+  phonetic: AB-dih-kayt
+  definition: To formally give up a throne or position of power; to fail to fulfill a duty or responsibility.
+  synonyms: [renounce, relinquish, resign, abandon, forsake]
+  antonyms: [assume, claim, retain]
+  related: [abdication]
+  etymology: From Latin abdicare "to disown, renounce," from ab- "away" + dicare "to proclaim."
+  forms: [abdicated, abdicates, abdicating, abdication]
+
+- word: aberration
+  pos: noun
+  ipa: /ˌæbəˈreɪʃən/
+  phonetic: ab-uh-RAY-shun
+  definition: A departure from what is normal, usual, or expected, often an unwelcome one.
+  synonyms: [anomaly, deviation, irregularity, departure, abnormality]
+  antonyms: [norm, conformity, regularity]
+  related: [aberrant, aberrational]
+  etymology: From Latin aberrare "to wander away," from ab- "away" + errare "to stray."
+  forms: [aberrations]
+
+- word: abeyance
+  pos: noun
+  ipa: /əˈbeɪəns/
+  phonetic: uh-BAY-unss
+  definition: A state of temporary disuse or suspension.
+  synonyms: [suspension, dormancy, latency, remission, hiatus]
+  antonyms: [continuation, activity, operation]
+  related: []
+  etymology: From Anglo-French abeiance "expectation," from Old French abeer "to gape after, aspire to."
+
+- word: abhor
+  pos: verb
+  ipa: /æbˈhɔr/
+  phonetic: ab-HOR
+  definition: To regard with disgust and hatred; to detest.
+  synonyms: [detest, loathe, abominate, despise, execrate]
+  antonyms: [love, admire, adore]
+  related: [abhorrent, abhorrence]
+  etymology: From Latin abhorrere "to shrink back from in dread," from ab- "away" + horrere "to bristle, shudder."
+  forms: [abhorred, abhors, abhorring]
+
+- word: abject
+  pos: adjective
+  ipa: /ˈæbdʒɛkt/
+  phonetic: AB-jekt
+  definition: Extremely bad, miserable, or hopeless; (of a person or behavior) completely lacking pride or dignity.
+  synonyms: [wretched, miserable, hopeless, servile, contemptible]
+  antonyms: [proud, dignified, exalted]
+  related: [abjectly, abjection]
+  etymology: From Latin abjectus "cast away," past participle of abicere, from ab- "away" + jacere "to throw."
+  forms: [abjectly]
+
+- word: abjure
+  pos: verb
+  ipa: /æbˈdʒʊr/
+  phonetic: ab-JOOR
+  definition: To solemnly renounce a belief, cause, or claim; to reject formally.
+  synonyms: [renounce, repudiate, forswear, recant, abandon]
+  antonyms: [embrace, affirm, espouse]
+  related: [abjuration]
+  etymology: From Latin abjurare "to deny on oath," from ab- "away" + jurare "to swear."
+  forms: [abjured, abjures, abjuring]
+
+- word: abominate
+  pos: verb
+  ipa: /əˈbɑməˌneɪt/
+  phonetic: uh-BOM-uh-nayt
+  definition: To detest intensely; to loathe.
+  synonyms: [loathe, detest, abhor, despise, execrate]
+  antonyms: [love, adore, cherish]
+  related: [abomination, abominable]
+  etymology: From Latin abominari "to shun as an ill omen," from ab- "away" + omen.
+  forms: [abominated, abominates, abominating]
+
+- word: abortive
+  pos: adjective
+  ipa: /əˈbɔrtɪv/
+  phonetic: uh-BOR-tiv
+  definition: Failing to produce the intended result; unsuccessful.
+  synonyms: [unsuccessful, failed, futile, fruitless, vain]
+  antonyms: [successful, fruitful, effective]
+  related: [abortively]
+  etymology: From Latin abortivus, from aboriri "to miscarry," from ab- "away" + oriri "to arise, be born."
+  forms: [abortively]
+
+- word: abound
+  pos: verb
+  ipa: /əˈbaʊnd/
+  phonetic: uh-BOWND
+  definition: To exist in large numbers or amounts; to be plentiful.
+  synonyms: [proliferate, teem, swarm, flourish, overflow]
+  antonyms: [lack, dwindle]
+  related: [abundant, abundance]
+  etymology: From Latin abundare "to overflow," from ab- "away" + undare "to rise in waves" (unda "wave").
+  forms: [abounded, abounds, abounding]
+
+- word: abscond
+  pos: verb
+  ipa: /æbˈskɑnd/
+  phonetic: ab-SKOND
+  definition: To leave hurriedly and secretly, typically to escape detection or arrest, often with something stolen.
+  synonyms: [flee, bolt, decamp, escape, run off]
+  antonyms: [remain, stay, surrender]
+  related: [absconder]
+  etymology: From Latin abscondere "to hide away," from abs- "away" + condere "to put, store."
+  forms: [absconded, absconds, absconding]
+
+- word: absolution
+  pos: noun
+  ipa: /ˌæbsəˈluʃən/
+  phonetic: ab-suh-LOO-shun
+  definition: Formal release from guilt, obligation, or punishment; forgiveness.
+  synonyms: [forgiveness, pardon, exoneration, remission, acquittal]
+  antonyms: [condemnation, blame, punishment]
+  related: [absolve]
+  etymology: From Latin absolutio "acquittal," from absolvere "to set free."
+
+- word: absolve
+  pos: verb
+  ipa: /æbˈzɑlv/
+  phonetic: ab-ZOLV
+  definition: To declare free from guilt, blame, or responsibility.
+  synonyms: [exonerate, acquit, pardon, exculpate, clear]
+  antonyms: [blame, condemn, convict]
+  related: [absolution]
+  etymology: From Latin absolvere "to set free," from ab- "from" + solvere "to loosen."
+  forms: [absolved, absolves, absolving]
+
+- word: abstemious
+  pos: adjective
+  ipa: /æbˈstimiəs/
+  phonetic: ab-STEE-mee-us
+  definition: Moderate or restrained, especially in eating and drinking; not self-indulgent.
+  synonyms: [temperate, abstinent, ascetic, frugal, self-denying]
+  antonyms: [gluttonous, intemperate, self-indulgent]
+  related: [abstemiously, abstemiousness]
+  etymology: From Latin abstemius, from abs- "from" + temetum "strong drink."
+  forms: [abstemiously, abstemiousness]
+
+- word: abstinence
+  pos: noun
+  ipa: /ˈæbstənəns/
+  phonetic: AB-stuh-nunss
+  definition: The practice of refraining from indulging in something, especially alcohol, food, or sex.
+  synonyms: [abstention, self-denial, temperance, sobriety, restraint]
+  antonyms: [indulgence, excess, overindulgence]
+  related: [abstinent, abstain]
+  etymology: From Latin abstinentia, from abstinere "to hold back," from abs- "from" + tenere "to hold."
+  forms: [abstinent]
+
+- word: abyss
+  pos: noun
+  ipa: /əˈbɪs/
+  phonetic: uh-BISS
+  definition: A deep or seemingly bottomless chasm; a vast, immeasurable depth or a catastrophic situation.
+  synonyms: [chasm, gulf, void, pit, depths]
+  antonyms: [summit, peak]
+  related: [abysmal, abyssal]
+  etymology: From Greek abyssos "bottomless," from a- "without" + byssos "bottom."
+  forms: [abysses]
+
+- word: accede
+  pos: verb
+  ipa: /ækˈsid/
+  phonetic: ak-SEED
+  definition: To agree to a demand, request, or treaty; to assume an office or position.
+  synonyms: [consent, assent, agree, acquiesce, comply]
+  antonyms: [refuse, reject, decline]
+  related: [accession]
+  etymology: From Latin accedere "to approach, assent," from ad- "to" + cedere "to go, yield."
+  forms: [acceded, accedes, acceding]
+
+- word: acclaim
+  pos: verb / noun
+  ipa: /əˈkleɪm/
+  phonetic: uh-KLAYM
+  definition: To praise enthusiastically and publicly; enthusiastic public praise.
+  synonyms: [praise, applaud, hail, laud, extol]
+  antonyms: [criticize, censure, disparage]
+  related: [acclamation, acclaimed]
+  etymology: From Latin acclamare "to shout at," from ad- "to" + clamare "to shout."
+  forms: [acclaimed, acclaims, acclaiming]
+
+- word: accolade
+  pos: noun
+  ipa: /ˈækəˌleɪd/
+  phonetic: AK-uh-layd
+  definition: An award or expression of praise or admiration.
+  synonyms: [honor, tribute, award, praise, commendation]
+  antonyms: [criticism, censure, condemnation]
+  related: []
+  etymology: From French accolade "embrace," from Italian accollare "to embrace around the neck," referring to the embrace given when conferring knighthood.
+  forms: [accolades]
+
+- word: accord
+  pos: noun / verb
+  ipa: /əˈkɔrd/
+  phonetic: uh-KORD
+  definition: Agreement or harmony; an official agreement or treaty; (verb) to give or grant someone power, status, or recognition.
+  synonyms: [agreement, harmony, concord, pact, grant]
+  antonyms: [discord, disagreement, conflict]
+  related: [accordance, concord]
+  etymology: From Old French acorder "to reconcile," from Latin ad- "to" + cor, cordis "heart."
+  forms: [accorded, accords]
+
+- word: accost
+  pos: verb
+  ipa: /əˈkɔst/
+  phonetic: uh-KAWST
+  definition: To approach and address someone boldly or aggressively.
+  synonyms: [confront, waylay, approach, buttonhole, hail]
+  antonyms: [avoid, ignore, shun]
+  related: []
+  etymology: From French accoster, from Latin ad- "to" + costa "rib, side," originally "to come alongside."
+  forms: [accosted, accosts, accosting]
+
+- word: accretion
+  pos: noun
+  ipa: /əˈkriʃən/
+  phonetic: uh-KREE-shun
+  definition: Gradual growth or increase by the addition of new layers or parts; something added in this way.
+  synonyms: [accumulation, growth, buildup, increase, accrual]
+  antonyms: [erosion, diminution, decrease]
+  related: [accrete, accrue]
+  etymology: From Latin accretio, from accrescere "to grow," from ad- "to" + crescere "to grow."
+  forms: [accretions]
+
+- word: acme
+  pos: noun
+  ipa: /ˈækmi/
+  phonetic: AK-mee
+  definition: The point at which someone or something is best, most successful, or most perfect.
+  synonyms: [peak, pinnacle, zenith, apex, summit]
+  antonyms: [nadir, bottom, low point]
+  related: []
+  etymology: From Greek akmē "highest point, prime."
+
+- word: acquiesce
+  pos: verb
+  ipa: /ˌækwiˈɛs/
+  phonetic: ak-wee-ESS
+  definition: To accept or comply with something reluctantly but without protest.
+  synonyms: [comply, consent, assent, submit, yield]
+  antonyms: [resist, protest, object]
+  related: [acquiescence, acquiescent]
+  etymology: From Latin acquiescere "to rest, be at ease," from ad- "to" + quiescere "to rest."
+  forms: [acquiesced, acquiesces, acquiescing, acquiescence]
+
+- word: acquit
+  pos: verb
+  ipa: /əˈkwɪt/
+  phonetic: uh-KWIT
+  definition: To declare free from a criminal charge; (acquit oneself) to conduct oneself in a specified way.
+  synonyms: [exonerate, clear, absolve, discharge, exculpate]
+  antonyms: [convict, condemn, sentence]
+  related: [acquittal]
+  etymology: From Old French acquiter "to pay a debt, settle," from Latin ad- "to" + quitus "free, released."
+  forms: [acquitted, acquits, acquitting, acquittal]
+
+- word: acrid
+  pos: adjective
+  ipa: /ˈækrɪd/
+  phonetic: AK-rid
+  definition: Unpleasantly sharp, pungent, or bitter to smell or taste; harsh or bitter in temper or speech.
+  synonyms: [pungent, bitter, caustic, acerbic, harsh]
+  antonyms: [sweet, mild, pleasant]
+  related: [acridly, acridity]
+  etymology: From Latin acer, acris "sharp, pungent," formed on the model of "acid."
+  forms: [acridly]
+
+- word: acrimony
+  pos: noun
+  ipa: /ˈækrəˌmoʊni/
+  phonetic: AK-ruh-moh-nee
+  definition: Bitterness or ill feeling, especially in speech or debate.
+  synonyms: [bitterness, rancor, animosity, hostility, resentment]
+  antonyms: [goodwill, harmony, amity]
+  related: [acrimonious, acrimoniously]
+  etymology: From Latin acrimonia "sharpness," from acer "sharp."
+  forms: [acrimonious, acrimoniously]
+
+- word: actuate
+  pos: verb
+  ipa: /ˈæktʃuˌeɪt/
+  phonetic: AK-choo-ayt
+  definition: To cause a machine or device to operate; to motivate someone to act in a particular way.
+  synonyms: [activate, trigger, motivate, impel, prompt]
+  antonyms: [deactivate, stop, deter]
+  related: [actuator, actuation]
+  etymology: From Medieval Latin actuare "to carry out," from Latin actus "a doing, act."
+  forms: [actuated, actuates, actuating]
+
+- word: adage
+  pos: noun
+  ipa: /ˈædɪdʒ/
+  phonetic: AD-ij
+  definition: A short, traditional saying expressing a general truth.
+  synonyms: [proverb, maxim, saying, aphorism, axiom]
+  antonyms: []
+  related: []
+  etymology: From French adage, from Latin adagium "proverb."
+  forms: [adages]
+
+- word: adamant
+  pos: adjective
+  ipa: /ˈædəmənt/
+  phonetic: AD-uh-munt
+  definition: Refusing to be persuaded or to change one's mind; unyielding.
+  synonyms: [unyielding, inflexible, resolute, firm, obdurate]
+  antonyms: [flexible, yielding, irresolute]
+  related: [adamantly, adamantine]
+  etymology: From Greek adamas "untamable, invincible," later the name of a legendary hard stone, from a- "not" + daman "to tame."
+  forms: [adamantly]
+
+- word: adept
+  pos: adjective / noun
+  ipa: /əˈdɛpt/
+  phonetic: uh-DEPT
+  definition: Very skilled or proficient at something; (noun) a person who is highly skilled.
+  synonyms: [skilled, proficient, expert, adroit, deft]
+  antonyms: [inept, clumsy, unskilled]
+  related: [adeptly, adeptness]
+  etymology: From Latin adeptus "having attained," past participle of adipisci "to attain," originally used of alchemists said to have found the secret of transmutation.
+  forms: [adeptly, adeptness]
+
+- word: admonition
+  pos: noun
+  ipa: /ˌædməˈnɪʃən/
+  phonetic: ad-muh-NISH-un
+  definition: A firm warning or reprimand; cautionary advice.
+  synonyms: [warning, reprimand, rebuke, caution, reproof]
+  antonyms: [praise, commendation, approval]
+  related: [admonish, admonitory]
+  etymology: From Latin admonitio, from admonere "to remind, warn," from ad- "to" + monere "to warn."
+  forms: [admonitions]
+
+- word: adroit
+  pos: adjective
+  ipa: /əˈdrɔɪt/
+  phonetic: uh-DROYT
+  definition: Clever or skillful in using the hands or mind; deft in handling situations.
+  synonyms: [skillful, deft, dexterous, adept, nimble]
+  antonyms: [clumsy, maladroit, inept]
+  related: [adroitly, adroitness, maladroit]
+  etymology: From French à droit "according to right, properly," from Latin directus "straight."
+  forms: [adroitly, adroitness]
+
+- word: adulation
+  pos: noun
+  ipa: /ˌædʒəˈleɪʃən/
+  phonetic: aj-uh-LAY-shun
+  definition: Excessive admiration or praise.
+  synonyms: [flattery, worship, idolization, adoration, sycophancy]
+  antonyms: [criticism, contempt, disparagement]
+  related: [adulate, adulatory]
+  etymology: From Latin adulatio, from adulari "to fawn upon, flatter."
+  forms: [adulatory]
+
+- word: adulterate
+  pos: verb
+  ipa: /əˈdʌltəˌreɪt/
+  phonetic: uh-DUL-tuh-rayt
+  definition: To make something poorer in quality by adding another, inferior substance.
+  synonyms: [contaminate, debase, taint, dilute, corrupt]
+  antonyms: [purify, refine, cleanse]
+  related: [adulteration, unadulterated]
+  etymology: From Latin adulterare "to corrupt, falsify," from ad- "to" + alter "other."
+  forms: [adulterated, adulterates, adulterating, adulteration]
+
+- word: adversity
+  pos: noun
+  ipa: /ædˈvɜrsɪti/
+  phonetic: ad-VUR-sih-tee
+  definition: Difficulties or misfortune; a state of hardship.
+  synonyms: [hardship, misfortune, affliction, trouble, tribulation]
+  antonyms: [prosperity, fortune, ease]
+  related: [adverse, adversary]
+  etymology: From Latin adversitas, from adversus "turned against," from ad- "to" + vertere "to turn."
+  forms: [adversities]
+
+- word: aesthetic
+  pos: adjective / noun
+  ipa: /ɛsˈθɛtɪk/
+  phonetic: es-THET-ik
+  definition: Concerned with beauty or the appreciation of beauty; (noun) a set of principles underlying an artistic style or taste.
+  synonyms: [artistic, tasteful, decorative, ornamental, style]
+  antonyms: [unattractive, inartistic]
+  related: [aesthetically, aesthetics, aesthete]
+  etymology: From Greek aisthētikos "of sense perception," from aisthanesthai "to perceive."
+  forms: [aesthetically, aesthetics, esthetic]
+
+- word: affable
+  pos: adjective
+  ipa: /ˈæfəbəl/
+  phonetic: AF-uh-bul
+  definition: Friendly, good-natured, and easy to talk to.
+  synonyms: [amiable, genial, cordial, friendly, approachable]
+  antonyms: [unfriendly, surly, aloof]
+  related: [affably, affability]
+  etymology: From Latin affabilis "easy to speak to," from ad- "to" + fari "to speak."
+  forms: [affably, affability]
+
+- word: affectation
+  pos: noun
+  ipa: /ˌæfɛkˈteɪʃən/
+  phonetic: af-ek-TAY-shun
+  definition: Behavior, speech, or manner that is artificial and designed to impress.
+  synonyms: [pretension, artificiality, pose, airs, mannerism]
+  antonyms: [naturalness, sincerity, genuineness]
+  related: [affected, affect]
+  etymology: From Latin affectatio "a striving after," from affectare "to aim at, pretend to have."
+  forms: [affectations]
+
+- word: affinity
+  pos: noun
+  ipa: /əˈfɪnɪti/
+  phonetic: uh-FIN-ih-tee
+  definition: A natural liking for or sympathy with someone or something; a close similarity or resemblance.
+  synonyms: [rapport, kinship, sympathy, fondness, resemblance]
+  antonyms: [aversion, antipathy, dissimilarity]
+  related: []
+  etymology: From Latin affinitas "relationship by marriage," from affinis "bordering on, related," from ad- "to" + finis "border."
+  forms: [affinities]
+
+- word: affront
+  pos: noun / verb
+  ipa: /əˈfrʌnt/
+  phonetic: uh-FRUNT
+  definition: An action or remark that causes outrage or offense; (verb) to offend the modesty or values of.
+  synonyms: [insult, offense, slight, indignity, outrage]
+  antonyms: [compliment, praise, flattery]
+  related: [affronted]
+  etymology: From Old French afronter "to strike on the forehead, confront," from Latin ad frontem "to the face."
+  forms: [affronted, affronts, affronting]
+
+- word: aggrieved
+  pos: adjective
+  ipa: /əˈɡrivd/
+  phonetic: uh-GREEVD
+  definition: Feeling resentment at having been treated unfairly.
+  synonyms: [resentful, wronged, offended, indignant, disgruntled]
+  antonyms: [pleased, content, satisfied]
+  related: [aggrieve, grievance]
+  etymology: From Old French agrever "to make heavier," from Latin aggravare, from ad- "to" + gravis "heavy."
+  forms: [aggrieve]
+
+- word: allay
+  pos: verb
+  ipa: /əˈleɪ/
+  phonetic: uh-LAY
+  definition: To diminish or put at rest fear, suspicion, or worry; to relieve pain or discomfort.
+  synonyms: [alleviate, assuage, ease, calm, mitigate]
+  antonyms: [aggravate, intensify, exacerbate]
+  related: []
+  etymology: From Old English alecgan "to put down, lay aside."
+  forms: [allayed, allays, allaying]
+
+- word: alleviate
+  pos: verb
+  ipa: /əˈliviˌeɪt/
+  phonetic: uh-LEE-vee-ayt
+  definition: To make suffering, a problem, or a deficiency less severe.
+  synonyms: [relieve, ease, mitigate, lessen, assuage]
+  antonyms: [aggravate, worsen, exacerbate]
+  related: [alleviation]
+  etymology: From Late Latin alleviare "to lighten," from ad- "to" + levis "light."
+  forms: [alleviated, alleviates, alleviating, alleviation]
+
+- word: allude
+  pos: verb
+  ipa: /əˈlud/
+  phonetic: uh-LOOD
+  definition: To suggest or call attention to something indirectly; to hint at.
+  synonyms: [refer, hint, suggest, imply, mention]
+  antonyms: [state, specify]
+  related: [allusion, allusive]
+  etymology: From Latin alludere "to play with, jest," from ad- "to" + ludere "to play."
+  forms: [alluded, alludes, alluding]
+
+- word: allure
+  pos: noun / verb
+  ipa: /əˈlʊr/
+  phonetic: uh-LOOR
+  definition: The quality of being powerfully attractive or fascinating; (verb) to attract or tempt.
+  synonyms: [attraction, appeal, charm, enticement, lure]
+  antonyms: [repulsion, repel]
+  related: [alluring, alluringly]
+  etymology: From Old French aleurer "to attract, train a falcon to the lure," from a- "to" + leurre "lure."
+  forms: [allured, alluring, alluringly]
+
+- word: aloof
+  pos: adjective
+  ipa: /əˈluf/
+  phonetic: uh-LOOF
+  definition: Not friendly or forthcoming; cool and distant, emotionally or physically detached.
+  synonyms: [distant, detached, standoffish, reserved, remote]
+  antonyms: [friendly, warm, approachable]
+  related: [aloofness]
+  etymology: Originally a nautical term, from a- "on" + loof "windward," meaning to keep a ship's head to the wind and away from a lee shore.
+  forms: [aloofness]
+
+- word: altercation
+  pos: noun
+  ipa: /ˌɔltərˈkeɪʃən/
+  phonetic: awl-ter-KAY-shun
+  definition: A noisy argument or disagreement, especially in public.
+  synonyms: [argument, quarrel, dispute, squabble, fracas]
+  antonyms: [agreement, harmony, accord]
+  related: [altercate]
+  etymology: From Latin altercatio, from altercari "to wrangle," from alter "other."
+  forms: [altercations]
+
+- word: altruism
+  pos: noun
+  ipa: /ˈæltruˌɪzəm/
+  phonetic: AL-troo-iz-um
+  definition: Disinterested and selfless concern for the well-being of others.
+  synonyms: [selflessness, unselfishness, benevolence, philanthropy, generosity]
+  antonyms: [selfishness, egoism, self-interest]
+  related: [altruist, altruistic, altruistically]
+  etymology: From French altruisme, coined by Auguste Comte from Italian altrui "of or to others," from Latin alter "other."
+  forms: [altruistic, altruistically]
+
+- word: amalgamate
+  pos: verb
+  ipa: /əˈmælɡəˌmeɪt/
+  phonetic: uh-MAL-guh-mayt
+  definition: To combine or unite to form one organization or structure.
+  synonyms: [merge, combine, unite, fuse, consolidate]
+  antonyms: [separate, divide, split]
+  related: [amalgamation, amalgam]
+  etymology: From Medieval Latin amalgama, an alloy of mercury with another metal.
+  forms: [amalgamated, amalgamates, amalgamating, amalgamation]
+
+- word: amass
+  pos: verb
+  ipa: /əˈmæs/
+  phonetic: uh-MASS
+  definition: To gather together or accumulate a large amount or number of something over time.
+  synonyms: [accumulate, gather, collect, hoard, stockpile]
+  antonyms: [disperse, scatter, squander]
+  related: []
+  etymology: From French amasser, from a- "to" + masse "mass."
+  forms: [amassed, amasses, amassing]
+
+- word: ambiguous
+  pos: adjective
+  ipa: /æmˈbɪɡjuəs/
+  phonetic: am-BIG-yoo-us
+  definition: Open to more than one interpretation; not having one obvious meaning.
+  synonyms: [equivocal, ambivalent, unclear, vague, cryptic]
+  antonyms: [clear, unambiguous, explicit]
+  related: [ambiguity, ambiguously]
+  etymology: From Latin ambiguus "doubtful, shifting," from ambigere "to wander about," from ambi- "both ways" + agere "to drive."
+  forms: [ambiguously, ambiguity]
+
+- word: amenable
+  pos: adjective
+  ipa: /əˈminəbəl/
+  phonetic: uh-MEE-nuh-bul
+  definition: Open and responsive to suggestion; easily persuaded or controlled; capable of being acted upon in a particular way.
+  synonyms: [compliant, agreeable, receptive, tractable, cooperative]
+  antonyms: [intractable, obstinate, resistant]
+  related: [amenability]
+  etymology: From Anglo-French amener "to lead to," from a- "to" + mener "to lead."
+  forms: [amenability]
+
+- word: amiable
+  pos: adjective
+  ipa: /ˈeɪmiəbəl/
+  phonetic: AY-mee-uh-bul
+  definition: Having or displaying a friendly and pleasant manner.
+  synonyms: [friendly, affable, genial, good-natured, cordial]
+  antonyms: [unfriendly, hostile, disagreeable]
+  related: [amiably, amiability]
+  etymology: From Old French amiable "friendly," from Latin amicabilis, influenced by aimable "lovable."
+  forms: [amiably, amiability]
+
+- word: amicable
+  pos: adjective
+  ipa: /ˈæmɪkəbəl/
+  phonetic: AM-ih-kuh-bul
+  definition: Characterized by friendliness and absence of discord.
+  synonyms: [friendly, cordial, harmonious, peaceable, civil]
+  antonyms: [hostile, antagonistic, acrimonious]
+  related: [amicably, amity]
+  etymology: From Latin amicabilis, from amicus "friend."
+  forms: [amicably]
+
+- word: amity
+  pos: noun
+  ipa: /ˈæmɪti/
+  phonetic: AM-ih-tee
+  definition: A friendly relationship, especially between nations or groups.
+  synonyms: [friendship, goodwill, harmony, concord, cordiality]
+  antonyms: [enmity, hostility, animosity]
+  related: [amicable]
+  etymology: From Old French amitié, from Latin amicus "friend."
+
+- word: ample
+  pos: adjective
+  ipa: /ˈæmpəl/
+  phonetic: AM-pul
+  definition: Enough or more than enough; plentiful; large and accommodating.
+  synonyms: [plentiful, abundant, sufficient, copious, generous]
+  antonyms: [insufficient, scant, meager]
+  related: [amply, amplify]
+  etymology: From Latin amplus "large, spacious."
+  forms: [amply]
+
+- word: anathema
+  pos: noun
+  ipa: /əˈnæθəmə/
+  phonetic: uh-NATH-uh-muh
+  definition: Something or someone that one vehemently dislikes; a formal curse or excommunication by a church.
+  synonyms: [abomination, bane, curse, bugbear, pariah]
+  antonyms: [blessing, favorite]
+  related: [anathematize]
+  etymology: From Greek anathema "a thing devoted," later "a thing devoted to evil, accursed," from anatithenai "to set up."
+
+- word: animosity
+  pos: noun
+  ipa: /ˌænəˈmɑsɪti/
+  phonetic: an-uh-MOS-ih-tee
+  definition: Strong hostility or active dislike.
+  synonyms: [hostility, antipathy, enmity, rancor, animus]
+  antonyms: [friendship, goodwill, amity]
+  related: [animus]
+  etymology: From Latin animositas "boldness, vehemence," from animosus "spirited," from animus "spirit, mind."
+  forms: [animosities]
+
+- word: annul
+  pos: verb
+  ipa: /əˈnʌl/
+  phonetic: uh-NUL
+  definition: To declare invalid an official agreement, decision, or marriage.
+  synonyms: [nullify, invalidate, void, rescind, revoke]
+  antonyms: [validate, confirm, ratify]
+  related: [annulment]
+  etymology: From Late Latin annullare "to make null," from ad- "to" + nullum "nothing."
+  forms: [annulled, annuls, annulling, annulment]
+
+- word: anoint
+  pos: verb
+  ipa: /əˈnɔɪnt/
+  phonetic: uh-NOYNT
+  definition: To smear or rub with oil, especially as part of a religious ceremony; to nominate or choose as successor.
+  synonyms: [consecrate, ordain, designate, choose, bless]
+  antonyms: [depose]
+  related: [anointment]
+  etymology: From Old French enoint "smeared on," from Latin inunguere, from in- "on" + unguere "to smear."
+  forms: [anointed, anoints, anointing]
+
+- word: antagonism
+  pos: noun
+  ipa: /ænˈtæɡəˌnɪzəm/
+  phonetic: an-TAG-uh-niz-um
+  definition: Active hostility or opposition.
+  synonyms: [hostility, opposition, animosity, enmity, antipathy]
+  antonyms: [friendship, cooperation, harmony]
+  related: [antagonist, antagonistic, antagonize]
+  etymology: From Greek antagonizesthai "to struggle against," from anti- "against" + agōn "contest."
+  forms: [antagonisms]
+
+- word: antecedent
+  pos: noun / adjective
+  ipa: /ˌæntɪˈsidənt/
+  phonetic: an-tih-SEE-dunt
+  definition: A thing or event that existed before or logically precedes another; (adjective) preceding in time or order.
+  synonyms: [precursor, forerunner, predecessor, prior, preceding]
+  antonyms: [consequence, successor, subsequent]
+  related: [antecede]
+  etymology: From Latin antecedere "to go before," from ante- "before" + cedere "to go."
+  forms: [antecedents]
+
+- word: anterior
+  pos: adjective
+  ipa: /ænˈtɪriər/
+  phonetic: an-TEER-ee-er
+  definition: Nearer the front, especially of the body; coming before in time.
+  synonyms: [front, forward, prior, previous, preceding]
+  antonyms: [posterior, rear, subsequent]
+  related: [anteriorly]
+  etymology: From Latin anterior "former, foremost," comparative of ante "before."
+  forms: [anteriorly]
+
+- word: antiquated
+  pos: adjective
+  ipa: /ˈæntɪˌkweɪtɪd/
+  phonetic: AN-tih-kway-tid
+  definition: Old-fashioned or outdated.
+  synonyms: [outdated, obsolete, archaic, outmoded, dated]
+  antonyms: [modern, current, up-to-date]
+  related: [antique, antiquity]
+  etymology: From Latin antiquare "to make old," from antiquus "old."
+
+- word: antithesis
+  pos: noun
+  ipa: /ænˈtɪθəsɪs/
+  phonetic: an-TITH-uh-sis
+  definition: A person or thing that is the direct opposite of another; a contrast of ideas expressed by parallel phrasing.
+  synonyms: [opposite, converse, reverse, contrary, inverse]
+  antonyms: [embodiment, equivalent, epitome]
+  related: [antithetical, antithetically]
+  etymology: From Greek antitithenai "to set against," from anti- "against" + tithenai "to place."
+  forms: [antitheses, antithetical]
+
+- word: aphorism
+  pos: noun
+  ipa: /ˈæfəˌrɪzəm/
+  phonetic: AF-uh-riz-um
+  definition: A concise statement expressing a general truth or principle.
+  synonyms: [maxim, adage, saying, epigram, axiom]
+  antonyms: []
+  related: [aphoristic]
+  etymology: From Greek aphorismos "definition," from aphorizein "to define," from apo- "off" + horizein "to bound."
+  forms: [aphorisms, aphoristic]
+
+- word: apocryphal
+  pos: adjective
+  ipa: /əˈpɑkrəfəl/
+  phonetic: uh-POK-ruh-ful
+  definition: Of doubtful authenticity, although widely circulated as true.
+  synonyms: [spurious, fictitious, unverified, legendary, dubious]
+  antonyms: [authentic, genuine, verified]
+  related: [apocrypha, apocryphally]
+  etymology: From Greek apokryphos "hidden," from apokryptein "to hide away"; the Apocrypha are biblical writings of disputed authority.
+  forms: [apocryphally]
+
+- word: apotheosis
+  pos: noun
+  ipa: /əˌpɑθiˈoʊsɪs/
+  phonetic: uh-poth-ee-OH-sis
+  definition: The highest point in the development of something; a perfect example; the elevation of someone to divine status.
+  synonyms: [culmination, pinnacle, epitome, quintessence, deification]
+  antonyms: [nadir]
+  related: []
+  etymology: From Greek apotheōsis, from apotheoun "to deify," from apo- + theos "god."
+
+- word: appall
+  pos: verb
+  ipa: /əˈpɔl/
+  phonetic: uh-PAWL
+  definition: To greatly dismay or horrify.
+  synonyms: [horrify, shock, dismay, outrage, disgust]
+  antonyms: [delight, please, reassure]
+  related: [appalling, appallingly]
+  etymology: From Old French apalir "to grow pale," from a- + palir "to be pale."
+  forms: [appalled, appalls, appalling, appal]
+
+- word: apparition
+  pos: noun
+  ipa: /ˌæpəˈrɪʃən/
+  phonetic: ap-uh-RISH-un
+  definition: A ghost or ghostlike image of a person; the sudden appearance of something remarkable.
+  synonyms: [ghost, specter, phantom, spirit, wraith]
+  antonyms: []
+  related: []
+  etymology: From Latin apparitio "attendance," from apparere "to appear."
+  forms: [apparitions]
+
+- word: appellation
+  pos: noun
+  ipa: /ˌæpəˈleɪʃən/
+  phonetic: ap-uh-LAY-shun
+  definition: A name or title.
+  synonyms: [name, title, designation, epithet, sobriquet]
+  antonyms: []
+  related: [appellative]
+  etymology: From Latin appellatio, from appellare "to address, call by name."
+  forms: [appellations]
+
+- word: append
+  pos: verb
+  ipa: /əˈpɛnd/
+  phonetic: uh-PEND
+  definition: To add something to the end of a written document or other thing.
+  synonyms: [attach, add, affix, annex, supplement]
+  antonyms: [remove, detach, delete]
+  related: [appendix, appendage]
+  etymology: From Latin appendere "to hang upon," from ad- "to" + pendere "to hang."
+  forms: [appended, appends, appending]
+
+- word: appraise
+  pos: verb
+  ipa: /əˈpreɪz/
+  phonetic: uh-PRAYZ
+  definition: To assess the value, quality, or nature of something or someone.
+  synonyms: [assess, evaluate, judge, gauge, estimate]
+  antonyms: [ignore, overlook]
+  related: [appraisal, appraiser]
+  etymology: Alteration of "apprize," from Old French aprisier "to set a price on," influenced by "praise."
+  forms: [appraised, appraises, appraising, appraisal]
+
+- word: apprehensive
+  pos: adjective
+  ipa: /ˌæprɪˈhɛnsɪv/
+  phonetic: ap-rih-HEN-siv
+  definition: Anxious or fearful that something bad or unpleasant will happen.
+  synonyms: [anxious, uneasy, fearful, nervous, worried]
+  antonyms: [confident, calm, unconcerned]
+  related: [apprehension, apprehensively]
+  etymology: From Latin apprehendere "to seize, grasp," from ad- "to" + prehendere "to seize."
+  forms: [apprehensively, apprehension]
+
+- word: apprise
+  pos: verb
+  ipa: /əˈpraɪz/
+  phonetic: uh-PRYZ
+  definition: To inform or tell someone of something.
+  synonyms: [inform, notify, advise, brief, enlighten]
+  antonyms: []
+  related: []
+  etymology: From French appris, past participle of apprendre "to learn, teach."
+  forms: [apprised, apprises, apprising]
+
+- word: approbation
+  pos: noun
+  ipa: /ˌæprəˈbeɪʃən/
+  phonetic: ap-ruh-BAY-shun
+  definition: Approval or praise, especially official approval.
+  synonyms: [approval, praise, endorsement, commendation, acclaim]
+  antonyms: [disapproval, censure, condemnation]
+  related: [approve, disapprobation]
+  etymology: From Latin approbatio, from approbare "to approve," from ad- "to" + probare "to test, prove."
+
+- word: arbiter
+  pos: noun
+  ipa: /ˈɑrbɪtər/
+  phonetic: AR-bih-ter
+  definition: A person who settles a dispute or has ultimate authority in a matter; one whose judgments on taste are widely accepted.
+  synonyms: [judge, arbitrator, referee, adjudicator, authority]
+  antonyms: []
+  related: [arbitrate, arbitration]
+  etymology: From Latin arbiter "judge, witness."
+  forms: [arbiters]
+
+- word: arbitrary
+  pos: adjective
+  ipa: /ˈɑrbɪˌtrɛri/
+  phonetic: AR-bih-trair-ee
+  definition: Based on random choice or personal whim rather than reason or system; (of power) unrestrained and autocratic.
+  synonyms: [capricious, random, whimsical, despotic, unreasoned]
+  antonyms: [reasoned, rational, principled]
+  related: [arbitrarily, arbitrariness]
+  etymology: From Latin arbitrarius "depending on the will," from arbiter "judge."
+  forms: [arbitrarily, arbitrariness]
+
+- word: archaic
+  pos: adjective
+  ipa: /ɑrˈkeɪɪk/
+  phonetic: ar-KAY-ik
+  definition: Very old or old-fashioned; belonging to an earlier period.
+  synonyms: [obsolete, antiquated, outdated, ancient, outmoded]
+  antonyms: [modern, current, contemporary]
+  related: [archaism, archaically]
+  etymology: From Greek arkhaikos "old-fashioned," from arkhaios "ancient," from arkhē "beginning."
+  forms: [archaically]
+
+- word: arid
+  pos: adjective
+  ipa: /ˈærɪd/
+  phonetic: AIR-id
+  definition: Having little or no rain, too dry to support vegetation; lacking interest, excitement, or meaning.
+  synonyms: [dry, parched, barren, dull, sterile]
+  antonyms: [humid, fertile, lively]
+  related: [aridity]
+  etymology: From Latin aridus "dry," from arere "to be dry."
+  forms: [aridity]
+
+- word: arrogate
+  pos: verb
+  ipa: /ˈærəˌɡeɪt/
+  phonetic: AIR-uh-gayt
+  definition: To take or claim something for oneself without justification.
+  synonyms: [usurp, appropriate, seize, commandeer, expropriate]
+  antonyms: [relinquish, renounce, surrender]
+  related: [arrogation, arrogant]
+  etymology: From Latin arrogare "to claim for oneself," from ad- "to" + rogare "to ask."
+  forms: [arrogated, arrogates, arrogating]
+
+- word: articulate
+  pos: adjective / verb
+  ipa: /ɑrˈtɪkjələt/
+  phonetic: ar-TIK-yuh-lut
+  definition: Having or showing the ability to speak fluently and coherently; (verb, ar-TIK-yuh-layt) to express an idea clearly.
+  synonyms: [eloquent, fluent, lucid, coherent, express]
+  antonyms: [inarticulate, incoherent, tongue-tied]
+  related: [articulation, articulately]
+  etymology: From Latin articulatus "jointed, distinct," from articulus "small joint," diminutive of artus "joint."
+  forms: [articulated, articulates, articulating, articulately]
+
+- word: artifice
+  pos: noun
+  ipa: /ˈɑrtəfɪs/
+  phonetic: AR-tuh-fis
+  definition: Clever or cunning devices used to trick or deceive; skill in contrivance.
+  synonyms: [trickery, deception, guile, subterfuge, cunning]
+  antonyms: [candor, honesty, artlessness]
+  related: [artificial, artificer]
+  etymology: From Latin artificium "craftsmanship," from artifex "craftsman," from ars "art" + facere "to make."
+  forms: [artifices]
+
+- word: artisan
+  pos: noun
+  ipa: /ˈɑrtəzən/
+  phonetic: AR-tuh-zun
+  definition: A worker in a skilled trade, especially one who makes things by hand.
+  synonyms: [craftsman, artificer, smith, journeyman, technician]
+  antonyms: [amateur, novice]
+  related: [artisanal]
+  etymology: From French artisan, from Italian artigiano, ultimately from Latin artitus "skilled in the arts."
+  forms: [artisans, artisanal]
+
+- word: ascendancy
+  pos: noun
+  ipa: /əˈsɛndənsi/
+  phonetic: uh-SEN-dun-see
+  definition: Occupation of a position of dominant power or influence.
+  synonyms: [dominance, supremacy, control, predominance, hegemony]
+  antonyms: [subordination, decline, inferiority]
+  related: [ascendant, ascend]
+  etymology: From ascendant, from Latin ascendere "to climb up," from ad- "to" + scandere "to climb."
+  forms: [ascendency]
+
+- word: ascertain
+  pos: verb
+  ipa: /ˌæsərˈteɪn/
+  phonetic: as-er-TAYN
+  definition: To find something out for certain; to make sure of.
+  synonyms: [determine, establish, discover, verify, confirm]
+  antonyms: [guess, overlook]
+  related: [ascertainable]
+  etymology: From Old French acertener "to make certain," from a- "to" + certain.
+  forms: [ascertained, ascertains, ascertaining]
+
+- word: ascribe
+  pos: verb
+  ipa: /əˈskraɪb/
+  phonetic: uh-SKRYB
+  definition: To attribute something to a cause, source, or person; to regard a quality as belonging to.
+  synonyms: [attribute, assign, credit, impute, accredit]
+  antonyms: []
+  related: [ascription]
+  etymology: From Latin ascribere "to add in writing," from ad- "to" + scribere "to write."
+  forms: [ascribed, ascribes, ascribing]
+
+- word: aspersion
+  pos: noun
+  ipa: /əˈspɜrʒən/
+  phonetic: uh-SPUR-zhun
+  definition: An attack on the reputation or integrity of someone or something; a damaging remark.
+  synonyms: [slander, calumny, vilification, defamation, slur]
+  antonyms: [praise, compliment, commendation]
+  related: [asperse]
+  etymology: From Latin aspersio "a sprinkling," from aspergere "to sprinkle on," from ad- "to" + spargere "to scatter."
+  forms: [aspersions]
+
+- word: assail
+  pos: verb
+  ipa: /əˈseɪl/
+  phonetic: uh-SAYL
+  definition: To attack violently; to criticize strongly; (of a feeling) to come upon suddenly and forcefully.
+  synonyms: [attack, assault, beset, berate, lambaste]
+  antonyms: [defend, protect, praise]
+  related: [assailant]
+  etymology: From Old French asalir, from Latin ad- "to" + salire "to leap."
+  forms: [assailed, assails, assailing]
+
+- word: assent
+  pos: noun / verb
+  ipa: /əˈsɛnt/
+  phonetic: uh-SENT
+  definition: The expression of approval or agreement; (verb) to agree to or approve.
+  synonyms: [agreement, consent, approval, concurrence, accede]
+  antonyms: [dissent, refusal, objection]
+  related: []
+  etymology: From Latin assentire "to agree," from ad- "to" + sentire "to feel, think."
+  forms: [assented, assents, assenting]
+
+- word: assiduous
+  pos: adjective
+  ipa: /əˈsɪdʒuəs/
+  phonetic: uh-SIJ-oo-us
+  definition: Showing great care, attention, and persistent effort.
+  synonyms: [diligent, sedulous, industrious, conscientious, meticulous]
+  antonyms: [negligent, careless, lazy]
+  related: [assiduously, assiduity]
+  etymology: From Latin assiduus "constantly present," from assidere "to sit beside," from ad- "to" + sedere "to sit."
+  forms: [assiduously, assiduousness, assiduity]
+
+- word: astute
+  pos: adjective
+  ipa: /əˈstut/
+  phonetic: uh-STOOT
+  definition: Having or showing an ability to accurately assess situations or people and turn this to one's advantage.
+  synonyms: [shrewd, perceptive, sagacious, canny, discerning]
+  antonyms: [obtuse, naive, foolish]
+  related: [astutely, astuteness]
+  etymology: From Latin astutus "crafty," from astus "craft, cunning."
+  forms: [astutely, astuteness]
+
+- word: asunder
+  pos: adverb
+  ipa: /əˈsʌndər/
+  phonetic: uh-SUN-der
+  definition: Apart, divided, or into pieces.
+  synonyms: [apart, to pieces, in two, separately, in shreds]
+  antonyms: [together, united]
+  related: [sunder]
+  etymology: From Old English on sundran "apart."
+
+- word: atrophy
+  pos: verb / noun
+  ipa: /ˈætrəfi/
+  phonetic: AT-ruh-fee
+  definition: To waste away or gradually decline in effectiveness through underuse or neglect; (noun) such wasting or decline.
+  synonyms: [wither, waste away, deteriorate, degenerate, decline]
+  antonyms: [flourish, grow, strengthen]
+  related: [atrophied]
+  etymology: From Greek atrophia "lack of nourishment," from a- "without" + trophē "nourishment."
+  forms: [atrophied, atrophies, atrophying]
+
+- word: attenuate
+  pos: verb
+  ipa: /əˈtɛnjuˌeɪt/
+  phonetic: uh-TEN-yoo-ayt
+  definition: To reduce the force, effect, or value of; to make thin or weaken.
+  synonyms: [weaken, diminish, reduce, lessen, dilute]
+  antonyms: [strengthen, intensify, amplify]
+  related: [attenuation]
+  etymology: From Latin attenuare "to make thin," from ad- "to" + tenuis "thin."
+  forms: [attenuated, attenuates, attenuating, attenuation]
+
+- word: augment
+  pos: verb
+  ipa: /ɔɡˈmɛnt/
+  phonetic: awg-MENT
+  definition: To make something greater by adding to it; to increase.
+  synonyms: [increase, enlarge, supplement, boost, expand]
+  antonyms: [decrease, diminish, reduce]
+  related: [augmentation]
+  etymology: From Latin augmentare, from augere "to increase."
+  forms: [augmented, augments, augmenting, augmentation]
+
+- word: augur
+  pos: verb / noun
+  ipa: /ˈɔɡər/
+  phonetic: AW-ger
+  definition: (Of an event or circumstance) to portend a good or bad outcome; (noun) a seer or prophet.
+  synonyms: [portend, bode, presage, foreshadow, herald]
+  antonyms: []
+  related: [augury]
+  etymology: From Latin augur, a Roman religious official who interpreted omens from the behavior of birds.
+  forms: [augured, augurs, auguring]
+
+- word: august
+  pos: adjective
+  ipa: /ɔˈɡʌst/
+  phonetic: aw-GUST
+  definition: Respected and impressive; inspiring reverence and admiration.
+  synonyms: [distinguished, eminent, venerable, majestic, dignified]
+  antonyms: [lowly, humble, undignified]
+  related: [augustly]
+  etymology: From Latin augustus "venerable, consecrated," related to augere "to increase."
+  lowercase_only: true
+
+- word: auspicious
+  pos: adjective
+  ipa: /ɔˈspɪʃəs/
+  phonetic: aw-SPISH-us
+  definition: Conducive to success; favorable; giving signs that the future will be good.
+  synonyms: [favorable, propitious, promising, opportune, fortunate]
+  antonyms: [inauspicious, ominous, unfavorable]
+  related: [auspice, auspiciously, inauspicious]
+  etymology: From Latin auspicium "divination from the flight of birds," from avis "bird" + specere "to look."
+  forms: [auspiciously]
+
+- word: austerity
+  pos: noun
+  ipa: /ɔˈstɛrɪti/
+  phonetic: aw-STAIR-ih-tee
+  definition: Sternness or severe simplicity; difficult economic conditions created by government measures to reduce public spending.
+  synonyms: [severity, plainness, asceticism, frugality, rigor]
+  antonyms: [luxury, extravagance, indulgence]
+  related: [austere, austerely]
+  etymology: From Greek austēros "harsh, bitter," via Latin austerus.
+  forms: [austerities]
+
+- word: autocrat
+  pos: noun
+  ipa: /ˈɔtəˌkræt/
+  phonetic: AW-tuh-krat
+  definition: A ruler with absolute power; a person who insists on complete obedience.
+  synonyms: [despot, dictator, tyrant, absolutist, authoritarian]
+  antonyms: [democrat]
+  related: [autocracy, autocratic]
+  etymology: From Greek autokratēs "ruling by oneself," from autos "self" + kratos "power."
+  forms: [autocrats, autocratic]
+
+- word: avarice
+  pos: noun
+  ipa: /ˈævərɪs/
+  phonetic: AV-er-is
+  definition: Extreme greed for wealth or material gain.
+  synonyms: [greed, cupidity, covetousness, rapacity, acquisitiveness]
+  antonyms: [generosity, liberality, largesse]
+  related: [avaricious, avariciously]
+  etymology: From Latin avaritia, from avarus "greedy."
+  forms: [avaricious]
+
+- word: aver
+  pos: verb
+  ipa: /əˈvɜr/
+  phonetic: uh-VUR
+  definition: To state or assert to be the case.
+  synonyms: [assert, declare, affirm, maintain, avow]
+  antonyms: [deny, disavow]
+  related: [averment]
+  etymology: From Old French averer "to confirm as true," from Latin ad- "to" + verus "true."
+  forms: [averred, avers, averring]
+
+- word: averse
+  pos: adjective
+  ipa: /əˈvɜrs/
+  phonetic: uh-VURS
+  definition: Having a strong dislike of or opposition to something.
+  synonyms: [opposed, reluctant, disinclined, hostile, unwilling]
+  antonyms: [eager, keen, willing]
+  related: [aversion, avert]
+  etymology: From Latin aversus "turned away," past participle of avertere, from ab- "from" + vertere "to turn."
+
+- word: aversion
+  pos: noun
+  ipa: /əˈvɜrʒən/
+  phonetic: uh-VUR-zhun
+  definition: A strong dislike or disinclination.
+  synonyms: [dislike, antipathy, distaste, repugnance, abhorrence]
+  antonyms: [liking, affinity, fondness]
+  related: [averse, avert]
+  etymology: From Latin aversio, from avertere "to turn away."
+  forms: [aversions]
+
+- word: avid
+  pos: adjective
+  ipa: /ˈævɪd/
+  phonetic: AV-id
+  definition: Having a keen interest in or enthusiasm for something; eager.
+  synonyms: [keen, eager, enthusiastic, ardent, passionate]
+  antonyms: [indifferent, apathetic, unenthusiastic]
+  related: [avidly, avidity]
+  etymology: From Latin avidus "eager, greedy," from avere "to long for."
+  forms: [avidly]
+
+- word: avow
+  pos: verb
+  ipa: /əˈvaʊ/
+  phonetic: uh-VOW
+  definition: To assert or confess openly.
+  synonyms: [declare, assert, affirm, profess, acknowledge]
+  antonyms: [disavow, deny, repudiate]
+  related: [avowal, avowed, avowedly]
+  etymology: From Old French avouer "to acknowledge," from Latin advocare "to call upon."
+  forms: [avowed, avows, avowing, avowedly]
+
+- word: awry
+  pos: adverb / adjective
+  ipa: /əˈraɪ/
+  phonetic: uh-RY
+  definition: Away from the appropriate or expected course; amiss; out of the normal position.
+  synonyms: [amiss, wrong, askew, crooked, astray]
+  antonyms: [right, straight, aligned]
+  related: [wry]
+  etymology: From Middle English on wry "crooked," from a- "on" + wry "twisted."
+
+- word: axiom
+  pos: noun
+  ipa: /ˈæksiəm/
+  phonetic: AK-see-um
+  definition: A statement or proposition regarded as self-evidently true; an established principle.
+  synonyms: [principle, truism, postulate, maxim, precept]
+  antonyms: []
+  related: [axiomatic, axiomatically]
+  etymology: From Greek axiōma "that which is thought worthy," from axios "worthy."
+  forms: [axioms, axiomatic]
+
+- word: baleful
+  pos: adjective
+  ipa: /ˈbeɪlfəl/
+  phonetic: BAYL-ful
+  definition: Threatening harm; menacing; having a harmful or destructive effect.
+  synonyms: [menacing, sinister, malevolent, ominous, malign]
+  antonyms: [benign, benevolent, friendly]
+  related: [balefully]
+  etymology: From Old English bealufull, from bealu "evil, harm" + -full.
+  forms: [balefully]
+
+- word: balk
+  pos: verb
+  ipa: /bɔk/
+  phonetic: BAWK
+  definition: To hesitate or be unwilling to accept an idea or undertaking; to thwart or hinder.
+  synonyms: [hesitate, recoil, refuse, resist, thwart]
+  antonyms: [accept, embrace, agree]
+  related: []
+  etymology: From Old English balca "ridge, bank," later "a stumbling block."
+  forms: [balked, balks, balking, baulk]
+
+- word: bastion
+  pos: noun
+  ipa: /ˈbæstʃən/
+  phonetic: BAS-chun
+  definition: An institution, place, or person strongly defending or upholding particular principles; a projecting part of a fortification.
+  synonyms: [stronghold, bulwark, citadel, fortress, mainstay]
+  antonyms: []
+  related: []
+  etymology: From French bastion, from Italian bastione, from bastire "to build."
+  forms: [bastions]
+
+- word: bedlam
+  pos: noun
+  ipa: /ˈbɛdləm/
+  phonetic: BED-lum
+  definition: A scene of uproar and confusion.
+  synonyms: [chaos, pandemonium, mayhem, tumult, uproar]
+  antonyms: [calm, order, tranquility]
+  related: []
+  etymology: From Bedlam, the popular name of the Hospital of St. Mary of Bethlehem in London, an asylum for the mentally ill.
+
+- word: beguile
+  pos: verb
+  ipa: /bɪˈɡaɪl/
+  phonetic: bih-GYL
+  definition: To charm or enchant, sometimes deceptively; to trick into doing something.
+  synonyms: [charm, enchant, captivate, deceive, delude]
+  antonyms: [repel, disenchant]
+  related: [beguiling, beguilingly]
+  etymology: From Middle English bi- + guile "deceit."
+  forms: [beguiled, beguiles, beguiling, beguilingly]
+
+- word: beholden
+  pos: adjective
+  ipa: /bɪˈhoʊldən/
+  phonetic: bih-HOHL-dun
+  definition: Owing thanks or having a duty to someone in return for help or a service.
+  synonyms: [indebted, obligated, obliged, bound, grateful]
+  antonyms: [independent, unobligated]
+  related: []
+  etymology: Archaic past participle of behold, in the old sense "bound, obligated."
+
+- word: belittle
+  pos: verb
+  ipa: /bɪˈlɪtəl/
+  phonetic: bih-LIT-ul
+  definition: To dismiss someone or something as unimportant; to disparage.
+  synonyms: [disparage, deprecate, denigrate, minimize, trivialize]
+  antonyms: [praise, extol, magnify]
+  related: [belittlement]
+  etymology: Coined from be- + little; an early recorded use is by Thomas Jefferson in 1781.
+  forms: [belittled, belittles, belittling]
+
+- word: belligerent
+  pos: adjective / noun
+  ipa: /bəˈlɪdʒərənt/
+  phonetic: buh-LIJ-er-unt
+  definition: Hostile and aggressive; engaged in a war or conflict; (noun) a nation or person engaged in war.
+  synonyms: [hostile, aggressive, bellicose, pugnacious, combative]
+  antonyms: [peaceable, conciliatory, friendly]
+  related: [belligerence, belligerently, belligerency]
+  etymology: From Latin belligerare "to wage war," from bellum "war" + gerere "to wage."
+  forms: [belligerently, belligerence]
+
+- word: bemoan
+  pos: verb
+  ipa: /bɪˈmoʊn/
+  phonetic: bih-MOHN
+  definition: To express discontent or sorrow over something; to lament.
+  synonyms: [lament, deplore, bewail, mourn, rue]
+  antonyms: [celebrate, rejoice, applaud]
+  related: []
+  etymology: From Old English bemænan, from be- + mænan "to moan, complain."
+  forms: [bemoaned, bemoans, bemoaning]
+
+- word: benediction
+  pos: noun
+  ipa: /ˌbɛnɪˈdɪkʃən/
+  phonetic: ben-ih-DIK-shun
+  definition: The utterance of a blessing, especially at the end of a religious service; a state of being blessed.
+  synonyms: [blessing, invocation, prayer, grace, consecration]
+  antonyms: [curse, malediction, imprecation]
+  related: [benedictory]
+  etymology: From Latin benedictio, from benedicere "to speak well of, bless," from bene "well" + dicere "to speak."
+  forms: [benedictions]
+
+- word: benefactor
+  pos: noun
+  ipa: /ˈbɛnəˌfæktər/
+  phonetic: BEN-uh-fak-ter
+  definition: A person who gives money or other help to a person, cause, or institution.
+  synonyms: [patron, sponsor, donor, supporter, philanthropist]
+  antonyms: [beneficiary, adversary]
+  related: [benefaction, benefactress, beneficent]
+  etymology: From Latin benefactor, from bene facere "to do well, do good."
+  forms: [benefactors]

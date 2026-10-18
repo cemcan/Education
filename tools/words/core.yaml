@@ -406,17 +406,6 @@ words:
   etymology: From Old French desparagier "to marry someone of unequal rank," from des- "apart" + parage "equality of rank," from Latin par "equal."
   forms: [disparaged, disparages, disparaging, disparagement]
 
-- word: disparate
-  pos: adjective
-  ipa: /ˈdɪspərɪt/
-  phonetic: DIS-per-it
-  definition: Essentially different in kind; not allowing comparison.
-  synonyms: [dissimilar, distinct, divergent, contrasting, heterogeneous]
-  antonyms: [similar, homogeneous, uniform]
-  related: [disparity]
-  etymology: From Latin disparatus "separated," from dis- "apart" + parare "to prepare." Associated in English with dispar "unequal."
-  forms: [disparity, disparities]
-
 - word: dissemble
   pos: verb
   ipa: /dɪˈsɛmbəl/

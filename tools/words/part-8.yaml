@@ -1,0 +1,1237 @@
+# GRE vocabulary, part 8. Examples are added by build_words.py; never write them here.
+words:
+- word: squalid
+  pos: adjective
+  ipa: /ˈskwɑlɪd/
+  phonetic: SKWOL-id
+  definition: Extremely dirty and unpleasant, especially from neglect or poverty; morally degraded or sordid.
+  synonyms: [filthy, sordid, wretched, seedy, foul]
+  antonyms: [clean, pristine, immaculate]
+  related: [squalor, squalidly, squalidness]
+  etymology: From Latin squalidus "rough, dirty," from squalere "to be stiff with dirt."
+  forms: [squalidly, squalidness]
+
+- word: staid
+  pos: adjective
+  ipa: /steɪd/
+  phonetic: STAYD
+  definition: Sedate, respectable, and unadventurous; dull and conventional.
+  synonyms: [sedate, sober, prim, conventional, stuffy]
+  antonyms: [flamboyant, adventurous, frivolous]
+  related: [staidly, staidness]
+  etymology: An old past participle of "stay," in the sense "fixed, settled."
+  forms: [staidly, staidness]
+
+- word: stalwart
+  pos: adjective / noun
+  ipa: /ˈstɔlwərt/
+  phonetic: STAWL-wurt
+  definition: Loyal, reliable, and hardworking; strongly built; a loyal, steadfast supporter of a cause or organization.
+  synonyms: [steadfast, staunch, loyal, sturdy, dependable]
+  antonyms: [disloyal, unreliable, faithless]
+  related: [stalwartly, stalwartness]
+  etymology: From Old English stælwierthe "serviceable," a Scots variant of "stalworth."
+  forms: [stalwarts, stalwartly, stalwartness]
+
+- word: stilted
+  pos: adjective
+  ipa: /ˈstɪltɪd/
+  phonetic: STIL-tid
+  definition: Stiff, artificial, and unnatural in manner or language; overly formal.
+  synonyms: [stiff, wooden, forced, unnatural, affected]
+  antonyms: [natural, fluent, relaxed]
+  related: [stiltedly, stiltedness]
+  etymology: From "stilt," originally meaning raised on stilts, hence pompous or elevated.
+  forms: [stiltedly, stiltedness]
+
+- word: stingy
+  pos: adjective
+  ipa: /ˈstɪndʒi/
+  phonetic: STIN-jee
+  definition: Unwilling to give or spend money; mean and ungenerous; scanty or meager.
+  synonyms: [miserly, parsimonious, tight-fisted, niggardly, penurious]
+  antonyms: [generous, lavish, munificent]
+  related: [stinginess, stingily]
+  forms: [stingier, stingiest, stingily, stinginess]
+
+- word: stipulate
+  pos: verb
+  ipa: /ˈstɪpjəleɪt/
+  phonetic: STIP-yuh-layt
+  definition: To demand or specify as a requirement, especially as part of an agreement or contract.
+  synonyms: [specify, require, set down, prescribe, insist on]
+  antonyms: [waive, forgo]
+  related: [stipulation]
+  etymology: From Latin stipulari "to demand a formal promise," a term of Roman contract law.
+  forms: [stipulated, stipulates, stipulating, stipulation, stipulations]
+
+- word: stolid
+  pos: adjective
+  ipa: /ˈstɑlɪd/
+  phonetic: STOL-id
+  definition: Calm, dependable, and showing little emotion or animation; impassive.
+  synonyms: [impassive, phlegmatic, unemotional, stoical, bovine]
+  antonyms: [excitable, emotional, animated]
+  related: [stolidly, stolidity]
+  etymology: From Latin stolidus "dull, stupid, slow."
+  forms: [stolidly, stolidity, stolidness]
+
+- word: strident
+  pos: adjective
+  ipa: /ˈstraɪdənt/
+  phonetic: STRY-dunt
+  definition: Loud and harsh, grating; presenting a point of view forcefully and aggressively.
+  synonyms: [harsh, shrill, grating, vociferous, insistent]
+  antonyms: [soft, mellow, muted]
+  related: [stridency, stridently]
+  etymology: From Latin stridere "to creak, make a harsh noise."
+  forms: [stridently, stridency]
+
+- word: stupefy
+  pos: verb
+  ipa: /ˈstupəfaɪ/
+  phonetic: STOO-puh-fy
+  definition: To make someone unable to think or feel properly; to astonish or shock greatly.
+  synonyms: [daze, stun, numb, astound, dumbfound]
+  antonyms: [enliven, stimulate]
+  related: [stupefaction, stupefying]
+  etymology: From Latin stupefacere, from stupere "to be stunned" + facere "to make."
+  forms: [stupefied, stupefies, stupefying, stupefaction]
+
+- word: stupor
+  pos: noun
+  ipa: /ˈstupər/
+  phonetic: STOO-pur
+  definition: A state of near-unconsciousness or greatly dulled senses.
+  synonyms: [daze, torpor, lethargy, trance, insensibility]
+  antonyms: [alertness, awareness]
+  related: [stuporous]
+  etymology: From Latin stupor "numbness, astonishment," from stupere "to be stunned."
+  forms: [stupors]
+
+- word: suave
+  pos: adjective
+  ipa: /swɑv/
+  phonetic: SWAHV
+  definition: Charming, confident, and elegant, typically of a man; smoothly polite, sometimes superficially so.
+  synonyms: [urbane, debonair, smooth, polished, sophisticated]
+  antonyms: [boorish, gauche, uncouth]
+  related: [suavely, suavity]
+  etymology: From French suave, from Latin suavis "agreeable, sweet."
+  forms: [suavely, suavity, suaveness]
+
+- word: subjugate
+  pos: verb
+  ipa: /ˈsʌbdʒəɡeɪt/
+  phonetic: SUB-juh-gayt
+  definition: To bring under domination or control, especially by conquest.
+  synonyms: [conquer, subdue, vanquish, oppress, enslave]
+  antonyms: [liberate, free, emancipate]
+  related: [subjugation]
+  etymology: From Latin subjugare "to bring under the yoke," from sub- "under" + jugum "yoke."
+  forms: [subjugated, subjugates, subjugating, subjugation]
+
+- word: sublime
+  pos: adjective
+  ipa: /səˈblaɪm/
+  phonetic: suh-BLYME
+  definition: Of such excellence, grandeur, or beauty as to inspire great admiration or awe.
+  synonyms: [exalted, magnificent, glorious, transcendent, majestic]
+  antonyms: [ridiculous, base, mundane]
+  related: [sublimity, sublimely]
+  etymology: From Latin sublimis "uplifted, lofty."
+  forms: [sublimely, sublimity]
+
+- word: subservient
+  pos: adjective
+  ipa: /səbˈsɜrviənt/
+  phonetic: sub-SUR-vee-unt
+  definition: Excessively willing to obey others; less important, subordinate.
+  synonyms: [servile, obsequious, submissive, deferential, subordinate]
+  antonyms: [domineering, assertive, independent]
+  related: [subservience, subserviently]
+  etymology: From Latin subservire "to be subject to, comply with," from sub- "under" + servire "to serve."
+  forms: [subservience, subserviently]
+
+- word: subside
+  pos: verb
+  ipa: /səbˈsaɪd/
+  phonetic: sub-SYDE
+  definition: To become less intense, violent, or severe; to sink to a lower level.
+  synonyms: [abate, wane, ebb, diminish, recede]
+  antonyms: [intensify, escalate, rise]
+  related: [subsidence]
+  etymology: From Latin subsidere "to settle, sink," from sub- "down" + sidere "to settle."
+  forms: [subsided, subsides, subsiding]
+
+- word: substantiate
+  pos: verb
+  ipa: /səbˈstænʃieɪt/
+  phonetic: sub-STAN-shee-ayt
+  definition: To provide evidence to support or prove the truth of a claim.
+  synonyms: [corroborate, verify, confirm, validate, bear out]
+  antonyms: [refute, disprove, invalidate]
+  related: [substantiation, unsubstantiated]
+  etymology: From Latin substantia "substance, being."
+  forms: [substantiated, substantiates, substantiating, substantiation]
+
+- word: subterfuge
+  pos: noun
+  ipa: /ˈsʌbtərfjudʒ/
+  phonetic: SUB-tur-fyooj
+  definition: Deceit used in order to achieve one's goal; a trick or deceptive stratagem.
+  synonyms: [deception, ruse, ploy, trickery, artifice]
+  antonyms: [candor, honesty, openness]
+  related: []
+  etymology: From Late Latin subterfugium, from Latin subterfugere "to escape secretly," from subter- "beneath" + fugere "to flee."
+  forms: [subterfuges]
+
+- word: subversive
+  pos: adjective / noun
+  ipa: /səbˈvɜrsɪv/
+  phonetic: sub-VUR-siv
+  definition: Seeking or intended to undermine an established system or institution; a person who does so.
+  synonyms: [seditious, insurrectionary, disruptive, rebellious, dissident]
+  antonyms: [loyal, conformist, orthodox]
+  related: [subversion, subvert, subversively]
+  etymology: From Latin subvertere "to overturn," from sub- "from below" + vertere "to turn."
+  forms: [subversives, subversively, subversiveness]
+
+- word: succor
+  pos: noun / verb
+  ipa: /ˈsʌkər/
+  phonetic: SUK-ur
+  definition: Assistance and support in times of hardship and distress; to give such help.
+  synonyms: [aid, relief, comfort, assistance, support]
+  antonyms: [hindrance, obstruction]
+  related: [succour]
+  etymology: From Old French socours, from Latin succurrere "to run to the help of," from sub- "up to" + currere "to run."
+  forms: [succored, succoring, succors, succour]
+
+- word: suffuse
+  pos: verb
+  ipa: /səˈfjuz/
+  phonetic: suh-FYOOZ
+  definition: To gradually spread through or over, as with a color, light, liquid, or feeling.
+  synonyms: [permeate, pervade, imbue, saturate, infuse]
+  antonyms: []
+  related: [suffusion]
+  etymology: From Latin suffundere "to pour beneath," from sub- "under" + fundere "to pour."
+  forms: [suffused, suffuses, suffusing, suffusion]
+
+- word: sullen
+  pos: adjective
+  ipa: /ˈsʌlən/
+  phonetic: SUL-un
+  definition: Bad-tempered and sulky; gloomy and silent from resentment.
+  synonyms: [sulky, morose, surly, glum, sour]
+  antonyms: [cheerful, genial, sunny]
+  related: [sullenly, sullenness]
+  etymology: From Anglo-French sulein "solitary," from Latin solus "alone."
+  forms: [sullenly, sullenness]
+
+- word: sumptuous
+  pos: adjective
+  ipa: /ˈsʌmptʃuəs/
+  phonetic: SUMP-choo-us
+  definition: Splendid and expensive-looking; lavish.
+  synonyms: [lavish, opulent, luxurious, extravagant, magnificent]
+  antonyms: [plain, austere, meager]
+  related: [sumptuously, sumptuousness]
+  etymology: From Latin sumptuosus, from sumptus "expense," from sumere "to take, spend."
+  forms: [sumptuously, sumptuousness]
+
+- word: supercilious
+  pos: adjective
+  ipa: /ˌsupərˈsɪliəs/
+  phonetic: soo-pur-SIL-ee-us
+  definition: Behaving or looking as though one thinks one is superior to others; haughtily disdainful.
+  synonyms: [haughty, arrogant, disdainful, condescending, contemptuous]
+  antonyms: [humble, modest, deferential]
+  related: [superciliously, superciliousness]
+  etymology: From Latin supercilium "eyebrow," evoking a raised, scornful brow.
+  forms: [superciliously, superciliousness]
+
+- word: superfluous
+  pos: adjective
+  ipa: /suˈpɜrfluəs/
+  phonetic: soo-PUR-floo-us
+  definition: Unnecessary, especially through being more than enough.
+  synonyms: [redundant, excess, surplus, unnecessary, extraneous]
+  antonyms: [essential, necessary, requisite]
+  related: [superfluity, superfluously]
+  etymology: From Latin superfluus "overflowing," from super- "over" + fluere "to flow."
+  forms: [superfluously, superfluity]
+
+- word: supine
+  pos: adjective
+  ipa: /ˈsupaɪn/
+  phonetic: SOO-pyne
+  definition: Lying face upward; failing to act or protest out of moral weakness or indolence.
+  synonyms: [recumbent, prostrate, passive, inert, spineless]
+  antonyms: [prone, active, assertive]
+  related: [supinely]
+  etymology: From Latin supinus "bent backward, lying on the back."
+  forms: [supinely]
+
+- word: supplant
+  pos: verb
+  ipa: /səˈplænt/
+  phonetic: suh-PLANT
+  definition: To supersede and replace, often by force or scheming.
+  synonyms: [replace, supersede, displace, oust, usurp]
+  antonyms: []
+  related: [supplanter]
+  etymology: From Latin supplantare "to trip up," from sub- "under" + planta "sole of the foot."
+  forms: [supplanted, supplants, supplanting]
+
+- word: supple
+  pos: adjective
+  ipa: /ˈsʌpəl/
+  phonetic: SUP-ul
+  definition: Bending and moving easily and gracefully; flexible; adaptable in mind or behavior.
+  synonyms: [flexible, pliant, lithe, limber, agile]
+  antonyms: [rigid, stiff, inflexible]
+  related: [suppleness]
+  etymology: From Old French souple, from Latin supplex "submissive, bending under."
+  forms: [suppler, supplest, suppleness]
+
+- word: supplicate
+  pos: verb
+  ipa: /ˈsʌplɪkeɪt/
+  phonetic: SUP-li-kayt
+  definition: To ask or beg for something earnestly or humbly.
+  synonyms: [beseech, implore, entreat, plead, petition]
+  antonyms: [demand, command]
+  related: [supplication, supplicant, suppliant]
+  etymology: From Latin supplicare "to kneel down, beg humbly," from supplex "kneeling in entreaty."
+  forms: [supplicated, supplicates, supplicating, supplication]
+
+- word: surfeit
+  pos: noun / verb
+  ipa: /ˈsɜrfɪt/
+  phonetic: SUR-fit
+  definition: An excessive amount of something; to cause someone to overindulge or be sated.
+  synonyms: [excess, glut, surplus, overabundance, plethora]
+  antonyms: [dearth, scarcity, shortage]
+  related: [surfeited]
+  etymology: From Old French surfait "excess," from sur- "over" + faire "to do."
+  forms: [surfeits, surfeited]
+
+- word: surly
+  pos: adjective
+  ipa: /ˈsɜrli/
+  phonetic: SUR-lee
+  definition: Bad-tempered and unfriendly; rude and gruff.
+  synonyms: [sullen, gruff, churlish, crabby, sour]
+  antonyms: [friendly, amiable, genial]
+  related: [surliness]
+  etymology: An alteration of obsolete "sirly," meaning "lordly, haughty," from "sir."
+  forms: [surlier, surliest, surliness]
+
+- word: surmise
+  pos: verb / noun
+  ipa: /sərˈmaɪz/
+  phonetic: sur-MYZE
+  definition: To suppose something is true without conclusive evidence; a guess or supposition.
+  synonyms: [guess, conjecture, infer, speculate, suspect]
+  antonyms: [know, prove]
+  related: []
+  etymology: From Old French surmise "accusation," from surmettre "to accuse," from Latin super- "upon" + mittere "to send."
+  forms: [surmised, surmises, surmising]
+
+- word: surmount
+  pos: verb
+  ipa: /sərˈmaʊnt/
+  phonetic: sur-MOWNT
+  definition: To overcome a difficulty or obstacle; to stand or be placed on top of.
+  synonyms: [overcome, conquer, prevail over, vanquish, master]
+  antonyms: [succumb, yield]
+  related: [insurmountable, surmountable]
+  etymology: From Old French surmonter, from sur- "over" + monter "to climb."
+  forms: [surmounted, surmounts, surmounting]
+
+- word: surreptitious
+  pos: adjective
+  ipa: /ˌsɜrəpˈtɪʃəs/
+  phonetic: sur-up-TISH-us
+  definition: Kept secret, especially because it would not be approved of; done stealthily.
+  synonyms: [secret, stealthy, furtive, clandestine, covert]
+  antonyms: [open, overt, aboveboard]
+  related: [surreptitiously]
+  etymology: From Latin surrepticius "stolen, secret," from surripere "to seize secretly," from sub- "under" + rapere "to seize."
+  forms: [surreptitiously, surreptitiousness]
+
+- word: surrogate
+  pos: noun / adjective
+  ipa: /ˈsɜrəɡət/
+  phonetic: SUR-uh-gut
+  definition: A substitute, especially a person deputizing for another in a role or office.
+  synonyms: [substitute, proxy, stand-in, deputy, replacement]
+  antonyms: [original]
+  related: [surrogacy]
+  etymology: From Latin surrogare "to elect as a substitute," from sub- "in place of" + rogare "to ask."
+  forms: [surrogates]
+
+- word: swagger
+  pos: verb / noun
+  ipa: /ˈswæɡər/
+  phonetic: SWAG-ur
+  definition: To walk or behave in a very confident, arrogant way; such a gait or manner.
+  synonyms: [strut, swank, bluster, parade, boast]
+  antonyms: [cower, slink]
+  related: [swaggering, swaggerer]
+  forms: [swaggered, swaggers, swaggering]
+
+- word: tacit
+  pos: adjective
+  ipa: /ˈtæsɪt/
+  phonetic: TAS-it
+  definition: Understood or implied without being stated.
+  synonyms: [implicit, unspoken, implied, understood, wordless]
+  antonyms: [explicit, express, stated]
+  related: [tacitly, taciturn]
+  etymology: From Latin tacitus "silent," from tacere "to be silent."
+  forms: [tacitly]
+
+- word: taint
+  pos: verb / noun
+  ipa: /teɪnt/
+  phonetic: TAYNT
+  definition: To contaminate or pollute; to affect with a bad or undesirable quality; a trace of something bad.
+  synonyms: [contaminate, sully, tarnish, corrupt, blemish]
+  antonyms: [purify, cleanse]
+  related: [untainted]
+  forms: [tainted, taints, tainting]
+
+- word: tantamount
+  pos: adjective
+  ipa: /ˈtæntəmaʊnt/
+  phonetic: TAN-tuh-mownt
+  definition: Equivalent in seriousness or effect to; virtually the same as.
+  synonyms: [equivalent, equal, comparable, synonymous, as good as]
+  antonyms: [unlike, dissimilar]
+  related: []
+  etymology: From Anglo-French tant amunter "to amount to as much," from Latin tantus "so great."
+
+- word: tawdry
+  pos: adjective
+  ipa: /ˈtɔdri/
+  phonetic: TAW-dree
+  definition: Showy but cheap and of poor quality; sordid or unpleasant.
+  synonyms: [gaudy, garish, tacky, cheap, sleazy]
+  antonyms: [tasteful, elegant, refined]
+  related: [tawdriness]
+  etymology: A shortening of "tawdry lace," from "St. Audrey's lace," cheap neckwear sold at fairs honoring St. Audrey (Æthelthryth) of Ely.
+  forms: [tawdriness]
+
+- word: tedium
+  pos: noun
+  ipa: /ˈtidiəm/
+  phonetic: TEE-dee-um
+  definition: The state of being tedious; tiresome monotony.
+  synonyms: [monotony, boredom, dullness, ennui, tediousness]
+  antonyms: [excitement, interest, variety]
+  related: [tedious, tediously]
+  etymology: From Latin taedium "weariness, disgust," from taedere "to weary."
+  forms: [tediousness]
+
+- word: temperance
+  pos: noun
+  ipa: /ˈtɛmpərəns/
+  phonetic: TEM-pur-uns
+  definition: Moderation or self-restraint, especially in eating or drinking; abstinence from alcohol.
+  synonyms: [moderation, self-restraint, abstinence, sobriety, self-control]
+  antonyms: [intemperance, excess, indulgence]
+  related: [temperate, intemperance]
+  etymology: From Latin temperantia "moderation," from temperare "to restrain, mix in due proportion."
+
+- word: temperate
+  pos: adjective
+  ipa: /ˈtɛmpərət/
+  phonetic: TEM-pur-ut
+  definition: Showing moderation or self-restraint; mild in climate, without extremes of temperature.
+  synonyms: [moderate, restrained, measured, mild, self-controlled]
+  antonyms: [intemperate, immoderate, extreme]
+  related: [temperance, temperately]
+  etymology: From Latin temperatus "restrained, moderate," past participle of temperare.
+  forms: [temperately]
+
+- word: tenacity
+  pos: noun
+  ipa: /təˈnæsɪti/
+  phonetic: tuh-NAS-ih-tee
+  definition: The quality of being very determined or persistent; firmness of grip or adherence.
+  synonyms: [persistence, determination, perseverance, doggedness, resolve]
+  antonyms: [irresolution, weakness, vacillation]
+  related: [tenacious, tenaciously]
+  etymology: From Latin tenacitas, from tenax "holding fast," from tenere "to hold."
+
+- word: tenet
+  pos: noun
+  ipa: /ˈtɛnɪt/
+  phonetic: TEN-it
+  definition: A principle or belief, especially one of the main principles of a religion or philosophy.
+  synonyms: [principle, doctrine, belief, dogma, precept]
+  antonyms: []
+  related: []
+  etymology: From Latin tenet "he holds," from tenere "to hold."
+  forms: [tenets]
+
+- word: tepid
+  pos: adjective
+  ipa: /ˈtɛpɪd/
+  phonetic: TEP-id
+  definition: Showing little enthusiasm; lukewarm in temperature.
+  synonyms: [lukewarm, unenthusiastic, halfhearted, apathetic, indifferent]
+  antonyms: [enthusiastic, ardent, fervent]
+  related: [tepidly, tepidity]
+  etymology: From Latin tepidus, from tepere "to be warm."
+  forms: [tepidly, tepidity]
+
+- word: timorous
+  pos: adjective
+  ipa: /ˈtɪmərəs/
+  phonetic: TIM-ur-us
+  definition: Showing or suffering from nervousness or a lack of confidence; fearful.
+  synonyms: [timid, fearful, apprehensive, diffident, faint-hearted]
+  antonyms: [bold, audacious, intrepid]
+  related: [timorously, timorousness]
+  etymology: From Medieval Latin timorosus, from Latin timor "fear."
+  forms: [timorously, timorousness]
+
+- word: tirade
+  pos: noun
+  ipa: /ˈtaɪreɪd/
+  phonetic: TY-rayd
+  definition: A long, angry speech of criticism or accusation.
+  synonyms: [diatribe, harangue, rant, broadside, invective]
+  antonyms: [encomium, eulogy, panegyric]
+  related: []
+  etymology: From French tirade "long speech," from Italian tirata "a volley," from tirare "to pull."
+  forms: [tirades]
+
+- word: toady
+  pos: noun / verb
+  ipa: /ˈtoʊdi/
+  phonetic: TOH-dee
+  definition: A person who flatters or defers to others for self-interest; to act obsequiously toward someone.
+  synonyms: [sycophant, flatterer, lackey, bootlicker, yes-man]
+  antonyms: []
+  related: [toadyism]
+  etymology: Short for "toadeater," a charlatan's assistant who pretended to eat poisonous toads so the master could "cure" him.
+  forms: [toadies, toadied, toadying]
+
+- word: tome
+  pos: noun
+  ipa: /toʊm/
+  phonetic: TOHM
+  definition: A book, especially a large, heavy, scholarly one.
+  synonyms: [volume, book, opus, work, treatise]
+  antonyms: []
+  related: []
+  etymology: From Greek tomos "section, volume," from temnein "to cut."
+  forms: [tomes]
+
+- word: torrid
+  pos: adjective
+  ipa: /ˈtɔrɪd/
+  phonetic: TOR-id
+  definition: Very hot and dry; full of intense emotion, especially passion; full of difficulty.
+  synonyms: [scorching, sweltering, parched, passionate, ardent]
+  antonyms: [cold, frigid, cool]
+  related: [torridly]
+  etymology: From Latin torridus, from torrere "to parch, scorch."
+  forms: [torridly]
+
+- word: tortuous
+  pos: adjective
+  ipa: /ˈtɔrtʃuəs/
+  phonetic: TOR-choo-us
+  definition: Full of twists and turns; excessively lengthy and complex.
+  synonyms: [winding, twisting, convoluted, labyrinthine, circuitous]
+  antonyms: [straight, direct, simple]
+  related: [tortuously, tortuousness, tortuosity]
+  etymology: From Latin tortuosus, from tortus "twisted," past participle of torquere "to twist."
+  forms: [tortuously, tortuousness]
+
+- word: tractable
+  pos: adjective
+  ipa: /ˈtræktəbəl/
+  phonetic: TRAK-tuh-bul
+  definition: Easy to control or influence; easily managed or dealt with.
+  synonyms: [manageable, docile, compliant, amenable, malleable]
+  antonyms: [intractable, unruly, obstinate]
+  related: [tractability, intractable]
+  etymology: From Latin tractabilis, from tractare "to handle," frequentative of trahere "to draw."
+  forms: [tractability]
+
+- word: transgression
+  pos: noun
+  ipa: /trænzˈɡrɛʃən/
+  phonetic: tranz-GRESH-un
+  definition: An act that goes against a law, rule, or code of conduct; an offense.
+  synonyms: [offense, violation, infraction, misdeed, sin]
+  antonyms: [obedience, compliance]
+  related: [transgress, transgressor, transgressive]
+  etymology: From Latin transgressio, from transgredi "to step across," from trans- "across" + gradi "to step."
+  forms: [transgressions]
+
+- word: transient
+  pos: adjective / noun
+  ipa: /ˈtrænʃənt/
+  phonetic: TRAN-shunt
+  definition: Lasting only for a short time; impermanent; a person staying in a place only briefly.
+  synonyms: [fleeting, ephemeral, transitory, momentary, evanescent]
+  antonyms: [permanent, enduring, lasting]
+  related: [transience, transiently]
+  etymology: From Latin transire "to go across," from trans- "across" + ire "to go."
+  forms: [transience, transiently, transients]
+
+- word: transitory
+  pos: adjective
+  ipa: /ˈtrænsɪˌtɔri/
+  phonetic: TRAN-sih-tor-ee
+  definition: Not permanent; lasting only a brief time.
+  synonyms: [fleeting, ephemeral, transient, momentary, short-lived]
+  antonyms: [permanent, everlasting, perennial]
+  related: [transitoriness]
+  etymology: From Latin transitorius, from transire "to go across."
+  forms: [transitoriness]
+
+- word: travesty
+  pos: noun / verb
+  ipa: /ˈtrævəsti/
+  phonetic: TRAV-uh-stee
+  definition: A false, absurd, or distorted representation of something; to make such a representation.
+  synonyms: [mockery, parody, perversion, distortion, caricature]
+  antonyms: []
+  related: []
+  etymology: From French travesti "disguised," from Italian travestire "to disguise," from trans- "across" + vestire "to clothe."
+  forms: [travesties]
+
+- word: tremulous
+  pos: adjective
+  ipa: /ˈtrɛmjələs/
+  phonetic: TREM-yuh-lus
+  definition: Shaking or quivering slightly; timid or nervous.
+  synonyms: [trembling, quivering, shaky, quavering, timid]
+  antonyms: [steady, firm, confident]
+  related: [tremulously, tremor]
+  etymology: From Latin tremulus, from tremere "to tremble."
+  forms: [tremulously, tremulousness]
+
+- word: trenchant
+  pos: adjective
+  ipa: /ˈtrɛntʃənt/
+  phonetic: TREN-chunt
+  definition: Vigorous or incisive in expression or style; keen and penetrating.
+  synonyms: [incisive, cutting, penetrating, pointed, biting]
+  antonyms: [vague, woolly, feeble]
+  related: [trenchantly, trenchancy]
+  etymology: From Old French trenchant "cutting," from trenchier "to cut."
+  forms: [trenchantly, trenchancy]
+
+- word: trepidation
+  pos: noun
+  ipa: /ˌtrɛpɪˈdeɪʃən/
+  phonetic: trep-ih-DAY-shun
+  definition: A feeling of fear or agitation about something that may happen.
+  synonyms: [apprehension, dread, anxiety, fear, unease]
+  antonyms: [confidence, calm, composure]
+  related: []
+  etymology: From Latin trepidatio, from trepidare "to be agitated, tremble."
+
+- word: trifling
+  pos: adjective
+  ipa: /ˈtraɪflɪŋ/
+  phonetic: TRY-fling
+  definition: Unimportant or trivial; of small value or amount.
+  synonyms: [trivial, petty, insignificant, negligible, paltry]
+  antonyms: [important, significant, momentous]
+  related: [trifle]
+  forms: [triflingly]
+
+- word: truancy
+  pos: noun
+  ipa: /ˈtruənsi/
+  phonetic: TROO-un-see
+  definition: The action of staying away from school or work without good reason; absenteeism.
+  synonyms: [absenteeism, absence, shirking, malingering, hooky]
+  antonyms: [attendance]
+  related: [truant]
+  etymology: From "truant," from Old French truant "beggar, rogue," probably of Celtic origin.
+
+- word: turbid
+  pos: adjective
+  ipa: /ˈtɜrbɪd/
+  phonetic: TUR-bid
+  definition: Cloudy, opaque, or thick with suspended matter; confused or muddled.
+  synonyms: [murky, cloudy, muddy, opaque, muddled]
+  antonyms: [clear, limpid, transparent]
+  related: [turbidity]
+  etymology: From Latin turbidus "disturbed," from turba "disturbance, crowd."
+  forms: [turbidity]
+
+- word: ulterior
+  pos: adjective
+  ipa: /ʌlˈtɪriər/
+  phonetic: ul-TEER-ee-ur
+  definition: Existing beyond what is obvious or admitted; intentionally hidden.
+  synonyms: [hidden, concealed, covert, undisclosed, secret]
+  antonyms: [overt, obvious, declared]
+  related: []
+  etymology: From Latin ulterior "farther," comparative of ulter "beyond."
+
+- word: unabashed
+  pos: adjective
+  ipa: /ˌʌnəˈbæʃt/
+  phonetic: un-uh-BASHT
+  definition: Not embarrassed, disconcerted, or ashamed.
+  synonyms: [unashamed, brazen, shameless, unembarrassed, bold]
+  antonyms: [abashed, ashamed, sheepish]
+  related: [unabashedly]
+  forms: [unabashedly]
+
+- word: unassailable
+  pos: adjective
+  ipa: /ˌʌnəˈseɪləbəl/
+  phonetic: un-uh-SAY-luh-bul
+  definition: Unable to be attacked, questioned, or defeated.
+  synonyms: [invulnerable, impregnable, irrefutable, indisputable, invincible]
+  antonyms: [vulnerable, assailable, questionable]
+  related: [assail, unassailably]
+  forms: [unassailably]
+
+- word: unbridled
+  pos: adjective
+  ipa: /ʌnˈbraɪdəld/
+  phonetic: un-BRY-duld
+  definition: Uncontrolled; unconstrained.
+  synonyms: [unrestrained, uncontrolled, unchecked, rampant, wild]
+  antonyms: [restrained, controlled, curbed]
+  related: [bridle]
+
+- word: uncanny
+  pos: adjective
+  ipa: /ʌnˈkæni/
+  phonetic: un-KAN-ee
+  definition: Strange or mysterious, especially in an unsettling way; beyond what is normal or expected.
+  synonyms: [eerie, weird, unnatural, extraordinary, remarkable]
+  antonyms: [ordinary, normal, unremarkable]
+  related: [uncannily, uncanniness]
+  forms: [uncannily, uncanniness]
+
+- word: unconscionable
+  pos: adjective
+  ipa: /ʌnˈkɑnʃənəbəl/
+  phonetic: un-KON-shuh-nuh-bul
+  definition: Not right or reasonable; unreasonably excessive; not guided by conscience.
+  synonyms: [unreasonable, outrageous, excessive, unethical, unscrupulous]
+  antonyms: [reasonable, ethical, acceptable]
+  related: [unconscionably]
+  forms: [unconscionably]
+
+- word: uncouth
+  pos: adjective
+  ipa: /ʌnˈkuθ/
+  phonetic: un-KOOTH
+  definition: Lacking good manners, refinement, or grace.
+  synonyms: [boorish, crude, coarse, uncivilized, loutish]
+  antonyms: [refined, cultured, urbane]
+  related: [uncouthness]
+  etymology: From Old English uncuth "unknown, strange," from un- "not" + cuth "known."
+  forms: [uncouthness]
+
+- word: unctuous
+  pos: adjective
+  ipa: /ˈʌŋktʃuəs/
+  phonetic: UNGK-choo-us
+  definition: Excessively or ingratiatingly flattering; oily, greasy.
+  synonyms: [obsequious, sycophantic, oily, smarmy, ingratiating]
+  antonyms: [sincere, brusque, candid]
+  related: [unctuously, unctuousness, unction]
+  etymology: From Medieval Latin unctuosus, from Latin unctus "anointed," from unguere "to anoint."
+  forms: [unctuously, unctuousness]
+
+- word: undulate
+  pos: verb
+  ipa: /ˈʌndʒəleɪt/
+  phonetic: UN-juh-layt
+  definition: To move with a smooth wavelike motion; to have a wavy form or outline.
+  synonyms: [ripple, wave, roll, billow, surge]
+  antonyms: []
+  related: [undulation, undulating]
+  etymology: From Late Latin undulatus "wavy," from Latin unda "wave."
+  forms: [undulated, undulates, undulating, undulation]
+
+- word: unequivocal
+  pos: adjective
+  ipa: /ˌʌnɪˈkwɪvəkəl/
+  phonetic: un-ih-KWIV-uh-kul
+  definition: Leaving no doubt; unambiguous.
+  synonyms: [unambiguous, explicit, clear, definite, categorical]
+  antonyms: [equivocal, ambiguous, vague]
+  related: [unequivocally, equivocal]
+  etymology: From un- "not" + "equivocal," from Latin aequivocus "of identical sound," from aequus "equal" + vox "voice."
+  forms: [unequivocally]
+
+- word: unfathomable
+  pos: adjective
+  ipa: /ʌnˈfæðəməbəl/
+  phonetic: un-FATH-uh-muh-bul
+  definition: Incapable of being fully explored or understood; too deep to measure.
+  synonyms: [incomprehensible, inscrutable, impenetrable, unknowable, bottomless]
+  antonyms: [comprehensible, understandable, fathomable]
+  related: [fathom, unfathomably]
+  etymology: From "fathom," a unit of depth equal to six feet, originally the span of outstretched arms.
+  forms: [unfathomably]
+
+- word: unfettered
+  pos: adjective
+  ipa: /ʌnˈfɛtərd/
+  phonetic: un-FET-urd
+  definition: Released from restraint or inhibition; free.
+  synonyms: [unrestrained, unconstrained, free, unchecked, unbridled]
+  antonyms: [restricted, constrained, shackled]
+  related: [fetter]
+
+- word: ungainly
+  pos: adjective
+  ipa: /ʌnˈɡeɪnli/
+  phonetic: un-GAYN-lee
+  definition: Awkward and clumsy; lacking grace in movement or posture; unwieldy.
+  synonyms: [awkward, clumsy, gawky, ungraceful, gangling]
+  antonyms: [graceful, elegant, lithe]
+  related: [ungainliness]
+  forms: [ungainliness]
+
+- word: unimpeachable
+  pos: adjective
+  ipa: /ˌʌnɪmˈpitʃəbəl/
+  phonetic: un-im-PEE-chuh-bul
+  definition: Not able to be doubted, questioned, or discredited; entirely trustworthy.
+  synonyms: [irreproachable, impeccable, unquestionable, faultless, reliable]
+  antonyms: [questionable, dubious, suspect]
+  related: [unimpeachably, impeach]
+  forms: [unimpeachably]
+
+- word: unkempt
+  pos: adjective
+  ipa: /ʌnˈkɛmpt/
+  phonetic: un-KEMPT
+  definition: Having an untidy or disheveled appearance; not maintained.
+  synonyms: [disheveled, untidy, messy, scruffy, bedraggled]
+  antonyms: [neat, tidy, well-groomed]
+  related: [unkemptness]
+  etymology: From un- "not" + kempt "combed," past participle of dialectal kemb "to comb."
+  forms: [unkemptness]
+
+- word: unmitigated
+  pos: adjective
+  ipa: /ʌnˈmɪtɪˌɡeɪtɪd/
+  phonetic: un-MIT-ih-gay-tid
+  definition: Absolute; unqualified (usually of something bad); not lessened or softened.
+  synonyms: [absolute, utter, complete, sheer, unqualified]
+  antonyms: [partial, qualified, mitigated]
+  related: [mitigate, unmitigatedly]
+  forms: [unmitigatedly]
+
+- word: unseemly
+  pos: adjective
+  ipa: /ʌnˈsimli/
+  phonetic: un-SEEM-lee
+  definition: Not proper or appropriate; indecorous.
+  synonyms: [improper, unbecoming, indecorous, inappropriate, unbefitting]
+  antonyms: [seemly, proper, decorous]
+  related: [unseemliness]
+  forms: [unseemliness]
+
+- word: untenable
+  pos: adjective
+  ipa: /ʌnˈtɛnəbəl/
+  phonetic: un-TEN-uh-bul
+  definition: Not able to be maintained or defended against attack or objection.
+  synonyms: [indefensible, unsustainable, insupportable, flawed, unsound]
+  antonyms: [tenable, defensible, sound]
+  related: [tenable, untenability]
+  etymology: From un- "not" + "tenable," from French tenir "to hold," from Latin tenere.
+  forms: [untenability]
+
+- word: unwarranted
+  pos: adjective
+  ipa: /ʌnˈwɔrəntɪd/
+  phonetic: un-WOR-un-tid
+  definition: Not justified or authorized; unnecessary.
+  synonyms: [unjustified, unjustifiable, groundless, gratuitous, uncalled-for]
+  antonyms: [justified, warranted, legitimate]
+  related: [warrant]
+
+- word: unwieldy
+  pos: adjective
+  ipa: /ʌnˈwildi/
+  phonetic: un-WEEL-dee
+  definition: Difficult to carry or move because of size, shape, or weight; too large or complex to manage efficiently.
+  synonyms: [cumbersome, unmanageable, awkward, bulky, ungainly]
+  antonyms: [manageable, handy, convenient]
+  related: [unwieldiness]
+  etymology: From un- "not" + obsolete wieldy "active, nimble," from "wield."
+  forms: [unwieldiness]
+
+- word: unwitting
+  pos: adjective
+  ipa: /ʌnˈwɪtɪŋ/
+  phonetic: un-WIT-ing
+  definition: Not aware of the full facts; not done on purpose, unintentional.
+  synonyms: [unknowing, unaware, unsuspecting, inadvertent, unintentional]
+  antonyms: [knowing, deliberate, intentional]
+  related: [unwittingly, wittingly]
+  etymology: From Old English unwitende, from un- "not" + witan "to know."
+  forms: [unwittingly]
+
+- word: upbraid
+  pos: verb
+  ipa: /ʌpˈbreɪd/
+  phonetic: up-BRAYD
+  definition: To find fault with someone; to scold or reproach sharply.
+  synonyms: [scold, reprimand, berate, chastise, reproach]
+  antonyms: [praise, commend, laud]
+  related: []
+  forms: [upbraided, upbraids, upbraiding]
+
+- word: urbane
+  pos: adjective
+  ipa: /ɜrˈbeɪn/
+  phonetic: ur-BAYN
+  definition: Courteous and refined in manner, especially in a smooth, sophisticated way.
+  synonyms: [suave, sophisticated, polished, cultivated, debonair]
+  antonyms: [boorish, uncouth, gauche]
+  related: [urbanity, urbanely]
+  etymology: From Latin urbanus "of the city, refined," from urbs "city."
+  forms: [urbanely, urbanity]
+
+- word: usurp
+  pos: verb
+  ipa: /juˈsɜrp/
+  phonetic: yoo-SURP
+  definition: To take a position of power or importance illegally or by force; to take the place of wrongfully.
+  synonyms: [seize, appropriate, commandeer, supplant, take over]
+  antonyms: [abdicate, relinquish, surrender]
+  related: [usurpation, usurper]
+  etymology: From Latin usurpare "to seize for use," probably from usus "use" + rapere "to seize."
+  forms: [usurped, usurps, usurping, usurpation, usurper]
+
+- word: utilitarian
+  pos: adjective / noun
+  ipa: /juˌtɪlɪˈtɛriən/
+  phonetic: yoo-til-ih-TAIR-ee-un
+  definition: Designed to be useful or practical rather than attractive; of utilitarianism, the doctrine that right actions maximize overall happiness.
+  synonyms: [practical, functional, pragmatic, serviceable, utility]
+  antonyms: [decorative, ornamental, impractical]
+  related: [utilitarianism, utility]
+  etymology: From "utility," from Latin utilitas, from utilis "useful"; popularized in the philosophical sense by Jeremy Bentham and John Stuart Mill.
+  forms: [utilitarians, utilitarianism]
+
+- word: vacuous
+  pos: adjective
+  ipa: /ˈvækjuəs/
+  phonetic: VAK-yoo-us
+  definition: Having or showing a lack of thought or intelligence; mindless; empty.
+  synonyms: [vapid, inane, mindless, empty-headed, blank]
+  antonyms: [intelligent, thoughtful, profound]
+  related: [vacuity, vacuously, vacuousness]
+  etymology: From Latin vacuus "empty," from vacare "to be empty."
+  forms: [vacuously, vacuousness, vacuity]
+
+- word: vagary
+  pos: noun
+  ipa: /ˈveɪɡəri/
+  phonetic: VAY-guh-ree
+  definition: An unexpected and inexplicable change in a situation or in someone's behavior; a whim.
+  synonyms: [caprice, whim, quirk, fluctuation, vicissitude]
+  antonyms: []
+  related: []
+  etymology: From Latin vagari "to wander."
+  forms: [vagaries]
+
+- word: vagrant
+  pos: noun / adjective
+  ipa: /ˈveɪɡrənt/
+  phonetic: VAY-grunt
+  definition: A person without a settled home or regular work who wanders from place to place; wandering, roaming.
+  synonyms: [vagabond, drifter, tramp, wanderer, itinerant]
+  antonyms: [settled, resident]
+  related: [vagrancy]
+  etymology: From Anglo-French vagaraunt "wandering about," probably influenced by Latin vagari "to wander."
+  forms: [vagrants, vagrancy]
+
+- word: valiant
+  pos: adjective
+  ipa: /ˈvæljənt/
+  phonetic: VAL-yunt
+  definition: Possessing or showing courage or determination.
+  synonyms: [brave, courageous, valorous, intrepid, heroic]
+  antonyms: [cowardly, timid, craven]
+  related: [valiantly, valor]
+  etymology: From Old French vaillant, from valoir "to be worth," from Latin valere "to be strong."
+  forms: [valiantly]
+
+- word: variegated
+  pos: adjective
+  ipa: /ˈvɛriəˌɡeɪtɪd/
+  phonetic: VAIR-ee-uh-gay-tid
+  definition: Exhibiting different colors, especially as irregular patches or streaks; marked by variety, diverse.
+  synonyms: [multicolored, mottled, dappled, motley, varied]
+  antonyms: [monochrome, uniform, plain]
+  related: [variegation, variegate]
+  etymology: From Late Latin variegare "to make varied," from Latin varius "various" + agere "to make."
+  forms: [variegation]
+
+- word: vehement
+  pos: adjective
+  ipa: /ˈviəmənt/
+  phonetic: VEE-uh-munt
+  definition: Showing strong feeling; forceful, passionate, or intense.
+  synonyms: [passionate, forceful, fervent, ardent, impassioned]
+  antonyms: [mild, apathetic, half-hearted]
+  related: [vehemence, vehemently]
+  etymology: From Latin vehemens "impetuous, violent."
+  forms: [vehemently, vehemence]
+
+- word: venerable
+  pos: adjective
+  ipa: /ˈvɛnərəbəl/
+  phonetic: VEN-ur-uh-bul
+  definition: Accorded great respect because of age, wisdom, or character.
+  synonyms: [revered, respected, esteemed, honored, august]
+  antonyms: [disreputable, discredited]
+  related: [venerate, veneration, venerability]
+  etymology: From Latin venerabilis, from venerari "to revere, worship."
+  forms: [venerability]
+
+- word: veracious
+  pos: adjective
+  ipa: /vəˈreɪʃəs/
+  phonetic: vuh-RAY-shus
+  definition: Speaking or representing the truth; truthful, accurate.
+  synonyms: [truthful, honest, accurate, faithful, veridical]
+  antonyms: [mendacious, dishonest, untruthful]
+  related: [veracity, veraciously]
+  etymology: From Latin verax "truthful," from verus "true."
+  forms: [veraciously, veracity]
+
+- word: verbatim
+  pos: adverb / adjective
+  ipa: /vərˈbeɪtɪm/
+  phonetic: vur-BAY-tim
+  definition: In exactly the same words as were used originally; word for word.
+  synonyms: [word for word, exactly, literally, precisely, to the letter]
+  antonyms: [paraphrased, loosely]
+  related: []
+  etymology: From Medieval Latin verbatim "word for word," from Latin verbum "word."
+
+- word: verdant
+  pos: adjective
+  ipa: /ˈvɜrdənt/
+  phonetic: VUR-dunt
+  definition: Green with grass or other rich vegetation; inexperienced or naive.
+  synonyms: [green, lush, leafy, grassy, verdurous]
+  antonyms: [barren, arid, parched]
+  related: [verdure, verdancy]
+  etymology: From Old French verdoyant, from Latin viridis "green."
+  forms: [verdancy]
+
+- word: veritable
+  pos: adjective
+  ipa: /ˈvɛrɪtəbəl/
+  phonetic: VAIR-ih-tuh-bul
+  definition: Used as an intensifier, often to qualify a metaphor; real, genuine, true.
+  synonyms: [genuine, real, true, authentic, absolute]
+  antonyms: [false, fake, spurious]
+  related: [veritably, verity]
+  etymology: From Old French veritable, from Latin veritas "truth."
+  forms: [veritably]
+
+- word: vestige
+  pos: noun
+  ipa: /ˈvɛstɪdʒ/
+  phonetic: VES-tij
+  definition: A trace of something that is disappearing or no longer exists; the smallest amount.
+  synonyms: [remnant, trace, relic, remainder, residue]
+  antonyms: [whole, entirety]
+  related: [vestigial]
+  etymology: From Latin vestigium "footprint, trace."
+  forms: [vestiges]
+
+- word: vicarious
+  pos: adjective
+  ipa: /vaɪˈkɛriəs/
+  phonetic: vy-KAIR-ee-us
+  definition: Experienced in the imagination through the feelings or actions of another person; acting or done for another.
+  synonyms: [indirect, secondhand, surrogate, empathetic, substitute]
+  antonyms: [direct, firsthand]
+  related: [vicariously]
+  etymology: From Latin vicarius "substitute," from vicis "change, turn, place."
+  forms: [vicariously]
+
+- word: vicissitude
+  pos: noun
+  ipa: /vɪˈsɪsɪtud/
+  phonetic: vih-SIS-ih-tood
+  definition: A change of circumstances or fortune, typically one that is unwelcome or unpleasant.
+  synonyms: [fluctuation, change, shift, upheaval, reversal]
+  antonyms: [stability, constancy]
+  related: []
+  etymology: From Latin vicissitudo, from vicissim "in turn," from vicis "change, turn."
+  forms: [vicissitudes]
+
+- word: virulent
+  pos: adjective
+  ipa: /ˈvɪrjələnt/
+  phonetic: VEER-yuh-lunt
+  definition: Bitterly hostile or spiteful; extremely severe or harmful, especially of a disease or poison.
+  synonyms: [hostile, vitriolic, venomous, malignant, toxic]
+  antonyms: [benign, harmless, friendly]
+  related: [virulence, virulently]
+  etymology: From Latin virulentus "poisonous," from virus "poison, slimy liquid."
+  forms: [virulently, virulence]
+
+- word: vivacious
+  pos: adjective
+  ipa: /vɪˈveɪʃəs/
+  phonetic: vih-VAY-shus
+  definition: Attractively lively and animated, especially of a person.
+  synonyms: [lively, animated, spirited, bubbly, effervescent]
+  antonyms: [dull, listless, lethargic]
+  related: [vivacity, vivaciously]
+  etymology: From Latin vivax "lively, long-lived," from vivere "to live."
+  forms: [vivaciously, vivaciousness, vivacity]
+
+- word: vociferous
+  pos: adjective
+  ipa: /voʊˈsɪfərəs/
+  phonetic: voh-SIF-ur-us
+  definition: Expressing opinions or feelings in a loud, forceful, and insistent way.
+  synonyms: [vehement, clamorous, outspoken, strident, loud]
+  antonyms: [quiet, reticent, taciturn]
+  related: [vociferously, vociferate]
+  etymology: From Latin vociferari "to shout," from vox "voice" + ferre "to carry."
+  forms: [vociferously, vociferousness]
+
+- word: volition
+  pos: noun
+  ipa: /voʊˈlɪʃən/
+  phonetic: voh-LISH-un
+  definition: The faculty or power of using one's will; a conscious choice or decision.
+  synonyms: [will, choice, free will, discretion, preference]
+  antonyms: [compulsion, coercion]
+  related: [volitional]
+  etymology: From Medieval Latin volitio, from Latin volo "I wish."
+  forms: [volitional]
+
+- word: voluminous
+  pos: adjective
+  ipa: /vəˈlumɪnəs/
+  phonetic: vuh-LOO-mih-nus
+  definition: Occupying much space; very lengthy or full; producing or containing much writing.
+  synonyms: [capacious, ample, copious, extensive, billowing]
+  antonyms: [small, scanty, concise]
+  related: [voluminously, voluminousness]
+  etymology: From Late Latin voluminosus, from Latin volumen "a roll of writing, a book."
+  forms: [voluminously, voluminousness]
+
+- word: voracious
+  pos: adjective
+  ipa: /vɔˈreɪʃəs/
+  phonetic: vor-AY-shus
+  definition: Wanting or devouring great quantities of food; very eager in some activity.
+  synonyms: [ravenous, insatiable, gluttonous, avid, rapacious]
+  antonyms: [sated, indifferent]
+  related: [voracity, voraciously]
+  etymology: From Latin vorax "greedy," from vorare "to devour."
+  forms: [voraciously, voracity, voraciousness]
+
+- word: wane
+  pos: verb / noun
+  ipa: /weɪn/
+  phonetic: WAYN
+  definition: To decrease in vigor, power, or extent; to become weaker; of the moon, to show a decreasing lit surface.
+  synonyms: [decline, diminish, dwindle, ebb, fade]
+  antonyms: [wax, grow, increase]
+  related: [waning]
+  etymology: From Old English wanian "to lessen."
+  forms: [waned, wanes, waning]
+
+- word: wanton
+  pos: adjective
+  ipa: /ˈwɑntən/
+  phonetic: WON-tun
+  definition: Deliberate and unprovoked, especially of cruelty or damage; sexually immodest; growing luxuriantly.
+  synonyms: [deliberate, gratuitous, malicious, unprovoked, licentious]
+  antonyms: [justified, provoked, restrained]
+  related: [wantonly, wantonness]
+  etymology: From Middle English wantowen "undisciplined," from wan- "not" + towen "trained, brought up."
+  forms: [wantonly, wantonness]
+
+- word: wily
+  pos: adjective
+  ipa: /ˈwaɪli/
+  phonetic: WY-lee
+  definition: Skilled at gaining an advantage, especially deceitfully; cunning.
+  synonyms: [cunning, crafty, sly, shrewd, artful]
+  antonyms: [naive, guileless, ingenuous]
+  related: [wile, wiliness]
+  forms: [wilier, wiliest, wiliness]
+
+- word: winsome
+  pos: adjective
+  ipa: /ˈwɪnsəm/
+  phonetic: WIN-sum
+  definition: Attractive or appealing in appearance or character; charmingly engaging.
+  synonyms: [charming, engaging, appealing, endearing, winning]
+  antonyms: [unattractive, repellent, off-putting]
+  related: [winsomely, winsomeness]
+  etymology: From Old English wynsum "pleasant," from wynn "joy."
+  forms: [winsomely, winsomeness]
+
+- word: wistful
+  pos: adjective
+  ipa: /ˈwɪstfəl/
+  phonetic: WIST-ful
+  definition: Having or showing a feeling of vague or regretful longing.
+  synonyms: [yearning, longing, nostalgic, melancholy, pensive]
+  antonyms: [content, satisfied]
+  related: [wistfully, wistfulness]
+  forms: [wistfully, wistfulness]
+
+- word: wry
+  pos: adjective
+  ipa: /raɪ/
+  phonetic: RY
+  definition: Using or expressing dry, especially mocking, humor; of a facial expression, twisted in disgust or disappointment.
+  synonyms: [ironic, sardonic, dry, droll, mocking]
+  antonyms: [earnest, serious]
+  related: [wryly, wryness]
+  etymology: From Old English wrigian "to turn, bend."
+  forms: [wryly, wryness]
+
+- word: zenith
+  pos: noun
+  ipa: /ˈzinɪθ/
+  phonetic: ZEE-nith
+  definition: The time at which something is most powerful or successful; the point in the sky directly overhead.
+  synonyms: [peak, pinnacle, apex, acme, culmination]
+  antonyms: [nadir, low point, bottom]
+  related: []
+  etymology: From Arabic samt ar-ra's "path over the head," via Medieval Latin cenit, a misreading of samt.
+
+- word: zephyr
+  pos: noun
+  ipa: /ˈzɛfər/
+  phonetic: ZEF-ur
+  definition: A soft, gentle breeze; literary name for the west wind.
+  synonyms: [breeze, gentle wind, puff, draft, breath of air]
+  antonyms: [gale, tempest, hurricane]
+  related: []
+  etymology: From Greek Zephyros, the god of the west wind.
+  forms: [zephyrs]

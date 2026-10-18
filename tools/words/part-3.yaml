@@ -1,0 +1,1234 @@
+# GRE vocabulary, part 3. Examples are added by build_words.py; never write them here.
+words:
+- word: convivial
+  pos: adjective
+  ipa: /kənˈvɪviəl/
+  phonetic: kun-VIV-ee-ul
+  definition: Friendly, lively, and enjoyable; fond of feasting, drinking, and good company.
+  synonyms: [genial, sociable, jovial, festive, gregarious]
+  antonyms: [unfriendly, austere, reserved]
+  related: [conviviality]
+  etymology: From Latin convivium "a feast," from con- "with" + vivere "to live."
+  forms: [conviviality, convivially]
+
+- word: copious
+  pos: adjective
+  ipa: /ˈkoʊpiəs/
+  phonetic: KOH-pee-us
+  definition: Abundant in supply or quantity.
+  synonyms: [abundant, plentiful, profuse, ample, bountiful]
+  antonyms: [scant, meager, sparse]
+  related: [copiously, copiousness]
+  etymology: From Latin copiosus, from copia "abundance" (compare "cornucopia").
+  forms: [copiously]
+
+- word: cordial
+  pos: adjective
+  ipa: /ˈkɔrdʒəl/
+  phonetic: KOR-jul
+  definition: Warm, friendly, and polite; heartfelt.
+  synonyms: [warm, friendly, genial, amiable, gracious]
+  antonyms: [hostile, cold, unfriendly]
+  related: [cordiality, cordially]
+  etymology: From Medieval Latin cordialis "of the heart," from Latin cor, cord- "heart."
+  forms: [cordially, cordiality]
+
+- word: corollary
+  pos: noun
+  ipa: /ˈkɔrəˌlɛri/
+  phonetic: KOR-uh-lair-ee
+  definition: A proposition or consequence that follows naturally from one already proven or established.
+  synonyms: [consequence, result, upshot, inference, implication]
+  antonyms: []
+  related: []
+  etymology: From Latin corollarium "money paid for a garland, gratuity," from corolla "small garland."
+  forms: [corollaries]
+
+- word: corporeal
+  pos: adjective
+  ipa: /kɔrˈpɔriəl/
+  phonetic: kor-POR-ee-ul
+  definition: Relating to the body; having a material, physical form rather than a spiritual one.
+  synonyms: [bodily, physical, material, tangible, fleshly]
+  antonyms: [spiritual, incorporeal, ethereal]
+  related: [incorporeal, corporeality]
+  etymology: From Latin corporeus "of the body," from corpus "body."
+  forms: [corporeally, corporeality]
+
+- word: corpulent
+  pos: adjective
+  ipa: /ˈkɔrpjələnt/
+  phonetic: KOR-pyuh-lunt
+  definition: Having a large, bulky body; fat.
+  synonyms: [obese, stout, portly, rotund, fleshy]
+  antonyms: [thin, slender, gaunt]
+  related: [corpulence]
+  etymology: From Latin corpulentus, from corpus "body."
+  forms: [corpulence]
+
+- word: corrosive
+  pos: adjective
+  ipa: /kəˈroʊsɪv/
+  phonetic: kuh-ROH-siv
+  definition: Tending to destroy or wear away gradually, whether by chemical action or by a harmful influence.
+  synonyms: [caustic, destructive, erosive, acidic, harmful]
+  antonyms: [harmless, benign, soothing]
+  related: [corrode, corrosion]
+  etymology: From Latin corrodere "to gnaw to pieces," from com- (intensive) + rodere "to gnaw."
+  forms: [corrosively, corrosiveness]
+
+- word: cosmopolitan
+  pos: adjective / noun
+  ipa: /ˌkɑzməˈpɑlɪtən/
+  phonetic: koz-muh-POL-ih-tun
+  definition: Familiar with and at ease in many countries and cultures; including people or elements from many parts of the world; a worldly person.
+  synonyms: [worldly, sophisticated, cultured, urbane, multicultural]
+  antonyms: [provincial, parochial, insular]
+  related: [cosmopolitanism, cosmopolite]
+  etymology: From Greek kosmopolitēs "citizen of the world," from kosmos "world" + politēs "citizen."
+  forms: [cosmopolitanism]
+  lowercase_only: true
+
+- word: countenance
+  pos: noun / verb
+  ipa: /ˈkaʊntənəns/
+  phonetic: KOWN-tuh-nunss
+  definition: A person's face or facial expression; to tolerate, approve, or permit.
+  synonyms: [visage, expression, mien, tolerate, sanction]
+  antonyms: [disapprove, prohibit, condemn]
+  related: [discountenance]
+  etymology: From Old French contenance "bearing, behavior," from Latin continentia "restraint," from continere "to hold together."
+  forms: [countenanced, countenances, countenancing]
+
+- word: covert
+  pos: adjective
+  ipa: /ˈkoʊvərt/
+  phonetic: KOH-vurt
+  definition: Not openly acknowledged or displayed; secret.
+  synonyms: [secret, clandestine, surreptitious, furtive, hidden]
+  antonyms: [overt, open, public]
+  related: [covertly]
+  etymology: From Old French covert "covered," past participle of covrir "to cover."
+  forms: [covertly]
+
+- word: coy
+  pos: adjective
+  ipa: /kɔɪ/
+  phonetic: KOY
+  definition: Pretending to be shy or modest, often flirtatiously; reluctant to give details about something.
+  synonyms: [demure, arch, bashful, evasive, reticent]
+  antonyms: [forward, brazen, candid]
+  related: [coyly, coyness]
+  etymology: From Old French coi "quiet, still," from Latin quietus "at rest."
+  forms: [coyly, coyness]
+
+- word: craven
+  pos: adjective
+  ipa: /ˈkreɪvən/
+  phonetic: KRAY-vun
+  definition: Contemptibly lacking in courage; cowardly.
+  synonyms: [cowardly, pusillanimous, spineless, timorous, fainthearted]
+  antonyms: [brave, courageous, valiant]
+  related: [cravenly, cravenness]
+  forms: [cravenly]
+
+- word: credence
+  pos: noun
+  ipa: /ˈkridəns/
+  phonetic: KREE-dunss
+  definition: Belief in or acceptance of something as true; the likelihood of something being true.
+  synonyms: [belief, credibility, acceptance, faith, trust]
+  antonyms: [disbelief, doubt, skepticism]
+  related: [credible, credulous]
+  etymology: From Medieval Latin credentia, from Latin credere "to believe."
+
+- word: crestfallen
+  pos: adjective
+  ipa: /ˈkrɛstˌfɔlən/
+  phonetic: KREST-faw-lun
+  definition: Sad and disappointed, especially after a setback.
+  synonyms: [dejected, downcast, despondent, disheartened, dispirited]
+  antonyms: [elated, jubilant, cheerful]
+  related: []
+  etymology: From crest + fallen, picturing an animal whose crest has drooped.
+
+- word: cumbersome
+  pos: adjective
+  ipa: /ˈkʌmbərsəm/
+  phonetic: KUM-bur-sum
+  definition: Large or heavy and therefore hard to carry or use; slow and complicated.
+  synonyms: [unwieldy, awkward, bulky, clumsy, unmanageable]
+  antonyms: [manageable, convenient, streamlined]
+  related: [encumber, cumbersomeness]
+  etymology: From Middle English cumber "to hinder" + -some.
+  forms: [cumbersomeness]
+
+- word: cupidity
+  pos: noun
+  ipa: /kjuˈpɪdɪti/
+  phonetic: kyoo-PID-ih-tee
+  definition: Greed for money or possessions.
+  synonyms: [greed, avarice, avidity, covetousness, rapacity]
+  antonyms: [generosity, liberality]
+  related: []
+  etymology: From Latin cupiditas "desire," from cupidus "desirous," from cupere "to desire" (compare Cupid).
+
+- word: cursory
+  pos: adjective
+  ipa: /ˈkɜrsəri/
+  phonetic: KUR-suh-ree
+  definition: Hasty and therefore not thorough or detailed.
+  synonyms: [perfunctory, superficial, hasty, desultory, quick]
+  antonyms: [thorough, meticulous, careful]
+  related: [cursorily]
+  etymology: From Late Latin cursorius "of a runner," from Latin currere "to run."
+  forms: [cursorily]
+
+- word: curt
+  pos: adjective
+  ipa: /kɜrt/
+  phonetic: KURT
+  definition: Rudely brief in speech or manner.
+  synonyms: [brusque, terse, abrupt, short, gruff]
+  antonyms: [effusive, courteous, polite]
+  related: [curtly, curtness]
+  etymology: From Latin curtus "shortened, cut short."
+  forms: [curtly, curtness]
+  lowercase_only: true
+
+- word: dauntless
+  pos: adjective
+  ipa: /ˈdɔntləs/
+  phonetic: DAWNT-lus
+  definition: Showing fearlessness and determination.
+  synonyms: [fearless, intrepid, undaunted, valiant, bold]
+  antonyms: [timid, fearful, cowardly]
+  related: [daunt, undaunted]
+  etymology: From daunt (Old French danter, from Latin domitare "to tame") + -less.
+  forms: [dauntlessly]
+
+- word: debase
+  pos: verb
+  ipa: /dɪˈbeɪs/
+  phonetic: dih-BAYS
+  definition: To reduce in quality, value, or character; to degrade.
+  synonyms: [degrade, cheapen, devalue, corrupt, demean]
+  antonyms: [elevate, enhance, ennoble]
+  related: [debasement]
+  etymology: From de- "down" + base "low," on the model of abase.
+  forms: [debased, debases, debasing]
+
+- word: debauchery
+  pos: noun
+  ipa: /dɪˈbɔtʃəri/
+  phonetic: dih-BAW-chuh-ree
+  definition: Excessive indulgence in sensual pleasures such as drinking and sex.
+  synonyms: [dissipation, depravity, licentiousness, decadence, excess]
+  antonyms: [temperance, abstinence, restraint]
+  related: [debauch, debauched]
+  etymology: From French débaucher "to lead astray from one's work."
+  forms: [debaucheries]
+
+- word: debilitate
+  pos: verb
+  ipa: /dɪˈbɪlɪteɪt/
+  phonetic: dih-BIL-ih-tayt
+  definition: To make very weak and infirm; to hinder or impair.
+  synonyms: [weaken, enfeeble, sap, incapacitate, cripple]
+  antonyms: [strengthen, invigorate, fortify]
+  related: [debilitating, debility]
+  etymology: From Latin debilitare, from debilis "weak."
+  forms: [debilitated, debilitates, debilitating]
+
+- word: decadence
+  pos: noun
+  ipa: /ˈdɛkədəns/
+  phonetic: DEK-uh-dunss
+  definition: Moral or cultural decline marked by excessive indulgence in pleasure or luxury.
+  synonyms: [dissipation, degeneracy, self-indulgence, corruption, debauchery]
+  antonyms: [virtue, morality, asceticism]
+  related: [decadent]
+  etymology: From Medieval Latin decadentia, from decadere "to fall away," from de- "down" + cadere "to fall."
+  forms: [decadent]
+
+- word: decorous
+  pos: adjective
+  ipa: /ˈdɛkərəs/
+  phonetic: DEK-ur-us
+  definition: In keeping with good taste and propriety; polite and restrained.
+  synonyms: [proper, seemly, decent, dignified, genteel]
+  antonyms: [indecorous, unseemly, improper]
+  related: [decorum, decorously]
+  etymology: From Latin decorus "seemly, fitting," from decor "beauty, grace."
+  forms: [decorously]
+
+- word: decorum
+  pos: noun
+  ipa: /dɪˈkɔrəm/
+  phonetic: dih-KOR-um
+  definition: Behavior in keeping with good taste and propriety.
+  synonyms: [propriety, etiquette, decency, dignity, protocol]
+  antonyms: [impropriety, indecorum, unseemliness]
+  related: [decorous]
+  etymology: From Latin decorum "that which is seemly," neuter of decorus.
+
+- word: decry
+  pos: verb
+  ipa: /dɪˈkraɪ/
+  phonetic: dih-KRY
+  definition: To publicly denounce or criticize as bad or wrong.
+  synonyms: [denounce, condemn, deplore, disparage, censure]
+  antonyms: [praise, laud, extol]
+  related: []
+  etymology: From French décrier, from dé- "down" + crier "to cry."
+  forms: [decried, decries, decrying]
+
+- word: deduce
+  pos: verb
+  ipa: /dɪˈdus/
+  phonetic: dih-DOOS
+  definition: To arrive at a conclusion by reasoning from evidence or general principles.
+  synonyms: [infer, conclude, reason, derive, glean]
+  antonyms: []
+  related: [deduction, deductive]
+  etymology: From Latin deducere "to lead down," from de- "down" + ducere "to lead."
+  forms: [deduced, deduces, deducing]
+
+- word: defamation
+  pos: noun
+  ipa: /ˌdɛfəˈmeɪʃən/
+  phonetic: def-uh-MAY-shun
+  definition: The act of damaging someone's good reputation through false statements.
+  synonyms: [slander, libel, calumny, vilification, aspersion]
+  antonyms: [praise, commendation, vindication]
+  related: [defame, defamatory]
+  etymology: From Latin diffamare "to spread news of, disgrace," from dis- + fama "report, reputation."
+  forms: [defamatory]
+
+- word: defile
+  pos: verb
+  ipa: /dɪˈfaɪl/
+  phonetic: dih-FILE
+  definition: To make impure or unclean; to desecrate something sacred.
+  synonyms: [pollute, contaminate, sully, desecrate, profane]
+  antonyms: [purify, cleanse, sanctify]
+  related: [defilement]
+  etymology: From Old French defouler "to trample down," influenced by the obsolete English befile "to make foul."
+  forms: [defiled, defiles, defiling]
+
+- word: deft
+  pos: adjective
+  ipa: /dɛft/
+  phonetic: DEFT
+  definition: Quick and skillful; neatly clever.
+  synonyms: [adroit, dexterous, nimble, skillful, adept]
+  antonyms: [clumsy, awkward, inept]
+  related: [deftly, deftness]
+  etymology: A Middle English variant of daft, which originally meant "mild, meek."
+  forms: [deftly, deftness]
+
+- word: degenerate
+  pos: verb / adjective
+  ipa: /dɪˈdʒɛnəreɪt/
+  phonetic: dih-JEN-uh-rayt
+  definition: To decline or deteriorate physically, mentally, or morally; (adjective, dih-JEN-ur-it) having lost normal or desirable qualities.
+  synonyms: [deteriorate, decline, worsen, decay, corrupt]
+  antonyms: [improve, progress, flourish]
+  related: [degeneration, degeneracy, degenerative]
+  etymology: From Latin degenerare "to fall from one's ancestral quality," from de- "away from" + genus "race, kind."
+  forms: [degenerated, degenerates, degenerating]
+
+- word: deign
+  pos: verb
+  ipa: /deɪn/
+  phonetic: DAYN
+  definition: To do something one considers beneath one's dignity; to condescend.
+  synonyms: [condescend, stoop, lower oneself, vouchsafe, consent]
+  antonyms: [refuse, disdain]
+  related: []
+  etymology: From Old French deignier, from Latin dignari "to deem worthy," from dignus "worthy."
+  forms: [deigned, deigns, deigning]
+
+- word: delineate
+  pos: verb
+  ipa: /dɪˈlɪnieɪt/
+  phonetic: dih-LIN-ee-ayt
+  definition: To describe or portray precisely; to indicate the exact boundary of.
+  synonyms: [describe, outline, depict, define, demarcate]
+  antonyms: [obscure, confuse]
+  related: [delineation]
+  etymology: From Latin delineare "to sketch out," from de- + linea "line."
+  forms: [delineated, delineates, delineating, delineation]
+
+- word: delude
+  pos: verb
+  ipa: /dɪˈlud/
+  phonetic: dih-LOOD
+  definition: To impose a false belief on; to deceive.
+  synonyms: [deceive, mislead, fool, dupe, hoodwink]
+  antonyms: [enlighten, disabuse, undeceive]
+  related: [delusion, delusional]
+  etymology: From Latin deludere "to mock, deceive," from de- + ludere "to play."
+  forms: [deluded, deludes, deluding]
+
+- word: deluge
+  pos: noun / verb
+  ipa: /ˈdɛljudʒ/
+  phonetic: DEL-yooj
+  definition: A severe flood or heavy downpour; an overwhelming quantity of something; to inundate.
+  synonyms: [flood, torrent, inundation, barrage, overwhelm]
+  antonyms: [trickle, drought, dearth]
+  related: []
+  etymology: From Old French deluge, from Latin diluvium, from diluere "to wash away."
+  forms: [deluged, deluges]
+
+- word: demagogue
+  pos: noun
+  ipa: /ˈdɛməˌɡɑɡ/
+  phonetic: DEM-uh-gog
+  definition: A political leader who seeks support by appealing to popular prejudices and emotions rather than reason.
+  synonyms: [rabble-rouser, agitator, firebrand, populist, instigator]
+  antonyms: []
+  related: [demagoguery, demagogic]
+  etymology: From Greek dēmagōgos "leader of the people," from dēmos "people" + agōgos "leading."
+  forms: [demagogues, demagogic, demagoguery]
+
+- word: demean
+  pos: verb
+  ipa: /dɪˈmin/
+  phonetic: dih-MEEN
+  definition: To cause a severe loss in the dignity of or respect for someone or something.
+  synonyms: [degrade, debase, humiliate, belittle, abase]
+  antonyms: [dignify, elevate, honor]
+  related: [demeaning]
+  forms: [demeaned, demeans, demeaning]
+
+- word: demeanor
+  pos: noun
+  ipa: /dɪˈminər/
+  phonetic: dih-MEE-nur
+  definition: Outward behavior or bearing.
+  synonyms: [bearing, manner, mien, deportment, comportment]
+  antonyms: []
+  related: []
+  etymology: From Middle English demenen "to conduct oneself," from Old French demener "to lead, guide."
+  forms: [demeanour]
+
+- word: demur
+  pos: verb / noun
+  ipa: /dɪˈmɜr/
+  phonetic: dih-MUR
+  definition: To raise doubts or objections, or show reluctance; (noun) an objection or hesitation.
+  synonyms: [object, protest, balk, hesitate, take exception]
+  antonyms: [accept, agree, consent]
+  related: [demurral]
+  etymology: From Old French demorer "to delay, linger," from Latin demorari, from de- + morari "to delay."
+  forms: [demurred, demurs, demurring]
+
+- word: demure
+  pos: adjective
+  ipa: /dɪˈmjʊr/
+  phonetic: dih-MYOOR
+  definition: Reserved, modest, and shy, often in an affected way.
+  synonyms: [modest, reserved, coy, shy, decorous]
+  antonyms: [brazen, bold, forward]
+  related: [demurely, demureness]
+  forms: [demurely]
+
+- word: denounce
+  pos: verb
+  ipa: /dɪˈnaʊns/
+  phonetic: dih-NOWNSS
+  definition: To publicly declare to be wrong or evil; to inform against.
+  synonyms: [condemn, censure, decry, castigate, vilify]
+  antonyms: [praise, commend, endorse]
+  related: [denunciation]
+  etymology: From Old French denoncier, from Latin denuntiare "to announce, threaten," from de- + nuntiare "to announce."
+  forms: [denounced, denounces, denouncing]
+
+- word: deplore
+  pos: verb
+  ipa: /dɪˈplɔr/
+  phonetic: dih-PLOR
+  definition: To feel or express strong disapproval of; to regret deeply.
+  synonyms: [condemn, lament, abhor, decry, deprecate]
+  antonyms: [approve, applaud, welcome]
+  related: [deplorable, deplorably]
+  etymology: From Latin deplorare "to lament," from de- (intensive) + plorare "to weep, wail."
+  forms: [deplored, deplores, deploring]
+
+- word: depravity
+  pos: noun
+  ipa: /dɪˈprævɪti/
+  phonetic: dih-PRAV-ih-tee
+  definition: Moral corruption; wickedness.
+  synonyms: [corruption, wickedness, vice, iniquity, degeneracy]
+  antonyms: [virtue, morality, righteousness]
+  related: [deprave, depraved]
+  etymology: From Latin depravare "to distort, corrupt," from de- + pravus "crooked, wicked."
+  forms: [depravities]
+
+- word: deprecate
+  pos: verb
+  ipa: /ˈdɛprɪkeɪt/
+  phonetic: DEP-rih-kayt
+  definition: To express disapproval of; to play down or belittle.
+  synonyms: [disparage, belittle, deplore, criticize, disapprove]
+  antonyms: [praise, endorse, approve]
+  related: [self-deprecating, deprecation, deprecatory]
+  etymology: From Latin deprecari "to pray against, ward off," from de- "away" + precari "to pray."
+  forms: [deprecates, deprecating, deprecatory]
+
+- word: depreciate
+  pos: verb
+  ipa: /dɪˈpriʃieɪt/
+  phonetic: dih-PREE-shee-ayt
+  definition: To diminish in value over time; to disparage or belittle.
+  synonyms: [devalue, decline, cheapen, belittle, disparage]
+  antonyms: [appreciate, increase, rise]
+  related: [depreciation]
+  etymology: From Late Latin depretiare "to lower the price of," from de- + pretium "price."
+  forms: [depreciated, depreciates, depreciating, depreciation]
+
+- word: derelict
+  pos: adjective / noun
+  ipa: /ˈdɛrəlɪkt/
+  phonetic: DAIR-uh-likt
+  definition: In very poor condition from disuse and neglect; shamefully negligent of duty; (noun) a homeless or abandoned person.
+  synonyms: [abandoned, dilapidated, neglected, negligent, remiss]
+  antonyms: [conscientious, diligent, well-kept]
+  related: [dereliction]
+  etymology: From Latin derelictus, past participle of derelinquere "to abandon completely."
+  forms: [derelicts]
+
+- word: deride
+  pos: verb
+  ipa: /dɪˈraɪd/
+  phonetic: dih-RIDE
+  definition: To express contempt for; to ridicule.
+  synonyms: [ridicule, mock, scoff at, scorn, disparage]
+  antonyms: [praise, respect, admire]
+  related: [derision, derisive]
+  etymology: From Latin deridere "to laugh at," from de- "down" + ridere "to laugh."
+  forms: [derided, derides, deriding]
+
+- word: derision
+  pos: noun
+  ipa: /dɪˈrɪʒən/
+  phonetic: dih-RIZH-un
+  definition: Contemptuous ridicule or mockery.
+  synonyms: [ridicule, mockery, scorn, contempt, disdain]
+  antonyms: [respect, admiration, praise]
+  related: [deride, derisive, derisory]
+  etymology: From Latin derisio, from deridere "to laugh at."
+  forms: [derisive, derisively]
+
+- word: derivative
+  pos: adjective / noun
+  ipa: /dɪˈrɪvətɪv/
+  phonetic: dih-RIV-uh-tiv
+  definition: Imitative of another's work and lacking originality; (noun) something derived from another source.
+  synonyms: [imitative, unoriginal, copied, secondhand, hackneyed]
+  antonyms: [original, innovative, novel]
+  related: [derive, derivation]
+  etymology: From Latin derivativus, from derivare "to draw off (a stream)," from de- + rivus "stream."
+
+- word: desecrate
+  pos: verb
+  ipa: /ˈdɛsɪkreɪt/
+  phonetic: DES-ih-krayt
+  definition: To treat a sacred place or thing with violent disrespect; to violate.
+  synonyms: [defile, profane, violate, despoil, vandalize]
+  antonyms: [consecrate, sanctify, revere]
+  related: [desecration]
+  etymology: Formed from de- "undo" + the Latin root of consecrate, sacrare "to make sacred."
+  forms: [desecrated, desecrates, desecrating, desecration]
+
+- word: desolate
+  pos: adjective
+  ipa: /ˈdɛsələt/
+  phonetic: DES-uh-lut
+  definition: Bleakly empty and without people; feeling utterly wretched and alone.
+  synonyms: [barren, bleak, deserted, forlorn, disconsolate]
+  antonyms: [populous, thriving, joyful]
+  related: [desolation]
+  etymology: From Latin desolatus, past participle of desolare "to abandon," from de- + solus "alone."
+  forms: [desolation]
+
+- word: despondent
+  pos: adjective
+  ipa: /dɪˈspɑndənt/
+  phonetic: dih-SPON-dunt
+  definition: In low spirits from loss of hope or courage.
+  synonyms: [dejected, disheartened, downcast, hopeless, crestfallen]
+  antonyms: [hopeful, cheerful, elated]
+  related: [despondency, despondently]
+  etymology: From Latin despondere "to give up, lose heart," from de- "away" + spondere "to promise."
+  forms: [despondency, despondently]
+
+- word: destitute
+  pos: adjective
+  ipa: /ˈdɛstɪtut/
+  phonetic: DES-tih-toot
+  definition: Extremely poor and lacking the means to provide for oneself; (with "of") completely lacking something.
+  synonyms: [impoverished, penniless, indigent, needy, impecunious]
+  antonyms: [wealthy, affluent, prosperous]
+  related: [destitution]
+  etymology: From Latin destitutus "forsaken," past participle of destituere "to abandon."
+  forms: [destitution]
+
+- word: detract
+  pos: verb
+  ipa: /dɪˈtrækt/
+  phonetic: dih-TRAKT
+  definition: To diminish the worth or value of something (usually with "from").
+  synonyms: [diminish, lessen, reduce, belittle, devalue]
+  antonyms: [enhance, add to, augment]
+  related: [detractor, detraction]
+  etymology: From Latin detrahere "to draw away, disparage," from de- "away" + trahere "to draw."
+  forms: [detracted, detracts, detracting]
+
+- word: detrimental
+  pos: adjective
+  ipa: /ˌdɛtrɪˈmɛntəl/
+  phonetic: det-rih-MEN-tul
+  definition: Tending to cause harm.
+  synonyms: [harmful, damaging, injurious, deleterious, pernicious]
+  antonyms: [beneficial, advantageous, salutary]
+  related: [detriment, detrimentally]
+  etymology: From Latin detrimentum "loss, damage," from deterere "to wear away."
+  forms: [detrimentally]
+
+- word: devious
+  pos: adjective
+  ipa: /ˈdiviəs/
+  phonetic: DEE-vee-us
+  definition: Using underhanded tactics to achieve goals; not straightforward or direct.
+  synonyms: [deceitful, cunning, sly, wily, underhanded]
+  antonyms: [honest, straightforward, candid]
+  related: [deviousness, deviously]
+  etymology: From Latin devius "out of the way," from de- "away from" + via "way."
+  forms: [deviously, deviousness]
+
+- word: devoid
+  pos: adjective
+  ipa: /dɪˈvɔɪd/
+  phonetic: dih-VOYD
+  definition: Entirely lacking or free from (followed by "of").
+  synonyms: [lacking, empty, bereft, destitute, without]
+  antonyms: [full, replete, abounding]
+  related: []
+  etymology: From Old French devoidier "to empty out," from de- + voider "to empty."
+
+- word: dexterity
+  pos: noun
+  ipa: /dɛkˈstɛrɪti/
+  phonetic: dek-STAIR-ih-tee
+  definition: Skill in performing tasks, especially with the hands; mental adroitness.
+  synonyms: [deftness, adroitness, nimbleness, skill, finesse]
+  antonyms: [clumsiness, ineptitude, awkwardness]
+  related: [dexterous, dextrous]
+  etymology: From Latin dexteritas "readiness," from dexter "on the right, skillful."
+  forms: [dexterous, dexterously]
+
+- word: diffuse
+  pos: adjective / verb
+  ipa: /dɪˈfjus/
+  phonetic: dih-FYOOS
+  definition: Spread out over a large area; wordy and unfocused; (verb, dih-FYOOZ) to spread or scatter widely.
+  synonyms: [scattered, dispersed, verbose, rambling, wordy]
+  antonyms: [concentrated, concise, focused]
+  related: [diffusion, diffuseness]
+  etymology: From Latin diffusus, past participle of diffundere "to pour out," from dis- "apart" + fundere "to pour."
+  forms: [diffused, diffuses, diffusing, diffuseness]
+
+- word: digress
+  pos: verb
+  ipa: /daɪˈɡrɛs/
+  phonetic: dy-GRESS
+  definition: To leave the main subject temporarily in speech or writing.
+  synonyms: [deviate, stray, wander, ramble, diverge]
+  antonyms: [focus, stick to the point]
+  related: [digression, digressive]
+  etymology: From Latin digredi "to step away," from dis- "aside" + gradi "to step."
+  forms: [digressed, digresses, digressing, digression]
+
+- word: dilapidated
+  pos: adjective
+  ipa: /dɪˈlæpɪdeɪtɪd/
+  phonetic: dih-LAP-ih-day-tid
+  definition: In a state of disrepair or ruin as a result of age or neglect.
+  synonyms: [decrepit, ramshackle, run-down, derelict, crumbling]
+  antonyms: [pristine, well-maintained, renovated]
+  related: [dilapidation]
+  etymology: From Latin dilapidare "to scatter, squander," literally "to pelt with stones," from lapis "stone."
+  forms: [dilapidation]
+
+- word: dilate
+  pos: verb
+  ipa: /daɪˈleɪt/
+  phonetic: dy-LAYT
+  definition: To make or become wider or larger; to speak or write at length.
+  synonyms: [widen, expand, enlarge, distend, swell]
+  antonyms: [contract, constrict, narrow]
+  related: [dilation]
+  etymology: From Latin dilatare "to spread out," from dis- "apart" + latus "wide."
+  forms: [dilated, dilates, dilating]
+
+- word: dilatory
+  pos: adjective
+  ipa: /ˈdɪləˌtɔri/
+  phonetic: DIL-uh-tor-ee
+  definition: Slow to act; intended to cause delay.
+  synonyms: [slow, tardy, procrastinating, sluggish, lackadaisical]
+  antonyms: [prompt, punctual, expeditious]
+  related: [dilatoriness]
+  etymology: From Latin dilatorius, from dilator "delayer," from differre "to delay, defer."
+
+- word: diminutive
+  pos: adjective / noun
+  ipa: /dɪˈmɪnjətɪv/
+  phonetic: dih-MIN-yuh-tiv
+  definition: Extremely small; (noun) a word or form of a name expressing smallness or affection.
+  synonyms: [tiny, minute, petite, small, miniature]
+  antonyms: [huge, enormous, gigantic]
+  related: [diminish]
+  etymology: From Latin diminutivus, from deminuere "to lessen."
+
+- word: dirge
+  pos: noun
+  ipa: /dɜrdʒ/
+  phonetic: DURJ
+  definition: A mournful song or lament for the dead.
+  synonyms: [lament, elegy, requiem, threnody, keen]
+  antonyms: []
+  related: []
+  etymology: From Latin dirige "direct!", the first word of an antiphon in the Office for the Dead.
+  forms: [dirges]
+
+- word: disabuse
+  pos: verb
+  ipa: /ˌdɪsəˈbjuz/
+  phonetic: dis-uh-BYOOZ
+  definition: To free someone from a mistaken idea or belief.
+  synonyms: [undeceive, enlighten, disillusion, correct, set straight]
+  antonyms: [delude, deceive, mislead]
+  related: []
+  etymology: From dis- "reverse" + abuse in its old sense "to deceive."
+  forms: [disabused, disabuses, disabusing]
+
+- word: discern
+  pos: verb
+  ipa: /dɪˈsɜrn/
+  phonetic: dih-SURN
+  definition: To perceive, recognize, or distinguish, especially with difficulty.
+  synonyms: [perceive, detect, distinguish, discriminate, make out]
+  antonyms: [overlook, miss, confuse]
+  related: [discernible, discernment]
+  etymology: From Latin discernere "to separate, distinguish," from dis- "apart" + cernere "to sift."
+  forms: [discerned, discerns, discernible]
+
+- word: discerning
+  pos: adjective
+  ipa: /dɪˈsɜrnɪŋ/
+  phonetic: dih-SUR-ning
+  definition: Having or showing good judgment and insight.
+  synonyms: [perceptive, astute, discriminating, shrewd, judicious]
+  antonyms: [undiscriminating, obtuse, imperceptive]
+  related: [discernment]
+  etymology: From discern, from Latin discernere "to separate, distinguish."
+  forms: [discernment]
+
+- word: discomfit
+  pos: verb
+  ipa: /dɪsˈkʌmfɪt/
+  phonetic: dis-KUM-fit
+  definition: To make uneasy or embarrassed; to disconcert.
+  synonyms: [disconcert, unsettle, fluster, embarrass, rattle]
+  antonyms: [reassure, comfort, soothe]
+  related: [discomfiture]
+  etymology: From Old French desconfire "to defeat," from des- + confire "to make, prepare."
+  forms: [discomfited, discomfiting, discomfiture]
+
+- word: disconcert
+  pos: verb
+  ipa: /ˌdɪskənˈsɜrt/
+  phonetic: dis-kun-SURT
+  definition: To disturb the composure of; to unsettle.
+  synonyms: [unsettle, fluster, discomfit, perturb, rattle]
+  antonyms: [reassure, calm, compose]
+  related: [disconcerting, disconcertingly]
+  etymology: From obsolete French disconcerter, from des- + concerter "to bring into agreement."
+  forms: [disconcerted, disconcerting, disconcertingly]
+
+- word: disconsolate
+  pos: adjective
+  ipa: /dɪsˈkɑnsələt/
+  phonetic: dis-KON-suh-lut
+  definition: Too unhappy to be comforted.
+  synonyms: [inconsolable, despondent, forlorn, dejected, heartbroken]
+  antonyms: [cheerful, joyful, contented]
+  related: [disconsolately]
+  etymology: From Medieval Latin disconsolatus, from dis- + consolatus "consoled."
+  forms: [disconsolately]
+
+- word: discord
+  pos: noun
+  ipa: /ˈdɪskɔrd/
+  phonetic: DIS-kord
+  definition: Disagreement between people; lack of harmony between musical notes.
+  synonyms: [strife, conflict, dissension, friction, disharmony]
+  antonyms: [harmony, accord, concord]
+  related: [discordant]
+  etymology: From Latin discordia, from discors "disagreeing," from dis- "apart" + cor "heart."
+  lowercase_only: true
+
+- word: discordant
+  pos: adjective
+  ipa: /dɪˈskɔrdənt/
+  phonetic: dis-KOR-dunt
+  definition: Disagreeing or incongruous; harsh and jarring in sound.
+  synonyms: [conflicting, incongruous, clashing, dissonant, jarring]
+  antonyms: [harmonious, consonant, compatible]
+  related: [discord, discordance]
+  etymology: From Old French discordant, from Latin discordare "to disagree."
+  forms: [discordance]
+
+- word: discredit
+  pos: verb / noun
+  ipa: /dɪsˈkrɛdɪt/
+  phonetic: dis-KRED-it
+  definition: To harm the good reputation of; to cause an idea or evidence to seem false; (noun) loss of reputation.
+  synonyms: [disgrace, dishonor, refute, debunk, invalidate]
+  antonyms: [vindicate, validate, honor]
+  related: [discreditable]
+  forms: [discredited, discrediting, discredits]
+
+- word: discreet
+  pos: adjective
+  ipa: /dɪˈskrit/
+  phonetic: dih-SKREET
+  definition: Careful and prudent in speech or action, especially to keep confidences or avoid embarrassment; unobtrusive.
+  synonyms: [circumspect, prudent, tactful, judicious, unobtrusive]
+  antonyms: [indiscreet, tactless, conspicuous]
+  related: [discretion, discreetly]
+  etymology: From Medieval Latin discretus "discerning," from Latin discernere "to separate, distinguish"; "discrete" is the same word with a different spelling.
+  forms: [discreetly]
+
+- word: discrepancy
+  pos: noun
+  ipa: /dɪˈskrɛpənsi/
+  phonetic: dih-SKREP-un-see
+  definition: A lack of compatibility or similarity between facts or claims that should agree.
+  synonyms: [inconsistency, disparity, divergence, mismatch, conflict]
+  antonyms: [agreement, consistency, correspondence]
+  related: [discrepant]
+  etymology: From Latin discrepare "to sound differently," from dis- "apart" + crepare "to rattle, creak."
+  forms: [discrepancies]
+
+- word: discretion
+  pos: noun
+  ipa: /dɪˈskrɛʃən/
+  phonetic: dih-SKRESH-un
+  definition: The quality of behaving so as to avoid offense or revealing private information; the freedom to decide what should be done.
+  synonyms: [prudence, circumspection, tact, judgment, latitude]
+  antonyms: [indiscretion, recklessness, tactlessness]
+  related: [discreet, discretionary]
+  etymology: From Late Latin discretio "discernment," from discernere "to separate, distinguish."
+
+- word: disdain
+  pos: noun / verb
+  ipa: /dɪsˈdeɪn/
+  phonetic: dis-DAYN
+  definition: The feeling that someone or something is unworthy of respect; to regard or reject with scorn.
+  synonyms: [contempt, scorn, derision, disrespect, spurn]
+  antonyms: [respect, admiration, esteem]
+  related: [disdainful, disdainfully]
+  etymology: From Old French desdeignier, from Latin dedignari "to reject as unworthy," from dignus "worthy."
+  forms: [disdained, disdains, disdaining, disdainful]
+
+- word: disheartened
+  pos: adjective
+  ipa: /dɪsˈhɑrtənd/
+  phonetic: dis-HAR-tund
+  definition: Having lost determination or confidence; dispirited.
+  synonyms: [discouraged, dispirited, dejected, despondent, demoralized]
+  antonyms: [encouraged, heartened, hopeful]
+  related: [dishearten, disheartening]
+  forms: [dishearten, disheartening, disheartens]
+
+- word: disinterested
+  pos: adjective
+  ipa: /dɪsˈɪntrəstɪd/
+  phonetic: dis-IN-truh-stid
+  definition: Not influenced by personal advantage; impartial (often used loosely to mean "uninterested").
+  synonyms: [impartial, unbiased, neutral, objective, detached]
+  antonyms: [biased, partial, partisan]
+  related: [disinterest, disinterestedly]
+  forms: [disinterestedly, disinterestedness]
+
+- word: disjointed
+  pos: adjective
+  ipa: /dɪsˈdʒɔɪntɪd/
+  phonetic: dis-JOYN-tid
+  definition: Lacking a coherent sequence or connection; disconnected.
+  synonyms: [incoherent, disconnected, fragmented, rambling, disorganized]
+  antonyms: [coherent, connected, orderly]
+  related: [disjointedly, disjointedness]
+  forms: [disjointedly, disjointedness]
+
+- word: disparity
+  pos: noun
+  ipa: /dɪˈspærɪti/
+  phonetic: dih-SPAIR-ih-tee
+  definition: A great difference, especially one that is unfair.
+  synonyms: [inequality, discrepancy, gap, imbalance, divergence]
+  antonyms: [parity, equality, similarity]
+  related: [disparate]
+  etymology: From Late Latin disparitas, from Latin dispar "unequal."
+  forms: [disparities]
+
+- word: dispassionate
+  pos: adjective
+  ipa: /dɪsˈpæʃənət/
+  phonetic: dis-PASH-uh-nut
+  definition: Not influenced by strong emotion; rational and impartial.
+  synonyms: [impartial, objective, detached, neutral, unemotional]
+  antonyms: [passionate, biased, emotional]
+  related: [dispassionately]
+  forms: [dispassionately]
+
+- word: dispel
+  pos: verb
+  ipa: /dɪˈspɛl/
+  phonetic: dih-SPEL
+  definition: To make a doubt, feeling, or belief disappear; to drive away or scatter.
+  synonyms: [banish, dissipate, eliminate, allay, scatter]
+  antonyms: [create, foster, engender]
+  related: []
+  etymology: From Latin dispellere, from dis- "apart" + pellere "to drive."
+  forms: [dispelled, dispels, dispelling]
+
+- word: disrepute
+  pos: noun
+  ipa: /ˌdɪsrɪˈpjut/
+  phonetic: dis-rih-PYOOT
+  definition: The state of being held in low esteem; a poor reputation.
+  synonyms: [disgrace, dishonor, infamy, ignominy, discredit]
+  antonyms: [repute, honor, esteem]
+  related: [disreputable]
+
+- word: disseminate
+  pos: verb
+  ipa: /dɪˈsɛmɪneɪt/
+  phonetic: dih-SEM-ih-nayt
+  definition: To spread information, ideas, or knowledge widely.
+  synonyms: [spread, circulate, distribute, broadcast, propagate]
+  antonyms: [suppress, conceal, withhold]
+  related: [dissemination]
+  etymology: From Latin disseminare "to scatter seed," from dis- "abroad" + semen "seed."
+  forms: [disseminated, disseminates, disseminating, dissemination]
+
+- word: dissent
+  pos: noun / verb
+  ipa: /dɪˈsɛnt/
+  phonetic: dih-SENT
+  definition: The holding or expression of opinions at odds with those commonly or officially held; to disagree.
+  synonyms: [disagreement, opposition, objection, nonconformity, protest]
+  antonyms: [agreement, assent, consensus]
+  related: [dissenter, dissident]
+  etymology: From Latin dissentire "to differ in feeling," from dis- "apart" + sentire "to feel."
+  forms: [dissented, dissenting, dissents]
+
+- word: dissipate
+  pos: verb
+  ipa: /ˈdɪsɪpeɪt/
+  phonetic: DIS-ih-payt
+  definition: To disperse or vanish; to squander money or energy wastefully.
+  synonyms: [disperse, scatter, dispel, squander, fritter away]
+  antonyms: [accumulate, concentrate, conserve]
+  related: [dissipation, dissipated]
+  etymology: From Latin dissipare "to scatter."
+  forms: [dissipated, dissipates, dissipating]
+
+- word: dissolute
+  pos: adjective
+  ipa: /ˈdɪsəlut/
+  phonetic: DIS-uh-loot
+  definition: Lax in morals; given to immoral pleasures.
+  synonyms: [dissipated, debauched, licentious, profligate, decadent]
+  antonyms: [virtuous, moral, upright]
+  related: [dissoluteness]
+  etymology: From Latin dissolutus "loose, lax," past participle of dissolvere "to loosen."
+  forms: [dissoluteness]
+
+- word: dissuade
+  pos: verb
+  ipa: /dɪˈsweɪd/
+  phonetic: dih-SWAYD
+  definition: To persuade someone not to take a course of action.
+  synonyms: [deter, discourage, talk out of, divert, disincline]
+  antonyms: [persuade, encourage, induce]
+  related: [dissuasion]
+  etymology: From Latin dissuadere, from dis- "against" + suadere "to advise, urge."
+  forms: [dissuaded, dissuades, dissuading]
+
+- word: distend
+  pos: verb
+  ipa: /dɪˈstɛnd/
+  phonetic: dih-STEND
+  definition: To swell or cause to swell by pressure from inside.
+  synonyms: [swell, bloat, inflate, expand, dilate]
+  antonyms: [contract, shrink, deflate]
+  related: [distension, distention]
+  etymology: From Latin distendere "to stretch out," from dis- "apart" + tendere "to stretch."
+  forms: [distended, distends, distending]
+
+- word: distill
+  pos: verb
+  ipa: /dɪˈstɪl/
+  phonetic: dih-STIL
+  definition: To extract the essential meaning or most important aspects of; to purify a liquid by vaporizing and condensing it.
+  synonyms: [condense, extract, concentrate, refine, purify]
+  antonyms: [dilute, expand]
+  related: [distillation]
+  etymology: From Latin distillare, from de- "down" + stillare "to drip."
+  forms: [distilled, distills, distilling]
+
+- word: distraught
+  pos: adjective
+  ipa: /dɪˈstrɔt/
+  phonetic: dih-STRAWT
+  definition: Deeply upset and agitated.
+  synonyms: [distressed, frantic, overwrought, agitated, beside oneself]
+  antonyms: [calm, composed, serene]
+  related: []
+
+- word: divest
+  pos: verb
+  ipa: /daɪˈvɛst/
+  phonetic: dy-VEST
+  definition: To deprive or dispossess someone of power, rights, or possessions; to rid oneself of something, such as an investment.
+  synonyms: [strip, deprive, dispossess, relieve, shed]
+  antonyms: [invest, endow, bestow]
+  related: [divestment, divestiture]
+  etymology: From Medieval Latin divestire, from dis- "away" + vestire "to clothe."
+  forms: [divested, divests, divesting]
+
+- word: divulge
+  pos: verb
+  ipa: /dɪˈvʌldʒ/
+  phonetic: dih-VULJ
+  definition: To make known private or sensitive information.
+  synonyms: [disclose, reveal, impart, leak, betray]
+  antonyms: [conceal, withhold, hide]
+  related: []
+  etymology: From Latin divulgare "to publish widely," from dis- + vulgare "to make common," from vulgus "the common people."
+  forms: [divulged, divulges, divulging]
+
+- word: docile
+  pos: adjective
+  ipa: /ˈdɑsəl/
+  phonetic: DOSS-ul
+  definition: Ready to accept control or instruction; submissive.
+  synonyms: [compliant, submissive, tractable, meek, obedient]
+  antonyms: [unruly, defiant, recalcitrant]
+  related: [docility]
+  etymology: From Latin docilis "teachable," from docere "to teach."
+  forms: [docility]
+
+- word: dogma
+  pos: noun
+  ipa: /ˈdɔɡmə/
+  phonetic: DAWG-muh
+  definition: A principle or set of principles laid down by an authority as incontrovertibly true.
+  synonyms: [doctrine, creed, tenet, orthodoxy, credo]
+  antonyms: [heresy]
+  related: [dogmatic, dogmatism]
+  etymology: From Greek dogma "opinion, decree," from dokein "to seem good, think."
+  forms: [dogmas]
+
+- word: doldrums
+  pos: noun
+  ipa: /ˈdoʊldrəmz/
+  phonetic: DOHL-drumz
+  definition: A state of stagnation, inactivity, or low spirits; a calm region of the ocean near the equator.
+  synonyms: [stagnation, inertia, slump, malaise, gloom]
+  antonyms: [vigor, activity, boom]
+  related: []
+
+- word: dolorous
+  pos: adjective
+  ipa: /ˈdoʊlərəs/
+  phonetic: DOH-lur-us
+  definition: Feeling or expressing great sorrow or distress.
+  synonyms: [mournful, sorrowful, doleful, woeful, plaintive]
+  antonyms: [joyful, cheerful, merry]
+  related: [dolor, dolorously]
+  etymology: From Late Latin dolorosus, from Latin dolor "pain, grief."
+  forms: [dolorously]
+
+- word: domineering
+  pos: adjective
+  ipa: /ˌdɑməˈnɪrɪŋ/
+  phonetic: dom-uh-NEER-ing
+  definition: Asserting one's will over others in an arrogant way.
+  synonyms: [overbearing, autocratic, imperious, bossy, tyrannical]
+  antonyms: [submissive, meek, deferential]
+  related: [domineer]
+  etymology: From Dutch domineren, from French dominer, from Latin dominari "to rule."
+  forms: [domineer]
+
+- word: dour
+  pos: adjective
+  ipa: /dʊr/
+  phonetic: DOOR
+  definition: Relentlessly severe, stern, or gloomy in manner or appearance.
+  synonyms: [stern, severe, sullen, gloomy, morose]
+  antonyms: [cheerful, genial, jovial]
+  related: [dourly, dourness]
+  etymology: Probably from Latin durus "hard," by way of Scots.
+  forms: [dourly, dourness]
+
+- word: duplicity
+  pos: noun
+  ipa: /duˈplɪsɪti/
+  phonetic: doo-PLIS-ih-tee
+  definition: Deceitfulness; double-dealing.
+  synonyms: [deceit, deception, double-dealing, chicanery, guile]
+  antonyms: [honesty, candor, sincerity]
+  related: [duplicitous]
+  etymology: From Late Latin duplicitas "doubleness," from duplex "twofold."
+  forms: [duplicitous]
+
+- word: earnest
+  pos: adjective
+  ipa: /ˈɜrnɪst/
+  phonetic: UR-nist
+  definition: Resulting from or showing sincere and intense conviction; serious.
+  synonyms: [sincere, serious, solemn, zealous, ardent]
+  antonyms: [frivolous, flippant, insincere]
+  related: [earnestly, earnestness]
+  etymology: From Old English eornost "seriousness, zeal."
+  forms: [earnestly, earnestness]
+
+- word: ebb
+  pos: noun / verb
+  ipa: /ɛb/
+  phonetic: EB
+  definition: The movement of the tide out to sea; to gradually lessen or decline.
+  synonyms: [recede, wane, subside, diminish, decline]
+  antonyms: [flow, swell, wax]
+  related: []
+  etymology: From Old English ebba "low tide."
+  forms: [ebbed, ebbing, ebbs]
+
+- word: edifice
+  pos: noun
+  ipa: /ˈɛdɪfɪs/
+  phonetic: ED-ih-fiss
+  definition: A large, imposing building; a complex system of beliefs or ideas.
+  synonyms: [structure, building, construction, complex, framework]
+  antonyms: []
+  related: []
+  etymology: From Latin aedificium "building," from aedes "dwelling" + facere "to make."
+  forms: [edifices]
+
+- word: edify
+  pos: verb
+  ipa: /ˈɛdɪfaɪ/
+  phonetic: ED-ih-fy
+  definition: To instruct or improve someone morally or intellectually.
+  synonyms: [enlighten, educate, instruct, uplift, inform]
+  antonyms: [corrupt, mislead]
+  related: [edification, edifying]
+  etymology: From Latin aedificare "to build," later used figuratively for building up faith.
+  forms: [edified, edifies, edifying, edification]
+
+- word: efface
+  pos: verb
+  ipa: /ɪˈfeɪs/
+  phonetic: ih-FAYSS
+  definition: To erase a mark from a surface; to make oneself appear insignificant.
+  synonyms: [erase, obliterate, expunge, eradicate, rub out]
+  antonyms: [preserve, emphasize]
+  related: [self-effacing, effacement]
+  etymology: From French effacer, from es- "out" + face "face."
+  forms: [effaced, effaces, effacing]
+
+- word: effervescent
+  pos: adjective
+  ipa: /ˌɛfərˈvɛsənt/
+  phonetic: ef-ur-VES-unt
+  definition: Vivacious and enthusiastic; giving off bubbles.
+  synonyms: [bubbly, vivacious, exuberant, lively, ebullient]
+  antonyms: [dull, flat, lethargic]
+  related: [effervescence]
+  etymology: From Latin effervescere "to boil up," from ex- "out" + fervere "to boil."
+  forms: [effervescence]
+
+- word: effusive
+  pos: adjective
+  ipa: /ɪˈfjusɪv/
+  phonetic: ih-FYOO-siv
+  definition: Expressing gratitude, pleasure, or approval in an unrestrained or heartfelt manner.
+  synonyms: [gushing, lavish, demonstrative, unrestrained, fulsome]
+  antonyms: [restrained, reserved, reticent]
+  related: [effusion, effusively]
+  etymology: From Latin effusus "poured out," past participle of effundere.
+  forms: [effusively, effusiveness]
+
+- word: egregious
+  pos: adjective
+  ipa: /ɪˈɡridʒəs/
+  phonetic: ih-GREE-jus
+  definition: Outstandingly bad; shocking.
+  synonyms: [flagrant, glaring, blatant, outrageous, monstrous]
+  antonyms: [minor, trivial, slight]
+  related: [egregiously]
+  etymology: From Latin egregius "standing out from the flock, distinguished," from ex- "out" + grex "flock"; the negative sense developed in the 16th century.
+  forms: [egregiously]
+
+- word: elicit
+  pos: verb
+  ipa: /ɪˈlɪsɪt/
+  phonetic: ih-LIS-it
+  definition: To draw out a response, answer, or fact from someone.
+  synonyms: [evoke, draw out, extract, provoke, prompt]
+  antonyms: [suppress, repress]
+  related: [elicitation]
+  etymology: From Latin elicere "to draw out," from ex- "out" + lacere "to entice."
+  forms: [elicited, elicits, eliciting]
+
+- word: elucidate
+  pos: verb
+  ipa: /ɪˈlusɪdeɪt/
+  phonetic: ih-LOO-sih-dayt
+  definition: To make something clear; to explain.
+  synonyms: [clarify, explain, illuminate, explicate, expound]
+  antonyms: [obscure, confuse, obfuscate]
+  related: [elucidation]
+  etymology: From Late Latin elucidare "to make light," from ex- + lucidus "bright."
+  forms: [elucidated, elucidates, elucidating, elucidation]
+
+- word: elude
+  pos: verb
+  ipa: /ɪˈlud/
+  phonetic: ih-LOOD
+  definition: To escape from or avoid skillfully; to fail to be grasped or remembered by.
+  synonyms: [evade, escape, dodge, avoid, baffle]
+  antonyms: [confront, face]
+  related: [elusive, elusion]
+  etymology: From Latin eludere "to escape by trickery," from ex- "out" + ludere "to play."
+  forms: [eluded, eludes, eluding]
+
+- word: elusive
+  pos: adjective
+  ipa: /ɪˈlusɪv/
+  phonetic: ih-LOO-siv
+  definition: Difficult to find, catch, or achieve; hard to define or remember.
+  synonyms: [evasive, slippery, fleeting, intangible, baffling]
+  antonyms: [attainable, obvious, tangible]
+  related: [elude, elusiveness]
+  etymology: From Latin elus-, the past participle stem of eludere "to escape by trickery."
+  forms: [elusiveness, elusively]

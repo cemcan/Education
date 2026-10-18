@@ -1,0 +1,1230 @@
+# GRE vocabulary, part 2. Examples are added by build_words.py; never write them here.
+words:
+- word: beneficent
+  pos: adjective
+  ipa: /bəˈnɛfəsənt/
+  phonetic: buh-NEF-uh-sunt
+  definition: Doing or producing good; actively kind and charitable.
+  synonyms: [benevolent, charitable, generous, kindly, altruistic]
+  antonyms: [maleficent, malevolent, harmful]
+  related: [beneficence, beneficently]
+  etymology: From Latin beneficus "generous, doing good," from bene "well" + facere "to do."
+  forms: [beneficently, beneficence]
+
+- word: benign
+  pos: adjective
+  ipa: /bɪˈnaɪn/
+  phonetic: bih-NYNE
+  definition: Gentle and kindly; harmless or favorable; of a disease, not malignant.
+  synonyms: [kindly, gentle, harmless, innocuous, benevolent]
+  antonyms: [malignant, harmful, hostile]
+  related: [benignly, benignity]
+  etymology: From Old French benigne, from Latin benignus "kindly," from bene "well" + a root meaning "born."
+  forms: [benignly]
+
+- word: bequeath
+  pos: verb
+  ipa: /bɪˈkwið/
+  phonetic: bih-KWEETH
+  definition: To leave property to someone by a will; to hand down or pass on to later generations.
+  synonyms: [leave, will, bestow, hand down, pass on]
+  antonyms: [inherit, withhold]
+  related: [bequest]
+  etymology: From Old English becwethan "to declare, leave by will," from be- + cwethan "to say" (compare archaic "quoth").
+  forms: [bequeathed, bequeaths, bequeathing]
+
+- word: bereft
+  pos: adjective
+  ipa: /bɪˈrɛft/
+  phonetic: bih-REFT
+  definition: Deprived of or lacking something; sad and lonely, especially after a death or loss.
+  synonyms: [deprived, devoid, lacking, destitute, bereaved]
+  antonyms: [endowed, possessed of]
+  related: [bereave, bereavement]
+  etymology: Past participle of "bereave," from Old English bereafian "to deprive, rob."
+
+- word: beseech
+  pos: verb
+  ipa: /bɪˈsitʃ/
+  phonetic: bih-SEECH
+  definition: To ask someone urgently and fervently; to beg or implore.
+  synonyms: [implore, entreat, beg, plead, supplicate]
+  antonyms: [command, demand]
+  related: [beseechingly]
+  etymology: From Middle English bisechen, from be- (intensive) + sechen "to seek."
+  forms: [beseeched, besought, beseeches, beseeching, beseechingly]
+
+- word: besiege
+  pos: verb
+  ipa: /bɪˈsidʒ/
+  phonetic: bih-SEEJ
+  definition: To surround a place with armed forces to force surrender; to crowd around or overwhelm with requests or complaints.
+  synonyms: [beleaguer, blockade, surround, assail, inundate]
+  antonyms: [relieve, liberate]
+  related: [siege, besieger]
+  forms: [besieged, besieges, besieging]
+
+- word: besmirch
+  pos: verb
+  ipa: /bɪˈsmɜrtʃ/
+  phonetic: bih-SMURCH
+  definition: To damage someone's reputation; literally, to soil or make dirty.
+  synonyms: [sully, tarnish, defame, smear, stain]
+  antonyms: [honor, vindicate, exalt]
+  related: []
+  etymology: From be- + "smirch" "to soil, stain."
+  forms: [besmirched, besmirches, besmirching]
+
+- word: bestow
+  pos: verb
+  ipa: /bɪˈstoʊ/
+  phonetic: bih-STOH
+  definition: To confer or present an honor, right, or gift.
+  synonyms: [confer, grant, award, present, accord]
+  antonyms: [withhold, withdraw, revoke]
+  related: [bestowal]
+  forms: [bestowed, bestows, bestowing, bestowal]
+
+- word: blandishment
+  pos: noun
+  ipa: /ˈblændɪʃmənt/
+  phonetic: BLAN-dish-munt
+  definition: A flattering or pleasing statement or action used to persuade someone gently to do something.
+  synonyms: [flattery, cajolery, coaxing, wheedling, enticement]
+  antonyms: [threat, coercion]
+  related: [blandish]
+  etymology: From "blandish," from Old French blandir, from Latin blandiri "to flatter," from blandus "smooth-talking."
+  forms: [blandishments]
+
+- word: blasphemy
+  pos: noun
+  ipa: /ˈblæsfəmi/
+  phonetic: BLAS-fuh-mee
+  definition: Speaking irreverently about God or sacred things; disrespect toward something regarded as sacrosanct.
+  synonyms: [sacrilege, profanity, impiety, irreverence, desecration]
+  antonyms: [reverence, piety]
+  related: [blasphemous, blaspheme]
+  etymology: From Greek blasphemia "slander, profane speech," via Latin and Old French.
+  forms: [blasphemies, blasphemous, blaspheme, blasphemed, blaspheming]
+
+- word: blatant
+  pos: adjective
+  ipa: /ˈbleɪtənt/
+  phonetic: BLAY-tunt
+  definition: Done openly and unashamedly; completely obvious, especially of something bad.
+  synonyms: [flagrant, glaring, brazen, overt, conspicuous]
+  antonyms: [subtle, covert, inconspicuous]
+  related: [blatantly]
+  etymology: Apparently coined by Edmund Spenser in The Faerie Queene (1596) for the "blatant beast," a monster of slander.
+  forms: [blatantly]
+
+- word: blight
+  pos: noun / verb
+  ipa: /blaɪt/
+  phonetic: BLYTE
+  definition: Something that spoils or damages; a plant disease; (verb) to spoil, harm, or destroy.
+  synonyms: [scourge, plague, affliction, ruin, mar]
+  antonyms: [boon, blessing]
+  related: [blighted]
+  forms: [blighted, blights, blighting]
+
+- word: blithe
+  pos: adjective
+  ipa: /blaɪð/
+  phonetic: BLYTHE
+  definition: Showing casual, often improper indifference; carefree and cheerful.
+  synonyms: [nonchalant, heedless, carefree, insouciant, lighthearted]
+  antonyms: [concerned, careful, morose]
+  related: [blithely, blitheness]
+  etymology: From Old English blithe "joyous, kind, gentle."
+  forms: [blithely]
+
+- word: bluster
+  pos: verb / noun
+  ipa: /ˈblʌstər/
+  phonetic: BLUS-ter
+  definition: To talk loudly, aggressively, or boastfully with little effect; (noun) such loud, empty talk.
+  synonyms: [rant, bluff, swagger, bombast, boast]
+  antonyms: [humility, restraint]
+  related: [blustery, blusterer]
+  forms: [blustered, blusters, blustering]
+
+- word: boisterous
+  pos: adjective
+  ipa: /ˈbɔɪstərəs/
+  phonetic: BOY-ster-us
+  definition: Noisy, energetic, and cheerful; rowdy.
+  synonyms: [rowdy, raucous, unruly, exuberant, clamorous]
+  antonyms: [quiet, restrained, subdued]
+  related: [boisterously, boisterousness]
+  forms: [boisterously, boisterousness]
+
+- word: boon
+  pos: noun
+  ipa: /bun/
+  phonetic: BOON
+  definition: A thing that is helpful or beneficial; a blessing.
+  synonyms: [blessing, benefit, godsend, windfall, advantage]
+  antonyms: [bane, curse, blight]
+  related: []
+  etymology: From Old Norse bon "prayer, request"; the sense shifted from a favor asked to a favor granted.
+
+- word: boorish
+  pos: adjective
+  ipa: /ˈbʊrɪʃ/
+  phonetic: BOOR-ish
+  definition: Rough and bad-mannered; coarse and insensitive.
+  synonyms: [uncouth, churlish, crude, oafish, vulgar]
+  antonyms: [refined, courteous, genteel]
+  related: [boor, boorishly, boorishness]
+  etymology: From "boor," from Dutch boer "farmer, peasant."
+  forms: [boorishly, boorishness]
+
+- word: braggart
+  pos: noun
+  ipa: /ˈbrægərt/
+  phonetic: BRAG-ert
+  definition: A person who boasts loudly about achievements or possessions.
+  synonyms: [boaster, show-off, blowhard, swaggerer, egotist]
+  antonyms: []
+  related: [brag]
+  forms: [braggarts]
+
+- word: brandish
+  pos: verb
+  ipa: /ˈbrændɪʃ/
+  phonetic: BRAN-dish
+  definition: To wave or flourish something, especially a weapon, as a threat or in excitement.
+  synonyms: [wave, flourish, wield, flaunt, display]
+  antonyms: [conceal, hide]
+  related: []
+  etymology: From Old French brandir, from brand "sword blade."
+  forms: [brandished, brandishes, brandishing]
+
+- word: bravado
+  pos: noun
+  ipa: /brəˈvɑdoʊ/
+  phonetic: bruh-VAH-doh
+  definition: A bold manner or show of courage intended to impress or intimidate, often masking fear.
+  synonyms: [bluster, swagger, bombast, boldness, machismo]
+  antonyms: [timidity, modesty, diffidence]
+  related: [bravura]
+  etymology: From Spanish bravada, from bravo "bold."
+
+- word: brazen
+  pos: adjective
+  ipa: /ˈbreɪzən/
+  phonetic: BRAY-zun
+  definition: Bold and without shame; literally, made of brass.
+  synonyms: [shameless, audacious, impudent, flagrant, barefaced]
+  antonyms: [timid, modest, sheepish]
+  related: [brazenly, brazenness]
+  etymology: From Old English bræsen "made of brass."
+  forms: [brazenly, brazenness]
+
+- word: brevity
+  pos: noun
+  ipa: /ˈbrɛvɪti/
+  phonetic: BREV-ih-tee
+  definition: Concise and exact use of words; shortness of duration.
+  synonyms: [conciseness, terseness, succinctness, pithiness, briefness]
+  antonyms: [verbosity, prolixity, wordiness]
+  related: [brief]
+  etymology: From Latin brevitas, from brevis "short."
+
+- word: broach
+  pos: verb
+  ipa: /broʊtʃ/
+  phonetic: BROHCH
+  definition: To raise a sensitive or difficult subject for discussion; to pierce a container to draw out liquid.
+  synonyms: [raise, introduce, bring up, mention, moot]
+  antonyms: [avoid, drop]
+  related: []
+  etymology: From Old French brochier "to pierce," from broche "spike, pointed tool."
+  forms: [broached, broaches, broaching]
+
+- word: brusque
+  pos: adjective
+  ipa: /brʌsk/
+  phonetic: BRUSK
+  definition: Abrupt or offhand in speech or manner; curt.
+  synonyms: [curt, abrupt, blunt, gruff, terse]
+  antonyms: [courteous, gracious, polite]
+  related: [brusquely, brusqueness]
+  etymology: From French brusque "lively, fierce," from Italian brusco "sour, tart."
+  forms: [brusquely, brusqueness]
+
+- word: bucolic
+  pos: adjective
+  ipa: /bjuˈkɑlɪk/
+  phonetic: byoo-KOL-ik
+  definition: Relating to the pleasant aspects of the countryside or country life; pastoral.
+  synonyms: [pastoral, rustic, rural, idyllic, arcadian]
+  antonyms: [urban, metropolitan]
+  related: []
+  etymology: From Greek boukolikos "pastoral," from boukolos "cowherd," from bous "ox."
+
+- word: buffoon
+  pos: noun
+  ipa: /bəˈfun/
+  phonetic: buh-FOON
+  definition: A ridiculous but amusing person; a clown or fool.
+  synonyms: [clown, fool, jester, oaf, dolt]
+  antonyms: [sage, genius]
+  related: [buffoonery, buffoonish]
+  etymology: From Italian buffone "jester," from buffa "joke."
+  forms: [buffoons, buffoonery]
+
+- word: bulwark
+  pos: noun
+  ipa: /ˈbʊlwərk/
+  phonetic: BUL-wurk
+  definition: A defensive wall; a person or thing that acts as a defense or safeguard.
+  synonyms: [rampart, bastion, safeguard, buttress, fortification]
+  antonyms: [vulnerability, weakness]
+  related: []
+  etymology: From Middle Dutch bolwerc, probably from bole "tree trunk, plank" + werc "work."
+  forms: [bulwarks]
+
+- word: burnish
+  pos: verb
+  ipa: /ˈbɜrnɪʃ/
+  phonetic: BUR-nish
+  definition: To polish by rubbing; to enhance or improve a reputation or image.
+  synonyms: [polish, buff, shine, enhance, refine]
+  antonyms: [tarnish, dull]
+  related: [burnished]
+  etymology: From Old French burnir "to make brown, polish," from brun "brown."
+  forms: [burnished, burnishes, burnishing]
+
+- word: buttress
+  pos: verb / noun
+  ipa: /ˈbʌtrəs/
+  phonetic: BUT-rus
+  definition: To support or strengthen; (noun) a structure built against a wall for support, or any source of support.
+  synonyms: [bolster, reinforce, support, shore up, prop up]
+  antonyms: [undermine, weaken]
+  related: []
+  forms: [buttressed, buttresses, buttressing]
+
+- word: cabal
+  pos: noun
+  ipa: /kəˈbɑl/
+  phonetic: kuh-BAHL
+  definition: A secret political clique or faction plotting for its own ends.
+  synonyms: [clique, faction, junta, coterie, conspiracy]
+  antonyms: []
+  related: []
+  etymology: From French cabale, from medieval Latin cabala, ultimately from Hebrew qabbalah "tradition" (the source of "kabbalah").
+  forms: [cabals]
+
+- word: cadence
+  pos: noun
+  ipa: /ˈkeɪdəns/
+  phonetic: KAY-dunss
+  definition: A rhythmic rise and fall of the voice or sounds; a regular beat; in music, a closing sequence of chords.
+  synonyms: [rhythm, lilt, meter, beat, intonation]
+  antonyms: []
+  related: [cadenced]
+  etymology: From Latin cadere "to fall," via Italian cadenza and Old French.
+  forms: [cadences]
+
+- word: cajole
+  pos: verb
+  ipa: /kəˈdʒoʊl/
+  phonetic: kuh-JOHL
+  definition: To persuade someone by flattery or gentle, persistent coaxing.
+  synonyms: [coax, wheedle, inveigle, sweet-talk, entice]
+  antonyms: [coerce, force, bully]
+  related: [cajolery]
+  etymology: From French cajoler "to coax, flatter."
+  forms: [cajoled, cajoles, cajoling, cajolery]
+
+- word: calamity
+  pos: noun
+  ipa: /kəˈlæmɪti/
+  phonetic: kuh-LAM-ih-tee
+  definition: An event causing great and often sudden damage or distress; a disaster.
+  synonyms: [disaster, catastrophe, cataclysm, tragedy, misfortune]
+  antonyms: [blessing, boon, godsend]
+  related: [calamitous]
+  etymology: From Latin calamitas "damage, disaster."
+  forms: [calamities, calamitous]
+
+- word: callous
+  pos: adjective
+  ipa: /ˈkæləs/
+  phonetic: KAL-us
+  definition: Showing cruel disregard for others; emotionally hardened and insensitive.
+  synonyms: [heartless, unfeeling, insensitive, cold-blooded, indifferent]
+  antonyms: [compassionate, sympathetic, tender]
+  related: [callously, callousness, callus]
+  etymology: From Latin callosus "hard-skinned," from callum "hardened skin."
+  forms: [callously, callousness]
+
+- word: callow
+  pos: adjective
+  ipa: /ˈkæloʊ/
+  phonetic: KAL-oh
+  definition: Inexperienced and immature, especially of a young person.
+  synonyms: [immature, inexperienced, green, naive, unsophisticated]
+  antonyms: [mature, experienced, sophisticated]
+  related: [callowness]
+  etymology: From Old English calu "bald"; it once described unfledged young birds without feathers.
+  forms: [callowness]
+
+- word: calumny
+  pos: noun
+  ipa: /ˈkæləmni/
+  phonetic: KAL-um-nee
+  definition: The making of false and damaging statements about someone to harm their reputation; slander.
+  synonyms: [slander, defamation, libel, vilification, aspersion]
+  antonyms: [praise, vindication, eulogy]
+  related: [calumniate, calumnious]
+  etymology: From Latin calumnia "trickery, false accusation."
+  forms: [calumnies, calumnious]
+
+- word: candid
+  pos: adjective
+  ipa: /ˈkændɪd/
+  phonetic: KAN-did
+  definition: Truthful and straightforward; frank; of a photograph, taken informally.
+  synonyms: [frank, forthright, outspoken, blunt, honest]
+  antonyms: [guarded, evasive, disingenuous]
+  related: [candidly, candor]
+  etymology: From Latin candidus "white, pure, sincere," from candere "to shine."
+  forms: [candidly]
+
+- word: candor
+  pos: noun
+  ipa: /ˈkændər/
+  phonetic: KAN-der
+  definition: The quality of being open, honest, and sincere in expression; frankness.
+  synonyms: [frankness, openness, forthrightness, honesty, directness]
+  antonyms: [evasiveness, deceit, guile]
+  related: [candid]
+  etymology: From Latin candor "whiteness, purity, sincerity," from candere "to shine."
+  forms: [candour]
+
+- word: canny
+  pos: adjective
+  ipa: /ˈkæni/
+  phonetic: KAN-ee
+  definition: Having or showing shrewdness and good judgment, especially in money or business.
+  synonyms: [shrewd, astute, sharp, savvy, prudent]
+  antonyms: [foolish, naive, gullible]
+  related: [cannily, canniness]
+  etymology: A Scottish formation from "can" in the sense "know how."
+  forms: [cannily, canniness, cannier, canniest]
+
+- word: captious
+  pos: adjective
+  ipa: /ˈkæpʃəs/
+  phonetic: KAP-shus
+  definition: Tending to find fault or raise petty objections.
+  synonyms: [carping, faultfinding, critical, nitpicking, caviling]
+  antonyms: [approving, tolerant, uncritical]
+  related: [captiously, captiousness]
+  etymology: From Latin captiosus "sophistical, deceptive," from captio "a taking, deceiving."
+  forms: [captiously, captiousness]
+
+- word: capacious
+  pos: adjective
+  ipa: /kəˈpeɪʃəs/
+  phonetic: kuh-PAY-shus
+  definition: Having a lot of space inside; roomy.
+  synonyms: [roomy, spacious, commodious, ample, voluminous]
+  antonyms: [cramped, confined, narrow]
+  related: [capaciousness, capacity]
+  etymology: From Latin capax "able to hold much," from capere "to take, hold."
+  forms: [capaciously, capaciousness]
+
+- word: caricature
+  pos: noun / verb
+  ipa: /ˈkærɪkətʃər/
+  phonetic: KAIR-ih-kuh-chur
+  definition: A depiction exaggerating certain features for comic or grotesque effect; (verb) to portray in this way.
+  synonyms: [parody, lampoon, burlesque, satire, travesty]
+  antonyms: []
+  related: [caricaturist]
+  etymology: From Italian caricatura, from caricare "to load, exaggerate."
+  forms: [caricatures, caricatured, caricaturing]
+
+- word: carouse
+  pos: verb
+  ipa: /kəˈraʊz/
+  phonetic: kuh-ROWZ
+  definition: To drink plenty of alcohol and enjoy oneself with others in a noisy, lively way.
+  synonyms: [revel, party, make merry, roister, binge]
+  antonyms: []
+  related: [carousal]
+  etymology: From German gar aus "all out," as in drinking a cup to the bottom.
+  forms: [caroused, carouses, carousing]
+
+- word: categorical
+  pos: adjective
+  ipa: /ˌkætəˈɡɔrɪkəl/
+  phonetic: kat-uh-GOR-ih-kul
+  definition: Unambiguously explicit and direct; absolute and without qualification.
+  synonyms: [unequivocal, absolute, unqualified, explicit, emphatic]
+  antonyms: [qualified, equivocal, tentative]
+  related: [categorically]
+  forms: [categorically]
+
+- word: cavalier
+  pos: adjective
+  ipa: /ˌkævəˈlɪr/
+  phonetic: kav-uh-LEER
+  definition: Showing a lack of proper concern; offhand, disdainful, or arrogantly dismissive.
+  synonyms: [offhand, nonchalant, dismissive, casual, supercilious]
+  antonyms: [careful, conscientious, serious]
+  related: [cavalierly]
+  etymology: From Italian cavaliere "horseman, knight," from Latin caballus "horse."
+  forms: [cavalierly]
+
+- word: cavil
+  pos: verb / noun
+  ipa: /ˈkævəl/
+  phonetic: KAV-ul
+  definition: To make petty or unnecessary objections; (noun) a trivial objection.
+  synonyms: [quibble, carp, nitpick, complain, find fault]
+  antonyms: [approve, praise]
+  related: [caviler]
+  etymology: From Latin cavillari "to jeer, quibble."
+  forms: [caviled, cavilled, cavils, caviling, cavilling]
+
+- word: cede
+  pos: verb
+  ipa: /sid/
+  phonetic: SEED
+  definition: To give up power, territory, or a right, typically unwillingly.
+  synonyms: [surrender, yield, relinquish, concede, hand over]
+  antonyms: [retain, seize, keep]
+  related: [cession]
+  etymology: From Latin cedere "to yield, go away."
+  forms: [ceded, cedes, ceding]
+
+- word: celerity
+  pos: noun
+  ipa: /səˈlɛrɪti/
+  phonetic: suh-LER-ih-tee
+  definition: Swiftness of movement or action.
+  synonyms: [speed, swiftness, rapidity, alacrity, quickness]
+  antonyms: [slowness, sluggishness, lethargy]
+  related: [accelerate]
+  etymology: From Latin celeritas, from celer "swift."
+
+- word: censure
+  pos: verb / noun
+  ipa: /ˈsɛnʃər/
+  phonetic: SEN-shur
+  definition: To express severe, often formal disapproval of; (noun) such strong official criticism.
+  synonyms: [condemn, reprimand, rebuke, castigate, denounce]
+  antonyms: [praise, commend, endorse]
+  related: [censorious]
+  etymology: From Latin censura "judgment, assessment," from censere "to assess."
+  forms: [censured, censures, censuring]
+
+- word: cerebral
+  pos: adjective
+  ipa: /səˈribrəl/
+  phonetic: suh-REE-brul
+  definition: Intellectual rather than emotional or physical; relating to the brain.
+  synonyms: [intellectual, analytical, scholarly, academic, highbrow]
+  antonyms: [emotional, physical, visceral]
+  related: [cerebrum, cerebrally]
+  etymology: From Latin cerebrum "brain."
+  forms: [cerebrally]
+
+- word: chagrin
+  pos: noun
+  ipa: /ʃəˈɡrɪn/
+  phonetic: shuh-GRIN
+  definition: Distress or embarrassment at having failed or been humiliated.
+  synonyms: [mortification, embarrassment, humiliation, vexation, annoyance]
+  antonyms: [delight, pleasure, satisfaction]
+  related: [chagrined]
+  etymology: From French chagrin "sorrow, grief."
+  forms: [chagrined]
+
+- word: charlatan
+  pos: noun
+  ipa: /ˈʃɑrlətən/
+  phonetic: SHAR-luh-tun
+  definition: A person falsely claiming special knowledge or skill; a fraud.
+  synonyms: [fraud, quack, impostor, mountebank, swindler]
+  antonyms: [expert, professional]
+  related: [charlatanism]
+  etymology: From Italian ciarlatano, from ciarlare "to babble, chatter."
+  forms: [charlatans, charlatanism]
+
+- word: chary
+  pos: adjective
+  ipa: /ˈtʃɛri/
+  phonetic: CHAIR-ee
+  definition: Cautiously or suspiciously reluctant to do something; sparing in giving.
+  synonyms: [wary, cautious, leery, circumspect, reluctant]
+  antonyms: [heedless, rash, incautious]
+  related: [charily]
+  etymology: From Old English cearig "sorrowful, anxious," related to "care."
+  forms: [charily]
+
+- word: chastise
+  pos: verb
+  ipa: /tʃæˈstaɪz/
+  phonetic: chas-TYZE
+  definition: To rebuke or reprimand severely; formerly, to punish physically.
+  synonyms: [reprimand, rebuke, castigate, berate, upbraid]
+  antonyms: [praise, commend, laud]
+  related: [chastisement]
+  etymology: Related to "chasten," from Latin castigare "to correct, punish."
+  forms: [chastised, chastises, chastising, chastisement]
+
+- word: chide
+  pos: verb
+  ipa: /tʃaɪd/
+  phonetic: CHYDE
+  definition: To scold or rebuke mildly.
+  synonyms: [scold, admonish, reprove, rebuke, reprimand]
+  antonyms: [praise, compliment, commend]
+  related: []
+  etymology: From Old English cidan "to quarrel, complain."
+  forms: [chided, chides, chiding]
+
+- word: chimera
+  pos: noun
+  ipa: /kaɪˈmɪrə/
+  phonetic: ky-MEER-uh
+  definition: An unrealistic or impossible hope or fantasy; in myth, a fire-breathing monster combining lion, goat, and serpent.
+  synonyms: [illusion, fantasy, delusion, pipe dream, mirage]
+  antonyms: [reality, fact]
+  related: [chimerical]
+  etymology: From Greek khimaira "she-goat," the name of the mythical monster.
+  forms: [chimeras, chimerical]
+
+- word: choleric
+  pos: adjective
+  ipa: /ˈkɑlərɪk/
+  phonetic: KOL-er-ik
+  definition: Bad-tempered or irritable; easily angered.
+  synonyms: [irascible, irritable, testy, cantankerous, peevish]
+  antonyms: [placid, easygoing, even-tempered]
+  related: [choler]
+  etymology: From Greek kholē "bile"; in medieval medicine an excess of yellow bile was thought to cause anger.
+
+- word: churlish
+  pos: adjective
+  ipa: /ˈtʃɜrlɪʃ/
+  phonetic: CHUR-lish
+  definition: Rude in a mean-spirited and surly way; ungracious.
+  synonyms: [boorish, surly, uncivil, ill-mannered, ungracious]
+  antonyms: [courteous, gracious, civil]
+  related: [churl, churlishly, churlishness]
+  etymology: From "churl," Old English ceorl "peasant, common man."
+  forms: [churlishly, churlishness]
+
+- word: circuitous
+  pos: adjective
+  ipa: /sərˈkjuɪtəs/
+  phonetic: sur-KYOO-ih-tus
+  definition: Longer than the most direct way; indirect and roundabout.
+  synonyms: [roundabout, indirect, meandering, tortuous, oblique]
+  antonyms: [direct, straight, straightforward]
+  related: [circuit, circuitously]
+  etymology: From medieval Latin circuitosus, from Latin circuitus "a going around."
+  forms: [circuitously]
+
+- word: circumlocution
+  pos: noun
+  ipa: /ˌsɜrkəmloʊˈkjuʃən/
+  phonetic: sur-kum-loh-KYOO-shun
+  definition: The use of many words where fewer would do, especially to be vague or evasive.
+  synonyms: [periphrasis, verbosity, wordiness, evasion, prolixity]
+  antonyms: [directness, conciseness, brevity]
+  related: [circumlocutory]
+  etymology: From Latin circumlocutio, from circum "around" + loqui "to speak."
+  forms: [circumlocutions, circumlocutory]
+
+- word: circumscribe
+  pos: verb
+  ipa: /ˈsɜrkəmˌskraɪb/
+  phonetic: SUR-kum-skryb
+  definition: To restrict something within limits; in geometry, to draw a figure around another.
+  synonyms: [restrict, limit, confine, curb, delimit]
+  antonyms: [expand, extend, free]
+  related: [circumscription]
+  etymology: From Latin circumscribere, from circum "around" + scribere "to write, draw."
+  forms: [circumscribed, circumscribes, circumscribing]
+
+- word: circumspect
+  pos: adjective
+  ipa: /ˈsɜrkəmˌspɛkt/
+  phonetic: SUR-kum-spekt
+  definition: Wary and unwilling to take risks; careful to consider all circumstances.
+  synonyms: [cautious, prudent, wary, guarded, discreet]
+  antonyms: [rash, reckless, heedless]
+  related: [circumspection, circumspectly]
+  etymology: From Latin circumspectus, from circumspicere "to look around."
+  forms: [circumspectly, circumspection]
+
+- word: circumvent
+  pos: verb
+  ipa: /ˌsɜrkəmˈvɛnt/
+  phonetic: sur-kum-VENT
+  definition: To find a way around an obstacle or rule, often cleverly or deceptively.
+  synonyms: [evade, bypass, sidestep, dodge, get around]
+  antonyms: [confront, obey, comply]
+  related: [circumvention]
+  etymology: From Latin circumvenire, from circum "around" + venire "to come."
+  forms: [circumvented, circumvents, circumventing, circumvention]
+
+- word: clamor
+  pos: noun / verb
+  ipa: /ˈklæmər/
+  phonetic: KLAM-er
+  definition: A loud and confused noise, especially of people shouting; a vehement public demand; (verb) to demand insistently.
+  synonyms: [uproar, din, outcry, tumult, hubbub]
+  antonyms: [silence, quiet, calm]
+  related: [clamorous]
+  etymology: From Latin clamor "a shout," from clamare "to cry out."
+  forms: [clamored, clamoring, clamors, clamour, clamorous]
+
+- word: clandestine
+  pos: adjective
+  ipa: /klænˈdɛstɪn/
+  phonetic: klan-DES-tin
+  definition: Kept secret or done secretively, especially because illicit.
+  synonyms: [secret, covert, surreptitious, furtive, underground]
+  antonyms: [open, overt, aboveboard]
+  related: [clandestinely]
+  etymology: From Latin clandestinus, from clam "secretly."
+  forms: [clandestinely]
+
+- word: clemency
+  pos: noun
+  ipa: /ˈklɛmənsi/
+  phonetic: KLEM-un-see
+  definition: Mercy or lenience, especially toward an offender; mildness of weather.
+  synonyms: [mercy, leniency, forbearance, compassion, pardon]
+  antonyms: [severity, harshness, ruthlessness]
+  related: [clement, inclement]
+  etymology: From Latin clementia, from clemens "mild, merciful."
+
+- word: cloister
+  pos: noun / verb
+  ipa: /ˈklɔɪstər/
+  phonetic: KLOY-ster
+  definition: A covered walk in a monastery, or a monastic life of seclusion; (verb) to seclude from the world.
+  synonyms: [seclude, sequester, isolate, shut away, monastery]
+  antonyms: []
+  related: [cloistered]
+  etymology: From Old French cloistre, from Latin claustrum "enclosure," from claudere "to shut."
+  forms: [cloistered, cloisters]
+
+- word: coerce
+  pos: verb
+  ipa: /koʊˈɜrs/
+  phonetic: koh-URS
+  definition: To persuade someone to do something by force or threats.
+  synonyms: [compel, force, pressure, intimidate, constrain]
+  antonyms: [coax, persuade, cajole]
+  related: [coercion, coercive]
+  etymology: From Latin coercere "to restrain," from co- "together" + arcere "to shut up, ward off."
+  forms: [coerced, coerces, coercing, coercion]
+
+- word: cogitate
+  pos: verb
+  ipa: /ˈkɑdʒɪˌteɪt/
+  phonetic: KOJ-ih-tayt
+  definition: To think deeply about something; to meditate or reflect.
+  synonyms: [ponder, ruminate, deliberate, contemplate, mull over]
+  antonyms: []
+  related: [cogitation]
+  etymology: From Latin cogitare "to think," the verb in Descartes's "cogito, ergo sum."
+  forms: [cogitated, cogitates, cogitating, cogitation]
+
+- word: cognizant
+  pos: adjective
+  ipa: /ˈkɑɡnɪzənt/
+  phonetic: KOG-nih-zunt
+  definition: Having knowledge or awareness of something.
+  synonyms: [aware, conscious, mindful, informed, apprised]
+  antonyms: [ignorant, unaware, oblivious]
+  related: [cognizance, cognition]
+  etymology: From Old French conoisance "knowledge," from Latin cognoscere "to get to know."
+  forms: [cognizance]
+
+- word: collusion
+  pos: noun
+  ipa: /kəˈluʒən/
+  phonetic: kuh-LOO-zhun
+  definition: Secret or illegal cooperation in order to cheat or deceive others.
+  synonyms: [conspiracy, complicity, connivance, intrigue, collaboration]
+  antonyms: [opposition]
+  related: [collude, collusive]
+  etymology: From Latin collusio, from colludere "to play together, act in collusion," from ludere "to play."
+  forms: [collude, colluded, colluding, collusive]
+
+- word: colloquial
+  pos: adjective
+  ipa: /kəˈloʊkwiəl/
+  phonetic: kuh-LOH-kwee-ul
+  definition: Used in ordinary or familiar conversation rather than formal or literary language.
+  synonyms: [informal, conversational, vernacular, idiomatic, everyday]
+  antonyms: [formal, literary, elevated]
+  related: [colloquialism, colloquially]
+  etymology: From Latin colloquium "conversation," from con- "together" + loqui "to speak."
+  forms: [colloquially, colloquialism, colloquialisms]
+
+- word: comely
+  pos: adjective
+  ipa: /ˈkʌmli/
+  phonetic: KUM-lee
+  definition: Pleasant to look at; attractive.
+  synonyms: [attractive, good-looking, handsome, fair, pretty]
+  antonyms: [unattractive, homely, plain]
+  related: [comeliness]
+  forms: [comeliness, comelier, comeliest]
+
+- word: commensurate
+  pos: adjective
+  ipa: /kəˈmɛnsərət/
+  phonetic: kuh-MEN-sur-it
+  definition: Corresponding in size, extent, or degree; proportionate.
+  synonyms: [proportionate, corresponding, equivalent, comparable, consistent]
+  antonyms: [disproportionate, incommensurate]
+  related: [commensurately]
+  etymology: From late Latin commensuratus, from com- "together" + mensurare "to measure."
+  forms: [commensurately]
+
+- word: complaisant
+  pos: adjective
+  ipa: /kəmˈpleɪsənt/
+  phonetic: kum-PLAY-sunt
+  definition: Willing to please others or to accept what they do without protest; obliging.
+  synonyms: [obliging, compliant, accommodating, acquiescent, amenable]
+  antonyms: [obstinate, recalcitrant, contrary]
+  related: [complaisance, complaisantly]
+  etymology: From French complaire "to please," from Latin complacere.
+  forms: [complaisance, complaisantly]
+
+- word: complement
+  pos: verb / noun
+  ipa: /ˈkɑmpləmənt/
+  phonetic: KOM-pluh-ment
+  definition: To add to something in a way that enhances or completes it; (noun) a thing that completes, or a full number.
+  synonyms: [complete, enhance, supplement, round off, counterpart]
+  antonyms: [clash with, detract from]
+  related: [complementary]
+  etymology: From Latin complementum "that which fills up," from complere "to fill up."
+  forms: [complemented, complements, complementing, complementary]
+
+- word: compunction
+  pos: noun
+  ipa: /kəmˈpʌŋkʃən/
+  phonetic: kum-PUNK-shun
+  definition: A feeling of guilt or moral scruple that prevents or follows wrongdoing.
+  synonyms: [scruple, qualm, remorse, misgiving, contrition]
+  antonyms: [shamelessness, indifference]
+  related: []
+  etymology: From Latin compunctio "a pricking (of conscience)," from compungere "to prick severely."
+  forms: [compunctions]
+
+- word: concede
+  pos: verb
+  ipa: /kənˈsid/
+  phonetic: kun-SEED
+  definition: To admit that something is true, often reluctantly; to surrender a right, point, or territory.
+  synonyms: [admit, acknowledge, grant, yield, cede]
+  antonyms: [deny, dispute, contest]
+  related: [concession]
+  etymology: From Latin concedere "to yield, give way," from con- + cedere "to go, yield."
+  forms: [conceded, concedes, conceding]
+
+- word: conceit
+  pos: noun
+  ipa: /kənˈsit/
+  phonetic: kun-SEET
+  definition: Excessive pride in oneself; a fanciful or ingenious idea or extended metaphor, especially in literature.
+  synonyms: [vanity, arrogance, egotism, narcissism, hubris]
+  antonyms: [humility, modesty, self-effacement]
+  related: [conceited]
+  etymology: Formed from "conceive" on the model of deceive/deceit; it originally meant "a thing conceived, a notion."
+  forms: [conceited, conceits]
+
+- word: concerted
+  pos: adjective
+  ipa: /kənˈsɜrtɪd/
+  phonetic: kun-SUR-tid
+  definition: Jointly arranged or carried out; done with determined, coordinated effort.
+  synonyms: [joint, coordinated, collaborative, united, combined]
+  antonyms: [individual, separate, uncoordinated]
+  related: [concert]
+  forms: [concertedly]
+
+- word: conciliate
+  pos: verb
+  ipa: /kənˈsɪliˌeɪt/
+  phonetic: kun-SIL-ee-ayt
+  definition: To stop someone from being angry or discontented; to placate or reconcile.
+  synonyms: [placate, appease, pacify, mollify, propitiate]
+  antonyms: [antagonize, provoke, alienate]
+  related: [conciliation, conciliatory]
+  etymology: From Latin conciliare "to bring together, win over," from concilium "council."
+  forms: [conciliated, conciliates, conciliating, conciliation, conciliatory]
+
+- word: concoct
+  pos: verb
+  ipa: /kənˈkɑkt/
+  phonetic: kun-KOKT
+  definition: To invent a story, excuse, or plan; to make a dish or drink by combining ingredients.
+  synonyms: [devise, fabricate, invent, contrive, cook up]
+  antonyms: []
+  related: [concoction]
+  etymology: From Latin concoquere "to cook together," from con- + coquere "to cook."
+  forms: [concocted, concocts, concocting, concoction]
+
+- word: concomitant
+  pos: adjective / noun
+  ipa: /kənˈkɑmɪtənt/
+  phonetic: kun-KOM-ih-tunt
+  definition: Naturally accompanying or associated; (noun) a phenomenon that naturally accompanies another.
+  synonyms: [attendant, accompanying, associated, concurrent, collateral]
+  antonyms: [unrelated, independent]
+  related: [concomitantly]
+  etymology: From Latin concomitari "to accompany," from con- + comes "companion."
+  forms: [concomitantly, concomitants]
+
+- word: concord
+  pos: noun
+  ipa: /ˈkɑnkɔrd/
+  phonetic: KON-kord
+  definition: Agreement or harmony between people or groups; a treaty.
+  synonyms: [harmony, accord, agreement, amity, unity]
+  antonyms: [discord, strife, conflict]
+  related: [concordance, concordant]
+  etymology: From Latin concordia, from concors "of one mind," from con- "together" + cor "heart."
+  lowercase_only: true
+
+- word: concur
+  pos: verb
+  ipa: /kənˈkɜr/
+  phonetic: kun-KUR
+  definition: To be of the same opinion; to agree; to happen at the same time.
+  synonyms: [agree, assent, accord, coincide, concede]
+  antonyms: [disagree, dissent, differ]
+  related: [concurrence, concurrent]
+  etymology: From Latin concurrere "to run together," from con- + currere "to run."
+  forms: [concurred, concurs, concurring, concurrence]
+
+- word: condescend
+  pos: verb
+  ipa: /ˌkɑndɪˈsɛnd/
+  phonetic: kon-dih-SEND
+  definition: To show feelings of superiority; to do something one regards as beneath one's dignity.
+  synonyms: [patronize, talk down to, deign, stoop, lower oneself]
+  antonyms: [respect, defer]
+  related: [condescension, condescending]
+  etymology: From Latin condescendere "to stoop," from con- + descendere "to descend."
+  forms: [condescended, condescends, condescending, condescendingly, condescension]
+
+- word: condone
+  pos: verb
+  ipa: /kənˈdoʊn/
+  phonetic: kun-DOHN
+  definition: To accept or allow behavior considered morally wrong or offensive; to overlook.
+  synonyms: [excuse, overlook, pardon, tolerate, disregard]
+  antonyms: [condemn, censure, denounce]
+  related: []
+  etymology: From Latin condonare "to give up, remit," from con- + donare "to give."
+  forms: [condoned, condones, condoning]
+
+- word: conducive
+  pos: adjective
+  ipa: /kənˈdusɪv/
+  phonetic: kun-DOO-siv
+  definition: Making a certain situation or outcome likely or possible; favorable to.
+  synonyms: [favorable, beneficial, helpful, advantageous, propitious]
+  antonyms: [detrimental, unfavorable, inimical]
+  related: [conduce]
+  etymology: From "conduce," from Latin conducere "to bring together, lead."
+
+- word: confidant
+  pos: noun
+  ipa: /ˈkɑnfɪˌdɑnt/
+  phonetic: KON-fih-dahnt
+  definition: A person with whom one shares secrets or private matters, trusting them not to repeat them.
+  synonyms: [intimate, confidante, close friend, crony, familiar]
+  antonyms: [stranger, enemy]
+  related: [confide, confidante]
+  etymology: From French confident, from Italian confidente, from Latin confidere "to trust."
+  forms: [confidants, confidante]
+
+- word: conflagration
+  pos: noun
+  ipa: /ˌkɑnfləˈɡreɪʃən/
+  phonetic: kon-fluh-GRAY-shun
+  definition: An extensive, destructive fire; a large-scale violent conflict.
+  synonyms: [inferno, blaze, fire, firestorm, holocaust]
+  antonyms: []
+  related: []
+  etymology: From Latin conflagratio, from conflagrare "to burn up," from con- + flagrare "to blaze."
+  forms: [conflagrations]
+
+- word: confound
+  pos: verb
+  ipa: /kənˈfaʊnd/
+  phonetic: kun-FOWND
+  definition: To cause surprise or confusion by acting against expectations; to prove wrong; to mix up.
+  synonyms: [baffle, perplex, bewilder, confuse, refute]
+  antonyms: [clarify, enlighten, confirm]
+  related: [confounding, confounded]
+  etymology: From Old French confondre, from Latin confundere "to pour together, mix up."
+  forms: [confounded, confounds, confounding]
+
+- word: congenial
+  pos: adjective
+  ipa: /kənˈdʒinjəl/
+  phonetic: kun-JEEN-yul
+  definition: Pleasant because suited to one's tastes; friendly and agreeable in nature.
+  synonyms: [agreeable, pleasant, amiable, compatible, genial]
+  antonyms: [disagreeable, uncongenial, hostile]
+  related: [congeniality]
+  etymology: From Latin con- "together" + genialis "of birth, genial," from genius "spirit."
+  forms: [congeniality, congenially]
+
+- word: congregate
+  pos: verb
+  ipa: /ˈkɑŋɡrɪˌɡeɪt/
+  phonetic: KONG-grih-gayt
+  definition: To gather into a crowd or mass.
+  synonyms: [assemble, gather, convene, cluster, flock]
+  antonyms: [disperse, scatter, disband]
+  related: [congregation]
+  etymology: From Latin congregare "to collect in a flock," from con- + grex "flock."
+  forms: [congregated, congregates, congregating]
+
+- word: conjecture
+  pos: noun / verb
+  ipa: /kənˈdʒɛktʃər/
+  phonetic: kun-JEK-chur
+  definition: An opinion or conclusion formed from incomplete information; (verb) to guess or speculate.
+  synonyms: [speculation, guess, supposition, surmise, hypothesis]
+  antonyms: [certainty, fact, proof]
+  related: [conjectural]
+  etymology: From Latin conjectura, from conicere "to throw together, infer."
+  forms: [conjectures, conjectured, conjecturing, conjectural]
+
+- word: connoisseur
+  pos: noun
+  ipa: /ˌkɑnəˈsɜr/
+  phonetic: kon-uh-SUR
+  definition: An expert judge in matters of taste, especially in the fine arts, food, or drink.
+  synonyms: [expert, aficionado, cognoscente, authority, gourmet]
+  antonyms: [amateur, philistine, novice]
+  related: [connoisseurship]
+  etymology: From obsolete French connoisseur "one who knows," from Latin cognoscere "to get to know."
+  forms: [connoisseurs, connoisseurship]
+
+- word: consecrate
+  pos: verb
+  ipa: /ˈkɑnsɪˌkreɪt/
+  phonetic: KON-sih-krayt
+  definition: To make or declare sacred; to dedicate formally to a purpose.
+  synonyms: [sanctify, hallow, bless, dedicate, devote]
+  antonyms: [desecrate, defile, profane]
+  related: [consecration]
+  etymology: From Latin consecrare, from con- + sacrare "to dedicate," from sacer "sacred."
+  forms: [consecrated, consecrates, consecrating, consecration]
+
+- word: consign
+  pos: verb
+  ipa: /kənˈsaɪn/
+  phonetic: kun-SYNE
+  definition: To deliver to someone's keeping; to relegate or banish to an unpleasant place or state.
+  synonyms: [relegate, entrust, commit, deliver, banish]
+  antonyms: [retrieve, keep]
+  related: [consignment]
+  etymology: From Latin consignare "to mark with a seal," from con- + signum "mark."
+  forms: [consigned, consigns, consigning]
+
+- word: consonant
+  pos: adjective
+  ipa: /ˈkɑnsənənt/
+  phonetic: KON-suh-nunt
+  definition: In agreement or harmony; consistent with; (noun) a speech sound that is not a vowel.
+  synonyms: [consistent, compatible, harmonious, in accord, congruous]
+  antonyms: [inconsistent, discordant, incongruous]
+  related: [consonance]
+  etymology: From Latin consonare "to sound together," from con- + sonare "to sound."
+
+- word: conspicuous
+  pos: adjective
+  ipa: /kənˈspɪkjuəs/
+  phonetic: kun-SPIK-yoo-us
+  definition: Standing out so as to be clearly visible; attracting notice or attention.
+  synonyms: [noticeable, prominent, obvious, salient, striking]
+  antonyms: [inconspicuous, unobtrusive, hidden]
+  related: [conspicuously]
+  etymology: From Latin conspicuus, from conspicere "to look at attentively."
+  forms: [conspicuously]
+
+- word: consternation
+  pos: noun
+  ipa: /ˌkɑnstərˈneɪʃən/
+  phonetic: kon-ster-NAY-shun
+  definition: Feelings of anxiety or dismay, typically at something unexpected.
+  synonyms: [dismay, alarm, anxiety, distress, perturbation]
+  antonyms: [composure, calm, equanimity]
+  related: []
+  etymology: From Latin consternatio, from consternare "to terrify, dismay."
+
+- word: constituent
+  pos: noun / adjective
+  ipa: /kənˈstɪtʃuənt/
+  phonetic: kun-STICH-oo-unt
+  definition: A component part of a whole; a voter in a district represented by an official; (adjective) forming part of a whole.
+  synonyms: [component, element, ingredient, voter, integral]
+  antonyms: [whole, aggregate]
+  related: [constituency, constitute]
+  forms: [constituents]
+
+- word: constrain
+  pos: verb
+  ipa: /kənˈstreɪn/
+  phonetic: kun-STRAYN
+  definition: To compel toward a course of action; to severely restrict the scope or extent of.
+  synonyms: [restrict, limit, curb, compel, force]
+  antonyms: [free, liberate, release]
+  related: [constraint]
+  etymology: From Old French constraindre, from Latin constringere "to bind tightly."
+  forms: [constrained, constrains, constraining]
+
+- word: construe
+  pos: verb
+  ipa: /kənˈstru/
+  phonetic: kun-STROO
+  definition: To interpret a word, action, or statement in a particular way.
+  synonyms: [interpret, understand, read, take, deduce]
+  antonyms: [misconstrue, misinterpret]
+  related: [construal, misconstrue]
+  etymology: From Latin construere "to build, construct," later "to analyze grammatically."
+  forms: [construed, construes, construing]
+
+- word: consummate
+  pos: adjective / verb
+  ipa: /ˈkɑnsəmət/
+  phonetic: KON-suh-mit
+  definition: Showing great skill and flair; complete or perfect; (verb, KON-suh-mayt) to complete or make perfect.
+  synonyms: [accomplished, masterly, supreme, polished, perfect]
+  antonyms: [inept, amateurish, incompetent]
+  related: [consummation, consummately]
+  etymology: From Latin consummare "to bring to completion," from con- + summa "sum, total."
+  forms: [consummately]
+
+- word: contemptuous
+  pos: adjective
+  ipa: /kənˈtɛmptʃuəs/
+  phonetic: kun-TEMP-choo-us
+  definition: Showing contempt; scornful and disdainful.
+  synonyms: [scornful, disdainful, derisive, sneering, supercilious]
+  antonyms: [respectful, admiring, deferential]
+  related: [contempt, contemptuously]
+  forms: [contemptuously]
+
+- word: contentious
+  pos: adjective
+  ipa: /kənˈtɛnʃəs/
+  phonetic: kun-TEN-shus
+  definition: Causing or likely to cause argument; controversial; (of a person) inclined to quarrel.
+  synonyms: [controversial, disputed, quarrelsome, argumentative, belligerent]
+  antonyms: [uncontroversial, agreeable, peaceable]
+  related: [contention, contentiousness]
+  etymology: From Latin contentiosus, from contentio "strife," from contendere "to strive."
+  forms: [contentiously, contentiousness]
+
+- word: contiguous
+  pos: adjective
+  ipa: /kənˈtɪɡjuəs/
+  phonetic: kun-TIG-yoo-us
+  definition: Sharing a common border; touching; next or together in sequence.
+  synonyms: [adjacent, adjoining, neighboring, abutting, bordering]
+  antonyms: [separate, distant, noncontiguous]
+  related: [contiguity, contiguously]
+  etymology: From Latin contiguus "touching," from contingere "to touch."
+  forms: [contiguously, contiguity]
+
+- word: contingent
+  pos: adjective / noun
+  ipa: /kənˈtɪndʒənt/
+  phonetic: kun-TIN-junt
+  definition: Dependent on something uncertain; occurring by chance; (noun) a group forming part of a larger body.
+  synonyms: [dependent, conditional, subject to, uncertain, provisional]
+  antonyms: [independent, unconditional, certain]
+  related: [contingency]
+  etymology: From Latin contingere "to befall, happen to," from con- + tangere "to touch."
+  forms: [contingently, contingents]
+
+- word: contravene
+  pos: verb
+  ipa: /ˌkɑntrəˈvin/
+  phonetic: kon-truh-VEEN
+  definition: To violate a law, treaty, or code of conduct; to conflict with a right or principle.
+  synonyms: [violate, breach, infringe, flout, transgress]
+  antonyms: [obey, comply with, uphold]
+  related: [contravention]
+  etymology: From late Latin contravenire, from contra "against" + venire "to come."
+  forms: [contravened, contravenes, contravening, contravention]
+
+- word: contrite
+  pos: adjective
+  ipa: /kənˈtraɪt/
+  phonetic: kun-TRYTE
+  definition: Feeling or expressing remorse at the recognition of having done wrong.
+  synonyms: [remorseful, penitent, repentant, apologetic, rueful]
+  antonyms: [unrepentant, impenitent, remorseless]
+  related: [contrition, contritely]
+  etymology: From Latin contritus "ground to pieces," from conterere "to grind, wear away."
+  forms: [contritely]
+
+- word: contrition
+  pos: noun
+  ipa: /kənˈtrɪʃən/
+  phonetic: kun-TRISH-un
+  definition: The state of feeling remorseful and penitent; sincere regret for wrongdoing.
+  synonyms: [remorse, penitence, repentance, regret, compunction]
+  antonyms: [impenitence, defiance]
+  related: [contrite]
+  etymology: From Latin contritio "grinding," from conterere "to grind," used figuratively of a heart broken by sin.
+
+- word: contrive
+  pos: verb
+  ipa: /kənˈtraɪv/
+  phonetic: kun-TRYVE
+  definition: To create or bring about by deliberate, often clever or artful use of skill; to manage despite difficulty.
+  synonyms: [devise, engineer, orchestrate, concoct, manage]
+  antonyms: []
+  related: [contrivance, contrived]
+  etymology: From Old French controver "to find, invent."
+  forms: [contrived, contrives, contriving, contrivance]
+
+- word: conundrum
+  pos: noun
+  ipa: /kəˈnʌndrəm/
+  phonetic: kuh-NUN-drum
+  definition: A confusing and difficult problem or question; a riddle whose answer involves a pun.
+  synonyms: [puzzle, enigma, dilemma, quandary, riddle]
+  antonyms: [solution, answer]
+  related: []
+  forms: [conundrums]
+
+- word: convene
+  pos: verb
+  ipa: /kənˈvin/
+  phonetic: kun-VEEN
+  definition: To come or bring together for a meeting or activity; to assemble.
+  synonyms: [assemble, convoke, summon, gather, congregate]
+  antonyms: [adjourn, disperse, dismiss]
+  related: [convention]
+  etymology: From Latin convenire "to come together," from con- + venire "to come."
+  forms: [convened, convenes, convening]
