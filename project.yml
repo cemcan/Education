@@ -68,3 +68,17 @@ targets:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.cemcan.grevocab.widget
         TARGETED_DEVICE_FAMILY: "1"
+
+# One shared scheme that runs the app (with the widget embedded), so Xcode
+# never defaults to launching the widget extension on its own.
+schemes:
+  GREVocab:
+    build:
+      targets:
+        GREVocab: all
+        GREVocabWidget: all
+    run:
+      config: Debug
+      executable: GREVocab
+    archive:
+      config: Release
