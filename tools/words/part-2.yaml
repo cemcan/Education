@@ -63,6 +63,7 @@ words:
   antonyms: [relieve, liberate]
   related: [siege, besieger]
   forms: [besieged, besieges, besieging]
+  exclude: ["a rabble of muscular Egyptians and Arabs"]
 
 - word: besmirch
   pos: verb
@@ -74,16 +75,7 @@ words:
   related: []
   etymology: From be- + "smirch" "to soil, stain."
   forms: [besmirched, besmirches, besmirching]
-
-- word: bestow
-  pos: verb
-  ipa: /bɪˈstoʊ/
-  phonetic: bih-STOH
-  definition: To confer or present an honor, right, or gift.
-  synonyms: [confer, grant, award, present, accord]
-  antonyms: [withhold, withdraw, revoke]
-  related: [bestowal]
-  forms: [bestowed, bestows, bestowing, bestowal]
+  exclude: ["How pleasant 'tis on Sabbath morn"]
 
 - word: blandishment
   pos: noun
@@ -148,6 +140,7 @@ words:
   antonyms: [humility, restraint]
   related: [blustery, blusterer]
   forms: [blustered, blusters, blustering]
+  exclude: ["blustered about as if to enhance"]
 
 - word: boisterous
   pos: adjective
@@ -189,17 +182,7 @@ words:
   antonyms: []
   related: [brag]
   forms: [braggarts]
-
-- word: brandish
-  pos: verb
-  ipa: /ˈbrændɪʃ/
-  phonetic: BRAN-dish
-  definition: To wave or flourish something, especially a weapon, as a threat or in excitement.
-  synonyms: [wave, flourish, wield, flaunt, display]
-  antonyms: [conceal, hide]
-  related: []
-  etymology: From Old French brandir, from brand "sword blade."
-  forms: [brandished, brandishes, brandishing]
+  exclude: ["an old Nobodaddy was in his cups"]
 
 - word: bravado
   pos: noun
@@ -285,6 +268,7 @@ words:
   related: []
   etymology: From Middle Dutch bolwerc, probably from bole "tree trunk, plank" + werc "work."
   forms: [bulwarks]
+  exclude: ["leaned over the ship's bulwarks"]
 
 - word: burnish
   pos: verb
@@ -362,17 +346,6 @@ words:
   etymology: From Latin callosus "hard-skinned," from callum "hardened skin."
   forms: [callously, callousness]
 
-- word: callow
-  pos: adjective
-  ipa: /ˈkæloʊ/
-  phonetic: KAL-oh
-  definition: Inexperienced and immature, especially of a young person.
-  synonyms: [immature, inexperienced, green, naive, unsophisticated]
-  antonyms: [mature, experienced, sophisticated]
-  related: [callowness]
-  etymology: From Old English calu "bald"; it once described unfledged young birds without feathers.
-  forms: [callowness]
-
 - word: calumny
   pos: noun
   ipa: /ˈkæləmni/
@@ -405,6 +378,8 @@ words:
   related: [candid]
   etymology: From Latin candor "whiteness, purity, sincerity," from candere "to shine."
   forms: [candour]
+  exclude: ["Jim Candor, senior forecaster"]
+  lowercase_only: true
 
 - word: canny
   pos: adjective
@@ -416,6 +391,7 @@ words:
   related: [cannily, canniness]
   etymology: A Scottish formation from "can" in the sense "know how."
   forms: [cannily, canniness, cannier, canniest]
+  exclude: ["It's no canny to run frae London"]
 
 - word: captious
   pos: adjective
@@ -470,17 +446,7 @@ words:
   antonyms: [qualified, equivocal, tentative]
   related: [categorically]
   forms: [categorically]
-
-- word: cavalier
-  pos: adjective
-  ipa: /ˌkævəˈlɪr/
-  phonetic: kav-uh-LEER
-  definition: Showing a lack of proper concern; offhand, disdainful, or arrogantly dismissive.
-  synonyms: [offhand, nonchalant, dismissive, casual, supercilious]
-  antonyms: [careful, conscientious, serious]
-  related: [cavalierly]
-  etymology: From Italian cavaliere "horseman, knight," from Latin caballus "horse."
-  forms: [cavalierly]
+  exclude: ["the categorical grant programs"]
 
 - word: cavil
   pos: verb / noun
@@ -492,6 +458,8 @@ words:
   related: [caviler]
   etymology: From Latin cavillari "to jeer, quibble."
   forms: [caviled, cavilled, cavils, caviling, cavilling]
+  exclude: ["Mr Cavil and Mr Sometimes Godly"]
+  lowercase_only: true
 
 - word: cede
   pos: verb
@@ -557,6 +525,8 @@ words:
   related: [charlatanism]
   etymology: From Italian ciarlatano, from ciarlare "to babble, chatter."
   forms: [charlatans, charlatanism]
+  exclude: ["include The Charlatans, Marilyn", "'Is woman a human being?"]
+  lowercase_only: true
 
 - word: chary
   pos: adjective
@@ -590,6 +560,7 @@ words:
   related: []
   etymology: From Old English cidan "to quarrel, complain."
   forms: [chided, chides, chiding]
+  exclude: ["the baldpink lollard costard"]
 
 - word: chimera
   pos: noun
@@ -644,6 +615,8 @@ words:
   related: [circumlocutory]
   etymology: From Latin circumlocutio, from circum "around" + loqui "to speak."
   forms: [circumlocutions, circumlocutory]
+  exclude: ["in the Circumlocution Office"]
+  lowercase_only: true
 
 - word: circumscribe
   pos: verb
@@ -677,17 +650,6 @@ words:
   related: [circumvention]
   etymology: From Latin circumvenire, from circum "around" + venire "to come."
   forms: [circumvented, circumvents, circumventing, circumvention]
-
-- word: clamor
-  pos: noun / verb
-  ipa: /ˈklæmər/
-  phonetic: KLAM-er
-  definition: A loud and confused noise, especially of people shouting; a vehement public demand; (verb) to demand insistently.
-  synonyms: [uproar, din, outcry, tumult, hubbub]
-  antonyms: [silence, quiet, calm]
-  related: [clamorous]
-  etymology: From Latin clamor "a shout," from clamare "to cry out."
-  forms: [clamored, clamoring, clamors, clamour, clamorous]
 
 - word: clandestine
   pos: adjective
@@ -775,16 +737,7 @@ words:
   related: [colloquialism, colloquially]
   etymology: From Latin colloquium "conversation," from con- "together" + loqui "to speak."
   forms: [colloquially, colloquialism, colloquialisms]
-
-- word: comely
-  pos: adjective
-  ipa: /ˈkʌmli/
-  phonetic: KUM-lee
-  definition: Pleasant to look at; attractive.
-  synonyms: [attractive, good-looking, handsome, fair, pretty]
-  antonyms: [unattractive, homely, plain]
-  related: [comeliness]
-  forms: [comeliness, comelier, comeliest]
+  exclude: ["a colloquial brawl over paying"]
 
 - word: commensurate
   pos: adjective
@@ -959,6 +912,7 @@ words:
   related: [confide, confidante]
   etymology: From French confident, from Italian confidente, from Latin confidere "to trust."
   forms: [confidants, confidante]
+  exclude: ["second lieutenant of H.M.S."]
 
 - word: conflagration
   pos: noun
@@ -981,6 +935,7 @@ words:
   related: [confounding, confounded]
   etymology: From Old French confondre, from Latin confundere "to pour together, mix up."
   forms: [confounded, confounds, confounding]
+  exclude: ["Some confounded fact we men"]
 
 - word: congenial
   pos: adjective
@@ -992,17 +947,6 @@ words:
   related: [congeniality]
   etymology: From Latin con- "together" + genialis "of birth, genial," from genius "spirit."
   forms: [congeniality, congenially]
-
-- word: congregate
-  pos: verb
-  ipa: /ˈkɑŋɡrɪˌɡeɪt/
-  phonetic: KONG-grih-gayt
-  definition: To gather into a crowd or mass.
-  synonyms: [assemble, gather, convene, cluster, flock]
-  antonyms: [disperse, scatter, disband]
-  related: [congregation]
-  etymology: From Latin congregare "to collect in a flock," from con- + grex "flock."
-  forms: [congregated, congregates, congregating]
 
 - word: conjecture
   pos: noun / verb
@@ -1047,6 +991,7 @@ words:
   related: [consignment]
   etymology: From Latin consignare "to mark with a seal," from con- + signum "mark."
   forms: [consigned, consigns, consigning]
+  exclude: ["I will fight and effort to shut off"]
 
 - word: consonant
   pos: adjective
@@ -1196,6 +1141,7 @@ words:
   antonyms: [impenitence, defiance]
   related: [contrite]
   etymology: From Latin contritio "grinding," from conterere "to grind," used figuratively of a heart broken by sin.
+  exclude: ["statement of contrition,which"]
 
 - word: contrive
   pos: verb
@@ -1217,6 +1163,7 @@ words:
   antonyms: [solution, answer]
   related: []
   forms: [conundrums]
+  exclude: ["Squatted on the verandah chewing"]
 
 - word: convene
   pos: verb

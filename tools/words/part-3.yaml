@@ -22,17 +22,6 @@ words:
   etymology: From Latin copiosus, from copia "abundance" (compare "cornucopia").
   forms: [copiously]
 
-- word: cordial
-  pos: adjective
-  ipa: /ˈkɔrdʒəl/
-  phonetic: KOR-jul
-  definition: Warm, friendly, and polite; heartfelt.
-  synonyms: [warm, friendly, genial, amiable, gracious]
-  antonyms: [hostile, cold, unfriendly]
-  related: [cordiality, cordially]
-  etymology: From Medieval Latin cordialis "of the heart," from Latin cor, cord- "heart."
-  forms: [cordially, cordiality]
-
 - word: corollary
   pos: noun
   ipa: /ˈkɔrəˌlɛri/
@@ -100,28 +89,6 @@ words:
   etymology: From Old French contenance "bearing, behavior," from Latin continentia "restraint," from continere "to hold together."
   forms: [countenanced, countenances, countenancing]
 
-- word: covert
-  pos: adjective
-  ipa: /ˈkoʊvərt/
-  phonetic: KOH-vurt
-  definition: Not openly acknowledged or displayed; secret.
-  synonyms: [secret, clandestine, surreptitious, furtive, hidden]
-  antonyms: [overt, open, public]
-  related: [covertly]
-  etymology: From Old French covert "covered," past participle of covrir "to cover."
-  forms: [covertly]
-
-- word: coy
-  pos: adjective
-  ipa: /kɔɪ/
-  phonetic: KOY
-  definition: Pretending to be shy or modest, often flirtatiously; reluctant to give details about something.
-  synonyms: [demure, arch, bashful, evasive, reticent]
-  antonyms: [forward, brazen, candid]
-  related: [coyly, coyness]
-  etymology: From Old French coi "quiet, still," from Latin quietus "at rest."
-  forms: [coyly, coyness]
-
 - word: craven
   pos: adjective
   ipa: /ˈkreɪvən/
@@ -131,6 +98,8 @@ words:
   antonyms: [brave, courageous, valiant]
   related: [cravenly, cravenness]
   forms: [cravenly]
+  lowercase_only: true
+  exclude: ["with Wes Craven's horror movie", "enough to aband on our ideals", "A craven who abandoned"]
 
 - word: credence
   pos: noun
@@ -141,6 +110,7 @@ words:
   antonyms: [disbelief, doubt, skepticism]
   related: [credible, credulous]
   etymology: From Medieval Latin credentia, from Latin credere "to believe."
+  exclude: ["I am that Merlin who the legends say"]
 
 - word: crestfallen
   pos: adjective
@@ -206,6 +176,8 @@ words:
   related: [daunt, undaunted]
   etymology: From daunt (Old French danter, from Latin domitare "to tame") + -less.
   forms: [dauntlessly]
+  exclude: ["took notes for the Dauntless"]
+  lowercase_only: true
 
 - word: debase
   pos: verb
@@ -315,6 +287,7 @@ words:
   related: [defilement]
   etymology: From Old French defouler "to trample down," influenced by the obsolete English befile "to make foul."
   forms: [defiled, defiles, defiling]
+  exclude: ["were defiling through the town of Enns"]
 
 - word: deft
   pos: adjective
@@ -554,6 +527,7 @@ words:
   related: [desolation]
   etymology: From Latin desolatus, past participle of desolare "to abandon," from de- + solus "alone."
   forms: [desolation]
+  exclude: ["an desolate"]
 
 - word: despondent
   pos: adjective
@@ -653,17 +627,6 @@ words:
   etymology: From Latin digredi "to step away," from dis- "aside" + gradi "to step."
   forms: [digressed, digresses, digressing, digression]
 
-- word: dilapidated
-  pos: adjective
-  ipa: /dɪˈlæpɪdeɪtɪd/
-  phonetic: dih-LAP-ih-day-tid
-  definition: In a state of disrepair or ruin as a result of age or neglect.
-  synonyms: [decrepit, ramshackle, run-down, derelict, crumbling]
-  antonyms: [pristine, well-maintained, renovated]
-  related: [dilapidation]
-  etymology: From Latin dilapidare "to scatter, squander," literally "to pelt with stones," from lapis "stone."
-  forms: [dilapidation]
-
 - word: dilate
   pos: verb
   ipa: /daɪˈleɪt/
@@ -674,6 +637,7 @@ words:
   related: [dilation]
   etymology: From Latin dilatare "to spread out," from dis- "apart" + latus "wide."
   forms: [dilated, dilates, dilating]
+  exclude: ["into which Andrea had been led"]
 
 - word: dilatory
   pos: adjective
@@ -694,17 +658,6 @@ words:
   antonyms: [huge, enormous, gigantic]
   related: [diminish]
   etymology: From Latin diminutivus, from deminuere "to lessen."
-
-- word: dirge
-  pos: noun
-  ipa: /dɜrdʒ/
-  phonetic: DURJ
-  definition: A mournful song or lament for the dead.
-  synonyms: [lament, elegy, requiem, threnody, keen]
-  antonyms: []
-  related: []
-  etymology: From Latin dirige "direct!", the first word of an antiphon in the Office for the Dead.
-  forms: [dirges]
 
 - word: disabuse
   pos: verb
@@ -814,6 +767,7 @@ words:
   related: [discretion, discreetly]
   etymology: From Medieval Latin discretus "discerning," from Latin discernere "to separate, distinguish"; "discrete" is the same word with a different spelling.
   forms: [discreetly]
+  exclude: ["store them as discreet blocks"]
 
 - word: discrepancy
   pos: noun
@@ -866,6 +820,7 @@ words:
   antonyms: [biased, partial, partisan]
   related: [disinterest, disinterestedly]
   forms: [disinterestedly, disinterestedness]
+  exclude: ["nibbled disinterestedly at the algae"]
 
 - word: disjointed
   pos: adjective
@@ -950,6 +905,7 @@ words:
   related: [dissipation, dissipated]
   etymology: From Latin dissipare "to scatter."
   forms: [dissipated, dissipates, dissipating]
+  exclude: ["led a dissipated life"]
 
 - word: dissolute
   pos: adjective
@@ -1079,17 +1035,6 @@ words:
   etymology: From Dutch domineren, from French dominer, from Latin dominari "to rule."
   forms: [domineer]
 
-- word: dour
-  pos: adjective
-  ipa: /dʊr/
-  phonetic: DOOR
-  definition: Relentlessly severe, stern, or gloomy in manner or appearance.
-  synonyms: [stern, severe, sullen, gloomy, morose]
-  antonyms: [cheerful, genial, jovial]
-  related: [dourly, dourness]
-  etymology: Probably from Latin durus "hard," by way of Scots.
-  forms: [dourly, dourness]
-
 - word: duplicity
   pos: noun
   ipa: /duˈplɪsɪti/
@@ -1100,17 +1045,6 @@ words:
   related: [duplicitous]
   etymology: From Late Latin duplicitas "doubleness," from duplex "twofold."
   forms: [duplicitous]
-
-- word: earnest
-  pos: adjective
-  ipa: /ˈɜrnɪst/
-  phonetic: UR-nist
-  definition: Resulting from or showing sincere and intense conviction; serious.
-  synonyms: [sincere, serious, solemn, zealous, ardent]
-  antonyms: [frivolous, flippant, insincere]
-  related: [earnestly, earnestness]
-  etymology: From Old English eornost "seriousness, zeal."
-  forms: [earnestly, earnestness]
 
 - word: ebb
   pos: noun / verb
@@ -1188,6 +1122,7 @@ words:
   related: [egregiously]
   etymology: From Latin egregius "standing out from the flock, distinguished," from ex- "out" + grex "flock"; the negative sense developed in the 16th century.
   forms: [egregiously]
+  exclude: ["on an egregious scale", "Egregious persons"]
 
 - word: elicit
   pos: verb
@@ -1210,17 +1145,6 @@ words:
   related: [elucidation]
   etymology: From Late Latin elucidare "to make light," from ex- + lucidus "bright."
   forms: [elucidated, elucidates, elucidating, elucidation]
-
-- word: elude
-  pos: verb
-  ipa: /ɪˈlud/
-  phonetic: ih-LOOD
-  definition: To escape from or avoid skillfully; to fail to be grasped or remembered by.
-  synonyms: [evade, escape, dodge, avoid, baffle]
-  antonyms: [confront, face]
-  related: [elusive, elusion]
-  etymology: From Latin eludere "to escape by trickery," from ex- "out" + ludere "to play."
-  forms: [eluded, eludes, eluding]
 
 - word: elusive
   pos: adjective

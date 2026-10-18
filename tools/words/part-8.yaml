@@ -86,6 +86,7 @@ words:
   related: [stridency, stridently]
   etymology: From Latin stridere "to creak, make a harsh noise."
   forms: [stridently, stridency]
+  exclude: ["(In strident discord peasants"]
 
 - word: stupefy
   pos: verb
@@ -196,6 +197,7 @@ words:
   related: [subversion, subvert, subversively]
   etymology: From Latin subvertere "to overturn," from sub- "from below" + vertere "to turn."
   forms: [subversives, subversively, subversiveness]
+  exclude: ["knows it to be,(1))"]
 
 - word: succor
   pos: noun / verb
@@ -218,17 +220,6 @@ words:
   related: [suffusion]
   etymology: From Latin suffundere "to pour beneath," from sub- "under" + fundere "to pour."
   forms: [suffused, suffuses, suffusing, suffusion]
-
-- word: sullen
-  pos: adjective
-  ipa: /ˈsʌlən/
-  phonetic: SUL-un
-  definition: Bad-tempered and sulky; gloomy and silent from resentment.
-  synonyms: [sulky, morose, surly, glum, sour]
-  antonyms: [cheerful, genial, sunny]
-  related: [sullenly, sullenness]
-  etymology: From Anglo-French sulein "solitary," from Latin solus "alone."
-  forms: [sullenly, sullenness]
 
 - word: sumptuous
   pos: adjective
@@ -373,16 +364,6 @@ words:
   etymology: From Latin surrogare "to elect as a substitute," from sub- "in place of" + rogare "to ask."
   forms: [surrogates]
 
-- word: swagger
-  pos: verb / noun
-  ipa: /ˈswæɡər/
-  phonetic: SWAG-ur
-  definition: To walk or behave in a very confident, arrogant way; such a gait or manner.
-  synonyms: [strut, swank, bluster, parade, boast]
-  antonyms: [cower, slink]
-  related: [swaggering, swaggerer]
-  forms: [swaggered, swaggers, swaggering]
-
 - word: tacit
   pos: adjective
   ipa: /ˈtæsɪt/
@@ -393,16 +374,6 @@ words:
   related: [tacitly, taciturn]
   etymology: From Latin tacitus "silent," from tacere "to be silent."
   forms: [tacitly]
-
-- word: taint
-  pos: verb / noun
-  ipa: /teɪnt/
-  phonetic: TAYNT
-  definition: To contaminate or pollute; to affect with a bad or undesirable quality; a trace of something bad.
-  synonyms: [contaminate, sully, tarnish, corrupt, blemish]
-  antonyms: [purify, cleanse]
-  related: [untainted]
-  forms: [tainted, taints, tainting]
 
 - word: tantamount
   pos: adjective
@@ -445,6 +416,7 @@ words:
   antonyms: [intemperance, excess, indulgence]
   related: [temperate, intemperance]
   etymology: From Latin temperantia "moderation," from temperare "to restrain, mix in due proportion."
+  exclude: ["Dull business by day, land agents"]
 
 - word: temperate
   pos: adjective
@@ -543,6 +515,8 @@ words:
   related: [torridly]
   etymology: From Latin torridus, from torrere "to parch, scorch."
   forms: [torridly]
+  exclude: ["heart of the Torrid Zone"]
+  lowercase_only: true
 
 - word: tortuous
   pos: adjective
@@ -587,6 +561,7 @@ words:
   related: [transience, transiently]
   etymology: From Latin transire "to go across," from trans- "across" + ire "to go."
   forms: [transience, transiently, transients]
+  exclude: ["There are passions, transient, fleeting"]
 
 - word: transitory
   pos: adjective
@@ -642,16 +617,6 @@ words:
   related: []
   etymology: From Latin trepidatio, from trepidare "to be agitated, tremble."
 
-- word: trifling
-  pos: adjective
-  ipa: /ˈtraɪflɪŋ/
-  phonetic: TRY-fling
-  definition: Unimportant or trivial; of small value or amount.
-  synonyms: [trivial, petty, insignificant, negligible, paltry]
-  antonyms: [important, significant, momentous]
-  related: [trifle]
-  forms: [triflingly]
-
 - word: truancy
   pos: noun
   ipa: /ˈtruənsi/
@@ -682,6 +647,7 @@ words:
   antonyms: [overt, obvious, declared]
   related: []
   etymology: From Latin ulterior "farther," comparative of ulter "beyond."
+  exclude: ["engrossing object of—HEEP—was"]
 
 - word: unabashed
   pos: adjective
@@ -857,6 +823,7 @@ words:
   related: [tenable, untenability]
   etymology: From un- "not" + "tenable," from French tenir "to hold," from Latin tenere.
   forms: [untenability]
+  exclude: ["betrayed into a warmth which,"]
 
 - word: unwarranted
   pos: adjective
@@ -920,6 +887,7 @@ words:
   related: [usurpation, usurper]
   etymology: From Latin usurpare "to seize for use," probably from usus "use" + rapere "to seize."
   forms: [usurped, usurps, usurping, usurpation, usurper]
+  exclude: ["whose name denotes their number,(3)"]
 
 - word: utilitarian
   pos: adjective / noun
@@ -1172,6 +1140,7 @@ words:
   related: [wantonly, wantonness]
   etymology: From Middle English wantowen "undisciplined," from wan- "not" + towen "trained, brought up."
   forms: [wantonly, wantonness]
+  exclude: ["the free, wanton, lightsome solitude", "The wanton ate grass"]
 
 - word: wily
   pos: adjective
@@ -1193,6 +1162,7 @@ words:
   related: [winsomely, winsomeness]
   etymology: From Old English wynsum "pleasant," from wynn "joy."
   forms: [winsomely, winsomeness]
+  exclude: ["With many a fanciful conceit, Fair Lady"]
 
 - word: wistful
   pos: adjective
@@ -1224,6 +1194,8 @@ words:
   antonyms: [nadir, low point, bottom]
   related: []
   etymology: From Arabic samt ar-ra's "path over the head," via Medieval Latin cenit, a misreading of samt.
+  exclude: ["Zenith Laboratories Inc said", "Zenith Foundry Company"]
+  lowercase_only: true
 
 - word: zephyr
   pos: noun
@@ -1235,3 +1207,5 @@ words:
   related: []
   etymology: From Greek Zephyros, the god of the west wind.
   forms: [zephyrs]
+  exclude: ["unveiling the Fusion and Zephyr models"]
+  lowercase_only: true

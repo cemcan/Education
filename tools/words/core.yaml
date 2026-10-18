@@ -231,6 +231,8 @@ words:
   related: [caprice, capriciously]
   etymology: From Italian capriccio "a sudden start," popularly linked with capra "goat," as if moving with a goat's unpredictable leaps.
   forms: [caprice, capriciously, capriciousness]
+  exclude: ["Model Caprice and Holby City"]
+  lowercase_only: true
 
 - word: castigate
   pos: verb
@@ -538,16 +540,6 @@ words:
   etymology: From Latin eruditus "instructed," from erudire "to polish," literally "to bring out of roughness," from e- "out" + rudis "rough, untrained" (compare "rude").
   forms: [erudition]
 
-- word: esoteric
-  pos: adjective
-  ipa: /ˌɛsəˈtɛrɪk/
-  phonetic: es-uh-TAIR-ik
-  definition: Intended for or likely to be understood by only a small number of people with specialized knowledge.
-  synonyms: [abstruse, arcane, obscure, recondite, cryptic]
-  antonyms: [common, accessible, exoteric]
-  related: [esoterica]
-  etymology: From Greek esōterikos "belonging to an inner circle," from esōterō "further in." First applied to Pythagorean teaching meant for initiates.
-
 - word: exacerbate
   pos: verb
   ipa: /ɪɡˈzæsərbeɪt/
@@ -636,6 +628,7 @@ words:
   related: [guileless, beguile]
   etymology: From Old French guile "deceit," probably of Germanic origin, related to "wile."
   forms: [guileless]
+  exclude: ["queer-looking Israelites not altogether", "A great soul once was in that body small"]
 
 - word: harangue
   pos: noun / verb
@@ -680,6 +673,7 @@ words:
   related: [incongruity]
   etymology: From Latin incongruus, from in- "not" + congruus "agreeing."
   forms: [incongruity, incongruities]
+  exclude: ["it's the mismatch"]
 
 - word: indolent
   pos: adjective
@@ -826,7 +820,7 @@ words:
   related: [lucidity, lucidly]
   etymology: From Latin lucidus "bright," from lux "light."
   forms: [lucidity, lucidly]
-  exclude: ["he lucidly pursued"]
+  exclude: ["he lucidly pursued", "like a lucid dream", "aid to lucidity"]
 
 - word: magnanimous
   pos: adjective
@@ -1244,6 +1238,7 @@ words:
   related: [stoicism, stoical]
   etymology: From Greek Stōikos, from Stoa Poikilē, the "Painted Porch" in Athens where Zeno of Citium taught his philosophy around 300 BC.
   forms: [stoical, stoicism, stoically]
+  exclude: ["as was the stoicism of the ancients"]
 
 - word: sycophant
   pos: noun

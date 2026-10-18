@@ -31,6 +31,7 @@ words:
   antonyms: [real, genuine, actual]
   related: [illusion, illusive]
   etymology: From Latin illusorius "mocking," from illudere "to mock," from in- "against" + ludere "to play."
+  exclude: ["give me an adiction"]
 
 - word: imbibe
   pos: verb
@@ -64,6 +65,8 @@ words:
   related: [immaculately]
   etymology: From Latin immaculatus "unstained," from in- "not" + maculatus "spotted," from macula "spot."
   forms: [immaculately]
+  lowercase_only: true
+  exclude: ["Murillo's Immaculate Conception", "immaculate fifty-three"]
 
 - word: immutable
   pos: adjective
@@ -107,6 +110,7 @@ words:
   related: [impede]
   etymology: From Latin impedimentum, from impedire "to shackle the feet," from in- "in" + pes, ped- "foot."
   forms: [impediments]
+  exclude: ["with impediment: with suggestion"]
 
 - word: impending
   pos: adjective
@@ -128,6 +132,7 @@ words:
   related: [imperiously, imperiousness]
   etymology: From Latin imperiosus "commanding," from imperium "command, empire."
   forms: [imperiously, imperiousness]
+  exclude: ["How imperious, then, is the obligation"]
 
 - word: impertinent
   pos: adjective
@@ -322,6 +327,7 @@ words:
   related: []
   etymology: From Latin incendere "to set on fire," the same source as the noun "incense" for fragrant smoke.
   forms: [incensed, incenses, incensing]
+  exclude: ["aromatic hardened wood resin", "connection between incense and the devotional", "the incense from"]
 
 - word: incessant
   pos: adjective
@@ -690,6 +696,7 @@ words:
   related: [insinuation]
   etymology: From Latin insinuare "to bring in by winding," from in- "in" + sinus "curve, fold."
   forms: [insinuated, insinuates, insinuating, insinuation]
+  exclude: ["take great offence at the insinuation"]
 
 - word: insolent
   pos: adjective
@@ -712,6 +719,8 @@ words:
   related: [insularity]
   etymology: From Late Latin insularis, from insula "island."
   forms: [insularity]
+  exclude: ["Interior and Insular Affairs"]
+  lowercase_only: true
 
 - word: insurmountable
   pos: adjective
@@ -798,6 +807,7 @@ words:
   antonyms: [sensitize, soften]
   related: []
   forms: [inured, inures, inuring]
+  exclude: ["its benefits inured to particular"]
 
 - word: invective
   pos: noun
@@ -948,6 +958,7 @@ words:
   antonyms: [enthusiastic, eager, fresh]
   related: []
   forms: []
+  exclude: ["jaded white flagon H. halted"]
 
 - word: jocular
   pos: adjective
@@ -980,6 +991,7 @@ words:
   antonyms: [criticism, censure, disgrace]
   related: []
   etymology: From Greek kudos "glory, renown"; it is singular in origin, though often treated as plural.
+  exclude: ["not merely for the kudos of the thing"]
 
 - word: lackadaisical
   pos: adjective
@@ -1066,6 +1078,8 @@ words:
   related: [libertinism]
   etymology: From Latin libertinus "freedman," from libertus "made free," from liber "free."
   forms: [libertines, libertinism]
+  lowercase_only: true
+  exclude: ["The former Libertines singer", "stinking goat of Mendes"]
 
 - word: licentious
   pos: adjective
@@ -1118,16 +1132,7 @@ words:
   antonyms: [eager, willing, keen]
   related: [loathe]
   etymology: From Old English lath "hostile, hateful."
-
-- word: lofty
-  pos: adjective
-  ipa: /ˈlɔfti/
-  phonetic: LAWF-tee
-  definition: Of imposing height; noble or elevated in character; haughty and aloof.
-  synonyms: [elevated, exalted, noble, haughty, towering]
-  antonyms: [lowly, base, humble]
-  related: [loftily, loftiness]
-  forms: [loftier, loftiest, loftily, loftiness]
+  exclude: ["I'll be loath for ye t' go"]
 
 - word: ludicrous
   pos: adjective
@@ -1150,16 +1155,6 @@ words:
   related: [lugubriously]
   etymology: From Latin lugubris "mournful," from lugere "to mourn."
   forms: [lugubriously]
-
-- word: lull
-  pos: verb / noun
-  ipa: /lʌl/
-  phonetic: LUL
-  definition: To calm or send to sleep; to give a false sense of security; a temporary interval of quiet or lack of activity.
-  synonyms: [soothe, calm, pacify, respite, pause]
-  antonyms: [agitate, rouse, disturb]
-  related: []
-  forms: [lulled, lulls, lulling]
 
 - word: lurid
   pos: adjective

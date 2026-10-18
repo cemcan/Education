@@ -11,17 +11,6 @@ words:
   etymology: From Latin emaciare "to make thin," from e- "out" + macies "thinness."
   forms: [emaciation]
 
-- word: embellish
-  pos: verb
-  ipa: /ɪmˈbɛlɪʃ/
-  phonetic: em-BEL-ish
-  definition: To make more attractive by adding decorative details; to add fictitious or exaggerated details to a story.
-  synonyms: [adorn, decorate, ornament, embroider, exaggerate]
-  antonyms: [simplify, strip, understate]
-  related: [embellishment]
-  etymology: From Old French embellir "to make beautiful," from bel "beautiful," from Latin bellus.
-  forms: [embellished, embellishes, embellishing, embellishment, embellishments]
-
 - word: embroil
   pos: verb
   ipa: /ɛmˈbrɔɪl/
@@ -33,17 +22,6 @@ words:
   etymology: From French embrouiller "to tangle, confuse," from brouiller "to mix up."
   forms: [embroiled, embroils, embroiling]
 
-- word: empirical
-  pos: adjective
-  ipa: /ɪmˈpɪrɪkəl/
-  phonetic: em-PEER-ih-kul
-  definition: Based on observation or experiment rather than theory or pure logic.
-  synonyms: [observational, experimental, experiential, factual, practical]
-  antonyms: [theoretical, speculative, a priori]
-  related: [empirically, empiricism, empiricist]
-  etymology: From Greek empeirikos "experienced," from empeiria "experience," from peira "trial, attempt."
-  forms: [empirically]
-
 - word: encomium
   pos: noun
   ipa: /ɛnˈkoʊmiəm/
@@ -54,6 +32,7 @@ words:
   related: [encomiast, encomiastic]
   etymology: From Greek enkōmion "eulogy," originally a song in honor of a victor, from kōmos "revel."
   forms: [encomiums, encomia]
+  exclude: ["benevolent approbation of M."]
 
 - word: enmity
   pos: noun
@@ -87,17 +66,6 @@ words:
   etymology: From Latin enormitas, from enormis "irregular, immense," from e- "out of" + norma "rule, pattern."
   forms: [enormities]
 
-- word: entice
-  pos: verb
-  ipa: /ɪnˈtaɪs/
-  phonetic: en-TYSE
-  definition: To attract or tempt by offering pleasure or advantage.
-  synonyms: [lure, tempt, allure, coax, seduce]
-  antonyms: [repel, deter, discourage]
-  related: [enticement, enticing]
-  etymology: From Old French enticier "to stir up, provoke," probably from Latin titio "firebrand."
-  forms: [enticed, entices, enticing, enticement, enticements]
-
 - word: entreat
   pos: verb
   ipa: /ɪnˈtrit/
@@ -130,6 +98,7 @@ words:
   related: [epicurean]
   etymology: From Epicurus, the Greek philosopher who taught that pleasure, rightly understood, is the highest good.
   forms: [epicures]
+  exclude: ["Is it to-day what Roman epicures Insisted"]
 
 - word: epigram
   pos: noun
@@ -196,6 +165,7 @@ words:
   related: []
   etymology: From Old French eschiver "to shun," of Germanic origin (related to German scheuen "to shy away").
   forms: [eschewed, eschews, eschewing]
+  exclude: ["in favour of used so-called edu-tainment"]
 
 - word: espouse
   pos: verb
@@ -240,6 +210,8 @@ words:
   related: [evanescence]
   etymology: From Latin evanescere "to vanish," from e- "out" + vanescere "to vanish," from vanus "empty."
   forms: [evanescence]
+  exclude: ["rock group Evanescence"]
+  lowercase_only: true
 
 - word: evince
   pos: verb
@@ -317,6 +289,7 @@ words:
   related: [exhaustively]
   etymology: From exhaust, from Latin exhaurire "to draw off, drain," from ex- "out" + haurire "to draw (water)."
   forms: [exhaustively]
+  exclude: ["exhaustive investigation. and study.", "continued the Vicar, opening several"]
 
 - word: exhort
   pos: verb
@@ -372,6 +345,7 @@ words:
   related: [expediency, expediently]
   etymology: From Latin expedire "to free the feet, make ready," from ex- "out" + pes, ped- "foot."
   forms: [expediently, expediency]
+  exclude: ["move with a certain expediency", "Expediency Council"]
 
 - word: expiate
   pos: verb
@@ -415,6 +389,7 @@ words:
   antonyms: [extinct, lost, vanished]
   related: []
   etymology: From Latin exstare "to stand out, exist," from ex- "out" + stare "to stand."
+  exclude: ["the first Bishop of Rome after S."]
 
 - word: extenuating
   pos: adjective
@@ -492,6 +467,7 @@ words:
   related: [facility]
   etymology: From Latin facilis "easy to do," from facere "to do."
   forms: []
+  exclude: ["facile princeps"]
 
 - word: fallacious
   pos: adjective
@@ -514,16 +490,6 @@ words:
   related: [fallibility, infallible]
   etymology: From Medieval Latin fallibilis, from Latin fallere "to deceive."
   forms: [fallibility]
-
-- word: fallow
-  pos: adjective
-  ipa: /ˈfæloʊ/
-  phonetic: FAL-oh
-  definition: (Of farmland) plowed but left unsown to restore fertility; inactive or unproductive for a period.
-  synonyms: [uncultivated, unplanted, dormant, inactive, idle]
-  antonyms: [cultivated, productive, active]
-  related: []
-  etymology: From Old English fealh "plowed land."
 
 - word: falter
   pos: verb
@@ -655,6 +621,8 @@ words:
   related: [infidelity]
   etymology: From Latin fidelitas, from fidelis "faithful," from fides "faith."
   forms: []
+  exclude: ["United Jersey Bank/Fidelity"]
+  lowercase_only: true
 
 - word: finesse
   pos: noun / verb
@@ -709,16 +677,6 @@ words:
   related: [floridly]
   etymology: From Latin floridus "flowery," from flos, flor- "flower."
   forms: [floridly]
-
-- word: flounder
-  pos: verb
-  ipa: /ˈflaʊndər/
-  phonetic: FLOWN-der
-  definition: To struggle clumsily or helplessly; to be in serious difficulty, confused or unable to proceed.
-  synonyms: [struggle, flail, stumble, falter, founder]
-  antonyms: [thrive, flourish, succeed]
-  related: []
-  forms: [floundered, floundering]
 
 - word: flout
   pos: verb
@@ -911,17 +869,6 @@ words:
   etymology: From Middle English gainsayen, from gain- "against" + sayen "to say."
   forms: [gainsaid, gainsays, gainsaying]
 
-- word: gallant
-  pos: adjective
-  ipa: /ˈɡælənt/
-  phonetic: GAL-unt
-  definition: Brave, heroic; (of a man) charmingly attentive and courteous to women.
-  synonyms: [brave, valiant, chivalrous, courageous, courteous]
-  antonyms: [cowardly, craven, discourteous]
-  related: [gallantry, gallantly]
-  etymology: From Old French galant, present participle of galer "to make merry."
-  forms: [gallantly, gallantry]
-
 - word: galvanize
   pos: verb
   ipa: /ˈɡælvənaɪz/
@@ -932,6 +879,8 @@ words:
   related: [galvanization, galvanic]
   etymology: From the name of Luigi Galvani, an 18th-century Italian scientist who studied electricity in animal tissue.
   forms: [galvanized, galvanizes, galvanizing, galvanise, galvanised]
+  exclude: ["single Galvanize plus"]
+  lowercase_only: true
 
 - word: garish
   pos: adjective
@@ -1005,16 +954,6 @@ words:
   antonyms: [sincere, thoughtful, profound]
   related: [glibly, glibness]
   forms: [glibly, glibness]
-
-- word: gloat
-  pos: verb
-  ipa: /ɡloʊt/
-  phonetic: GLOHT
-  definition: To contemplate or dwell on one's own success or another's misfortune with smugness or malignant pleasure.
-  synonyms: [crow, exult, revel, relish, boast]
-  antonyms: [commiserate, sympathize]
-  related: []
-  forms: [gloated, gloats, gloating]
 
 - word: goad
   pos: verb / noun
@@ -1123,16 +1062,6 @@ words:
   related: []
   etymology: From hackney, a horse hired out for ordinary riding, hence something made common by overuse.
 
-- word: haggard
-  pos: adjective
-  ipa: /ˈhæɡərd/
-  phonetic: HAG-erd
-  definition: Looking exhausted and unwell, especially from fatigue, worry, or suffering.
-  synonyms: [gaunt, drawn, careworn, wan, worn out]
-  antonyms: [fresh, healthy, robust]
-  related: []
-  forms: [haggardly]
-
 - word: halcyon
   pos: adjective
   ipa: /ˈhælsiən/
@@ -1142,16 +1071,8 @@ words:
   antonyms: [turbulent, troubled, stormy]
   related: []
   etymology: From Greek alkyōn "kingfisher," a bird that, according to legend, calmed the seas to nest at the winter solstice.
-
-- word: hamper
-  pos: verb
-  ipa: /ˈhæmpər/
-  phonetic: HAM-per
-  definition: To hinder or impede the movement or progress of something.
-  synonyms: [hinder, impede, obstruct, encumber, hamstring]
-  antonyms: [facilitate, expedite, help]
-  related: []
-  forms: [hampered, hampers, hampering]
+  exclude: ["a partner in Halcyon"]
+  lowercase_only: true
 
 - word: hapless
   pos: adjective
@@ -1163,6 +1084,7 @@ words:
   related: []
   etymology: From hap "luck, chance," from Old Norse happ, + -less.
   forms: [haplessly]
+  exclude: ["And sigh o'er her hapless fate"]
 
 - word: harbinger
   pos: noun
@@ -1228,6 +1150,7 @@ words:
   related: [heterogeneity]
   etymology: From Greek heterogenēs, from heteros "other" + genos "kind."
   forms: [heterogeneity]
+  exclude: ["strongest possible heterogeneous terms"]
 
 - word: hindrance
   pos: noun

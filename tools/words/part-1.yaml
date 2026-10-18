@@ -86,6 +86,7 @@ words:
   related: [abjuration]
   etymology: From Latin abjurare "to deny on oath," from ab- "away" + jurare "to swear."
   forms: [abjured, abjures, abjuring]
+  exclude: ["the throng which abjured and came"]
 
 - word: abominate
   pos: verb
@@ -108,17 +109,7 @@ words:
   related: [abortively]
   etymology: From Latin abortivus, from aboriri "to miscarry," from ab- "away" + oriri "to arise, be born."
   forms: [abortively]
-
-- word: abound
-  pos: verb
-  ipa: /əˈbaʊnd/
-  phonetic: uh-BOWND
-  definition: To exist in large numbers or amounts; to be plentiful.
-  synonyms: [proliferate, teem, swarm, flourish, overflow]
-  antonyms: [lack, dwindle]
-  related: [abundant, abundance]
-  etymology: From Latin abundare "to overflow," from ab- "away" + undare "to rise in waves" (unda "wave").
-  forms: [abounded, abounds, abounding]
+  exclude: ["thefirst abortive attempt"]
 
 - word: abscond
   pos: verb
@@ -206,6 +197,7 @@ words:
   related: [acclamation, acclaimed]
   etymology: From Latin acclamare "to shout at," from ad- "to" + clamare "to shout."
   forms: [acclaimed, acclaims, acclaiming]
+  exclude: ["cried with one acclaim nay"]
 
 - word: accolade
   pos: noun
@@ -217,17 +209,6 @@ words:
   related: []
   etymology: From French accolade "embrace," from Italian accollare "to embrace around the neck," referring to the embrace given when conferring knighthood.
   forms: [accolades]
-
-- word: accord
-  pos: noun / verb
-  ipa: /əˈkɔrd/
-  phonetic: uh-KORD
-  definition: Agreement or harmony; an official agreement or treaty; (verb) to give or grant someone power, status, or recognition.
-  synonyms: [agreement, harmony, concord, pact, grant]
-  antonyms: [discord, disagreement, conflict]
-  related: [accordance, concord]
-  etymology: From Old French acorder "to reconcile," from Latin ad- "to" + cor, cordis "heart."
-  forms: [accorded, accords]
 
 - word: accost
   pos: verb
@@ -260,6 +241,8 @@ words:
   antonyms: [nadir, bottom, low point]
   related: []
   etymology: From Greek akmē "highest point, prime."
+  exclude: ["Acme Precision Products Inc"]
+  lowercase_only: true
 
 - word: acquiesce
   pos: verb
@@ -271,17 +254,6 @@ words:
   related: [acquiescence, acquiescent]
   etymology: From Latin acquiescere "to rest, be at ease," from ad- "to" + quiescere "to rest."
   forms: [acquiesced, acquiesces, acquiescing, acquiescence]
-
-- word: acquit
-  pos: verb
-  ipa: /əˈkwɪt/
-  phonetic: uh-KWIT
-  definition: To declare free from a criminal charge; (acquit oneself) to conduct oneself in a specified way.
-  synonyms: [exonerate, clear, absolve, discharge, exculpate]
-  antonyms: [convict, condemn, sentence]
-  related: [acquittal]
-  etymology: From Old French acquiter "to pay a debt, settle," from Latin ad- "to" + quitus "free, released."
-  forms: [acquitted, acquits, acquitting, acquittal]
 
 - word: acrid
   pos: adjective
@@ -315,6 +287,7 @@ words:
   related: [actuator, actuation]
   etymology: From Medieval Latin actuare "to carry out," from Latin actus "a doing, act."
   forms: [actuated, actuates, actuating]
+  exclude: ["I assure your ladyship I am not actuated"]
 
 - word: adage
   pos: noun
@@ -337,17 +310,7 @@ words:
   related: [adamantly, adamantine]
   etymology: From Greek adamas "untamable, invincible," later the name of a legendary hard stone, from a- "not" + daman "to tame."
   forms: [adamantly]
-
-- word: adept
-  pos: adjective / noun
-  ipa: /əˈdɛpt/
-  phonetic: uh-DEPT
-  definition: Very skilled or proficient at something; (noun) a person who is highly skilled.
-  synonyms: [skilled, proficient, expert, adroit, deft]
-  antonyms: [inept, clumsy, unskilled]
-  related: [adeptly, adeptness]
-  etymology: From Latin adeptus "having attained," past participle of adipisci "to attain," originally used of alchemists said to have found the secret of transmutation.
-  forms: [adeptly, adeptness]
+  exclude: ["hardened to adamant"]
 
 - word: admonition
   pos: noun
@@ -359,6 +322,7 @@ words:
   related: [admonish, admonitory]
   etymology: From Latin admonitio, from admonere "to remind, warn," from ad- "to" + monere "to warn."
   forms: [admonitions]
+  exclude: ["On whose judgement,' said my aunt"]
 
 - word: adroit
   pos: adjective
@@ -370,6 +334,7 @@ words:
   related: [adroitly, adroitness, maladroit]
   etymology: From French à droit "according to right, properly," from Latin directus "straight."
   forms: [adroitly, adroitness]
+  exclude: ["adroit hands of a magician might be required"]
 
 - word: adulation
   pos: noun
@@ -392,6 +357,7 @@ words:
   related: [adulteration, unadulterated]
   etymology: From Latin adulterare "to corrupt, falsify," from ad- "to" + alter "other."
   forms: [adulterated, adulterates, adulterating, adulteration]
+  exclude: ["'to buy in the cheapest market"]
 
 - word: adversity
   pos: noun
@@ -447,6 +413,7 @@ words:
   related: []
   etymology: From Latin affinitas "relationship by marriage," from affinis "bordering on, related," from ad- "to" + finis "border."
   forms: [affinities]
+  exclude: ["or chemical affinity"]
 
 - word: affront
   pos: noun / verb
@@ -458,17 +425,6 @@ words:
   related: [affronted]
   etymology: From Old French afronter "to strike on the forehead, confront," from Latin ad frontem "to the face."
   forms: [affronted, affronts, affronting]
-
-- word: aggrieved
-  pos: adjective
-  ipa: /əˈɡrivd/
-  phonetic: uh-GREEVD
-  definition: Feeling resentment at having been treated unfairly.
-  synonyms: [resentful, wronged, offended, indignant, disgruntled]
-  antonyms: [pleased, content, satisfied]
-  related: [aggrieve, grievance]
-  etymology: From Old French agrever "to make heavier," from Latin aggravare, from ad- "to" + gravis "heavy."
-  forms: [aggrieve]
 
 - word: allay
   pos: verb
@@ -502,17 +458,6 @@ words:
   related: [allusion, allusive]
   etymology: From Latin alludere "to play with, jest," from ad- "to" + ludere "to play."
   forms: [alluded, alludes, alluding]
-
-- word: allure
-  pos: noun / verb
-  ipa: /əˈlʊr/
-  phonetic: uh-LOOR
-  definition: The quality of being powerfully attractive or fascinating; (verb) to attract or tempt.
-  synonyms: [attraction, appeal, charm, enticement, lure]
-  antonyms: [repulsion, repel]
-  related: [alluring, alluringly]
-  etymology: From Old French aleurer "to attract, train a falcon to the lure," from a- "to" + leurre "lure."
-  forms: [allured, alluring, alluringly]
 
 - word: aloof
   pos: adjective
@@ -557,17 +502,8 @@ words:
   related: [amalgamation, amalgam]
   etymology: From Medieval Latin amalgama, an alloy of mercury with another metal.
   forms: [amalgamated, amalgamates, amalgamating, amalgamation]
-
-- word: amass
-  pos: verb
-  ipa: /əˈmæs/
-  phonetic: uh-MASS
-  definition: To gather together or accumulate a large amount or number of something over time.
-  synonyms: [accumulate, gather, collect, hoard, stockpile]
-  antonyms: [disperse, scatter, squander]
-  related: []
-  etymology: From French amasser, from a- "to" + masse "mass."
-  forms: [amassed, amasses, amassing]
+  exclude: ["Asiatic immigrants who cannot be amalgamated", "Amalgamated Sugar"]
+  lowercase_only: true
 
 - word: ambiguous
   pos: adjective
@@ -622,17 +558,8 @@ words:
   antonyms: [enmity, hostility, animosity]
   related: [amicable]
   etymology: From Old French amitié, from Latin amicus "friend."
-
-- word: ample
-  pos: adjective
-  ipa: /ˈæmpəl/
-  phonetic: AM-pul
-  definition: Enough or more than enough; plentiful; large and accommodating.
-  synonyms: [plentiful, abundant, sufficient, copious, generous]
-  antonyms: [insufficient, scant, meager]
-  related: [amply, amplify]
-  etymology: From Latin amplus "large, spacious."
-  forms: [amply]
+  exclude: ["Wellsville, Amity, Andover"]
+  lowercase_only: true
 
 - word: anathema
   pos: noun
@@ -752,6 +679,8 @@ words:
   related: [apocrypha, apocryphally]
   etymology: From Greek apokryphos "hidden," from apokryptein "to hide away"; the Apocrypha are biblical writings of disputed authority.
   forms: [apocryphally]
+  exclude: ["Apocryphal Gospels", "Apocryphal New Testament"]
+  lowercase_only: true
 
 - word: apotheosis
   pos: noun
@@ -762,17 +691,8 @@ words:
   antonyms: [nadir]
   related: []
   etymology: From Greek apotheōsis, from apotheoun "to deify," from apo- + theos "god."
-
-- word: appall
-  pos: verb
-  ipa: /əˈpɔl/
-  phonetic: uh-PAWL
-  definition: To greatly dismay or horrify.
-  synonyms: [horrify, shock, dismay, outrage, disgust]
-  antonyms: [delight, please, reassure]
-  related: [appalling, appallingly]
-  etymology: From Old French apalir "to grow pale," from a- + palir "to be pale."
-  forms: [appalled, appalls, appalling, appal]
+  exclude: ["the Apotheosis of the Heathen"]
+  lowercase_only: true
 
 - word: apparition
   pos: noun
@@ -860,6 +780,8 @@ words:
   related: [arbitrate, arbitration]
   etymology: From Latin arbiter "judge, witness."
   forms: [arbiters]
+  exclude: ["Dicky Arbiter said"]
+  lowercase_only: true
 
 - word: arbitrary
   pos: adjective
@@ -904,6 +826,7 @@ words:
   related: [arrogation, arrogant]
   etymology: From Latin arrogare "to claim for oneself," from ad- "to" + rogare "to ask."
   forms: [arrogated, arrogates, arrogating]
+  exclude: ["'no social organization can"]
 
 - word: articulate
   pos: adjective / verb
@@ -926,17 +849,6 @@ words:
   related: [artificial, artificer]
   etymology: From Latin artificium "craftsmanship," from artifex "craftsman," from ars "art" + facere "to make."
   forms: [artifices]
-
-- word: artisan
-  pos: noun
-  ipa: /ˈɑrtəzən/
-  phonetic: AR-tuh-zun
-  definition: A worker in a skilled trade, especially one who makes things by hand.
-  synonyms: [craftsman, artificer, smith, journeyman, technician]
-  antonyms: [amateur, novice]
-  related: [artisanal]
-  etymology: From French artisan, from Italian artigiano, ultimately from Latin artitus "skilled in the arts."
-  forms: [artisans, artisanal]
 
 - word: ascendancy
   pos: noun
@@ -1026,16 +938,6 @@ words:
   etymology: From Latin astutus "crafty," from astus "craft, cunning."
   forms: [astutely, astuteness]
 
-- word: asunder
-  pos: adverb
-  ipa: /əˈsʌndər/
-  phonetic: uh-SUN-der
-  definition: Apart, divided, or into pieces.
-  synonyms: [apart, to pieces, in two, separately, in shreds]
-  antonyms: [together, united]
-  related: [sunder]
-  etymology: From Old English on sundran "apart."
-
 - word: atrophy
   pos: verb / noun
   ipa: /ˈætrəfi/
@@ -1090,6 +992,7 @@ words:
   related: [augustly]
   etymology: From Latin augustus "venerable, consecrated," related to augere "to increase."
   lowercase_only: true
+  exclude: ["slated for august"]
 
 - word: auspicious
   pos: adjective
@@ -1177,6 +1080,7 @@ words:
   related: [avidly, avidity]
   etymology: From Latin avidus "eager, greedy," from avere "to long for."
   forms: [avidly]
+  exclude: ["avid shameclosing eyes"]
 
 - word: avow
   pos: verb
@@ -1220,6 +1124,7 @@ words:
   related: [balefully]
   etymology: From Old English bealufull, from bealu "evil, harm" + -full.
   forms: [balefully]
+  exclude: ["Tockahoopo Indians"]
 
 - word: balk
   pos: verb
@@ -1231,6 +1136,7 @@ words:
   related: []
   etymology: From Old English balca "ridge, bank," later "a stumbling block."
   forms: [balked, balks, balking, baulk]
+  exclude: ["balk between the winter rye", "a baulk of timber"]
 
 - word: bastion
   pos: noun
@@ -1243,16 +1149,6 @@ words:
   etymology: From French bastion, from Italian bastione, from bastire "to build."
   forms: [bastions]
 
-- word: bedlam
-  pos: noun
-  ipa: /ˈbɛdləm/
-  phonetic: BED-lum
-  definition: A scene of uproar and confusion.
-  synonyms: [chaos, pandemonium, mayhem, tumult, uproar]
-  antonyms: [calm, order, tranquility]
-  related: []
-  etymology: From Bedlam, the popular name of the Hospital of St. Mary of Bethlehem in London, an asylum for the mentally ill.
-
 - word: beguile
   pos: verb
   ipa: /bɪˈɡaɪl/
@@ -1263,6 +1159,7 @@ words:
   related: [beguiling, beguilingly]
   etymology: From Middle English bi- + guile "deceit."
   forms: [beguiled, beguiles, beguiling, beguilingly]
+  exclude: ["for the beguiling of the time"]
 
 - word: beholden
   pos: adjective

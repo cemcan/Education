@@ -86,6 +86,7 @@ words:
   antonyms: [single, few, uniform]
   related: []
   etymology: From Old English manigfeald "many-fold."
+  exclude: ["chamber, or manifold", "main reservoir or manifold"]
 
 - word: maudlin
   pos: adjective
@@ -96,6 +97,7 @@ words:
   antonyms: [unsentimental, restrained]
   related: []
   etymology: From Middle English Maudelen, Mary Magdalene, who was commonly depicted weeping.
+  exclude: ["That I retired to bed in a most maudlin"]
 
 - word: mawkish
   pos: adjective
@@ -119,6 +121,7 @@ words:
   etymology: From Medieval Latin maxima, as in maxima propositio "greatest premise."
   forms: [maxims]
   lowercase_only: true
+  exclude: ["its wisdom's no one will attempt"]
 
 - word: meager
   pos: adjective
@@ -174,6 +177,7 @@ words:
   related: [mercuriality]
   etymology: From Latin mercurialis "of Mercury," the swift messenger god whose name was also given to the volatile metal.
   forms: [mercurially]
+  exclude: ["(He upturns his eyes) Mercurial Malachi", "mercurial a dash"]
 
 - word: meritorious
   pos: adjective
@@ -185,6 +189,7 @@ words:
   related: [merit, meritoriously]
   etymology: From Latin meritorius, from mereri "to earn, deserve."
   forms: [meritoriously]
+  exclude: ["formidable ability so say more"]
 
 - word: militate
   pos: verb
@@ -207,6 +212,8 @@ words:
   related: []
   etymology: From Old Norse mýrr "bog."
   forms: [mired, mires, miring]
+  exclude: ["great Grimpen Mire"]
+  lowercase_only: true
 
 - word: misconstrue
   pos: verb
@@ -229,16 +236,6 @@ words:
   related: []
   etymology: From Old French mescreant "unbelieving," from mes- "wrongly" + creant "believing."
   forms: [miscreants]
-
-- word: motley
-  pos: adjective
-  ipa: /ˈmɑtli/
-  phonetic: MOT-lee
-  definition: Incongruously varied in appearance or character; disparate.
-  synonyms: [heterogeneous, assorted, varied, mixed, miscellaneous]
-  antonyms: [homogeneous, uniform]
-  related: []
-  etymology: From Middle English motlei, originally a cloth of mixed colors, later the costume of a jester; its deeper origin is uncertain.
 
 - word: munificent
   pos: adjective
@@ -284,17 +281,6 @@ words:
   etymology: From Greek neophytos "newly planted," from neos "new" + phyton "plant."
   forms: [neophytes]
 
-- word: nettle
-  pos: verb / noun
-  ipa: /ˈnɛtəl/
-  phonetic: NET-ul
-  definition: To irritate or annoy; a plant with stinging hairs.
-  synonyms: [irritate, annoy, vex, provoke, rile]
-  antonyms: [soothe, placate, mollify]
-  related: []
-  etymology: From Old English netele, the name of the stinging plant.
-  forms: [nettled, nettling]
-
 - word: noisome
   pos: adjective
   ipa: /ˈnɔɪsəm/
@@ -325,6 +311,7 @@ words:
   antonyms: [distinctive, remarkable, striking]
   related: []
   etymology: From non- + Latin descriptus "described"; it first named species not yet scientifically described.
+  exclude: ["The nondescript replied in encouraging"]
 
 - word: noxious
   pos: adjective
@@ -336,6 +323,7 @@ words:
   related: [noxiously]
   etymology: From Latin noxius, from noxa "harm," related to nocere "to hurt."
   forms: [noxiously]
+  exclude: ["than when in or opposition to it"]
 
 - word: oblique
   pos: adjective
@@ -401,6 +389,7 @@ words:
   antonyms: []
   related: [oculist]
   etymology: From Latin ocularis, from oculus "eye."
+  exclude: ["concealed ocular witnesses"]
 
 - word: odious
   pos: adjective
@@ -489,6 +478,7 @@ words:
   related: [oscillation]
   etymology: From Latin oscillare "to swing."
   forms: [oscillated, oscillates, oscillating, oscillation]
+  exclude: ["oceanic oscillation in the Pacific"]
 
 - word: ostensible
   pos: adjective
@@ -511,6 +501,7 @@ words:
   related: [pacify, pacifist]
   etymology: From Latin pacificus "peacemaking," from pax "peace" + facere "to make."
   lowercase_only: true
+  exclude: ["pacific port of Balao"]
 
 - word: palatable
   pos: adjective
@@ -596,17 +587,6 @@ words:
   etymology: From Anglo-Norman paramont "above," from Old French par "by" + amont "above."
   lowercase_only: true
 
-- word: pariah
-  pos: noun
-  ipa: /pəˈraɪə/
-  phonetic: puh-RY-uh
-  definition: An outcast; a person rejected by society or a group.
-  synonyms: [outcast, leper, persona non grata, exile, untouchable]
-  antonyms: [favorite, idol]
-  related: []
-  etymology: From Tamil paraiyar, the name of a large caste in southern India, literally "drummers."
-  forms: [pariahs]
-
 - word: parity
   pos: noun
   ipa: /ˈpærɪti/
@@ -616,6 +596,7 @@ words:
   antonyms: [disparity, inequality, imbalance]
   related: []
   etymology: From Late Latin paritas, from par "equal."
+  exclude: ["90 percent of parity", "full parity in the market"]
 
 - word: parochial
   pos: adjective
@@ -649,6 +630,8 @@ words:
   related: []
   etymology: Probably from French parez, imperative of parer "to ward off," from Italian parare.
   forms: [parried, parries, parrying]
+  exclude: ["come as news to Parry"]
+  lowercase_only: true
 
 - word: parsimonious
   pos: adjective
@@ -734,6 +717,7 @@ words:
   related: [pensively, pensiveness]
   etymology: From Old French pensif, from penser "to think," from Latin pensare "to weigh, consider."
   forms: [pensively]
+  exclude: ["gazing before her with her fine pensive eyes"]
 
 - word: penury
   pos: noun
@@ -755,6 +739,8 @@ words:
   related: [perception, perceptiveness]
   etymology: From Latin percipere "to seize, understand," from per- "thoroughly" + capere "to take."
   forms: [perceptively, perceptiveness]
+  exclude: ["Perceptive Systems, a venture capital"]
+  lowercase_only: true
 
 - word: peremptory
   pos: adjective
@@ -777,6 +763,7 @@ words:
   related: [perfidy, perfidiously]
   etymology: From Latin perfidiosus, from perfidia "faithlessness."
   forms: [perfidiously]
+  exclude: ["trust no Moor, for they are all perfidious"]
 
 - word: perfidy
   pos: noun
@@ -798,6 +785,8 @@ words:
   related: [periphery, peripherally]
   etymology: From Greek periphereia "circumference," from peri "around" + pherein "to carry."
   forms: [peripherally]
+  lowercase_only: true
+  exclude: ["computer peripheral subsystems", "one share of Peripheral for each", "peripheral products"]
 
 - word: perquisite
   pos: noun
@@ -831,6 +820,7 @@ words:
   related: [perturbation, imperturbable]
   etymology: From Latin perturbare "to throw into confusion," from per- "thoroughly" + turbare "to disturb."
   forms: [perturbed, perturbs, perturbing]
+  exclude: ["Not that I had taken note of any particular"]
 
 - word: peruse
   pos: verb
@@ -885,6 +875,7 @@ words:
   related: [pious]
   etymology: From Latin pietas "dutifulness," from pius "dutiful."
   forms: [pieties]
+  exclude: ["The pia fraus is still more repugnant"]
 
 - word: pillage
   pos: verb / noun
@@ -907,6 +898,7 @@ words:
   related: [pith, pithily]
   etymology: From pith, the spongy core of a plant stem, from Old English pitha.
   forms: [pithily, pithier, pithiest]
+  exclude: ["If your John is weak enough"]
 
 - word: pittance
   pos: noun
@@ -994,6 +986,7 @@ words:
   related: [polemical, polemicist]
   etymology: From Greek polemikos "warlike," from polemos "war."
   forms: [polemics, polemical]
+  exclude: ["committed by a polemic"]
 
 - word: ponderous
   pos: adjective
@@ -1049,6 +1042,7 @@ words:
   related: []
   etymology: From Latin potentatus "dominion," from potens "powerful."
   forms: [potentates]
+  exclude: ["you object to the mighty potentate?"]
 
 - word: prattle
   pos: verb / noun
@@ -1148,6 +1142,7 @@ words:
   related: [premeditation, premeditate]
   etymology: From Latin praemeditari "to consider beforehand," from prae "before" + meditari "to meditate."
   forms: [premeditate, premeditation]
+  exclude: ["copyright law It added"]
 
 - word: preponderance
   pos: noun
@@ -1170,6 +1165,8 @@ words:
   related: []
   etymology: From Latin praerogativa, the Roman voting division that voted first, from praerogare "to ask first."
   forms: [prerogatives]
+  exclude: ["rarely used Royal Prerogative"]
+  lowercase_only: true
 
 - word: presage
   pos: verb / noun

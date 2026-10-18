@@ -31,6 +31,8 @@ words:
   related: [prodigious]
   etymology: From Latin prodigium "portent, prophetic sign."
   forms: [prodigies]
+  exclude: ["dance act The Prodigy"]
+  lowercase_only: true
 
 - word: profane
   pos: adjective / verb
@@ -73,6 +75,7 @@ words:
   antonyms: [ancestors, forebears, progenitors]
   related: [progenitor]
   etymology: From Latin progenies "descent, offspring," from progignere "to beget."
+  exclude: ["from progeny such as Stevie Wonder", "three-headed guardian"]
 
 - word: proliferate
   pos: verb
@@ -84,6 +87,8 @@ words:
   related: [proliferation, proliferative]
   etymology: Back-formation from "proliferation," from French prolifère, from Latin proles "offspring" + ferre "to bear."
   forms: [proliferated, proliferates, proliferating, proliferation]
+  exclude: ["Proliferation Security Initiative"]
+  lowercase_only: true
 
 - word: propagate
   pos: verb
@@ -161,6 +166,8 @@ words:
   related: [providence, providently, improvident]
   etymology: From Latin providens, present participle of providere "to foresee, provide for."
   forms: [providently]
+  exclude: ["Provident National Bank"]
+  lowercase_only: true
 
 - word: provincial
   pos: adjective / noun
@@ -214,6 +221,7 @@ words:
   related: [pungency, pungently]
   etymology: From Latin pungens, present participle of pungere "to prick, sting."
   forms: [pungently, pungency]
+  exclude: ["relish of disgust pungent mustard"]
 
 - word: purport
   pos: verb / noun
@@ -236,6 +244,7 @@ words:
   related: [pusillanimity]
   etymology: From Late Latin pusillanimis, from pusillus "very small" + animus "mind, spirit."
   forms: [pusillanimity]
+  exclude: ["Desire of things that conduce"]
 
 - word: qualm
   pos: noun
@@ -289,6 +298,7 @@ words:
   related: [rampantly]
   etymology: From Old French rampant "climbing," present participle of ramper "to climb, crawl"; originally a heraldic term for a beast rearing on its hind legs.
   forms: [rampantly]
+  exclude: ["like rampant heraldic animals", "rampant lion", "rampantly up and down"]
 
 - word: ramification
   pos: noun
@@ -300,6 +310,7 @@ words:
   related: [ramify]
   etymology: From French ramification, from Medieval Latin ramificare "to form branches," from Latin ramus "branch."
   forms: [ramifications]
+  exclude: ["said Amoskeag chairman William S."]
 
 - word: rankle
   pos: verb
@@ -323,17 +334,6 @@ words:
   etymology: From Latin rapax "grasping," from rapere "to seize."
   forms: [rapaciously, rapacity, rapaciousness]
 
-- word: rapt
-  pos: adjective
-  ipa: /ræpt/
-  phonetic: RAPT
-  definition: Completely fascinated or absorbed by what one is seeing or hearing.
-  synonyms: [engrossed, absorbed, enthralled, spellbound, captivated]
-  antonyms: [bored, inattentive, distracted]
-  related: [raptly, rapture]
-  etymology: From Latin raptus "seized, carried off," past participle of rapere "to seize."
-  forms: [raptly]
-
 - word: rarefied
   pos: adjective
   ipa: /ˈrɛrəfaɪd/
@@ -353,6 +353,7 @@ words:
   antonyms: [cautious, prudent, considered]
   related: [rashly, rashness]
   forms: [rashly, rashness]
+  exclude: ["current rash of labour unrest", "rash of", "a rash", "the rash"]
 
 - word: raucous
   pos: adjective
@@ -397,6 +398,7 @@ words:
   related: [recapitulation, recap]
   etymology: From Late Latin recapitulare "to go over the main points again," from re- "again" + capitulum "chapter, heading."
   forms: [recapitulated, recapitulates, recapitulating, recapitulation]
+  exclude: ["What past consecutive causes"]
 
 - word: recondite
   pos: adjective
@@ -417,6 +419,7 @@ words:
   antonyms: []
   related: []
   etymology: From Old French recours, from Latin recursus "a running back, return."
+  exclude: ["non-recourse project financing", "non-recourse"]
 
 - word: rectitude
   pos: noun
@@ -469,6 +472,7 @@ words:
   antonyms: [obedient, docile, tractable]
   related: [refractoriness]
   etymology: From Latin refractarius "obstinate," from refringere "to break up."
+  exclude: ["which is the refractory material", "refractory material"]
 
 - word: refute
   pos: verb
@@ -513,27 +517,6 @@ words:
   related: [relentless, unrelenting]
   forms: [relented, relents, relenting]
 
-- word: relish
-  pos: verb / noun
-  ipa: /ˈrɛlɪʃ/
-  phonetic: REL-ish
-  definition: To enjoy greatly or look forward to; (noun) great enjoyment or keen appreciation.
-  synonyms: [enjoy, savor, delight in, revel in, gusto]
-  antonyms: [dislike, loathe, distaste]
-  related: []
-  etymology: From Old French relais "remainder, something left behind," hence an aftertaste.
-  forms: [relished, relishes, relishing]
-
-- word: remedial
-  pos: adjective
-  ipa: /rɪˈmidiəl/
-  phonetic: rih-MEE-dee-ul
-  definition: Intended to correct or improve something; providing help for students with learning difficulties.
-  synonyms: [corrective, restorative, therapeutic, curative, reparative]
-  antonyms: [harmful, damaging]
-  related: [remedy, remediation]
-  etymology: From Late Latin remedialis, from Latin remedium "cure, remedy."
-
 - word: remiss
   pos: adjective
   ipa: /rɪˈmɪs/
@@ -564,6 +547,7 @@ words:
   antonyms: []
   related: [remunerate, remunerative]
   etymology: From Latin remunerari "to reward," from re- + munus "gift, service."
+  exclude: ["equivalent to a few five cent pieces."]
 
 - word: renegade
   pos: noun / adjective
@@ -618,6 +602,7 @@ words:
   related: [repent, repentance]
   etymology: From Old French repentant, present participle of repentir "to repent."
   forms: [repentantly]
+  exclude: ["The Christ with the bridesister"]
 
 - word: replete
   pos: adjective
@@ -639,6 +624,7 @@ words:
   related: [reprehend, reprehensibly]
   etymology: From Late Latin reprehensibilis, from Latin reprehendere "to hold back, rebuke."
   forms: [reprehensibly]
+  exclude: ["\"Take a walk round the block!\""]
 
 - word: reprieve
   pos: noun / verb
@@ -682,6 +668,7 @@ words:
   related: [reprobation]
   etymology: From Late Latin reprobatus "disapproved, rejected," from reprobare "to disapprove."
   forms: [reprobates]
+  exclude: ["denounce and reprobate this pretension", "reprobate the idea"]
 
 - word: reprove
   pos: verb
@@ -693,6 +680,7 @@ words:
   related: [reproof, reprovingly]
   etymology: From Old French reprover, from Late Latin reprobare "to disapprove."
   forms: [reproved, reproves, reproving, reprovingly]
+  exclude: ["You've done enough fooling!\" he reproved"]
 
 - word: repugnant
   pos: adjective
@@ -715,6 +703,8 @@ words:
   related: [repulsion, repulsive]
   etymology: From Latin repulsus, past participle of repellere "to drive back."
   forms: [repulsed, repulses, repulsing]
+  exclude: ["the Duke of Westminster's Shotover, Repulse"]
+  lowercase_only: true
 
 - word: requisite
   pos: adjective / noun
@@ -738,17 +728,6 @@ words:
   etymology: From Latin resolutus, past participle of resolvere "to loosen, release."
   forms: [resolutely, resoluteness]
 
-- word: resonant
-  pos: adjective
-  ipa: /ˈrɛzənənt/
-  phonetic: REZ-uh-nunt
-  definition: (Of sound) deep, clear, and continuing to reverberate; evoking images, memories, or emotions.
-  synonyms: [reverberant, sonorous, booming, evocative, rich]
-  antonyms: [faint, thin, muted]
-  related: [resonance, resonate]
-  etymology: From Latin resonans, present participle of resonare "to resound."
-  forms: [resonance]
-
 - word: respite
   pos: noun
   ipa: /ˈrɛspɪt/
@@ -758,6 +737,7 @@ words:
   antonyms: []
   related: []
   etymology: From Old French respit, from Latin respectus "regard, refuge."
+  exclude: ["Of the disinherited of life, for whom"]
 
 - word: resplendent
   pos: adjective
@@ -863,17 +843,7 @@ words:
   related: [rigorous, rigorously]
   etymology: From Latin rigor "stiffness," from rigere "to be stiff."
   forms: [rigors]
-
-- word: rotund
-  pos: adjective
-  ipa: /roʊˈtʌnd/
-  phonetic: roh-TUND
-  definition: Plump or round in shape; (of speech) sonorous and full-toned.
-  synonyms: [plump, round, portly, corpulent, stout]
-  antonyms: [thin, slender, gaunt]
-  related: [rotundity, rotunda]
-  etymology: From Latin rotundus "round," from rota "wheel."
-  forms: [rotundity]
+  exclude: ["The rigors which had attacked Barrois"]
 
 - word: rudimentary
   pos: adjective
@@ -884,17 +854,6 @@ words:
   antonyms: [advanced, sophisticated, developed]
   related: [rudiment, rudiments]
   etymology: From "rudiment," from Latin rudimentum "first attempt, beginning," from rudis "unformed, rough."
-
-- word: rue
-  pos: verb
-  ipa: /ru/
-  phonetic: ROO
-  definition: To bitterly regret something one has done or allowed to happen.
-  synonyms: [regret, lament, repent, deplore, bemoan]
-  antonyms: [celebrate, welcome]
-  related: [rueful, ruefully]
-  etymology: From Old English hreowan "to make sorry, distress."
-  forms: [rued, rues, ruing]
 
 - word: ruminate
   pos: verb
@@ -959,6 +918,7 @@ words:
   related: [satiety, insatiable, satiation]
   etymology: From Latin satiare "to fill full," from satis "enough."
   forms: [satiated, satiates, satiating, satiation]
+  exclude: ["semantic satiation"]
 
 - word: saturnine
   pos: adjective
@@ -1012,16 +972,6 @@ words:
   related: [scintillating, scintilla, scintillation]
   etymology: From Latin scintillare "to sparkle," from scintilla "spark."
   forms: [scintillating, scintillated, scintillates]
-
-- word: scoff
-  pos: verb
-  ipa: /skɑf/
-  phonetic: SKOFF
-  definition: To speak to or about someone or something in a scornfully derisive or mocking way.
-  synonyms: [mock, deride, sneer, jeer, ridicule]
-  antonyms: [praise, respect, admire]
-  related: []
-  forms: [scoffed, scoffs, scoffing]
 
 - word: scourge
   pos: noun / verb
@@ -1098,6 +1048,7 @@ words:
   related: [servility]
   etymology: From Latin servilis, from servus "slave."
   forms: [servility]
+  exclude: ["immigration of a servile class"]
 
 - word: shirk
   pos: verb
@@ -1108,6 +1059,7 @@ words:
   antonyms: [fulfill, undertake, shoulder]
   related: [shirker]
   forms: [shirked, shirks, shirking]
+  exclude: ["the sleepless Boots went shirking round"]
 
 - word: sloth
   pos: noun
@@ -1239,3 +1191,4 @@ words:
   related: []
   etymology: From Old English spurnan "to kick, reject."
   forms: [spurned, spurns, spurning]
+  exclude: ["with an earth-spurning leap"]
