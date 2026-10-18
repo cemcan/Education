@@ -2,7 +2,8 @@
 
 GRE Vocab puts a new GRE word in front of you every time you pick up your phone. Each word comes with:
 
-- **Pronunciation**: IPA, an easy respelling (e.g. *luh-KON-ik*), and tap-to-hear audio from Apple's on-device voices. It works offline and still plays when the phone is on silent.
+- **Pronunciation**: IPA, an easy respelling (e.g. *luh-KON-ik*), and tap-to-hear audio. The headword is spoken from its IPA transcription, so the pronunciation matches the dictionary. It uses Apple's on-device voices, works offline, and still plays when the phone is on silent.
+  For a natural, human-sounding voice, download a **Premium** or **Enhanced** English voice once (iPhone **Settings › Accessibility › Spoken Content › Voices › English**, e.g. *Ava*, *Zoe* or *Evan*). The app picks the best installed voice automatically, or you can choose one in **Settings › Pronunciation**.
 - **Definition**, part of speech, **synonyms**, **antonyms** and **related words**. A synonym that is also in the word list links straight to its own card.
 - **Origin and history** (etymology), when it helps the word stick.
 - **Three real example sentences**, quoted word for word from literature, news and speeches, each with its author, source and year.
@@ -46,7 +47,7 @@ The **Wallpaper** tab in the app shows the same steps, a live preview, theme cho
    open GREVocab.xcodeproj
    ```
 3. In **Signing & Capabilities**, choose your Team for **both** the `GREVocab` and `GREVocabWidget` targets. A free Apple ID is enough to run it on your own iPhone. With a free account the app must be re-installed from Xcode every 7 days. You can also set `DEVELOPMENT_TEAM` in `project.yml`.
-4. If Xcode says the bundle ID or App Group is already taken, replace `com.example` with your own reverse-DNS prefix in these places:
+4. If Xcode says the bundle ID or App Group is already taken, replace `com.cemcan` with your own reverse-DNS prefix in these places:
    - `project.yml`: both bundle IDs and both `application-groups` entries
    - `GREVocab/Shared/Settings.swift`: `AppSettings.appGroup`
 
@@ -71,7 +72,7 @@ tools/                      Data pipeline that builds words.json
 Every example sentence is an **exact quote** from a real text, found by searching the source text itself. None are made up or paraphrased. The sources are:
 
 - **Literature:** public-domain books from [Project Gutenberg](https://www.gutenberg.org/), via the GITenberg mirror and the NLTK Gutenberg selection.
-- **News:** the *Reuters-21578* newswire collection (Reuters, 1987), as distributed with NLTK.
+- **News:** BBC News articles from 2004–05 (the Greene & Cunningham BBC dataset), the *Reuters-21578* newswire (Reuters, 1987) and Australian Broadcasting Corporation science and rural news (both via NLTK).
 - **Speeches:** U.S. presidential inaugural addresses and State of the Union addresses, which are public records.
 
 The definitions, synonyms, antonyms, related words, IPA and etymologies were written for GRE study.
@@ -85,9 +86,9 @@ python3 tools/build_words.py   # writes GREVocab/Shared/Resources/words.json
 python3 tools/build_words.py --report   # same, and prints every chosen quote for review
 ```
 
-- `tools/words.yaml`: the word entries (definition, IPA, respelling, synonyms, antonyms, related words, etymology). Add a word here, listing its inflected `forms` so the search finds them. Use `exclude` to drop a quote you don't like.
+- `tools/words/*.yaml`: the word entries (definition, IPA, respelling, synonyms, antonyms, related words, etymology). Add a word here, listing its inflected `forms` so the search finds them. Use `exclude` to drop a quote you don't like, and `lowercase_only: true` for words that clash with proper nouns (*august*, *pacific*).
 - `tools/sources.yaml`: the books, with author, year and translator. A `start` marker skips an editor's introduction or a translator's preface, so every quote is the author's own words.
-- `tools/build_words.py`: picks three quotes from different sources for each word. It prefers one news quote, one speech and one literary passage, but uses only literature when a word never appears in news or speeches.
+- `tools/build_words.py`: picks three quotes from different sources for each word. It prefers a news quote, a literary passage and a speech (or a second news outlet), and falls back to whatever real sources use the word.
 
 ## Troubleshooting
 

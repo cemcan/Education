@@ -25,24 +25,22 @@
     "etymology": "From Old French abatre \"to beat down,\" from Latin ad- \"to\" + battuere \"to beat\" (also the source of \"battle\" and \"batter\").",
     "examples": [
       {
+        "text": "Turkey pulled warships back from close escort of its Sismik 1 survey ship as the threat of conflict with Greece over oil rights in the Aegean Sea abated.",
+        "kind": "news",
+        "source": "Reuters, “Turkey Lifts Survey Ship Escort As Tension Abates”",
+        "year": 1987
+      },
+      {
+        "text": "The Australian Doctors Trained Overseas Group says fallout has not abated, after the \"Dr Death\" case in Queensland.",
+        "kind": "news",
+        "source": "ABC Rural (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Wherever the sentiment of the majority is still genuine and intense, it is found to have abated little of its claim to be obeyed.",
         "kind": "literature",
         "source": "On Liberty",
         "author": "John Stuart Mill",
         "year": 1859
-      },
-      {
-        "text": "Our institutions will not deteriorate by extension, and our sense of justice will not abate under tropic suns in distant seas.",
-        "kind": "speech",
-        "source": "Inaugural Address",
-        "author": "William McKinley",
-        "year": 1901
-      },
-      {
-        "text": "Turkey pulled warships back from close escort of its Sismik 1 survey ship as the threat of conflict with Greece over oil rights in the Aegean Sea abated.",
-        "kind": "news",
-        "source": "Reuters, “Turkey Lifts Survey Ship Escort As Tension Abates”",
-        "year": 1987
       }
     ]
   },
@@ -166,18 +164,16 @@
     "etymology": "From Latin admonere \"to remind, warn,\" from ad- \"to\" + monere \"to warn\" (compare \"monitor\").",
     "examples": [
       {
+        "text": "Last week, the firm was admonished by the Securities and Exchange Commission which said it had made major errors in its financial reporting.",
+        "kind": "news",
+        "source": "BBC News, “Senior Fannie Mae bosses resign”"
+      },
+      {
         "text": "The President again briefly, but impressively, admonished him to answer only what was asked, and not to go off into irrelevant exclamations.",
         "kind": "literature",
         "source": "The Brothers Karamazov",
         "author": "Fyodor Dostoevsky (tr. Constance Garnett)",
         "year": 1880
-      },
-      {
-        "text": "She simply continued to be mild in her temper, inflexible in her judgment, disposed to admonish her husband, and able to frustrate him by stratagem.",
-        "kind": "literature",
-        "source": "Middlemarch",
-        "author": "George Eliot",
-        "year": 1871
       },
       {
         "text": "Other considerations of the highest importance admonish us to cherish our Union and to cling to the Government which supports it.",
@@ -350,24 +346,21 @@
     "etymology": "From Greek anōmalia \"unevenness,\" from an- \"not\" + homalos \"even.\"",
     "examples": [
       {
+        "text": "An IAEA spokesman said this was extremely inefficient and makes searching for anomalies like searching for a needle in a haystack.",
+        "kind": "news",
+        "source": "BBC News, “Nuclear body seeks new tech”"
+      },
+      {
+        "text": "\"There is an anomaly where boarding food is actually charged GST but if you're in a hostel or staying a hospital there's no GST,\" he said.",
+        "kind": "news",
+        "source": "ABC Rural (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Even to-day the masses of the Negroes see all too clearly the anomalies of their position and the moral crookedness of yours.",
         "kind": "literature",
         "source": "The Souls of Black Folk",
         "author": "W. E. B. Du Bois",
         "year": 1903
-      },
-      {
-        "text": "I must say that I had my doubts about the strict justice of this, and was not even frightened out of them by the bushel of wheat which reconciles all anomalies.",
-        "kind": "literature",
-        "source": "David Copperfield",
-        "author": "Charles Dickens",
-        "year": 1850
-      },
-      {
-        "text": "Rainbow chairman Allan Hawkins said in a statement, \"In our opinion BIL have deliberately tried to create anomalies in the market prices of Rainbow and Progressive shares since the merger was announced.\"",
-        "kind": "news",
-        "source": "Reuters, “Rainbow Says Brierley Upsetting Progressive Merger”",
-        "year": 1987
       }
     ]
   },
@@ -444,18 +437,16 @@
     "etymology": "From Greek apatheia, from a- \"without\" + pathos \"feeling.\" The Stoics used it approvingly, for freedom from passion.",
     "examples": [
       {
+        "text": "But he argued that \"we must not allow our recognition of diversity to become apathy in the face of any challenge to our coherence as a nation\".",
+        "kind": "news",
+        "source": "BBC News, “Faith schools citizenship warning”"
+      },
+      {
         "text": "Charlotte had seen her brother's apathy, when he neglected to follow Mrs. Bold out of the room, with anger which she could hardly suppress.",
         "kind": "literature",
         "source": "Barchester Towers",
         "author": "Anthony Trollope",
         "year": 1857
-      },
-      {
-        "text": "He had had full warning of Mr. Flack's intentions, and might have bought the plot before building commenced: but he was apathetic and dilatory.",
-        "kind": "literature",
-        "source": "A Room with a View",
-        "author": "E. M. Forster",
-        "year": 1908
       },
       {
         "text": "Now we need to focus on giving young people, especially young men in our cities, better options than apathy, or gangs, or jail.",
@@ -491,6 +482,12 @@
     "etymology": "From Old French apaisier \"to bring to peace,\" from a pais \"to peace,\" from Latin pax.",
     "examples": [
       {
+        "text": "The White House aide said of the tariff action, \"it wasn't done to appease Congress, but because there was an unfair trade practice.\"",
+        "kind": "news",
+        "source": "Reuters, “Japanese Tariffs Seen As Worldwide Warning”",
+        "year": 1987
+      },
+      {
         "text": "Provocations to produce the desired appearances might even be given to some foreign power, and appeased again by timely concessions.",
         "kind": "literature",
         "source": "The Federalist Papers",
@@ -503,12 +500,6 @@
         "source": "State of the Union Address",
         "author": "George H. W. Bush",
         "year": 1991
-      },
-      {
-        "text": "The White House aide said of the tariff action, \"it wasn't done to appease Congress, but because there was an unfair trade practice.\"",
-        "kind": "news",
-        "source": "Reuters, “Japanese Tariffs Seen As Worldwide Warning”",
-        "year": 1987
       }
     ]
   },
@@ -538,18 +529,16 @@
     "etymology": "From Latin ardere \"to burn\" (also in \"arson\").",
     "examples": [
       {
+        "text": "President Chavez is an ardent promoter of the concept of a South American oil company, which could include the state-owned companies of Venezuela, Argentina, Brazil and Bolivia.",
+        "kind": "news",
+        "source": "BBC News, “Argentina, Venezuela in oil deal”"
+      },
+      {
         "text": "There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!",
         "kind": "literature",
         "source": "Bleak House",
         "author": "Charles Dickens",
         "year": 1853
-      },
-      {
-        "text": "For all his ardent reading, and his ardent life, was he anything but a small-town youth bred on an illiberal farm and in cheap tailor shops?",
-        "kind": "literature",
-        "source": "Main Street",
-        "author": "Sinclair Lewis",
-        "year": 1920
       },
       {
         "text": "The arrangement should be such as to put at the command of the Government the ardent patriotism and youthful vigor of the country.",
@@ -586,24 +575,22 @@
     "etymology": "From Latin arduus \"steep, high, difficult.\"",
     "examples": [
       {
+        "text": "Producers and consumers could not find common ground on the issue of quota distribution in eight days of arduous, often heated talks, delegates said.",
+        "kind": "news",
+        "source": "Reuters, “Ico Council Ends In Failure To Agree Quotas”",
+        "year": 1987
+      },
+      {
+        "text": "Preview performances of the £3m musical Billy Elliot have been delayed to give the child actors a less arduous rehearsal schedule.",
+        "kind": "news",
+        "source": "BBC News, “Tough schedule delays Elliot show”"
+      },
+      {
         "text": "Archie Ruthvel had just come in, and, as his story goes, was about to begin his arduous day by giving a dressing-down to his chief clerk.",
         "kind": "literature",
         "source": "Lord Jim",
         "author": "Joseph Conrad",
         "year": 1900
-      },
-      {
-        "text": "If I do not sink under the weight of this deep conviction it is because I find some support in a consciousness of the purposes and a confidence in the principles which I bring with me into this arduous service.",
-        "kind": "speech",
-        "source": "Inaugural Address",
-        "author": "James Madison",
-        "year": 1809
-      },
-      {
-        "text": "Producers and consumers could not find common ground on the issue of quota distribution in eight days of arduous, often heated talks, delegates said.",
-        "kind": "news",
-        "source": "Reuters, “Ico Council Ends In Failure To Agree Quotas”",
-        "year": 1987
       }
     ]
   },
@@ -773,24 +760,22 @@
     "etymology": "From Greek austēros \"harsh, bitter,\" originally describing a taste that makes the tongue dry.",
     "examples": [
       {
+        "text": "The revaluation formed part of a new go-it-alone economic strategy which Kaunda adopted to replace Zambia's IMF austerity program.",
+        "kind": "news",
+        "source": "Reuters, “Zambia Cuts Prices As Troops Patrol Copperbelt”",
+        "year": 1987
+      },
+      {
+        "text": "At the heart of the administration's fifth budget, presented to Congress on Monday, is an austere package of domestic measures.",
+        "kind": "news",
+        "source": "BBC News, “Bush to outline 'toughest' budget”"
+      },
+      {
         "text": "He had, without explanation, the impression of a slaggy cliff and on it, in silhouette against menacing clouds, a lone and austere figure.",
         "kind": "literature",
         "source": "Babbitt",
         "author": "Sinclair Lewis",
         "year": 1922
-      },
-      {
-        "text": "I looked back at the platform when we had left it far behind and saw the tall, austere figure of Holmes standing motionless and gazing after us.",
-        "kind": "literature",
-        "source": "The Hound of the Baskervilles",
-        "author": "Arthur Conan Doyle",
-        "year": 1902
-      },
-      {
-        "text": "The revaluation formed part of a new go-it-alone economic strategy which Kaunda adopted to replace Zambia's IMF austerity program.",
-        "kind": "news",
-        "source": "Reuters, “Zambia Cuts Prices As Troops Patrol Copperbelt”",
-        "year": 1987
       }
     ]
   },
@@ -910,24 +895,22 @@
     "etymology": "Old English bolster \"long pillow, cushion.\" The verb sense \"prop up,\" as with a pillow, dates from the 1500s.",
     "examples": [
       {
+        "text": "Miller's remarks reflected concern that the U.S. central bank might feel compelled to tighten credit as a means of bolstering the dollar.",
+        "kind": "news",
+        "source": "Reuters, “Budget Chief Miller Warns Fed On Interest Rates”",
+        "year": 1987
+      },
+      {
+        "text": "Souness is bidding to bolster his defence and, according to reports, contract negotiations are at an advanced stage with the player.",
+        "kind": "news",
+        "source": "BBC News, “Newcastle line up Babayaro”"
+      },
+      {
         "text": "For this is one of those disheartening instances where truth requires full as much bolstering as error.",
         "kind": "literature",
         "source": "Moby-Dick",
         "author": "Herman Melville",
         "year": 1851
-      },
-      {
-        "text": "So, we must prepare for peace not only by reducing weapons but by bolstering prosperity, liberty, and democracy however and wherever we can.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Ronald Reagan",
-        "year": 1986
-      },
-      {
-        "text": "Miller's remarks reflected concern that the U.S. central bank might feel compelled to tighten credit as a means of bolstering the dollar.",
-        "kind": "news",
-        "source": "Reuters, “Budget Chief Miller Warns Fed On Interest Rates”",
-        "year": 1987
       }
     ]
   },
@@ -957,6 +940,11 @@
     "etymology": "From Italian capriccio \"a sudden start,\" popularly linked with capra \"goat,\" as if moving with a goat's unpredictable leaps.",
     "examples": [
       {
+        "text": "Model Caprice and Holby City actor Jeremy Edwards have both left the Celebrity Big Brother house in a surprise double eviction on Friday.",
+        "kind": "news",
+        "source": "BBC News, “Double eviction from Big Brother”"
+      },
+      {
         "text": "After sipping a dozen spoonfuls of tea, he suddenly released his head, pushed the spoon away capriciously, and sank back on the pillow.",
         "kind": "literature",
         "source": "Crime and Punishment",
@@ -969,13 +957,6 @@
         "source": "Middlemarch",
         "author": "George Eliot",
         "year": 1871
-      },
-      {
-        "text": "But the next morning when he awoke he felt rather vexed with her, and decided that she was rather unreasonable, not to say capricious.",
-        "kind": "literature",
-        "source": "Jude the Obscure",
-        "author": "Thomas Hardy",
-        "year": 1895
       }
     ]
   },
@@ -1004,6 +985,11 @@
     "etymology": "From Latin castigare \"to correct, punish,\" from castus \"pure\" (also the source of \"chaste\").",
     "examples": [
       {
+        "text": "Robinson has been blamed for poor leadership in the tournament, while his coach has been castigated for appointing a full-back captain.",
+        "kind": "news",
+        "source": "BBC News, “Campese berates whingeing England”"
+      },
+      {
         "text": "She was in a very paroxysm of self-castigation, and, concluding, she looked with defiant resolution at the elder.",
         "kind": "literature",
         "source": "The Brothers Karamazov",
@@ -1016,13 +1002,6 @@
         "source": "Bleak House",
         "author": "Charles Dickens",
         "year": 1853
-      },
-      {
-        "text": "But ultimately this little castigation had broken no bones between him and his friend Mr. Towers.",
-        "kind": "literature",
-        "source": "Barchester Towers",
-        "author": "Anthony Trollope",
-        "year": 1857
       }
     ]
   },
@@ -1051,6 +1030,11 @@
     "etymology": "From Greek kaustikos \"capable of burning,\" from kaiein \"to burn\" (also in \"cauterize\").",
     "examples": [
       {
+        "text": "\"I'm not going to be the Mr Nasty of books,\" said Cowell, 54, in reference to his brother's caustic remarks on TV shows Pop Idol and The X-Factor.",
+        "kind": "news",
+        "source": "BBC News, “Lit Idol begins search for author”"
+      },
+      {
         "text": "Mr Flintwinch, after scraping his chin, and looking about with caustic disparagement of the Pig-Market, nodded to Arthur, and followed.",
         "kind": "literature",
         "source": "Little Dorrit",
@@ -1063,13 +1047,6 @@
         "source": "Lord Jim",
         "author": "Joseph Conrad",
         "year": 1900
-      },
-      {
-        "text": "The latter in Pierre's presence had ceased to be caustic, and his face expressed perplexity as to what Julie's smile might mean.",
-        "kind": "literature",
-        "source": "War and Peace",
-        "author": "Leo Tolstoy (tr. Louise and Aylmer Maude)",
-        "year": 1869
       }
     ]
   },
@@ -1146,25 +1123,21 @@
     "etymology": "From Latin complacere \"to please very much.\" In the 1600s it meant simply \"pleasing\"; the sense of smugness came later.",
     "examples": [
       {
+        "text": "\"We are, however, operating in a global market and there is no room for complacency simply because we are currently profitable and successful.\"",
+        "kind": "news",
+        "source": "BBC News, “Qantas considers offshore option”"
+      },
+      {
+        "text": "\"We can be relatively complacent about the effects of climate change in the Southern Hemisphere because we haven't seen dramatic changes,\" he says.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Sir Leicester sits in my Lady's room—that room in which Mr. Tulkinghorn read the affidavit in Jarndyce and Jarndyce—particularly complacent.",
         "kind": "literature",
         "source": "Bleak House",
         "author": "Charles Dickens",
         "year": 1853
-      },
-      {
-        "text": "But his self-complacency seduced him into attempting a flight into regions of unexplored English, and the reckless experiment was his ruin.",
-        "kind": "literature",
-        "source": "The Innocents Abroad",
-        "author": "Mark Twain",
-        "year": 1869
-      },
-      {
-        "text": "History and experience tells us that moral progress cannot come in comfortable and in complacent times, but out of trial and out of confusion.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Gerald Ford",
-        "year": 1976
       }
     ]
   },
@@ -1194,24 +1167,22 @@
     "etymology": "From Latin conciliare \"to bring together, unite,\" from concilium \"council.\"",
     "examples": [
       {
+        "text": "Prime Minister Yasuhiro Nakasone sounded a conciliatory note in Japan's increasingly bitter row with the United States over trade in computer microchips.",
+        "kind": "news",
+        "source": "Reuters, “Nakasone Sounds Conciliatory Note In Chip Dispute”",
+        "year": 1987
+      },
+      {
+        "text": "The US government may still make a conciliatory gesture, just as happened a year ago when Vice President Dick Cheney made a surprise appearance in Davos.",
+        "kind": "news",
+        "source": "BBC News, “World leaders gather to face uncertainty”"
+      },
+      {
         "text": "Elizabeth disdained the appearance of noticing this civil reflection, but its meaning did not escape, nor was it likely to conciliate her.",
         "kind": "literature",
         "source": "Pride and Prejudice",
         "author": "Jane Austen",
         "year": 1813
-      },
-      {
-        "text": "When I became President only 5 months ago, I promised the last Congress a policy of communication, conciliation, compromise, and cooperation.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Gerald Ford",
-        "year": 1975
-      },
-      {
-        "text": "Prime Minister Yasuhiro Nakasone sounded a conciliatory note in Japan's increasingly bitter row with the United States over trade in computer microchips.",
-        "kind": "news",
-        "source": "Reuters, “Nakasone Sounds Conciliatory Note In Chip Dispute”",
-        "year": 1987
       }
     ]
   },
@@ -1475,6 +1446,11 @@
     "etymology": "From Greek dēlētērios \"noxious,\" from dēleisthai \"to hurt, damage.\"",
     "examples": [
       {
+        "text": "The MPAA said in a statement that it would continue to provide easy access to similar tools in the coming months to combat \"the deleterious effects of peer-to-peer software, including such common problems as viruses, Trojan horses and identity theft\".",
+        "kind": "news",
+        "source": "BBC News, “Movie body targets children's PCs”"
+      },
+      {
         "text": "Or might it suffice him that every wholesome growth should be converted into something deleterious and malignant at his touch?",
         "kind": "literature",
         "source": "The Scarlet Letter",
@@ -1487,13 +1463,6 @@
         "source": "The House of Mirth",
         "author": "Edith Wharton",
         "year": 1905
-      },
-      {
-        "text": "The Captain continued that deleterious amusement of smoking, long after the inn and the street were gone to bed.",
-        "kind": "literature",
-        "source": "Vanity Fair",
-        "author": "William Makepeace Thackeray",
-        "year": 1848
       }
     ]
   },
@@ -1757,24 +1726,22 @@
     "etymology": "From Latin disparatus \"separated,\" from dis- \"apart\" + parare \"to prepare.\" Associated in English with dispar \"unequal.\"",
     "examples": [
       {
+        "text": "However, \"differentiated policy treatment is required\" to take account of large disparities in the situation around the EC, he said.",
+        "kind": "news",
+        "source": "Reuters, “Consensus Builds For World Agricultural Reform”",
+        "year": 1987
+      },
+      {
+        "text": "He says he may set up an inquiry to investigate the disparity between classification systems used to grade old-growth logging in Indonesia, PNG and Australia.",
+        "kind": "news",
+        "source": "ABC Rural (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "I might have seen there was too great a disparity between the ages of the parties to make it likely that they were man and wife.",
         "kind": "literature",
         "source": "Wuthering Heights",
         "author": "Emily Brontë",
         "year": 1847
-      },
-      {
-        "text": "'There can be no disparity in marriage like unsuitability of mind and purpose'—'no disparity in marriage like unsuitability of mind and purpose.'",
-        "kind": "literature",
-        "source": "David Copperfield",
-        "author": "Charles Dickens",
-        "year": 1850
-      },
-      {
-        "text": "However, \"differentiated policy treatment is required\" to take account of large disparities in the situation around the EC, he said.",
-        "kind": "news",
-        "source": "Reuters, “Consensus Builds For World Agricultural Reform”",
-        "year": 1987
       }
     ]
   },
@@ -1851,18 +1818,16 @@
     "etymology": "From Greek dogma \"opinion, decree,\" from dokein \"to seem good, think.\"",
     "examples": [
       {
+        "text": "\"After eight years of persistent change, dogmatic enforcement of regulation, and overbearing government initiatives - we need action, not a vision,\" said Mr Burns.",
+        "kind": "news",
+        "source": "BBC News, “Plan to give elderly care control”"
+      },
+      {
         "text": "Two thousand years ago such dogmatism, readily welcome, would have scouted the idea of blond races ever leading civilization.",
         "kind": "literature",
         "source": "The Souls of Black Folk",
         "author": "W. E. B. Du Bois",
         "year": 1903
-      },
-      {
-        "text": "His gentleness was never tinged by dogmatism, and his instructions were given with an air of frankness and good nature that banished every idea of pedantry.",
-        "kind": "literature",
-        "source": "Frankenstein",
-        "author": "Mary Shelley",
-        "year": 1818
       },
       {
         "text": "There is no subject of economic discussion so intricate and so likely to evoke differing views and dogmatic statements as this one.",
@@ -1897,24 +1862,21 @@
     "etymology": "From Latin efficacia, from efficere \"to accomplish.\"",
     "examples": [
       {
+        "text": "Australia's free trade deal with the US may mean nanotherapies may be rushed through tests for safety, efficacy and quality, one critic says.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
+        "text": "While the technique of routing mail via mail servers of net service firms might cause problems for those that use blacklists and block lists it did not mean that other techniques for stopping spam lost their efficacy too.",
+        "kind": "news",
+        "source": "BBC News, “Warnings about junk mail deluge”"
+      },
+      {
         "text": "The second answer is, that the existence of such a power in the Constitution will have a strong influence in giving efficacy to requisitions.",
         "kind": "literature",
         "source": "The Federalist Papers",
         "author": "Alexander Hamilton, James Madison & John Jay",
         "year": 1788
-      },
-      {
-        "text": "The devoutest person could have rendered no greater homage to the efficacy of an honest prayer than he did in this distrust of his wife.",
-        "kind": "literature",
-        "source": "A Tale of Two Cities",
-        "author": "Charles Dickens",
-        "year": 1859
-      },
-      {
-        "text": "But other dealers said they doubted the efficacy of central bank intervention, saying it may stimulate the dollar's decline because many dealers are likely to await such dollar buying intervention as a chance to sell dollars.",
-        "kind": "news",
-        "source": "Reuters, “Dollar Seen Falling Unless Japan Spurs Economy”",
-        "year": 1987
       }
     ]
   },
@@ -1989,18 +1951,16 @@
     "etymology": "From Latin eloqui \"to speak out,\" from e- \"out\" + loqui \"to speak\" (compare \"loquacious\").",
     "examples": [
       {
+        "text": "What can I add to Mr. Forsyth's eloquently put arguments... except applause!",
+        "kind": "news",
+        "source": "BBC News, “Terror powers expose 'tyranny'”"
+      },
+      {
         "text": "Pan Mussyalovitch had indeed sent an extremely long and characteristically eloquent letter in which he begged her to lend him three roubles.",
         "kind": "literature",
         "source": "The Brothers Karamazov",
         "author": "Fyodor Dostoevsky (tr. Constance Garnett)",
         "year": 1880
-      },
-      {
-        "text": "It is the loved subject of all his evening discourses, the source of all his eloquence, the secret of all his power over the female heart.",
-        "kind": "literature",
-        "source": "Barchester Towers",
-        "author": "Anthony Trollope",
-        "year": 1857
       },
       {
         "text": "Their newly found economic strength is eloquent testimony to the striking success of the policies of economic cooperation which we and they have pursued.",
@@ -2033,25 +1993,21 @@
     "etymology": "From Latin aemulari \"to rival,\" from aemulus \"rivaling.\"",
     "examples": [
       {
+        "text": "The game has also tried to emulate franchises such as Jak and Daxter and Ratchet and Clank on PS2 and so there are a number of combat elements.",
+        "kind": "news",
+        "source": "BBC News, “Blinx sequel purrs nicely”"
+      },
+      {
+        "text": "\"It's ironic,\" says Walsh, \"that we are looking at the possibility of emulating something that has now been replaced by something much closer to what we've currently got.\"",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "I will endeavour, in my relations with Mrs. Merridew, to emulate the moderation which Betteredge displays in his relations with me.",
         "kind": "literature",
         "source": "The Moonstone",
         "author": "Wilkie Collins",
         "year": 1868
-      },
-      {
-        "text": "'My son's great capacity was tempted on, there, by a feeling of voluntary emulation and conscious pride,' the fond lady went on to say.",
-        "kind": "literature",
-        "source": "David Copperfield",
-        "author": "Charles Dickens",
-        "year": 1850
-      },
-      {
-        "text": "And we know that the best way to enhance freedom in other lands is to demonstrate here that our democratic system is worthy of emulation.",
-        "kind": "speech",
-        "source": "Inaugural Address",
-        "author": "Jimmy Carter",
-        "year": 1977
       }
     ]
   },
@@ -2124,25 +2080,21 @@
     "etymology": "From Greek ainigma \"riddle,\" from ainissesthai \"to speak in riddles.\"",
     "examples": [
       {
+        "text": "One of them came from the enigmatic Robben when he jinked his way through two Arsenal defenders only to see his poked shot saved by Almunia.",
+        "kind": "news",
+        "source": "BBC News, “Chelsea hold Arsenal”"
+      },
+      {
+        "text": "Scientists say they've solved a decade-old puzzle about the enigmatic 'strange quark', one of the fundamental building blocks of matter.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Daniel felt the presence of a new guest who seemed to come with an enigmatic veiled face, and to carry dimly-conjectured, dreaded revelations.",
         "kind": "literature",
         "source": "Daniel Deronda",
         "author": "George Eliot",
         "year": 1876
-      },
-      {
-        "text": "This stupid repetition was too incongruous in its ineptitude with the serious, brooding and enigmatic glance he turned upon his visitor.",
-        "kind": "literature",
-        "source": "Crime and Punishment",
-        "author": "Fyodor Dostoevsky (tr. Constance Garnett)",
-        "year": 1866
-      },
-      {
-        "text": "I was at first unable to solve these questions, but perpetual attention and time explained to me many appearances which were at first enigmatic.",
-        "kind": "literature",
-        "source": "Frankenstein",
-        "author": "Mary Shelley",
-        "year": 1818
       }
     ]
   },
@@ -2171,6 +2123,11 @@
     "etymology": "From Greek ephēmeros \"lasting only a day,\" from epi- \"on\" + hēmera \"day.\"",
     "examples": [
       {
+        "text": "Georges says unlike other turtles, Chelodina longicollis has evolved the ability to take long overland hikes because it prefers ephemeral waters, such as temporary swamps and pools.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "In fact, if there could be any hope, it would be very ephemeral, because there would be no claim for assistance in that case, far from it....",
         "kind": "literature",
         "source": "Crime and Punishment",
@@ -2183,13 +2140,6 @@
         "source": "Jude the Obscure",
         "author": "Thomas Hardy",
         "year": 1895
-      },
-      {
-        "text": "Her beauty itself was not the mere ephemeral possession it might have been in the hands of inexperience: her skill in enhancing it, the care she took of it, the use she made of it, seemed to give it a kind of permanence.",
-        "kind": "literature",
-        "source": "The House of Mirth",
-        "author": "Edith Wharton",
-        "year": 1905
       }
     ]
   },
@@ -2403,22 +2353,20 @@
     "etymology": "From Latin exacerbare \"to irritate,\" from ex- \"thoroughly\" + acerbus \"harsh, bitter.\"",
     "examples": [
       {
+        "text": "Worries about the size of insurance liabilities dragged European shares down, although the impact was exacerbated by light post-Christmas trading.",
+        "kind": "news",
+        "source": "BBC News, “Asian quake hits European shares”"
+      },
+      {
         "text": "Iran had warned the United States earlier in the day against exacerbating the Gulf crisis, saying military action would endanger American interests.",
         "kind": "news",
         "source": "Reuters, “Diplomats Call U.S. Attack On Oil Rig Restrained”",
         "year": 1987
       },
       {
-        "text": "In particular, he told an American Stock Exchange conference, a decline in the dollar below current levels would exacerbate financial market conditions.",
+        "text": "The licensing changes have sparked concern among some MPs, councils and some senior police officers who fear they could exacerbate drinking problems.",
         "kind": "news",
-        "source": "Reuters, “Fed'S Johnson Warns Against Lower Dollar”",
-        "year": 1987
-      },
-      {
-        "text": "Iran warned the United States on Monday against exacerbating the Gulf crisis, saying it would endanger American interests.",
-        "kind": "news",
-        "source": "Reuters, “Iran Warns U.S. Against Raising Tension In Gulf”",
-        "year": 1987
+        "source": "BBC News, “Police urge pub closure power”"
       }
     ]
   },
@@ -2587,18 +2535,16 @@
     "etymology": "From Latin fervere \"to boil, glow.\"",
     "examples": [
       {
+        "text": "But the release of the first full version of Firefox has managed to drum up a respectable amount of pre-launch fervour.",
+        "kind": "news",
+        "source": "BBC News, “Firefox browser takes on Microsoft”"
+      },
+      {
         "text": "How lovingly and fervently did it commend the pretty creature I had won, with all her artless graces best displayed, to my most gentle care!",
         "kind": "literature",
         "source": "David Copperfield",
         "author": "Charles Dickens",
         "year": 1850
-      },
-      {
-        "text": "Her jungle romance had faded, but she retained a religious fervor, a surge of half-formed thought about the creation of beauty by suggestion.",
-        "kind": "literature",
-        "source": "Main Street",
-        "author": "Sinclair Lewis",
-        "year": 1920
       },
       {
         "text": "And tonight I call on all our allies and peace-loving nations throughout the world to join us with renewed fervor in a global effort to combat terrorism.",
@@ -2682,6 +2628,11 @@
     "etymology": "From Latin gregarius, from grex \"flock, herd\" (also in \"congregate\" and \"egregious\").",
     "examples": [
       {
+        "text": "The normally gregarious Evans cut a peculiarly unshowbusiness-like figure as he sipped coffee and smoked cigarettes, wrapped in a big coat and scarf in front of his Aladdin's cave.",
+        "kind": "news",
+        "source": "BBC News, “Chris Evans back on the market”"
+      },
+      {
         "text": "Even now I am certain that those seas are not, and perhaps never can be, in the present constitution of things, a place for his habitual gregarious resort.",
         "kind": "literature",
         "source": "Moby-Dick",
@@ -2694,13 +2645,6 @@
         "source": "Beyond Good and Evil",
         "author": "Friedrich Nietzsche (tr. Helen Zimmern)",
         "year": 1886
-      },
-      {
-        "text": "It was so that the gregarious animals had overcome the predaceous; it was so, in human history, that the people had mastered the kings.",
-        "kind": "literature",
-        "source": "The Jungle",
-        "author": "Upton Sinclair",
-        "year": 1906
       }
     ]
   },
@@ -2773,6 +2717,11 @@
     "etymology": "From Old French arenge, from Medieval Latin harenga, probably from a Germanic word for an assembly or a crowd.",
     "examples": [
       {
+        "text": "The International Rugby Board may have to step in to stop frustrated coaches and players from publicly haranguing referees when things go belly-up.",
+        "kind": "news",
+        "source": "BBC News, “Ireland win eclipses refereeing 'errors'”"
+      },
+      {
         "text": "When Lebeziatnikov finished his long-winded harangue with the logical deduction at the end, he was quite tired, and the perspiration streamed from his face.",
         "kind": "literature",
         "source": "Crime and Punishment",
@@ -2785,13 +2734,6 @@
         "source": "Barchester Towers",
         "author": "Anthony Trollope",
         "year": 1857
-      },
-      {
-        "text": "The schoolmaster was sitting at his high desk, with his back to me, apparently haranguing the pupils, who were all gathered together in front of him, with one exception.",
-        "kind": "literature",
-        "source": "The Woman in White",
-        "author": "Wilkie Collins",
-        "year": 1859
       }
     ]
   },
@@ -2915,18 +2857,16 @@
     "etymology": "From Latin incongruus, from in- \"not\" + congruus \"agreeing.\"",
     "examples": [
       {
+        "text": "\"It's within the same concept but it's incongruous, it's the mismatch... it's not the fact that you've fallen onto your backside.\"",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Obstacles, incongruities, all melted into the sense of completion with which his soul was flooded by this outward satisfaction of his longing.",
         "kind": "literature",
         "source": "Daniel Deronda",
         "author": "George Eliot",
         "year": 1876
-      },
-      {
-        "text": "Talk to me of love!' said Bella, contemptuously: though her face and figure certainly rendered the subject no incongruous one.",
-        "kind": "literature",
-        "source": "Our Mutual Friend",
-        "author": "Charles Dickens",
-        "year": 1865
       },
       {
         "text": "The negative upon the acts of the legislative by the executive authority, and that in the hands of one individual, would seem to be an incongruity in our system.",
@@ -3054,24 +2994,22 @@
     "etymology": "From Latin inexorabilis, from in- \"not\" + exorare \"to prevail upon by entreaty,\" from orare \"to pray.\"",
     "examples": [
       {
+        "text": "However, in the face of sterling's apparently inexorable climb, the authorities today decided to cede to pressure and allow a half-point cut.",
+        "kind": "news",
+        "source": "Reuters, “U.K. Issues One Billion Stg Bond Tranche”",
+        "year": 1987
+      },
+      {
+        "text": "The proliferation of gadgets in our homes is inexorably altering the role of the high street in our lives thinks Mr Vaughan.",
+        "kind": "news",
+        "source": "BBC News, “Sony PSP tipped as a 'must-have'”"
+      },
+      {
         "text": "If he was by an inexorable logic to pay for it he was literally impatient to know the cost, and he held himself ready to pay in instalments.",
         "kind": "literature",
         "source": "The Ambassadors",
         "author": "Henry James",
         "year": 1903
-      },
-      {
-        "text": "A third challenge we have is to keep this inexorable march of technology from giving terrorists and potentially hostile nations the means to undermine our defenses.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Bill Clinton",
-        "year": 2000
-      },
-      {
-        "text": "However, in the face of sterling's apparently inexorable climb, the authorities today decided to cede to pressure and allow a half-point cut.",
-        "kind": "news",
-        "source": "Reuters, “U.K. Issues One Billion Stg Bond Tranche”",
-        "year": 1987
       }
     ]
   },
@@ -3239,6 +3177,11 @@
     "etymology": "From Latin intrepidus, from in- \"not\" + trepidus \"alarmed\" (compare \"trepidation\").",
     "examples": [
       {
+        "text": "Not only do mythical figures like the Amazons, the god Apollo or the sirens of Homeric lore appear in space, but Star Trek contains the sweeping themes of intrepid adventure and bold exploration that lie at the heart of classical mythology.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "She had thought that of course Tom had deserted long ago, and she wondered at seeing him place himself in her power again in this intrepid way.",
         "kind": "literature",
         "source": "The Adventures of Tom Sawyer",
@@ -3251,13 +3194,6 @@
         "source": "Lord Jim",
         "author": "Joseph Conrad",
         "year": 1900
-      },
-      {
-        "text": "The brilliant Lady Stunnington tried a passage of arms with her, but was routed with great slaughter by the intrepid little Becky.",
-        "kind": "literature",
-        "source": "Vanity Fair",
-        "author": "William Makepeace Thackeray",
-        "year": 1848
       }
     ]
   },
@@ -3285,24 +3221,22 @@
     "etymology": "From Latin inundare, from in- \"onto\" + unda \"a wave.\"",
     "examples": [
       {
-        "text": "Here and there, especially at first, the inundation started on them and swept by; but when they had done descending, and were winding and climbing up a tower, they were alone.",
-        "kind": "literature",
-        "source": "A Tale of Two Cities",
-        "author": "Charles Dickens",
-        "year": 1859
-      },
-      {
-        "text": "Its air is much more attenuated than ours, its oceans have shrunk until they cover but a third of its surface, and as its slow seasons change huge snowcaps gather and melt about either pole and periodically inundate its temperate zones.",
-        "kind": "literature",
-        "source": "The War of the Worlds",
-        "author": "H. G. Wells",
-        "year": 1898
+        "text": "The barring of non-US visitors has led to the campaign being inundated with calls and forced it to make a statement about why the blocking was taking place.",
+        "kind": "news",
+        "source": "BBC News, “Attack prompts Bush site block”"
       },
       {
         "text": "\"We have the beer, but distribution and sales is the important point,\" van Schaik said, adding that since the ruling Heineken had been inundated by German traders seeking joint ventures.",
         "kind": "news",
         "source": "Reuters, “Heineken Sees Higher Profits, Wider Penetration”",
         "year": 1987
+      },
+      {
+        "text": "Here and there, especially at first, the inundation started on them and swept by; but when they had done descending, and were winding and climbing up a tower, they were alone.",
+        "kind": "literature",
+        "source": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "year": 1859
       }
     ]
   },
@@ -3427,24 +3361,22 @@
     "etymology": "From Greek lēthargos \"forgetful,\" from lēthē \"forgetfulness.\" Lethe was the river of forgetting in the underworld.",
     "examples": [
       {
-        "text": "The gaunt rooms, deserted for years upon years, seemed to have settled down into a gloomy lethargy from which nothing could rouse them again.",
-        "kind": "literature",
-        "source": "Little Dorrit",
-        "author": "Charles Dickens",
-        "year": 1857
-      },
-      {
-        "text": "The lethargy grows upon her, and though she seems strong and well, and is getting back some of her colour, Van Helsing and I are not satisfied.",
-        "kind": "literature",
-        "source": "Dracula",
-        "author": "Bram Stoker",
-        "year": 1897
+        "text": "Indeed, it was the visitors who looked likelier to enliven a drab opening played at a lethargic pace.",
+        "kind": "news",
+        "source": "BBC News, “Chelsea denied by James heroics”"
       },
       {
         "text": "The French primary bond market is showing signs of renewed effervescence after several weeks of lethargy and the trend is expected to continue if hopes of imminent interest rate cuts are fulfilled, market operators said.",
         "kind": "news",
         "source": "Reuters, “French Primary Bond Market Shows New Sparkle”",
         "year": 1987
+      },
+      {
+        "text": "The gaunt rooms, deserted for years upon years, seemed to have settled down into a gloomy lethargy from which nothing could rouse them again.",
+        "kind": "literature",
+        "source": "Little Dorrit",
+        "author": "Charles Dickens",
+        "year": 1857
       }
     ]
   },
@@ -3473,6 +3405,11 @@
     "etymology": "From Latin loquax \"talkative,\" from loqui \"to speak.\"",
     "examples": [
       {
+        "text": "Pedestrians are also out in force, and are a loquacious bunch.",
+        "kind": "news",
+        "source": "BBC News, “GTA sequel is criminally good”"
+      },
+      {
         "text": "They began to talk, and finding Clutton more loquacious and less sardonic than usual, Philip determined to take advantage of his good humour.",
         "kind": "literature",
         "source": "Of Human Bondage",
@@ -3485,13 +3422,6 @@
         "source": "The Mill on the Floss",
         "author": "George Eliot",
         "year": 1860
-      },
-      {
-        "text": "Sancho Panza, who was wishing the goatherd's loquacity at the devil, on his part begged his master to go into Pedro's hut to sleep.",
-        "kind": "literature",
-        "source": "Don Quixote",
-        "author": "Miguel de Cervantes (tr. John Ormsby)",
-        "year": 1605
       }
     ]
   },
@@ -3521,6 +3451,11 @@
     "etymology": "From Latin lucidus \"bright,\" from lux \"light.\"",
     "examples": [
       {
+        "text": "The game's visual quality would be \"like a lucid dream,\" said Mr Cameron.",
+        "kind": "news",
+        "source": "BBC News, “New consoles promise big problems”"
+      },
+      {
         "text": "But he rode home with a terribly lucid vision of the difficulty there would be in arranging any result that could be permanently counted on with this man.",
         "kind": "literature",
         "source": "Middlemarch",
@@ -3533,13 +3468,6 @@
         "source": "Little Dorrit",
         "author": "Charles Dickens",
         "year": 1857
-      },
-      {
-        "text": "She is an enrolled, a direct, aid to lucidity; she is in fine, to tear off her mask, the most unmitigated and abandoned of ficelles.",
-        "kind": "literature",
-        "source": "The Ambassadors",
-        "author": "Henry James",
-        "year": 1903
       }
     ]
   },
@@ -3661,24 +3589,21 @@
     "etymology": "From Latin mitigare, from mitis \"mild, soft\" + agere \"to make.\"",
     "examples": [
       {
+        "text": "In most of these cases, the scientists speculate that the leaf mash might have been used to mitigate topical skin infections or repel bugs.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
+        "text": "\"We are looking to mitigate an exposure, cost to growers, by potentially diverting some of those vessels to other markets,\" he said.",
+        "kind": "news",
+        "source": "ABC Rural (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Here also the firmness of the judicial magistracy is of vast importance in mitigating the severity and confining the operation of such laws.",
         "kind": "literature",
         "source": "The Federalist Papers",
         "author": "Alexander Hamilton, James Madison & John Jay",
         "year": 1788
-      },
-      {
-        "text": "We have not failed, nor shall we fail to respond, whenever necessary to mitigate human suffering and assist in the rehabilitation of distressed nations.",
-        "kind": "speech",
-        "source": "Inaugural Address",
-        "author": "Calvin Coolidge",
-        "year": 1925
-      },
-      {
-        "text": "It said instead that such moves as increasing oil reserves and more exploration and development research would help to guard against or mitigate the risks of increased imports.",
-        "kind": "news",
-        "source": "Reuters, “Study Group Urges Increased U.S. Oil Reserves”",
-        "year": 1987
       }
     ]
   },
@@ -3705,6 +3630,12 @@
     "etymology": "From Latin mollificare \"to soften,\" from mollis \"soft.\"",
     "examples": [
       {
+        "text": "But some analysts said Japan's attempt to mollify the U.S. was a double edged sword, and might be read at a subtle form of trade retaliation for the tariffs proposed by the U.S.",
+        "kind": "news",
+        "source": "Reuters, “Japan Cuts Chip Supply, May Produce Shortage”",
+        "year": 1987
+      },
+      {
         "text": "Analytical Chemist goes to the door, confers angrily with unseen tapper, appears to become mollified by descrying reason in the tapping, and goes out.",
         "kind": "literature",
         "source": "Our Mutual Friend",
@@ -3717,12 +3648,6 @@
         "source": "Vanity Fair",
         "author": "William Makepeace Thackeray",
         "year": 1848
-      },
-      {
-        "text": "But some analysts said Japan's attempt to mollify the U.S. was a double edged sword, and might be read at a subtle form of trade retaliation for the tariffs proposed by the U.S.",
-        "kind": "news",
-        "source": "Reuters, “Japan Cuts Chip Supply, May Produce Shortage”",
-        "year": 1987
       }
     ]
   },
@@ -3892,6 +3817,12 @@
     "etymology": "From Latin obstinatus \"determined,\" from obstinare \"to persist.\"",
     "examples": [
       {
+        "text": "The money market head said the unions' humiliation by the protracted financial problems of the Neue Heimat cooperative housing venture would contribute to union obstinacy.",
+        "kind": "news",
+        "source": "Reuters, “German Wage Round Said To Limit Monetary Options”",
+        "year": 1987
+      },
+      {
         "text": "With regard to a large number of matters about which other men are decided or obstinate, he was the most easily manageable man in the world.",
         "kind": "literature",
         "source": "Middlemarch",
@@ -3904,12 +3835,6 @@
         "source": "Crime and Punishment",
         "author": "Fyodor Dostoevsky (tr. Constance Garnett)",
         "year": 1866
-      },
-      {
-        "text": "The money market head said the unions' humiliation by the protracted financial problems of the Neue Heimat cooperative housing venture would contribute to union obstinacy.",
-        "kind": "news",
-        "source": "Reuters, “German Wage Round Said To Limit Monetary Options”",
-        "year": 1987
       }
     ]
   },
@@ -3935,6 +3860,11 @@
     "etymology": "From Late Latin obviare \"to meet in the way, prevent,\" from ob viam \"in the way.\"",
     "examples": [
       {
+        "text": "\"These technological advances could potentially obviate the need for geological repositories altogether.\"",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "The propositions which have been made for supplying the omission have rather served to illustrate than to obviate the difficulty of the thing.",
         "kind": "literature",
         "source": "The Federalist Papers",
@@ -3947,13 +3877,6 @@
         "source": "Dracula",
         "author": "Bram Stoker",
         "year": 1897
-      },
-      {
-        "text": "Having approached this structure, I looked inside, and perceived it to be a singular sort of old-fashioned couch, very conveniently designed to obviate the necessity for every member of the family having a room to himself.",
-        "kind": "literature",
-        "source": "Wuthering Heights",
-        "author": "Emily Brontë",
-        "year": 1847
       }
     ]
   },
@@ -4026,25 +3949,21 @@
     "etymology": "From Latin onerosus, from onus \"a load, burden.\"",
     "examples": [
       {
+        "text": "The SEC said it had taken into consideration the fact that foreign companies were already working to meet more onerous financial reporting rules in their home countries.",
+        "kind": "news",
+        "source": "BBC News, “US gives foreign firms extra time”"
+      },
+      {
+        "text": "But Federal Industry Minister, Ian Macfarlane, says a mandatory code would have been too onerous.",
+        "kind": "news",
+        "source": "ABC Rural (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "I think on the whole the bishop was right, for though the services required will not be of a very onerous nature, they will be more so than they were before.",
         "kind": "literature",
         "source": "Barchester Towers",
         "author": "Anthony Trollope",
         "year": 1857
-      },
-      {
-        "text": "And Boris, having apparently relieved himself of an onerous duty and extricated himself from an awkward situation and placed another in it, became quite pleasant again.",
-        "kind": "literature",
-        "source": "War and Peace",
-        "author": "Leo Tolstoy (tr. Louise and Aylmer Maude)",
-        "year": 1869
-      },
-      {
-        "text": "The appointing power vested in the President imposes delicate and onerous duties.",
-        "kind": "speech",
-        "source": "Inaugural Address",
-        "author": "Zachary Taylor",
-        "year": 1849
       }
     ]
   },
@@ -4073,6 +3992,11 @@
     "etymology": "From Latin ostentare \"to display,\" frequentative of ostendere \"to show.\"",
     "examples": [
       {
+        "text": "However, the ostentation of some of the items on sale painted a picture of the eccentricity that endeared him to the British public in shows such as Channel 4's gameshow Don't Forget Your Toothbrush.",
+        "kind": "news",
+        "source": "BBC News, “Chris Evans back on the market”"
+      },
+      {
         "text": "He carried his fat paunch with ostentation on his short legs, and during the time his gang infested the station spoke to no one but his nephew.",
         "kind": "literature",
         "source": "Heart of Darkness",
@@ -4085,13 +4009,6 @@
         "source": "Beyond Good and Evil",
         "author": "Friedrich Nietzsche (tr. Helen Zimmern)",
         "year": 1886
-      },
-      {
-        "text": "Her husband was lying in a great leather chair in the dining-room, and by his side, holding his hand rather ostentatiously, was Evie.",
-        "kind": "literature",
-        "source": "Howards End",
-        "author": "E. M. Forster",
-        "year": 1910
       }
     ]
   },
@@ -4159,24 +4076,22 @@
     "etymology": "From Latin paucitas, from paucus \"few\" (related to \"paltry\" and \"poor\").",
     "examples": [
       {
-        "text": "Any inward debate Lydgate had as to the consequences of this engagement which had stolen upon him, turned on the paucity of time rather than of money.",
-        "kind": "literature",
-        "source": "Middlemarch",
-        "author": "George Eliot",
-        "year": 1871
-      },
-      {
-        "text": "Here again I found the tally agreeing exactly; the carriers' men were able to supplement the paucity of the written words with a few details.",
-        "kind": "literature",
-        "source": "Dracula",
-        "author": "Bram Stoker",
-        "year": 1897
+        "text": "\"With the paucity of contrary evidence, the hills are presumed to be anthropogenic structures of potentially colossal proportions,\" says Bosnian geophysicist Dr Amer Smailbegovic.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
       },
       {
         "text": "Nashashibi said lack of experience among Arab banks, a paucity of financial instruments and a legal framework that often does not recognise the western banking concept of interest have hampered the growth of Arab markets.",
         "kind": "news",
         "source": "Reuters, “Arab Banker Says Too Soon For Single Currency”",
         "year": 1987
+      },
+      {
+        "text": "Any inward debate Lydgate had as to the consequences of this engagement which had stolen upon him, turned on the paucity of time rather than of money.",
+        "kind": "literature",
+        "source": "Middlemarch",
+        "author": "George Eliot",
+        "year": 1871
       }
     ]
   },
@@ -4205,6 +4120,13 @@
     "etymology": "From Italian pedante \"teacher, schoolmaster,\" perhaps from Greek paideuein \"to teach.\"",
     "examples": [
       {
+        "text": "His gentleness was never tinged by dogmatism, and his instructions were given with an air of frankness and good nature that banished every idea of pedantry.",
+        "kind": "literature",
+        "source": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": 1818
+      },
+      {
         "text": "Perhaps it need not be done so pedantically, thought Nicholas, or even done at all, but this untiring, continual spiritual effort of which the sole aim was the children's moral welfare delighted him.",
         "kind": "literature",
         "source": "War and Peace",
@@ -4217,13 +4139,6 @@
         "source": "Middlemarch",
         "author": "George Eliot",
         "year": 1871
-      },
-      {
-        "text": "\"The facts are as follows,\" replied Tibby, who had at times a pedantic lucidity.",
-        "kind": "literature",
-        "source": "Howards End",
-        "author": "E. M. Forster",
-        "year": 1910
       }
     ]
   },
@@ -4299,18 +4214,16 @@
     "etymology": "From Latin perniciosus \"destructive,\" from pernicies \"ruin,\" from per- \"completely\" + nex \"death.\"",
     "examples": [
       {
+        "text": "The pernicious program opens a backdoor on a computer so it can be controlled remotely by malicious hackers.",
+        "kind": "news",
+        "source": "BBC News, “Beckham virus spotted on the net”"
+      },
+      {
         "text": "Despite that pernicious assumption of lassitude and indifference, which had become his second nature, he was strongly attached to his friend.",
         "kind": "literature",
         "source": "Our Mutual Friend",
         "author": "Charles Dickens",
         "year": 1865
-      },
-      {
-        "text": "Sviazhsky began talking of Levin, describing his strange view that machinery is simply pernicious in its effects on Russian agriculture.",
-        "kind": "literature",
-        "source": "Anna Karenina",
-        "author": "Leo Tolstoy (tr. Constance Garnett)",
-        "year": 1878
       },
       {
         "text": "It will furnish absolute security which makes the proposed scheme of government guaranty of deposits so alluring, without its pernicious results.",
@@ -4347,24 +4260,22 @@
     "etymology": "From Latin placare \"to soothe,\" related to placere \"to please.\"",
     "examples": [
       {
-        "text": "His manner of sneering at what he called \"parlor socialists\" (though the phrase was not overwhelmingly new) had a power which made her wish to placate his company of well-fed, speed-loving administrators.",
-        "kind": "literature",
-        "source": "Main Street",
-        "author": "Sinclair Lewis",
-        "year": 1920
-      },
-      {
-        "text": "For the rest of the term he tormented Philip cruelly, and, though Philip tried to keep out of his way, the school was so small that it was impossible; he tried being friendly and jolly with him; he abased himself, so far as to buy him a knife; but though Singer took the knife he was not placated.",
-        "kind": "literature",
-        "source": "Of Human Bondage",
-        "author": "W. Somerset Maugham",
-        "year": 1915
+        "text": "They say Mr Ellison may be trying to placate Peoplesoft customers riled by Oracle's determined takeover strategy.",
+        "kind": "news",
+        "source": "BBC News, “Jobs go at Oracle after takeover”"
       },
       {
         "text": "But today's smaller than expected rate cut appeared to have placated markets for now, analysts said.",
         "kind": "news",
         "source": "Reuters, “U.K. Base Rates Will Fall Again Soon, Say Analysts”",
         "year": 1987
+      },
+      {
+        "text": "His manner of sneering at what he called \"parlor socialists\" (though the phrase was not overwhelmingly new) had a power which made her wish to placate his company of well-fed, speed-loving administrators.",
+        "kind": "literature",
+        "source": "Main Street",
+        "author": "Sinclair Lewis",
+        "year": 1920
       }
     ]
   },
@@ -4394,11 +4305,9 @@
     "etymology": "From Greek pragmatikos \"relating to affairs,\" from pragma \"deed, thing done.\"",
     "examples": [
       {
-        "text": "They represent a pragmatic rededication to social compassion and national excellence, in place of the combination of good intentions and fuzzy follow-through which too often in the past was thought sufficient.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Richard Nixon",
-        "year": 1973
+        "text": "Using Braille for speeches, and briefed by his officials on tape, he also has a sharp tongue at times, and a pragmatic approach to politics.",
+        "kind": "news",
+        "source": "BBC News, “Profile: David Blunkett”"
       },
       {
         "text": "Arango said that government measures adopted here last week, including a lower export registration price, indicated a major change but also disclosed a welcome pragmatism.",
@@ -4407,10 +4316,11 @@
         "year": 1987
       },
       {
-        "text": "An economist at a German bank, who declined to be identified, said \"If Poehl is confirmed in his post, it will certainly be a plus for the pragmatic course which is not so rigidly oriented towards money supply.\"",
-        "kind": "news",
-        "source": "Reuters, “Poehl Looks Set For Eight More Years At Bundesbank”",
-        "year": 1987
+        "text": "They represent a pragmatic rededication to social compassion and national excellence, in place of the combination of good intentions and fuzzy follow-through which too often in the past was thought sufficient.",
+        "kind": "speech",
+        "source": "State of the Union Address",
+        "author": "Richard Nixon",
+        "year": 1973
       }
     ]
   },
@@ -4435,6 +4345,12 @@
     "etymology": "From Latin praevaricari \"to walk crookedly,\" from prae- \"before\" + varicare \"to straddle,\" from varus \"bent, knock-kneed.\"",
     "examples": [
       {
+        "text": "The bubble of frustration against what appears as Japanese prevarication burst last week.",
+        "kind": "news",
+        "source": "Reuters, “Japan Isolated, Yen Rises, World Feels Cheated”",
+        "year": 1987
+      },
+      {
         "text": "Barbara denied, prevaricated, stammered, and at last was overcome with confusion; for which even the most indulgent spectators could scarcely pity her.",
         "kind": "literature",
         "source": "The Parent's Assistant",
@@ -4447,12 +4363,6 @@
         "source": "The Ambassadors",
         "author": "Henry James",
         "year": 1903
-      },
-      {
-        "text": "The bubble of frustration against what appears as Japanese prevarication burst last week.",
-        "kind": "news",
-        "source": "Reuters, “Japan Isolated, Yen Rises, World Feels Cheated”",
-        "year": 1987
       }
     ]
   },
@@ -4479,25 +4389,21 @@
     "etymology": "From Latin pristinus \"former, early.\" The sense \"spotless, new\" developed only in the 20th century.",
     "examples": [
       {
+        "text": "The draft policy aims to protect 19 of the state's pristine river catchments, by introducing restrictions on agriculture, aquaculture and grazing.",
+        "kind": "news",
+        "source": "ABC Rural (Australian Broadcasting Corporation)"
+      },
+      {
+        "text": "A seven-year quest to return to Earth pristine samples from the solar system's formation ended in triumph in a dark and wet Utah desert at the weekend.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "And the separation is essential to the preservation of that institution in its pristine purity.",
         "kind": "literature",
         "source": "The Federalist Papers",
         "author": "Alexander Hamilton, James Madison & John Jay",
         "year": 1788
-      },
-      {
-        "text": "It grovelled helpless on the ground, even while his intellectual faculties retained their pristine strength, or had perhaps acquired a morbid energy, which disease only could have given them.",
-        "kind": "literature",
-        "source": "The Scarlet Letter",
-        "author": "Nathaniel Hawthorne",
-        "year": 1850
-      },
-      {
-        "text": "When the genuine spirit of liberty animates the body of a people to a thorough examination of their affairs, it leads to the excision of every excrescence which may have fastened itself upon any of the departments of the government, and restores the system to its pristine health and beauty.",
-        "kind": "speech",
-        "source": "Inaugural Address",
-        "author": "William Henry Harrison",
-        "year": 1841
       }
     ]
   },
@@ -4617,25 +4523,21 @@
     "etymology": "From Latin propensus \"inclined,\" from propendere \"to hang forward.\"",
     "examples": [
       {
+        "text": "In general, these squid tend to be solitary, unromantic animals with a propensity to cannibalise their neighbours and take sexual favours by force, he says.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
+        "text": "The paper's reasoning is complex, and is based on a sophisticated model of the relationship between tax regimes and corporate governance - in particular, the propensity of management to steal from the company.",
+        "kind": "news",
+        "source": "BBC News, “Could Yukos be a blessing in disguise?”"
+      },
+      {
         "text": "And Herbert had seen him as a predatory Tartar of comic propensities, with a face like a red brick, and an outrageous hat all over bells.",
         "kind": "literature",
         "source": "Great Expectations",
         "author": "Charles Dickens",
         "year": 1861
-      },
-      {
-        "text": "Edna often wondered at one propensity which sometimes had inwardly disturbed her without causing any outward show or manifestation on her part.",
-        "kind": "literature",
-        "source": "The Awakening and Selected Short Stories",
-        "author": "Kate Chopin",
-        "year": 1899
-      },
-      {
-        "text": "Are not popular assemblies frequently subject to the impulses of rage, resentment, jealousy, avarice, and of other irregular and violent propensities?",
-        "kind": "literature",
-        "source": "The Federalist Papers",
-        "author": "Alexander Hamilton, James Madison & John Jay",
-        "year": 1788
       }
     ]
   },
@@ -4712,24 +4614,22 @@
     "etymology": "Contracted from Latin providens \"foreseeing,\" from providere \"to see ahead\" (the root of \"provide\").",
     "examples": [
       {
-        "text": "The Florentines appointed as their captain Pagolo Vitelli, a most prudent man, who from a private position had risen to the greatest renown.",
-        "kind": "literature",
-        "source": "The Prince",
-        "author": "Niccolò Machiavelli (tr. W. K. Marriott)",
-        "year": 1532
-      },
-      {
-        "text": "We should approach our nation's budget as any prudent family would, with a contingency fund for emergencies or additional spending needs.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "George W. Bush",
-        "year": 2001
+        "text": "\"I may add that we are perilously close to the limits of fiscal prudence and there is no more room for spending beyond our means,\" he said.",
+        "kind": "news",
+        "source": "BBC News, “India unveils anti-poverty budget”"
       },
       {
         "text": "\"There is no assurance the bank will receive acceptable offers or be sold, but we feel this is a prudent step to take at this time,\" the bank said.",
         "kind": "news",
         "source": "Reuters, “Freedom Federal &Lt;Frfe.O> Seeks Buyer”",
         "year": 1987
+      },
+      {
+        "text": "The Florentines appointed as their captain Pagolo Vitelli, a most prudent man, who from a private position had risen to the greatest renown.",
+        "kind": "literature",
+        "source": "The Prince",
+        "author": "Niccolò Machiavelli (tr. W. K. Marriott)",
+        "year": 1532
       }
     ]
   },
@@ -4805,6 +4705,11 @@
     "etymology": "From Latin quiescere \"to become quiet,\" from quies \"rest.\"",
     "examples": [
       {
+        "text": "In a second study published in the same journal, UK researchers say they found one important protein that keeps stem cells in a quiescent and non-dividing stage.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "He never omitted the ceremony afterwards, and the gravity and quiescence with which I underwent it, seemed to invest it for him with a certain charm.",
         "kind": "literature",
         "source": "Jane Eyre",
@@ -4817,13 +4722,6 @@
         "source": "Wuthering Heights",
         "author": "Emily Brontë",
         "year": 1847
-      },
-      {
-        "text": "But now there had come with the quiescence of fatigue a sort of thankful wonder that he had spoken—a contemplation of his life as a journey which had come at last to this bourne.",
-        "kind": "literature",
-        "source": "Daniel Deronda",
-        "author": "George Eliot",
-        "year": 1876
       }
     ]
   },
@@ -4852,24 +4750,22 @@
     "etymology": "From Late Latin rancor \"rankness, rancid smell,\" from rancere \"to stink\" (compare \"rancid\").",
     "examples": [
       {
-        "text": "He recognises the laws of the state and he can break them without sense of sin, but if he is punished he accepts the punishment without rancour.",
-        "kind": "literature",
-        "source": "Of Human Bondage",
-        "author": "W. Somerset Maugham",
-        "year": 1915
-      },
-      {
-        "text": "We have to go forward to the era of working together as a community, as a team, as one America, with all of us reaching across these lines that divide us—the division, the discrimination, the rancor—we have to reach across it to find common ground.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Bill Clinton",
-        "year": 1996
+        "text": "It began with a flood of publicity which helped UKIP into third place in last June's European elections but became dominated by rancour as he tried to take over the party leadership.",
+        "kind": "news",
+        "source": "BBC News, “Kilroy-Silk quits 'shameful' UKIP”"
       },
       {
         "text": "The U.S. Expects more harmonious talks than usual during French Prime Minister Jacques Chirac's first official visit this week as frequently rancorous disputes between the two countries begin to fade.",
         "kind": "news",
         "source": "Reuters, “U.S. Sees More Harmony In Talks With France”",
         "year": 1987
+      },
+      {
+        "text": "He recognises the laws of the state and he can break them without sense of sin, but if he is punished he accepts the punishment without rancour.",
+        "kind": "literature",
+        "source": "Of Human Bondage",
+        "author": "W. Somerset Maugham",
+        "year": 1915
       }
     ]
   },
@@ -4992,6 +4888,11 @@
     "etymology": "From Latin reticere \"to keep silent,\" from re- (intensive) + tacere \"to be silent\" (compare \"tacit\").",
     "examples": [
       {
+        "text": "\"Although his films vary in style, they all bear his unmistakable stamp: they are forceful and charged cinematographically, as well as reticent, stylised and musical,\" organisers said in a statement.",
+        "kind": "news",
+        "source": "BBC News, “Berlin honours S Korean director”"
+      },
+      {
         "text": "Mr Inspector replied, with due generality and reticence, that it was always more likely that a man had done a bad thing than that he hadn't.",
         "kind": "literature",
         "source": "Our Mutual Friend",
@@ -5004,13 +4905,6 @@
         "source": "Middlemarch",
         "author": "George Eliot",
         "year": 1871
-      },
-      {
-        "text": "They had got into conversation, and gradually Leonard flung reticence aside, told some of his domestic troubles, and hinted at the rest.",
-        "kind": "literature",
-        "source": "Howards End",
-        "author": "E. M. Forster",
-        "year": 1910
       }
     ]
   },
@@ -5084,24 +4978,22 @@
     "etymology": "From Latin sanguineus \"of blood,\" from sanguis \"blood.\" In medieval humoral theory, an excess of blood made a person cheerful and confident.",
     "examples": [
       {
-        "text": "Meanwhile, I must say, I could not agree with my guardian on the subject of the will, and I had some sanguine hopes of Jarndyce and Jarndyce.",
-        "kind": "literature",
-        "source": "Bleak House",
-        "author": "Charles Dickens",
-        "year": 1853
-      },
-      {
-        "text": "General Tilney was not less sanguine, having already waited on her excellent friends in Pulteney Street, and obtained their sanction of his wishes.",
-        "kind": "literature",
-        "source": "Northanger Abbey",
-        "author": "Jane Austen",
-        "year": 1817
+        "text": "But in the face of the strengthening yen making exports less competitive and indications of weakening economic conditions ahead, observers were less sanguine.",
+        "kind": "news",
+        "source": "BBC News, “Japan narrowly escapes recession”"
       },
       {
         "text": "But a Bank of Japan official took a much more sanguine view, telling Reuters that \"the exchange market is apparently reacting too much, and anyone who sold the dollar on the Baker comment will regret it later on.\"",
         "kind": "news",
         "source": "Reuters, “Transatlantic Row Imperils Louvre Accord-Dealers”",
         "year": 1987
+      },
+      {
+        "text": "Meanwhile, I must say, I could not agree with my guardian on the subject of the will, and I had some sanguine hopes of Jarndyce and Jarndyce.",
+        "kind": "literature",
+        "source": "Bleak House",
+        "author": "Charles Dickens",
+        "year": 1853
       }
     ]
   },
@@ -5225,24 +5117,22 @@
     "etymology": "From Greek sporadikos \"scattered,\" from speirein \"to sow\" (also in \"spore\").",
     "examples": [
       {
+        "text": "There was only sporadic activity for spot material, which was mainly requirement buying, they said, adding that pre-registered coffees were no longer available.",
+        "kind": "news",
+        "source": "Reuters, “Ico Quota Talks Failure Paralyse Hamburg Market”",
+        "year": 1987
+      },
+      {
+        "text": "It would have been warm, with sporadic volcanic explosions, he says.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "It has an active and smoke-misted billiard room, it is represented by baseball and football teams, and in the pool and the gymnasium a tenth of the members sporadically try to reduce.",
         "kind": "literature",
         "source": "Babbitt",
         "author": "Sinclair Lewis",
         "year": 1922
-      },
-      {
-        "text": "The threat we face is not sporadic or dated: It is continuous.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Dwight D. Eisenhower",
-        "year": 1959
-      },
-      {
-        "text": "There was only sporadic activity for spot material, which was mainly requirement buying, they said, adding that pre-registered coffees were no longer available.",
-        "kind": "news",
-        "source": "Reuters, “Ico Quota Talks Failure Paralyse Hamburg Market”",
-        "year": 1987
       }
     ]
   },
@@ -5271,6 +5161,11 @@
     "etymology": "From Greek Stōikos, from Stoa Poikilē, the \"Painted Porch\" in Athens where Zeno of Citium taught his philosophy around 300 BC.",
     "examples": [
       {
+        "text": "The suppression of grief was also helped by a decline in religious ritual and by a period of major wars in which soldiers, and by implication all of us, were expected to bear death with stoicism, says Jalland.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Every truck that made its way from the factories to the freight-stations was guarded by a policeman, trying to look stoical beside the scab driver.",
         "kind": "literature",
         "source": "Babbitt",
@@ -5283,13 +5178,6 @@
         "source": "Barchester Towers",
         "author": "Anthony Trollope",
         "year": 1857
-      },
-      {
-        "text": "The men, pitching forward insanely, had burst into cheerings, moblike and barbaric, but tuned in strange keys that can arouse the dullard and the stoic.",
-        "kind": "literature",
-        "source": "The Red Badge of Courage",
-        "author": "Stephen Crane",
-        "year": 1895
       }
     ]
   },
@@ -5455,6 +5343,11 @@
     "etymology": "From Latin tenax \"holding fast,\" from tenere \"to hold.\"",
     "examples": [
       {
+        "text": "The researchers did, however, confirm just how tenacious the bacteria are.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Still, when Hans, rather late in the day, got able to use his own eyes, Deronda had tenacity enough to try hard and recover his lost ground.",
         "kind": "literature",
         "source": "Daniel Deronda",
@@ -5467,13 +5360,6 @@
         "source": "The Count of Monte Cristo",
         "author": "Alexandre Dumas (tr. anonymous (1846))",
         "year": 1844
-      },
-      {
-        "text": "He had in the highest degree a practical tenacity which Pierre lacked, and without fuss or strain on his part this set things going.",
-        "kind": "literature",
-        "source": "War and Peace",
-        "author": "Leo Tolstoy (tr. Louise and Aylmer Maude)",
-        "year": 1869
       }
     ]
   },
@@ -5642,25 +5528,21 @@
     "etymology": "From Latin ubique \"everywhere,\" from ubi \"where.\"",
     "examples": [
       {
+        "text": "Cheap radio chips that are replacing the ubiquitous barcode are a threat to privacy and susceptible to computer viruses, scientists say.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
+        "text": "The first version of the service is part of Google's expanding efforts to be a ubiquitous search engine for people to find what they want on the web and beyond.",
+        "kind": "news",
+        "source": "BBC News, “Google launches TV search service”"
+      },
+      {
         "text": "Sallie Gardiner was absorbed in keeping her white pique dress clean and chattering with the ubiquitous Fred, who kept Beth in constant terror by his pranks.",
         "kind": "literature",
         "source": "Little Women",
         "author": "Louisa May Alcott",
         "year": 1868
-      },
-      {
-        "text": "It was an inconsistent and ubiquitous fiend too, for, while it was making the whole night behind him dreadful, he darted out into the roadway to avoid dark alleys, fearful of its coming hopping out of them like a dropsical boy's kite without tail and wings.",
-        "kind": "literature",
-        "source": "A Tale of Two Cities",
-        "author": "Charles Dickens",
-        "year": 1859
-      },
-      {
-        "text": "One of the wild suggestions referred to, as at last coming to be linked with the White Whale in the minds of the superstitiously inclined, was the unearthly conceit that Moby Dick was ubiquitous; that he had actually been encountered in opposite latitudes at one and the same instant of time.",
-        "kind": "literature",
-        "source": "Moby-Dick",
-        "author": "Herman Melville",
-        "year": 1851
       }
     ]
   },
@@ -5876,6 +5758,11 @@
     "etymology": "From Medieval Latin veracitas, from Latin verax \"truthful,\" from verus \"true.\"",
     "examples": [
       {
+        "text": "\"We still want to believe the veracity of the stem cell lines, which we hope will be verified by a world-renowned lab, not some incompetent committee from Seoul National University,\" Hwang said.",
+        "kind": "news",
+        "source": "ABC Science (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "Benedetto maintained the truth of what he had said, and accompanied it with details that did more honor to his imagination than to his veracity.",
         "kind": "literature",
         "source": "The Count of Monte Cristo",
@@ -5888,13 +5775,6 @@
         "source": "Adam Bede",
         "author": "George Eliot",
         "year": 1859
-      },
-      {
-        "text": "It was not quite pointedly sceptical, but it seemed somehow a plea for the purest veracity, and it thereby affected our friend as the very voice of Milrose.",
-        "kind": "literature",
-        "source": "The Ambassadors",
-        "author": "Henry James",
-        "year": 1903
       }
     ]
   },
@@ -5971,25 +5851,21 @@
     "etymology": "From Latin vindicare \"to lay claim to, avenge, set free,\" from vindex \"claimant, avenger.\"",
     "examples": [
       {
+        "text": "The Federal Government says it has been vindicated by the ruling.",
+        "kind": "news",
+        "source": "ABC Rural (Australian Broadcasting Corporation)"
+      },
+      {
+        "text": "In a statement, Mr Rangel said the land reform is not against the constitution, which permits private property, while stressing the efforts are to \"vindicate social and economically\" years of inequality in the country.",
+        "kind": "news",
+        "source": "BBC News, “Venezuela identifies 'idle' farms”"
+      },
+      {
         "text": "Once again, Lily had withdrawn from an ambiguous situation in time to save her self-respect, but too late for public vindication.",
         "kind": "literature",
         "source": "The House of Mirth",
         "author": "Edith Wharton",
         "year": 1905
-      },
-      {
-        "text": "The very fact of Mr. Slope's making an offer to her would be a triumph to the archdeacon and, in a great measure, a vindication of Mr. Arabin's conduct.",
-        "kind": "literature",
-        "source": "Barchester Towers",
-        "author": "Anthony Trollope",
-        "year": 1857
-      },
-      {
-        "text": "The State of the Union, at the opening of the 85th Congress, continues to vindicate the wisdom of the principles on which this Republic is founded.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Dwight D. Eisenhower",
-        "year": 1957
       }
     ]
   },
@@ -6018,24 +5894,22 @@
     "etymology": "From Latin volatilis \"flying,\" from volare \"to fly.\" First used of birds, then of substances that \"fly off\" as vapor.",
     "examples": [
       {
+        "text": "The measure, confirmed by a brokerage firm here, has effectively cut off all foreign participation in Venezuela's volatile currency market.",
+        "kind": "news",
+        "source": "Reuters, “Venezuela Tightens Foreign Exchange Restrictions”",
+        "year": 1987
+      },
+      {
+        "text": "Over the longer term, stock market funds have outperformed other types of investment, although in the shorter term they can be volatile.",
+        "kind": "news",
+        "source": "BBC News, “Giving financial gifts to children”"
+      },
+      {
         "text": "It was also distilled to a volatile salts for fainting ladies, the same way that the horns of the male deer are manufactured into hartshorn.",
         "kind": "literature",
         "source": "Moby-Dick",
         "author": "Herman Melville",
         "year": 1851
-      },
-      {
-        "text": "Towering over this volatile, changing world, like a thundercloud on a summer day, looms the awesome power of nuclear weapons.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Jimmy Carter",
-        "year": 1979
-      },
-      {
-        "text": "The measure, confirmed by a brokerage firm here, has effectively cut off all foreign participation in Venezuela's volatile currency market.",
-        "kind": "news",
-        "source": "Reuters, “Venezuela Tightens Foreign Exchange Restrictions”",
-        "year": 1987
       }
     ]
   },
@@ -6113,25 +5987,21 @@
     "etymology": "From Greek zēlos \"ardor, jealousy.\" \"Jealous\" comes from the same word by way of French.",
     "examples": [
       {
+        "text": "His friend, Saxon Spence, leader of Devon county Labour group, lays the blame for any lack of campaigning zeal on one issue above all others.",
+        "kind": "news",
+        "source": "BBC News, “Labour's core support takes stock”"
+      },
+      {
+        "text": "The head of the Ranger uranium mine in the Northern Territory says new entrants to the uranium industry should prepare themselves for zealous government regulation.",
+        "kind": "news",
+        "source": "ABC Rural (Australian Broadcasting Corporation)"
+      },
+      {
         "text": "This icon of the Venerable Sergius, the servant of God and zealous champion of old of our country's weal, is offered to Your Imperial Majesty.",
         "kind": "literature",
         "source": "War and Peace",
         "author": "Leo Tolstoy (tr. Louise and Aylmer Maude)",
         "year": 1869
-      },
-      {
-        "text": "At the present day, unfortunately, public affairs will allow of no martyrs, and therefore it is that there is such a deficiency of zeal.",
-        "kind": "literature",
-        "source": "Barchester Towers",
-        "author": "Anthony Trollope",
-        "year": 1857
-      },
-      {
-        "text": "But pride of service and mistaken zeal in promoting particular doctrine has more than once occasioned the kind of difficulty of which I have just spoken.",
-        "kind": "speech",
-        "source": "State of the Union Address",
-        "author": "Dwight D. Eisenhower",
-        "year": 1958
       }
     ]
   }

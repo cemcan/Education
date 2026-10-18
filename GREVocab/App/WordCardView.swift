@@ -49,7 +49,7 @@ struct WordCardView: View {
         VStack(alignment: .leading, spacing: 0) {
             HStack(alignment: .center) {
                 if !word.partOfSpeech.isEmpty {
-                    EyebrowText(text: "\(word.partOfSpeech)  ·  GRE", color: theme.accent)
+                    EyebrowText(text: word.partOfSpeech, color: theme.accent)
                 }
                 Spacer()
                 Button {
@@ -71,7 +71,7 @@ struct WordCardView: View {
 
             HStack(spacing: 14) {
                 Button {
-                    speech.speak(word.word)
+                    speech.speak(word: word.word, ipa: word.ipa)
                 } label: {
                     Image(systemName: speech.speakingText == word.word ? "speaker.wave.3.fill" : "speaker.wave.2.fill")
                         .font(.body.weight(.semibold))

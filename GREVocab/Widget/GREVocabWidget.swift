@@ -16,8 +16,8 @@ struct VocabWidget: Widget {
         StaticConfiguration(kind: kind, provider: VocabProvider()) { entry in
             VocabWidgetView(entry: entry)
         }
-        .configurationDisplayName("GRE Word")
-        .description("A new GRE vocabulary word on your Lock Screen or Home Screen.")
+        .configurationDisplayName("Vocabulary Word")
+        .description("A new word, its meaning and pronunciation, on your Lock Screen or Home Screen.")
         .supportedFamilies([
             .accessoryInline, .accessoryRectangular, .accessoryCircular,
             .systemSmall, .systemMedium, .systemLarge,
@@ -214,7 +214,7 @@ struct VocabWidgetView: View {
 
     private func topBar(compact: Bool) -> some View {
         HStack(alignment: .center) {
-            EyebrowText(text: compact ? abbreviatedPOS : "\(word.partOfSpeech)  ·  GRE",
+            EyebrowText(text: compact ? abbreviatedPOS : word.partOfSpeech,
                         color: accent, size: compact ? 9 : 10)
                 .lineLimit(1)
             Spacer(minLength: 4)

@@ -5,7 +5,7 @@ import WidgetKit
 /// widget's interactive button can run it in place (iOS 17+).
 struct NextWordIntent: AppIntent {
     static var title: LocalizedStringResource = "Next Vocabulary Word"
-    static var description = IntentDescription("Skips ahead to the next GRE vocabulary word.")
+    static var description = IntentDescription("Skips ahead to the next vocabulary word.")
 
     func perform() async throws -> some IntentResult {
         AppSettings.skipOffset += 1

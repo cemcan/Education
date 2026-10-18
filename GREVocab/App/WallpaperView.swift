@@ -14,7 +14,7 @@ struct WallpaperView: View {
             ThemedBackground(theme: theme, monogram: word.word)
 
             VStack(alignment: .leading, spacing: 0) {
-                EyebrowText(text: "\(word.partOfSpeech)  ·  GRE", color: theme.accent, size: 12 * unit)
+                EyebrowText(text: word.partOfSpeech, color: theme.accent, size: 12 * unit)
 
                 Text(word.word)
                     .font(.system(size: 56 * unit, weight: .semibold, design: .serif))

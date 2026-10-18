@@ -89,7 +89,7 @@ private struct GrainRNG {
     }
 }
 
-/// Small-caps style label used above headwords: "ADJECTIVE · GRE".
+/// Small-caps style label used above headwords, e.g. "ADJECTIVE".
 struct EyebrowText: View {
     let text: String
     let color: Color

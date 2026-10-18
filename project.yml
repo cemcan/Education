@@ -1,7 +1,7 @@
 # XcodeGen spec. On a Mac:  brew install xcodegen && xcodegen generate
 name: GREVocab
 options:
-  bundleIdPrefix: com.example
+  bundleIdPrefix: com.cemcan
   deploymentTarget:
     iOS: "17.0"
   createIntermediateGroups: true
@@ -31,17 +31,17 @@ targets:
           - UIInterfaceOrientationPortrait
         NSPhotoLibraryAddUsageDescription: GRE Vocab saves vocabulary wallpapers to your photo library so you can set them as your Lock Screen.
         CFBundleURLTypes:
-          - CFBundleURLName: com.example.grevocab
+          - CFBundleURLName: com.cemcan.grevocab
             CFBundleURLSchemes:
               - grevocab
     entitlements:
       path: GREVocab/App/GREVocab.entitlements
       properties:
         com.apple.security.application-groups:
-          - group.com.example.grevocab
+          - group.com.cemcan.grevocab
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.example.grevocab
+        PRODUCT_BUNDLE_IDENTIFIER: com.cemcan.grevocab
         TARGETED_DEVICE_FAMILY: "1"
     dependencies:
       - target: GREVocabWidget
@@ -63,8 +63,8 @@ targets:
       path: GREVocab/Widget/GREVocabWidget.entitlements
       properties:
         com.apple.security.application-groups:
-          - group.com.example.grevocab
+          - group.com.cemcan.grevocab
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.example.grevocab.widget
+        PRODUCT_BUNDLE_IDENTIFIER: com.cemcan.grevocab.widget
         TARGETED_DEVICE_FAMILY: "1"

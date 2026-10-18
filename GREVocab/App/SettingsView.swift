@@ -1,3 +1,4 @@
+import AVFoundation
 import SwiftUI
 import WidgetKit
 
@@ -6,7 +7,9 @@ struct SettingsView: View {
 
     @AppStorage(SettingsKey.interval, store: AppSettings.defaults) private var interval: RotationInterval = .daily
     @AppStorage(SettingsKey.accent, store: AppSettings.defaults) private var accent: VoiceAccent = .american
-    @AppStorage(SettingsKey.speechRate, store: AppSettings.defaults) private var speechRate: Double = 0.9
+    @AppStorage(SettingsKey.speechRate, store: AppSettings.defaults) private var speechRate: Double = 1.0
+    @AppStorage(SettingsKey.voiceIdentifier, store: AppSettings.defaults) private var voiceIdentifier = ""
+    @AppStorage(SettingsKey.useIPA, store: AppSettings.defaults) private var useIPA = true
     @AppStorage(SettingsKey.theme, store: AppSettings.defaults) private var theme: Theme = .midnight
 
     var body: some View {
@@ -32,13 +35,19 @@ struct SettingsView: View {
                     Text("Used by the word card, the widgets and the wallpaper.")
                 }
 
-                Section("Pronunciation") {
+                Section {
                     Picker("Accent", selection: $accent) {
                         ForEach(VoiceAccent.allCases) { Text($0.title).tag($0) }
                     }
+                    Picker("Voice", selection: $voiceIdentifier) {
+                        Text("Best available").tag("")
+                        ForEach(PronunciationService.availableVoices(for: accent), id: \.identifier) { voice in
+                            Text("\(voice.name) · \(voice.quality.label)").tag(voice.identifier)
+                        }
+                    }
                     VStack(alignment: .leading) {
                         Text("Speed")
-                        Slider(value: $speechRate, in: 0.5...1.5, step: 0.05) {
+                        Slider(value: $speechRate, in: 0.6...1.4, step: 0.05) {
                             Text("Speed")
                         } minimumValueLabel: {
                             Image(systemName: "tortoise")
@@ -46,12 +55,22 @@ struct SettingsView: View {
                             Image(systemName: "hare")
                         }
                     }
+                    Toggle("Dictionary pronunciation (IPA)", isOn: $useIPA)
                     Button {
-                        PronunciationService.shared.speak(state.currentWord?.word ?? "laconic")
+                        if let word = state.currentWord {
+                            PronunciationService.shared.speak(word: word.word, ipa: word.ipa)
+                        }
                     } label: {
                         Label("Test voice", systemImage: "speaker.wave.2")
                     }
+                } header: {
+                    Text("Pronunciation")
+                } footer: {
+                    Text(PronunciationService.hasOnlyBasicVoices
+                         ? "For a natural, human-sounding voice, download one free: iPhone Settings › Accessibility › Spoken Content › Voices › English, then pick a voice marked Premium or Enhanced (e.g. Ava, Zoe or Evan). It appears here once downloaded."
+                         : "Premium and Enhanced voices sound the most natural. Download more in iPhone Settings › Accessibility › Spoken Content › Voices › English.")
                 }
+                .onChange(of: accent) { _, _ in voiceIdentifier = "" }
 
                 Section {
                     LabeledContent("Words", value: "\(state.repository.words.count)")
@@ -61,8 +80,8 @@ struct SettingsView: View {
                 }
 
                 Section {
-                    Text("Example sentences are quoted verbatim from real texts: public-domain literature (via Project Gutenberg), the Reuters-21578 newswire collection (1987), and U.S. presidential inaugural and State of the Union addresses. Each example shows its source.")
-                    Text("Definitions, synonyms and word histories are written for GRE study. Pronunciation uses Apple’s on-device voices, so it works offline.")
+                    Text("Example sentences are quoted verbatim from real texts: news from BBC News (2004–05), Reuters (1987) and the Australian Broadcasting Corporation; public-domain literature (via Project Gutenberg); and U.S. presidential inaugural and State of the Union addresses. Each example shows its source.")
+                    Text("Definitions, synonyms and word histories are written for GRE study. Pronunciation uses Apple’s on-device voices and follows each word’s IPA transcription, so it works offline.")
                 } header: {
                     Text("About & credits")
                 }

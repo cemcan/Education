@@ -5,7 +5,7 @@ import UniformTypeIdentifiers
 struct GetWordWallpaperIntent: AppIntent {
     static var title: LocalizedStringResource = "Get Vocabulary Wallpaper"
     static var description = IntentDescription(
-        "Creates a Lock Screen wallpaper image for the current GRE word. Pass it to “Set Wallpaper Photo”."
+        "Creates a Lock Screen wallpaper image for the current word. Pass it to “Set Wallpaper Photo”."
     )
 
     @Parameter(title: "Theme")

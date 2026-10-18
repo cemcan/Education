@@ -1,19 +1,23 @@
 #!/usr/bin/env python3
 """Builds GREVocab/Shared/Resources/words.json.
 
-Word entries (definition, synonyms, etymology, ...) are authored in tools/words.yaml.
+Word entries (definition, synonyms, etymology, ...) are authored in tools/words/*.yaml.
 Example sentences are never written by hand: they are pulled verbatim from the
-corpus downloaded by tools/fetch_corpus.sh (public-domain books, the Reuters 1987
-newswire, and US presidential addresses), so every example is a real quotation
-with a real source.
+corpus downloaded by tools/fetch_corpus.sh (public-domain books, BBC News
+2004-05, the Reuters 1987 newswire, ABC science and rural news, and US
+presidential addresses), so every example is a real quotation with a real source.
 
 Usage:
     tools/fetch_corpus.sh
     python3 tools/build_words.py            # writes words.json
     python3 tools/build_words.py --report   # also prints every candidate pick for review
+    python3 tools/build_words.py --survey list.txt   # corpus hits for bare words (choosing new words)
 """
 import argparse
+import csv
+import hashlib
 import json
+import pickle
 import re
 import sys
 from collections import defaultdict
@@ -24,6 +28,7 @@ import yaml
 TOOLS = Path(__file__).resolve().parent
 CORPUS = TOOLS / ".corpus"
 OUTPUT = TOOLS.parent / "GREVocab" / "Shared" / "Resources" / "words.json"
+CACHE = CORPUS / "candidates.pickle"
 
 # NLTK's own Gutenberg selection: prose only (verse lines run together once
 # line breaks are removed), skipping books already covered by sources.yaml.
@@ -179,6 +184,33 @@ def load_corpus(sources):
                     yield s, meta
 
 
+    # BBC News articles from 2004-05 (Greene & Cunningham's BBC dataset): headline, blank line, body.
+    bbc = CORPUS / "bbc.csv"
+    if bbc.exists():
+        with bbc.open(encoding="utf-8", errors="replace", newline="") as f:
+            for row in csv.DictReader(f):
+                headline, _, body = row["news"].strip().partition("\n")
+                meta = {"kind": "news", "source": f"BBC News, “{headline.strip()}”", "author": None, "year": None}
+                for p in paragraphs(body):
+                    for s in sentences(p):
+                        yield s, meta
+
+    # Australian Broadcasting Corporation science and rural news (NLTK "abc").
+    for name, desk in (("science.txt", "ABC Science"), ("rural.txt", "ABC Rural")):
+        path = CORPUS / "abc" / name
+        if path.exists():
+            meta = {"kind": "news", "source": f"{desk} (Australian Broadcasting Corporation)", "author": None, "year": None}
+            for line in path.read_text(encoding="latin-1").splitlines():
+                for s in sentences(line.strip()):
+                    yield s, meta
+
+
+def outlet(meta):
+    """Groups news sources by publisher, e.g. every Reuters story counts as one outlet."""
+    source = meta["source"]
+    return "ABC" if source.startswith("ABC ") else source.split(",")[0]
+
+
 # --- picking ------------------------------------------------------------------
 
 def word_forms(entry):
@@ -200,8 +232,8 @@ def score(s, meta):
 
 
 def pick(candidates, entry, taken=frozenset()):
-    """Three examples from distinct sources: one news and one speech quote when they
-    exist, the rest literature, never the same author twice if it can be avoided."""
+    """Three examples from distinct sources: a news quote, a literary one, and a speech
+    (or a second outlet) when they exist; never the same author twice if avoidable."""
     exclude = [x.lower() for x in entry.get("exclude", [])]
     pool = sorted(((score(s, m), s, m) for s, m in candidates
                    if s not in taken and not any(x in s.lower() for x in exclude)), key=lambda t: -t[0])
@@ -217,48 +249,111 @@ def pick(candidates, entry, taken=frozenset()):
                 continue
             if any(c["text"] == s for c in chosen):
                 continue
+            if kind == "news" and any(c["kind"] == "news" and outlet(c) == outlet(m) for c in chosen):
+                continue
             chosen.append({"text": s, **m})
             return True
         return False
 
     take("news")
-    take("speech")
+    take("literature")
+    take("speech") or take("news")
     while len(chosen) < 3 and take("literature"):
         pass
     while len(chosen) < 3 and take():
         pass
     while len(chosen) < 3 and take(distinct_author=False):
         pass
-    order = {"literature": 0, "speech": 1, "news": 2}
+    order = {"news": 0, "literature": 1, "speech": 2}
     chosen.sort(key=lambda e: order[e["kind"]])
     return chosen[:3]
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--report", action="store_true")
-    args = ap.parse_args()
+def auto_forms(word):
+    """Rough inflections for surveying bare words before they have authored `forms`."""
+    forms = {word, word + "s", word + "es", word + "ed", word + "d", word + "ing", word + "ly"}
+    if word.endswith("e"):
+        forms |= {word[:-1] + "ing", word[:-1] + "ity", word[:-1] + "ation"}
+    if word.endswith("y"):
+        forms |= {word[:-1] + "ies", word[:-1] + "ied", word[:-1] + "ily"}
+    if word.endswith("ous"):
+        forms |= {word + "ness", word[:-3] + "ity"}
+    if word.endswith("ent") or word.endswith("ant"):
+        forms |= {word[:-1] + "ce", word[:-1] + "cy"}
+    return forms
 
-    sources = yaml.safe_load((TOOLS / "sources.yaml").read_text())
-    entries = yaml.safe_load((TOOLS / "words.yaml").read_text())["words"]
 
-    form_index = {}
-    for e in entries:
-        for f in word_forms(e):
-            form_index[f] = e["word"]
-    pattern = re.compile(r"\b(" + "|".join(sorted(map(re.escape, form_index), key=len, reverse=True)) + r")\b", re.I)
+def collect(sources, form_index, lowercase_only=frozenset()):
+    """Maps each headword to its (sentence, source) candidates, cached on disk.
+    Words in `lowercase_only` (august, pacific, ...) ignore capitalized matches."""
+    key = hashlib.sha256(json.dumps([sorted(form_index.items()), sorted(lowercase_only),
+                                     (TOOLS / "sources.yaml").read_text(),
+                                     Path(__file__).read_text()]).encode()).hexdigest()
+    if CACHE.exists():
+        cached = pickle.loads(CACHE.read_bytes())
+        if cached.get("key") == key:
+            return cached["candidates"], cached["fallback"]
 
     # Longer or shorter sentences are kept aside for rare words that need them.
     candidates, fallback = defaultdict(list), defaultdict(list)
     for raw, meta in load_corpus(sources):
-        if not pattern.search(raw):
+        hits = set()
+        for token in re.findall(r"[A-Za-z]+", raw):
+            word = form_index.get(token.lower())
+            if word and not (word in lowercase_only and not token.islower()):
+                hits.add(word)
+        if not hits:
             continue
         s = clean(raw)
         bucket = candidates if looks_usable(s) else fallback if looks_usable(s, relaxed=True) else None
         if bucket is None:
             continue
-        for hit in {h.lower() for h in pattern.findall(s)}:
-            bucket[form_index[hit]].append((s, meta))
+        for word in hits:
+            bucket[word].append((s, meta))
+    CACHE.write_bytes(pickle.dumps({"key": key, "candidates": dict(candidates), "fallback": dict(fallback)}))
+    return defaultdict(list, candidates), defaultdict(list, fallback)
+
+
+def load_entries():
+    entries = []
+    for path in sorted((TOOLS / "words").glob("*.yaml")):
+        entries += yaml.safe_load(path.read_text())["words"]
+    seen = set()
+    for e in entries:
+        if e["word"] in seen:
+            raise SystemExit(f"duplicate word: {e['word']}")
+        seen.add(e["word"])
+    return sorted(entries, key=lambda e: e["word"])
+
+
+def survey(sources, words):
+    form_index = {f: w for w in words for f in auto_forms(w)}
+    candidates, fallback = collect(sources, form_index)
+    for w in words:
+        kinds = defaultdict(int)
+        for _, m in candidates[w]:
+            kinds[m["kind"]] += 1
+        print(f"{w}\t{len(candidates[w])}\t{len(fallback[w])}\t{kinds['news']}\t{kinds['literature']}")
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--report", action="store_true")
+    ap.add_argument("--survey", metavar="WORDLIST")
+    args = ap.parse_args()
+
+    sources = yaml.safe_load((TOOLS / "sources.yaml").read_text())
+    if args.survey:
+        words = [w.strip().lower() for w in Path(args.survey).read_text().split() if w.strip()]
+        return survey(sources, list(dict.fromkeys(words)))
+
+    entries = load_entries()
+    form_index = {}
+    for e in entries:
+        for f in word_forms(e):
+            form_index[f] = e["word"]
+    lowercase_only = frozenset(e["word"] for e in entries if e.get("lowercase_only"))
+    candidates, fallback = collect(sources, form_index, lowercase_only)
 
     out, thin, taken = [], [], set()  # `taken`: a sentence illustrates only one word
     for e in entries:

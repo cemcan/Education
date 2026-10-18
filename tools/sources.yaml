@@ -74,4 +74,6 @@ books:
 #   reuters     -> Reuters-21578 newswire stories, 1987
 #   inaugural   -> US presidential inaugural addresses, 1789-2009
 #   state_union -> State of the Union addresses, 1945-2006
-nltk: [reuters, inaugural, state_union, gutenberg]
+#   abc         -> Australian Broadcasting Corporation science and rural news
+nltk: [reuters, inaugural, state_union, gutenberg, abc]
+# Also fetched: BBC News 2004-05 articles (bbc.csv), see fetch_corpus.sh.
